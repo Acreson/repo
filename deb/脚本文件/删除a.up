@@ -1,0 +1,3 @@
+bash -c 
+rm -r -f /Users/tashigefengzi/Desktop/github/教程/deb/a
+exit

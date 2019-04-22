@@ -1,2 +1,2 @@
-bash -c "cd /Users/tashigefengzi/Desktop/github/教程/deb; ./打包.sh"
+bash -c "cd /Users/tashigefengzi/Desktop/github/repo/deb; ./打包.sh"
 exit

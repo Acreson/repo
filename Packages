@@ -1,13 +1,13 @@
 Package: com.hiphop.cydown
-Version: 6.9.8.debug
+Version: 6.9.8
 Architecture: iphoneos-arm
 Maintainer: JulioSection: TweaksDescription: Cydia Download Manager & Extra Features!
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.hiphop.cydown_6.9.8.debug_iphoneos-arm.deb
-Size: 1082908
-MD5sum: 5ec17860af8bea8e5a0ad88aebb9f689
-SHA1: 80abc4cca1a35eca969bd68532760077d3d9da98
-SHA256: 3c056b63dd47b7e1027f114558890deedee7411359617f0b918503f042d26165
+Filename: ./debs/com.hiphop.cydown_6.9.8_iphoneos-arm.deb
+Size: 1084740
+MD5sum: 459bc8e8ad1687df9cdcd73a84cb6bcf
+SHA1: 14e83e397d9cf8a167784883a1655dc0aae968c7
+SHA256: 1a9ab4c2b9da3b68aca161cebed25a30341ce76a7f337729c69c93e3edc6942f
 Homepage: http://twitter.com/cydiahiphop
 Author: julioverne <julioverne@me.com>
 Depiction: https://crazyc.top/ms/description.html?id=cydown

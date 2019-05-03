@@ -1,38 +1,17 @@
-Package: beta
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 嘻哈
-Installed-Size: 15
-Filename: ./debs/beta_1.0_iphoneos-arm.deb
-Size: 1000
-MD5sum: bd9d06ff29b26663eebae77dd386065b
-SHA1: 19023dd93250405136c10e1ec3c42d1122ed03da
-SHA256: 0c0ce3d0aae8036ec2c5324a0a87fd6bbb41f43da1e910cbffb6dcdc3feb0d6f
-Section: System
-Homepage: https://crazyc.top
-Description: 测试件
-Author: 嘻哈
-Depiction: https://crazyc.top
-Name: 测试勿装
-Sileodepiction: https://crazyhiphop.github.io/ms/msxq/sileo-installer.json
-
-
-
-
 Package: com.hiphop.cydown
 Version: 6.9.8.debug
 Architecture: iphoneos-arm
-Maintainer: 嘻哈
-Installed-Size: 45
+Maintainer: JulioSection: TweaksDescription: Cydia Download Manager & Extra Features!
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.hiphop.cydown_6.9.8.debug_iphoneos-arm.deb
-Size: 1150
-MD5sum: bd9d06ff29b26663eebae77dd386065b
-SHA1: 19023dd93250405136c10e1ec3c42d1122ed03da
-SHA256: 0c0ce3d0aae8036ec2c5324a0a87fd6bbb41f43da1e910cbffb6dcdc3feb0d6f
-Section: Tweaks
-Homepage: https://crazyc.top
-Description: 测试件
-Author: Julio
+Size: 1082908
+MD5sum: 5ec17860af8bea8e5a0ad88aebb9f689
+SHA1: 80abc4cca1a35eca969bd68532760077d3d9da98
+SHA256: 3c056b63dd47b7e1027f114558890deedee7411359617f0b918503f042d26165
+Homepage: http://twitter.com/cydiahiphop
+Author: julioverne <julioverne@me.com>
 Depiction: https://crazyc.top/ms/description.html?id=cydown
-Name: Cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
 Sileodepiction: https://crazyc.top/ms/msxq/cydown.json
+

@@ -16,3 +16,23 @@ Depiction: https://crazyc.top
 Name: 测试勿装
 Sileodepiction: https://crazyhiphop.github.io/ms/msxq/sileo-installer.json
 
+
+
+
+Package: com.hiphop.cydown
+Version: 6.9.8.debug
+Architecture: iphoneos-arm
+Maintainer: 嘻哈
+Installed-Size: 45
+Filename: ./debs/com.hiphop.cydown_6.9.8.debug_iphoneos-arm.deb
+Size: 1150
+MD5sum: bd9d06ff29b26663eebae77dd386065b
+SHA1: 19023dd93250405136c10e1ec3c42d1122ed03da
+SHA256: 0c0ce3d0aae8036ec2c5324a0a87fd6bbb41f43da1e910cbffb6dcdc3feb0d6f
+Section: Tweaks
+Homepage: https://crazyc.top
+Description: 测试件
+Author: Julio
+Depiction: https://crazyc.top
+Name: Cydown
+Sileodepiction: https://crazyhiphop.github.io/ms/msxq/cydown.json

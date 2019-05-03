@@ -8,7 +8,7 @@ Size: 1000
 MD5sum: bd9d06ff29b26663eebae77dd386065b
 SHA1: 19023dd93250405136c10e1ec3c42d1122ed03da
 SHA256: 0c0ce3d0aae8036ec2c5324a0a87fd6bbb41f43da1e910cbffb6dcdc3feb0d6f
-Section: Tweaks
+Section: System
 Homepage: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
 Description: 这里是描述插件的简介,此插件只是一个样板文件,供大家学习研究使用,为制作更好的越狱环境,请大家不要不要恶意修改插件文件,修改原创作者,不上传恶意插件,源文件描述详情适配cydia跟sileo,他是个疯子
 Author: 他是个疯子

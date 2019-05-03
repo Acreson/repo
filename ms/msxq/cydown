@@ -1,8 +1,8 @@
 {
 	"name": "Cydown",
-	"desc_short": "852360",
+	"desc_short": "更新支持arm64e/n A7-12X",
 	"desc_version": "暂无历史版本",
-	"compatitle": "852362",
+	"compatitle": "IOS11.0-12.1.2",
 	"changelog": "<strong>历史变跟</strong><br>暂时没有历史版本<br>",
 	"screenshot": "<div style='text-align:center;'><img width=95% src='https://github.com/CrazyHipHop/repo/blob/master/tupian/1.jpg?raw=true'/></a><br></div>",
 	"open": true,

@@ -16,3 +16,62 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: cydia-shared
+Version: 1.1.31a
+Architecture: iphoneos-arm
+Maintainer: PixelOmer
+Installed-Size: 1208
+Depends: cydia-uni
+Conflicts: cydia
+Provides: cydia (= 3.0)
+Filename: ./debs/cydia-shared_1.1.31a_iphoneos-arm.deb
+Size: 104956
+MD5sum: f91c100b898d5b6bdd5611077f37b56f
+SHA1: 3f7a40538fcd3d249faaf993018df34c2cc0b429
+SHA256: ba79139b95b608d0f2bca80446882fafe18678a7dafe393c6887db3001d78ed7
+Section: Packaging
+Description: Shared utilities for Cydia
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Name: Cydia Shared Utilities
+
+Package: cydia-uni
+Version: 1.1.31a
+Architecture: iphoneos-arm
+Maintainer: PixelOmer
+Installed-Size: 8960
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-uni-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), lzma | xz, cydia (<<1.3) | cydia-shared (>=1.1.31)
+Recommends: org.thebigboss.repo.icons
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Filename: ./debs/cydia-uni_1.1.31a_iphoneos-arm.deb
+Size: 1620616
+MD5sum: ff69e668de9ba1d49669146d2079acb6
+SHA1: 3311dad0c02dd85bccbc76f13c3d0803ff2c507c
+SHA256: 5936aada42941c80c95bf29e12ceba37694c5f0b67b3f1c62fdee2e1f9e5c476
+Section: Packaging
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia-uni.app/Icon-60.png
+Name: Cydia Universal
+
+Package: cydia-uni-lproj
+Version: 1.1.31a
+Architecture: iphoneos-arm
+Maintainer: PixelOmer
+Installed-Size: 712
+Depends: cydia-uni
+Filename: ./debs/cydia-uni-lproj_1.1.31a_iphoneos-arm.deb
+Size: 66904
+MD5sum: a9f332d18694efbeacb5b4a78d8d418c
+SHA1: d7cbff2768f7d4b01df0c45bfb2942ebcc0f8bd0
+SHA256: bc4c85f0f7e354b70de17ce512fe65f54ef37fa2706af986b48b2cb5c8745a6c
+Section: Packaging
+Description: languages and translations for Cydia
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Name: Cydia Universal Translations
+

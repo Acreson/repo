@@ -1,17 +1,18 @@
-Package: com.hiphop.cydown
-Version: 6.9.8
+Package: com.julioverne.cydown
+Version: 6.9.7
 Architecture: iphoneos-arm
-Maintainer: JulioSection: TweaksDescription: Cydia Download Manager & Extra Features!
+Maintainer: Julio
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.hiphop.cydown_6.9.8_iphoneos-arm.deb
-Size: 1084740
-MD5sum: 459bc8e8ad1687df9cdcd73a84cb6bcf
-SHA1: 14e83e397d9cf8a167784883a1655dc0aae968c7
-SHA256: 1a9ab4c2b9da3b68aca161cebed25a30341ce76a7f337729c69c93e3edc6942f
-Homepage: http://twitter.com/cydiahiphop
+Filename: ./debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
+Size: 1082916
+MD5sum: 4fdc17ad25b383562222464dcc5c5d49
+SHA1: d5504344f5d4034af4895fa6c27697ef224dc34e
+SHA256: c0ec7b5e5a7018da4c2957fc73b5ffb1f7ef6ce83a59b62f7bc8ff3a9ff397cc
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
-Depiction: https://crazyc.top/ms/description.html?id=cydown
+Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
-Sileodepiction: https://crazyc.top/ms/msxq/cydown.json
 

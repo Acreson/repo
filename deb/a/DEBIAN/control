@@ -1,14 +1,12 @@
-Package: beta
-Version: 1.0
+Package: com.hiphop.cydown
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 6.9.8.debug
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子
-Depends:
-Conflicts:
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/cydiahiphop
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Maintainer: Julio
 Section: Tweaks
-Homepage: https://sileo-cydia.github.io/ms/description.html?id=sileo-installer
-Description: 这里是描述插件的简介,此插件只是一个样板文件,供大家学习研究使用,为制作更好的越狱环境,请大家不要不要恶意修改插件文件,修改原创作者,不上传恶意插件,源文件描述详情适配cydia跟sileo,他是个疯子
-Author: 他是个疯子
-Depiction: https://sileo-cydia.github.io/ms/description.html?id=beta
-Name: 样板测试文件
-Sileodepiction: https://sileo-cydia.github.io/ms/msxq/beta.json
-Installed-Size: 15
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png

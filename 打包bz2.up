@@ -1,2 +1,2 @@
-bash -c "cd /Users/hiphop/Desktop/repo; ./.packages.sh; ./.bz.sh; ./.bz2.sh"
+bash -c "cd /Users/hiphop/Desktop/repo; bzip2 -k filename ./packages"
 exit

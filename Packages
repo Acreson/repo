@@ -1,13 +1,13 @@
 Package: com.julioverne.cydown
-Version: 6.9.7
+Version: 6.9.8
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
-Size: 1082916
-MD5sum: 4fdc17ad25b383562222464dcc5c5d49
-SHA1: d5504344f5d4034af4895fa6c27697ef224dc34e
-SHA256: c0ec7b5e5a7018da4c2957fc73b5ffb1f7ef6ce83a59b62f7bc8ff3a9ff397cc
+Filename: ./debs/com.julioverne.cydown_6.9.8_iphoneos-arm.deb
+Size: 1084936
+MD5sum: 4ad2e7133be1ab6798182ef2149e5733
+SHA1: 1da593ac7d320b9680a6b2e4bb450fe6191cc44c
+SHA256: 29cbf3e753a3ea287316157daa46cf2e1064299a767de9d87f59ecefbf159c14
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
@@ -16,64 +16,67 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
-Package: cydia-shared
-Version: 1.1.31a
+Package: cydia-dark
+Version: 1.9.3~chimera
 Architecture: iphoneos-arm
-Maintainer: PixelOmer
-Installed-Size: 1208
-Depends: cydia-uni
-Conflicts: cydia
-Provides: cydia (= 3.0)
-Filename: ./debs/cydia-shared_1.1.31a_iphoneos-arm.deb
-Size: 104956
-MD5sum: f91c100b898d5b6bdd5611077f37b56f
-SHA1: 3f7a40538fcd3d249faaf993018df34c2cc0b429
-SHA256: ba79139b95b608d0f2bca80446882fafe18678a7dafe393c6887db3001d78ed7
-Section: Packaging
-Description: Shared utilities for Cydia
-Tag: purpose::uikit, role::enduser
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Name: Cydia Shared Utilities
-
-Package: cydia-uni
-Version: 1.1.31a
-Architecture: iphoneos-arm
-Maintainer: PixelOmer
-Installed-Size: 8960
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 13600
 Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
-Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-uni-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), lzma | xz, cydia (<<1.3) | cydia-shared (>=1.1.31)
-Recommends: org.thebigboss.repo.icons
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
+Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
-Filename: ./debs/cydia-uni_1.1.31a_iphoneos-arm.deb
-Size: 1620616
-MD5sum: ff69e668de9ba1d49669146d2079acb6
-SHA1: 3311dad0c02dd85bccbc76f13c3d0803ff2c507c
-SHA256: 5936aada42941c80c95bf29e12ceba37694c5f0b67b3f1c62fdee2e1f9e5c476
+Filename: ./debs/cydia-dark_1.9.3~chimera_iphoneos-arm.deb
+Size: 1593180
+MD5sum: c2a2700d30302d14b0ffbb32c08f5637
+SHA1: 68b00ae28efe3c037a6dda763768e59c73f5620b
+SHA256: 7681f4ad6e412ee91cfa460aa389ee37974166bbc2e127201fb8156770347316
 Section: Packaging
+Priority: optional
 Description: graphical iPhone front-end for APT
 Tag: purpose::uikit, role::enduser
-Author: Jay Freeman (saurik) <saurik@saurik.com>
+Author: Diatrus <me@diatr.us>
 Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia-uni.app/Icon-60.png
-Name: Cydia Universal
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Name: Cydia for Chimera/Electra
 
-Package: cydia-uni-lproj
-Version: 1.1.31a
+Package: cydia-lproj
+Version: 1.9.3~chimera
 Architecture: iphoneos-arm
-Maintainer: PixelOmer
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 712
-Depends: cydia-uni
-Filename: ./debs/cydia-uni-lproj_1.1.31a_iphoneos-arm.deb
-Size: 66904
-MD5sum: a9f332d18694efbeacb5b4a78d8d418c
-SHA1: d7cbff2768f7d4b01df0c45bfb2942ebcc0f8bd0
-SHA256: bc4c85f0f7e354b70de17ce512fe65f54ef37fa2706af986b48b2cb5c8745a6c
+Depends: cydia
+Conflicts: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Filename: ./debs/cydia-lproj_1.9.3~chimera_iphoneos-arm.deb
+Size: 66964
+MD5sum: 7a284690740bc716dc38f24b76bb8be4
+SHA1: 1737d97eb50b42e7841842b7a0ea5cb1477697b6
+SHA256: 8c2d54b5738a7eca14b5fdaf5a651196291502333b7de0e0dfb59c975a1b67f5
 Section: Packaging
+Priority: required
 Description: languages and translations for Cydia
-Tag: purpose::uikit, role::enduser
+Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
-Name: Cydia Universal Translations
+Name: Cydia Translations
+
+Package: org.thebigboss.repo.icons
+Version: 1.0
+Architecture: all
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 48
+Replaces: cydia, bigboss
+Filename: ./debs/org.thebigboss.repo.icons_1.0_all.deb
+Size: 11584
+MD5sum: ac672eaa13d2feb9d119238636e2f36e
+SHA1: ad898569c94250191865921a6ecc4e9377d9c83f
+SHA256: 4272d8a3d2647c7142dcbf1eebb1d56060dbb8ba5b21bde11b316219a35c5a92
+Section: Repositories
+Priority: optional
+Multi-Arch: foreign
+Description: locally cached package icons from BigBoss
+Name: BigBoss Icon Set
 
 Package: xyz.willy.zebra
 Version: 1.0~beta8

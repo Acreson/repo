@@ -1,3 +1,21 @@
+Package: com.hiphop.libertylite.beta
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debs/com.hiphop.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42324
+MD5sum: 2f8a1b932e39a8ca2eba62d9e9ebe588
+SHA1: 0fb23f9fdf216099630d541a671fa3248510835d
+SHA256: e8db03a02adc8becfae57fd393c0c37de50cb038e0c8c0648cf7702446b9cf83
+Section: Tweaks
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite (Beta)
+
 Package: com.julioverne.cydown
 Version: 6.9.8
 Architecture: iphoneos-arm

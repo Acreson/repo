@@ -1,3 +1,36 @@
+Package: ch.hiphop.sylph
+Version: 1.1~Beta.2
+Architecture: iphoneos-arm
+Maintainer: Max Dausch <max.dausch@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, ch.hiphop.utils (>= 0.0.2)
+Filename: ./debs/ch.hiphop.sylph_1.1~Beta.2_iphoneos-arm.deb
+Size: 68840
+MD5sum: 1bff82f182a33a4c4b1b3e3c9c013886
+SHA1: 1827604ea965fd253c565650eecc0c7ed3609dc2
+SHA256: a85d71a2a226df4a02ad1a99fa27cd5946f07b7a170fe2c83771365eb01b5faa
+Section: Tweaks
+Description: Customize your LS music player
+Author: Max Dausch <max.dausch@gmail.com>
+Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.sylph
+Name: Sylph 迷你通知音乐
+
+Package: ch.hiphop.utils
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Installed-Size: 236
+Filename: ./debs/ch.hiphop.utils_0.0.2_iphoneos-arm.deb
+Size: 14028
+MD5sum: a03e65bdf8b9f63b8eb1b4202728c75c
+SHA1: 90df3078a3734372de51bb6d33d710e560fc05f6
+SHA256: 515c644b1e6d8f5d17652688abf841dcd0462d3f49080c3103baf47c1f023bf4
+Section: System
+Description: A collection of common functions for my tweaks. More documentation will be coming soon.
+Tag: role::developer
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Name: MDausch Utils 迷你通知音乐依赖
+
 Package: com.hiphop.libertylite.beta
 Version: 0.2.12
 Architecture: iphoneos-arm

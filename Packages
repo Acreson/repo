@@ -31,6 +31,24 @@ Tag: role::developer
 Author: Maxwell Dausch <max.dausch@gmail.com>
 Name: MDausch Utils 迷你通知音乐依赖
 
+Package: com.hiphop.Gesto
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Gabriele Filipponi & Alessandro Chiarlitti (aesign)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.hiphop.gesto_1.3_iphoneos-arm.deb
+Size: 697996
+MD5sum: 542761c4623bbce3d718b3829187bcbc
+SHA1: eb0544d7dc66bf8c2e00de7eadbf8475bb37e6f2
+SHA256: 87636f080554cea41e7eb7315949d7d70aca1ecb0c1e18fee0b8c546b1188b20
+Section: System
+Priority: optional
+Homepage: https://aesign.me/gesto
+Description: Gesto enhances iOS's multitasking view, making it powerful yet familiar, with a native-looking design and gorgeous animations.
+Author: gabriele filipponi
+Dev: gabriele filipponi
+Name: Gesto 快捷后台卡片操作
+
 Package: com.hiphop.libertylite.beta
 Version: 0.2.12
 Architecture: iphoneos-arm

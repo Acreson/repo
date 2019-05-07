@@ -34,6 +34,22 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.morwi.transparentmusic
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Mateusz Morawski
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.morwi.transparentmusic_0.0.1-1_iphoneos-arm.deb
+Size: 4096
+MD5sum: 0b48a01779f60200824a3c8c6acec3cb
+SHA1: 7cd3ce2d3fe981e2a849ba5131c3a41aa1adc5a9
+SHA256: 1d0316739997f706a4a426fcc749e22200496cde9bcc34d78a50967eeec44482
+Section: Tweaks
+Description: Transparency!
+Author: Mateusz Morawski
+Name: Transparent Music 透明通知音乐
+
 Package: cydia-dark
 Version: 1.9.3~chimera
 Architecture: iphoneos-arm

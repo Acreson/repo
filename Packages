@@ -100,15 +100,15 @@ Author: Mateusz Morawski
 Name: Transparent Music 透明通知音乐
 
 Package: com.julioverne.cydown
-Version: 6.9.8
+Version: 6.9.9
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.cydown_6.9.8_iphoneos-arm.deb
-Size: 1084936
-MD5sum: 4ad2e7133be1ab6798182ef2149e5733
-SHA1: 1da593ac7d320b9680a6b2e4bb450fe6191cc44c
-SHA256: 29cbf3e753a3ea287316157daa46cf2e1064299a767de9d87f59ecefbf159c14
+Filename: ./debs/com.julioverne.cydown_6.9.9_iphoneos-arm.deb
+Size: 1082964
+MD5sum: a523444091f7f46a75a12e11b67c7360
+SHA1: e00ff709252b958ee783ca4c62942f038a7048d4
+SHA256: c16841d2620d41e117550e754c7554ec1a898f8aecc7fa67c60fae1b44b18307
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!

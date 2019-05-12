@@ -205,16 +205,16 @@ Description: locally cached package icons from BigBoss
 Name: BigBoss Icon Set
 
 Package: xyz.willy.zebra
-Version: 1.0~beta10
+Version: 1.0~beta11
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres <wilson@styres.me>
 Installed-Size: 5168
 Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta10_iphoneos-arm.deb
-Size: 1762960
-MD5sum: ab2d16d14406771d2f606fb29588a775
-SHA1: d74d7d8b00473a488d21c1c5c1422ea15e82fe5e
-SHA256: 8b6bf049c54a424c1f3328ab08cdf862c46761f2b75e4955f5ed0f9df48a2350
+Filename: ./debs/xyz.willy.zebra_1.0~beta11_iphoneos-arm.deb
+Size: 1762648
+MD5sum: 0bacc0a4b7384d6a02101997470c804e
+SHA1: 177b76e8c4c649686b63cf51aa194837eb1a2e10
+SHA256: 0e36fae6fac3d254fa8367ee6ff11586378ab36b97cc7e35e1143ff13ff3ed64
 Section: 包管理器
 Description: A Useful Package Manager
 Tag: purpose::x

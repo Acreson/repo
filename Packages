@@ -212,13 +212,13 @@ Installed-Size: 5264
 Depends: dpkg
 Filename: ./debs/xyz.willy.zebra_1.0~beta12_iphoneos-arm.deb
 Size: 1786472
-MD5sum: ac11f356a51e6481d09c9d899574224a
-SHA1: d370f98d57abe1eeaf5ce0d572ebebc00edb27ec
-SHA256: 56372acbdec3bec054228a2358ee4900848dd227b5a92c9fcc1573dab74e121b
+MD5sum: 39d47b560c83b707f61694ec25e4f583
+SHA1: 89acb926f5f55cda5f78b2d600ab44fb6bf02c73
+SHA256: dc4669c4ebeb6451ae8cdfacd65cb4fefa75a08081e776be67f151fbb615d911
 Section: 包管理器
 Description: A Useful Package Manager
 Tag: purpose::x
 Author: Wilson Styres <wilson@styres.me>
 Depiction: https://crazyc.top/zebra/2.html
-Name: Zebra (BETA)
+Name: Zebra 包管理器
 

@@ -211,10 +211,10 @@ Maintainer: Wilson Styres <wilson@styres.me>
 Installed-Size: 5168
 Depends: dpkg
 Filename: ./debs/xyz.willy.zebra_1.0~beta10_iphoneos-arm.deb
-Size: 1762912
-MD5sum: d0d7587f1d25ad37fd1c1a619936f17d
-SHA1: 650974036a437ceec2545175332587e53c1a501f
-SHA256: 254fcc2d4dfcfa57258136b98c79e13ac4b3eaedc1ddec5a9727cd678587e828
+Size: 1762960
+MD5sum: ab2d16d14406771d2f606fb29588a775
+SHA1: d74d7d8b00473a488d21c1c5c1422ea15e82fe5e
+SHA256: 8b6bf049c54a424c1f3328ab08cdf862c46761f2b75e4955f5ed0f9df48a2350
 Section: 包管理器
 Description: A Useful Package Manager
 Tag: purpose::x

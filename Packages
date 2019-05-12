@@ -37,11 +37,11 @@ Architecture: iphoneos-arm
 Maintainer: https://twitter.com/CydiaSaurikStar
 Depends: firmware (>= 11.0)
 Filename: ./debs/com.shadowstonk.jw.sailyinstaller_0.1.5_iphoneos-arm.deb
-Size: 31597524
-MD5sum: 41d598a3cfcf75ec4dce673a558fb5e8
-SHA1: a00efcafd54f460fdf5ef4f55a7fdb957e70c105
-SHA256: 471f69cac65a74fb7a995c21744b80a2799be2af7baa84098f76cabde5de5772
-Section: Addons
+Size: 31598276
+MD5sum: 6cb4503ad1e236590c5a3268e547b752
+SHA1: 24ff2cfcc05fdf71afcc8762c7fc4cc4d20d817c
+SHA256: 43f27f440c766a4ffb841f8b8931276fcd6504fc7b316bec9571a00d9bef7e67
+Section: 包管理器
 Priority: optional
 Homepage: https://twitter.com/CydiaSaurikStar
 Description: Saily Package Manager Installer
@@ -203,24 +203,6 @@ Priority: optional
 Multi-Arch: foreign
 Description: locally cached package icons from BigBoss
 Name: BigBoss Icon Set
-
-Package: xyz.willy.zebra
-Version: 1.0~beta8
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres <wilson@styres.me>
-Installed-Size: 4728
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta8_iphoneos-arm.deb
-Size: 1632796
-MD5sum: ca3187ee145a0813faa9a28e6a057286
-SHA1: 7645f7c9e3ab8e2927bb51cec77548142179cb83
-SHA256: ef1bacfa3e71f60d89feec492268ee1ee94bb52b769a6e2001b4081652234dd9
-Section: Packaging
-Description: A Useful Package Manager
-Tag: purpose::x
-Author: Wilson Styres <wilson@styres.me>
-Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
-Name: Zebra (BETA)
 
 Package: xyz.willy.zebra
 Version: 1.0~beta9

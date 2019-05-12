@@ -1,0 +1,3 @@
+# Zebra Sources List
+deb https://repo.chimera.sh/ ./
+deb https://crazyc.top/ ./

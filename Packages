@@ -16,16 +16,16 @@ Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.sylph
 Name: Sylph 迷你通知音乐
 
 Package: ch.hiphop.utils
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Maxwell Dausch <max.dausch@gmail.com>
 Installed-Size: 236
-Filename: ./debs/ch.hiphop.utils_0.0.2_iphoneos-arm.deb
-Size: 14028
-MD5sum: a03e65bdf8b9f63b8eb1b4202728c75c
-SHA1: 90df3078a3734372de51bb6d33d710e560fc05f6
-SHA256: 515c644b1e6d8f5d17652688abf841dcd0462d3f49080c3103baf47c1f023bf4
-Section: System
+Filename: ./debs/ch.hiphop.utils_0.0.3_iphoneos-arm.deb
+Size: 14032
+MD5sum: 016f213f5fe793d2e9482286254c53fe
+SHA1: be6d80bdd41ecc46663bf154a0087cf3f2a658d4
+SHA256: f05044d5d3b5d22cb4cd7b50ae57e5b1d7cbdfdd6b21f7d04fba16ad8e6d5e66
+Section: 相关依赖
 Description: A collection of common functions for my tweaks. More documentation will be coming soon.
 Tag: role::developer
 Author: Maxwell Dausch <max.dausch@gmail.com>

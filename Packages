@@ -159,10 +159,10 @@ Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwint
 Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
 Filename: ./debs/cydia-dark_1.9.3~chimera3_iphoneos-arm.deb
-Size: 1289856
-MD5sum: 3ddb688fcdb5fd3ca787b9bd25411c8f
-SHA1: 30baa1d2f886b52cbe5ae760ec08d360fae26d0f
-SHA256: 92799ea6ff24cf4b820551b81b74fc30a0ea56d4103fdd969381fb1a409fa64a
+Size: 1290340
+MD5sum: 2151ac42ee63e92faf4ed6b412818874
+SHA1: 497c01b7c590e4e555c89cd4d909085733dda260
+SHA256: 8e61b6c746435ca7a897db47950e34ee0d25bb759c5c85e7eb089c1617b47577
 Section: 包管理器
 Priority: optional
 Description: graphical iPhone front-end for APT

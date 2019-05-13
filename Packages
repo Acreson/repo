@@ -149,6 +149,29 @@ Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia for Chimera/Electra
 
+Package: cydia-dark
+Version: 1.9.3~chimera3
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 8920
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
+Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
+Filename: ./debs/cydia-dark_1.9.3~chimera3_iphoneos-arm.deb
+Size: 1289856
+MD5sum: 3ddb688fcdb5fd3ca787b9bd25411c8f
+SHA1: 30baa1d2f886b52cbe5ae760ec08d360fae26d0f
+SHA256: 92799ea6ff24cf4b820551b81b74fc30a0ea56d4103fdd969381fb1a409fa64a
+Section: 包管理器
+Priority: optional
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, role::enduser
+Author: Diatrus <me@diatr.us>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Name: Cydia for Chimera/Electra
+
 Package: cydia-lproj
 Version: 1.9.3~chimera
 Architecture: iphoneos-arm
@@ -159,11 +182,11 @@ Conflicts: org.thebigboss.russiancydia
 Replaces: cydia, org.thebigboss.russiancydia
 Provides: org.thebigboss.russiancydia
 Filename: ./debs/cydia-lproj_1.9.3~chimera_iphoneos-arm.deb
-Size: 66964
-MD5sum: 7a284690740bc716dc38f24b76bb8be4
-SHA1: 1737d97eb50b42e7841842b7a0ea5cb1477697b6
-SHA256: 8c2d54b5738a7eca14b5fdaf5a651196291502333b7de0e0dfb59c975a1b67f5
-Section: Packaging
+Size: 66944
+MD5sum: f475126198a0d17e01eeddbfc67cf9de
+SHA1: 8157b3e35138bded6a41226572e49ed71ebd6cf1
+SHA256: 260a0295b6f621f4114f549d67b5d257477dabf4998e1e55c4a679d45ffe42e7
+Section: 包依赖
 Priority: required
 Description: languages and translations for Cydia
 Tag: purpose::uikit, cydia::essential, role::enduser
@@ -172,16 +195,16 @@ Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
 Package: org.thebigboss.repo.icons
-Version: 1.0
+Version: 1.1
 Architecture: all
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 48
 Replaces: cydia, bigboss
-Filename: ./debs/org.thebigboss.repo.icons_1.0_all.deb
+Filename: ./debs/org.thebigboss.repo.icons_1.1_all.deb
 Size: 11584
-MD5sum: ac672eaa13d2feb9d119238636e2f36e
-SHA1: ad898569c94250191865921a6ecc4e9377d9c83f
-SHA256: 4272d8a3d2647c7142dcbf1eebb1d56060dbb8ba5b21bde11b316219a35c5a92
+MD5sum: 954797f8e54a955d8974ac032d1601b9
+SHA1: 9131c0abc25df2234a5f3e4398dafe82f41aa4f9
+SHA256: f8d870577bcf321945bbe539748768838f4a23b2931c11dc0bffa7af116a8363
 Section: Repositories
 Priority: optional
 Multi-Arch: foreign

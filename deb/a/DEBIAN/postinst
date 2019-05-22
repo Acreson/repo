@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "[ST4] Cleaning up";
-rm -f /var/mobile/Library/Preferences/.com.springtomize.st4.stats.plist

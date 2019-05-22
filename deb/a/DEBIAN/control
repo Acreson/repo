@@ -1,0 +1,13 @@
+Package: com.springtomize.st4.new
+Name: Springtomize4 瑞士军刀4
+Version: 4.0.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Provides: com.springtomize.st4.new
+Replaces: com.springtomize.st4
+Installed-Size: 3368
+Author: sharedRoutine
+Maintainer: sharedRoutine
+Description: Customize your device like never before.
+Conflict: com.springtomize.st4

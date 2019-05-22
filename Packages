@@ -103,6 +103,25 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.springtomize.st4.new
+Version: 4.0.2
+Architecture: iphoneos-arm
+Maintainer: sharedRoutine
+Installed-Size: 3368
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Provides: com.springtomize.st4.new
+Filename: ./debs/com.springtomize.st4.new_4.0.2_iphoneos-arm.deb
+Size: 546220
+MD5sum: 15663fbca332b546e551bfdb0348b1c9
+SHA1: ec9ec2022de2b3ef9f6a836f2fc607ace483afa6
+SHA256: 4d8cfd1975d1072d9037b65e646c6c1a661202c1741913e6fef84fdb8cf37844
+Section: Tweaks
+Description: Customize your device like never before.
+Author: sharedRoutine
+Conflict: com.springtomize.st4
+Name: Springtomize4 瑞士军刀4
+
 Package: cydia-dark
 Version: 1.9.3~chimera4
 Architecture: iphoneos-arm

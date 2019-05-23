@@ -209,11 +209,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 48
 Replaces: cydia, bigboss
 Filename: ./debs/org.thebigboss.repo.icons_1.1_all.deb
-Size: 11584
-MD5sum: 9d834fdfce6e9b11210614e9172be070
-SHA1: cc3d88237e7c894fb0eac8eaa3f75f3821808f9b
-SHA256: 56dcbbbb3f70f63148fe8e15924620eb1df449c032c57d509a46a06be6becb20
-Section: 包依赖
+Size: 11580
+MD5sum: d0853758bf259b78ed9bf3e03b5fdfcc
+SHA1: be08622476802cec212f4085bc28341d8a1a32b8
+SHA256: f20de80e777d2337b8553d710aef0959d193acd5469f8cfb73b75a70b1a6e1b1
+Section: HipHop-依赖
 Priority: optional
 Multi-Arch: foreign
 Description: locally cached package icons from BigBoss

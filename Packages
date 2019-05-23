@@ -185,6 +185,24 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
+Package: hiphop.tetherme8
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <support@tetherme.net>
+Pre-Depends: mobilesubstrate (>= 0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/hiphop.tetherme8_1.2.4_iphoneos-arm.deb
+Size: 80020
+MD5sum: f164fcbf688807e05bba73021e81c025
+SHA1: 49981b898e64c1b8b4c22ccec8221c10690e7ea7
+SHA256: a16a5cceb2714a4470f45921725afdc86ebcafec55bd18cbfb7241c7af2b88b3
+Section: 网络
+Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
+Tag: cydia::commercial, purpose::extension
+Name: TetherMe for iOS8+
+
 Package: org.thebigboss.repo.icons
 Version: 1.1
 Architecture: all

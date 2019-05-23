@@ -76,11 +76,11 @@ Maintainer: Mateusz Morawski
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.hiphop.transparentmusic_0.0.1-2_iphoneos-arm.deb
-Size: 4112
-MD5sum: cdca19e18c480b877c4cbd5cef603047
-SHA1: 8b9f0d05dbb583cdef4385b075fdc502a499288f
-SHA256: 1a14cd89813d737585d642edd4bd62948db8529f96acf1b555b5b59fa1068335
-Section: Crazy HipHop(Tweaks)
+Size: 4124
+MD5sum: 5556f70fa7aa8023547e142ec5a09ee3
+SHA1: 055a9090a784e6735a0af5396c34df863938c967
+SHA256: 661486102b4ac4afb2774d889acdf9158b0fd779698eb66887252e7b290c5973
+Section: Crazy HipHop-插件(Tweaks)
 Description: Transparency!
 Author: Mateusz Morawski
 Name: Transparent Music 透明通知音乐

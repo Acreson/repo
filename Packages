@@ -122,6 +122,25 @@ Author: sharedRoutine%汉化：ball
 Conflict: com.springtomize.st4
 Name: Springtomize4 瑞士军刀4
 
+Package: com.springtomize.st4.new
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: sharedRoutine
+Installed-Size: 3368
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Provides: com.springtomize.st4.new
+Filename: ./debs/com.springtomize.st4.new_4.0.3_iphoneos-arm.deb
+Size: 554180
+MD5sum: d879fdc1955f2823cd4dd7e86764cf97
+SHA1: 77cdc1529221d1ca606940fc2605ab63fdeb2c6f
+SHA256: 8d76351f47a426de745ed77f8b41d540c3eb06d5a5b060aed68ea4caa64a11c6
+Section: Crazy HipHop-插件(Tweaks)
+Description: Customize your device like never before.
+Author: sharedRoutine
+Conflict: com.springtomize.st4
+Name: Springtomize4 瑞士军刀4
+
 Package: cydia-dark
 Version: 1.9.3~chimera4
 Architecture: iphoneos-arm

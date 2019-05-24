@@ -69,6 +69,24 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
 
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9-12
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9-12_iphoneos-arm.deb
+Size: 846256
+MD5sum: 252eec0bd781b964ae7736882d9e6d3f
+SHA1: ede2dc2200f92129974994a5fc1e3ff8bf0e9d64
+SHA256: 6c6c1e1dc9936bb8a13d2d4772575bbaa938bb21964341eef647a220df564658
+Section: Crazy HipHop-插件(Tweaks)
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++ 应用降级
+
 Package: com.hiphop.transparentmusic
 Version: 0.0.1-2
 Architecture: iphoneos-arm

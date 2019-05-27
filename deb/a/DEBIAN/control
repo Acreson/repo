@@ -6,5 +6,5 @@ Depends: mobilesubstrate
 Maintainer: daitu <xingxing@126.com>
 Architecture: iphoneos-arm
 Section: Crazy HipHop-插件(Tweaks)
-Version: 6.6
+Version: 5.0
 Installed-Size: 90

@@ -87,6 +87,24 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++ 应用降级
 
+Package: com.hiphop.qq
+Version: 7.9.8
+Architecture: iphoneos-arm
+Maintainer: 小苹果™
+Installed-Size: 49.78
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.hiphop.qq_7.9.8_iphoneos-arm.deb
+Size: 146708
+MD5sum: 9095f4bb1047957a7462885b2d76d343
+SHA1: 1554468b702025456824456585a78764d7745d42
+SHA256: c305529e8c3a0eaeba518169d6025591ed40e24dce6fae9163064ed705553ecf
+Section: Crazy HipHop-插件(Tweaks)
+Priority: optional
+Author: 小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQ功能加强破解版
+Sponsor: 小苹果™
+
 Package: com.hiphop.transparentmusic
 Version: 0.0.1-2
 Architecture: iphoneos-arm

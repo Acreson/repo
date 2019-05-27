@@ -220,6 +220,22 @@ Description: 酷我音乐全新全功能破解版，破解年费豪华会员所�
 Author: 带土
 Name: 酷我音乐全新全功能破解
 
+Package: hiphop.crack.kwmusica12
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: daitu <xingxing@126.com>
+Installed-Size: 90
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.crack.kwmusica12_4.0_iphoneos-arm.deb
+Size: 8760
+MD5sum: bbb3c1db9f4a4e51397dd3a69ad6dedc
+SHA1: 2c341d491ad780800f38b834b13b5357daa4c56e
+SHA256: e3bacadc84db9995cc06ca1010c67c4c6efdc331678c39d570dec2aaa0b79fef
+Section: Crazy HipHop-插件(Tweaks)
+Description: 酷我音乐全新全功能破解版，破解年费豪华会员所有特权，点亮年费会员图标，允许试听下载任意付费专辑下架灰色SQ品质音乐，精简移除部分功能，移除海外ip限制，完美去除启动广告，个性皮肤随意用，4.0版更新支持全部无版权灰色歌曲直接在线下载试听，无版本限制，支持所有版本。更多破解软件，关注公众号：一只小果子。
+Author: 带土
+Name: 酷我音乐全新全功能破解
+
 Package: hiphop.tetherme8
 Version: 1.2.4
 Architecture: iphoneos-arm

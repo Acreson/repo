@@ -31,6 +31,28 @@ Tag: role::developer
 Author: Maxwell Dausch <max.dausch@gmail.com>
 Name: MDausch Utils 迷你通知音乐依赖
 
+Package: cn.hiphop.renet
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5712
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.hiphop.renet_1.0_iphoneos-arm.deb
+Size: 1977144
+MD5sum: ba7823da0a3b77f9ab31a954fd429767
+SHA1: a857362078e656ccddb0bc3c2bb539c11df75387
+SHA256: 90282bbe14a284f0f6b3437143c53db03a5dc7b2a47edb204a5bdc067824c9b1
+Section: Crazy HipHop-网络(Networking)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Description: 修复越狱后Cydia等各种软件无法联网的问题
+Tag: purpose::extension, role::enduser, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Tiny-apps <tinyapps@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Dev: tinyapps
+Icon: file:///Applications/Renet.app/AppIcon20x20@3x.png
+Name: 连个锤子-越狱联网一键修复
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.ShadowStonk.jw.SailyInstaller
 Version: 0.1.5
 Architecture: iphoneos-arm
@@ -86,6 +108,38 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++ 应用降级
+
+Package: com.hiphop.conditionalwifi3
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Depends: mobilesubstrate
+Filename: ./debs/com.hiphop.conditionalwifi3_1.0.0_iphoneos-arm.deb
+Size: 9052
+MD5sum: e1ec8b7e57e2f45fa87af9a01fdd3453
+SHA1: d3c6c626dfe41a8a920c41dcf4d022af6890b015
+SHA256: cc476b57e0682fd8a3b706d9ec24ba0d2ed3177efc7786db128e90e1e3733bbf
+Section: Crazy HipHop-网络(Networking)
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: iOS Creatix
+Depiction: https://mrmadtw.github.io/repo/depiction/conditionalwifi3/index.html
+Name: ConditionalWiFi3 IOS11网络权限
+
+Package: com.hiphop.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./debs/com.hiphop.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 9104
+MD5sum: 20d192843d6c7e00e94d2e3562ff0e96
+SHA1: 0e6e58a841b3a9c908ba7bc92950454cdd4c792d
+SHA256: 9475bccbe955c0dcce0a9f73e454cc3b2d1eaf4866ea2c8c79ef78a025226af9
+Section: Crazy HipHop-网络(Networking)
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: ATWiiks
+Name: ConditionalWiFi4 IOS12网络权限
 
 Package: com.hiphop.qq
 Version: 7.9.8
@@ -238,6 +292,23 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
+Package: hiphop.lz4
+Version: 1.7.5-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 840
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/hiphop.lz4_1.7.5-1_iphoneos-arm.deb
+Size: 81332
+MD5sum: a8f199297dc0a8bc93c4b459336f21a7
+SHA1: 5a837219ad720ed90690d6aacbe5a6a47afbcf66
+SHA256: e81f671859767029f15f6230ea36a67b1dd4c4cba190598c37e3ff7d28672a0b
+Section: Crazy HipHop-存档(Archiving)
+Priority: important
+Homepage: http://tukaani.org/lzma/
+Description: Extremely Fast Compression algorithm
+Name: LZ4
+
 Package: hiphop.tetherme8
 Version: 1.2.4
 Architecture: iphoneos-arm
@@ -254,6 +325,25 @@ SHA256: 479649e3d17e23d251202f7525cc508284d8984c00e8421a9e8ebb8a4c2f774d
 Section: Crazy HipHop-网络(Networking)
 Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
 Name: TetherMe for iOS8+
+
+Package: hiphop.xz
+Version: 5.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1104
+Depends: lzma (=4.32.7-5)
+Conflicts: xz-utils
+Provides: xz-utils
+Filename: ./debs/hiphop.xz_5.2.4-1_iphoneos-arm.deb
+Size: 600400
+MD5sum: 87fe384f9dba4aa2b1c9516305c15f81
+SHA1: 62fd2a3d7a24ecf62e3283ca4cbb28463fea74b8
+SHA256: b11cf839aaad6cda15f00fa5d07effc18c6b5470664e1e9702d771cf05c6f451
+Section: Crazy HipHop-存档(Archiving)
+Priority: important
+Homepage: http://tukaani.org/lzma/
+Description: slower, but better, compression algorithm
+Name: XZ Utils
 
 Package: org.thebigboss.repo.icons
 Version: 1.1

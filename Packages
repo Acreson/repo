@@ -74,24 +74,6 @@ Icon: file:///Applications/Saily Package Manager.app/AppIcon60x60@2x.png
 Name: Saily 包管理器
 
 Package: com.cokepokes.appstoreplusplus
-Version: 0.9-11
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.9-11_iphoneos-arm.deb
-Size: 847900
-MD5sum: 3ba1bbed939fa2423bc008d945b69d7f
-SHA1: 5f4e1be9ef4eb4af5519634c6033f6ff29c4f544
-SHA256: 5026fbb352ad782292b379b8af183a837c02ad1feff7848033664cf488f80fd0
-Section: Crazy HipHop-插件(Tweaks)
-Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Name: AppStore++
-
-Package: com.cokepokes.appstoreplusplus
 Version: 0.9-12
 Architecture: iphoneos-arm
 Maintainer: CokePokes

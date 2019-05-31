@@ -123,6 +123,31 @@ Description: Restrict certain apps from accessing wifi on iOS 11
 Author: ATWiiks
 Name: ConditionalWiFi4 IOS12网络权限
 
+Package: com.hiphop.powerselector11
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1860
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.hiphop.powerselector11_1.2.0-1_iphoneos-arm.deb
+Size: 192088
+MD5sum: e6e02d3ba75ef0617c6532131d9099b7
+SHA1: a69cf98bca9641694320fb4f47b5751679f7f01f
+SHA256: 6bcbff6391d7e434513522b333da42a131383a861bf2a980a3fe59f6266c1a01
+Section: Crazy HipHop-工具(Utilities)
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Depiction: https://willfeeltips.appspot.com/depiction/powerselector11.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Name: PowerSelector 快捷工具箱(iOS 11 & 12)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.hiphop.qq
 Version: 7.9.8
 Architecture: iphoneos-arm

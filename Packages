@@ -166,6 +166,25 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ功能加强破解版
 Sponsor: 小苹果™
 
+Package: com.hiphop.snowboardfull
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Spark&CrazyHipHop
+Installed-Size: 900
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.hiphop.snowboardfull_1.1.1_iphoneos-arm.deb
+Size: 1582472
+MD5sum: 2fa9a04696d79443dd8a8430e398071a
+SHA1: e55f8b48a2103bc40c12c6a06dcd8ae99cd1a836
+SHA256: b8b81c4503b287c1b27679ad4dacb691858e3fbaa65bce9a33f007c105820927
+Section: Crazy HipHop-工具(Utilities)
+Description: SnowBoard (App) 完整版
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard  (App) 完整版
+
 Package: com.hiphop.transparentmusic
 Version: 0.0.1-2
 Architecture: iphoneos-arm

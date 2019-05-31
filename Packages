@@ -274,6 +274,21 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
+Package: hiphop.doraemon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop <342080124@qq.com>
+Filename: ./debs/hiphop.doraemon_1.0_iphoneos-arm.deb
+Size: 6992
+MD5sum: 3f318aa3e240a882517d67d3573600cb
+SHA1: 3d9fa35ea4881a634743f0ae0daed500e6b41bb0
+SHA256: fd2052211c447de25b5a81a1f96e76bb7d10268d45f18b9d11087b2b92d5e435
+Section: Crazy HipHop-主题(Themes)
+Description: 哆啦A梦探头 角标
+Author: CrazyHipHop <342080124@qq.com>
+Name: 哆啦A梦 角标
+Sponsor: CrazyHipHop <http://crazyc.top>
+
 Package: hiphop.lz4
 Version: 1.7.5-1
 Architecture: iphoneos-arm

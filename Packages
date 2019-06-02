@@ -73,6 +73,25 @@ Dev: https://twitter.com/Lakr233
 Icon: file:///Applications/Saily Package Manager.app/AppIcon60x60@2x.png
 Name: Saily 包管理器
 
+Package: com.bingner.plutil
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Samuel Bingner
+Installed-Size: 256
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities
+Filename: ./debs/com.bingner.plutil_0.1.0_iphoneos-arm.deb
+Size: 48348
+MD5sum: 35934e5d228711ebeb1dc44f1ddd4475
+SHA1: f955dc6b7ae2441c3f8f50960eeffe7f13b229d4
+SHA256: dcc6d3be3b27521a14a745762187605529d8e50b7f22b2ab3bb566cb8371fa1a
+Section: Crazy HipHop-依赖(Depends)
+Multi-Arch: foreign
+Description: plutil as from erica sadun
+Tag: role::hacker
+Author: Samuel Bingner
+Name: plutil
+
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9-12
 Architecture: iphoneos-arm

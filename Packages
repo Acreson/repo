@@ -301,10 +301,10 @@ Maintainer: daitu <xingxing@126.com>
 Installed-Size: 90
 Depends: mobilesubstrate
 Filename: ./debs/com.yourepo.lenglengyu.kwmusica12_5.0_iphoneos-arm.deb
-Size: 8768
-MD5sum: f8fffb1fbb9540f6b6fede42fdfb93b4
-SHA1: 5f7591dfbcabf2fd7468b0e35ca54d356b920a61
-SHA256: 755f656c157c51f8849f87b9983a7bad71c75a9d3cda46b15b14da3418e4a289
+Size: 8764
+MD5sum: 6de6324211eabaca1f273cad4bdaa5ee
+SHA1: 54290f9ec363d3dc0ae1eb23a9347fcca8f8f738
+SHA256: 23c3bd3821774f68aec62a201e737514cdeb5b5d2d07d493a6757b36ad9f08ad
 Section: Crazy HipHop-插件(Tweaks)
 Description: 酷我音乐全新全功能破解版，破解年费豪华会员所有特权，点亮年费会员图标，允许试听下载任意付费专辑下架灰色SQ品质音乐，精简移除部分功能，移除海外ip限制，完美去除启动广告，个性皮肤随意用，5.0版更新支持全部无版权灰色歌曲直接在线下载试听，无版本限制，支持所有版本。更多破解软件，关注公众号：一只小果子。
 Author: 带土
@@ -443,18 +443,17 @@ Name: BigBoss Icon Set
 Package: xyz.willy.zebra
 Version: 1.0~beta13
 Architecture: iphoneos-arm
-Maintainer: Wilson Styres&CrazyHipHop
+Maintainer: Wilson Styres & CrazyHipHop
 Installed-Size: 13592
 Depends: dpkg
 Filename: ./debs/xyz.willy.zebra_1.0~beta13_iphoneos-arm.deb
-Size: 3900300
-MD5sum: 06bfc39502803788a2c7eadbe1748db1
-SHA1: afed8c61d9dfc4ad8c5d7472070f1ad44dbf8ee3
-SHA256: 0fd72eaeca9523002a72511ef678e7f0ab8721e8c515bbab9314b55130546dc4
+Size: 3900892
+MD5sum: 47dc0993608ed0dbf3db72a135010cc9
+SHA1: 7187165950716e4cfb815ff1dd0240baf3fde5b6
+SHA256: 72483949ac8832107cb4d7cf2a4f56cb6050ae1859482ae3640c325ffae577d4
 Section: Crazy HipHop-安装包(Packages)
-Description: A Useful Package Manager
+Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x
-Author: Wilson Styres <wilson@styres.me>
-Depiction: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
+Author: Wilson Styres & CrazyHipHop
 Name: 斑马 包管理器(汉化)
 

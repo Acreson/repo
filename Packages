@@ -91,6 +91,24 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++ 应用降级
 
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9-14
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9-14_iphoneos-arm.deb
+Size: 846220
+MD5sum: de66d2d209f142fc4576fae461f58fa4
+SHA1: dfc887018cac6febfef2377d5098738de4431f35
+SHA256: 979967d0c5d3a5df668f932df7d3facd35e31dc9b653e0626f70a204002c6610
+Section: Crazy HipHop-插件(Twekas)
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++ 应用降级
+
 Package: com.hiphop.conditionalwifi3
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -167,7 +185,7 @@ Name: QQ功能加强破解版
 Sponsor: 小苹果™
 
 Package: com.hiphop.snowboardfull
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: Spark&CrazyHipHop
 Installed-Size: 900
@@ -175,11 +193,11 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.hiphop.snowboardfull_1.1.1_iphoneos-arm.deb
-Size: 1582472
-MD5sum: 2fa9a04696d79443dd8a8430e398071a
-SHA1: e55f8b48a2103bc40c12c6a06dcd8ae99cd1a836
-SHA256: b8b81c4503b287c1b27679ad4dacb691858e3fbaa65bce9a33f007c105820927
+Filename: ./debs/com.hiphop.snowboardfull_1.1.2_iphoneos-arm.deb
+Size: 1582564
+MD5sum: dd1ae2de3cacf35ccfa252a967c3b52b
+SHA1: 6747d14f085507bd69e07028e71f62fd2ace7842
+SHA256: a00ed3d8c59458876c014fec7d1d4c9ba9c46d526ab52c28943882ae522302d3
 Section: Crazy HipHop-工具(Utilities)
 Description: SnowBoard (App) 完整版
 Author: Spark & Dennis D. Bednarz

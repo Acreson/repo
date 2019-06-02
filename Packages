@@ -447,10 +447,10 @@ Maintainer: Wilson Styres & CrazyHipHop
 Installed-Size: 13592
 Depends: dpkg
 Filename: ./debs/xyz.willy.zebra_1.0~beta13_iphoneos-arm.deb
-Size: 3900892
-MD5sum: 47dc0993608ed0dbf3db72a135010cc9
-SHA1: 7187165950716e4cfb815ff1dd0240baf3fde5b6
-SHA256: 72483949ac8832107cb4d7cf2a4f56cb6050ae1859482ae3640c325ffae577d4
+Size: 3896692
+MD5sum: 7802c99bc66cc5f67a9c2db1ed25487b
+SHA1: 6eaa90fa7a7a8bb17b1541f0ed35edd39ebee621
+SHA256: c93a8e72db3f288f03d9656691fbbf5ca7fdba3e41e9dc844386e5919b174e1d
 Section: Crazy HipHop-安装包(Packages)
 Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x

@@ -447,10 +447,10 @@ Maintainer: Wilson Styres&CrazyHipHop
 Installed-Size: 13592
 Depends: dpkg
 Filename: ./debs/xyz.willy.zebra_1.0~beta13_iphoneos-arm.deb
-Size: 3899596
-MD5sum: 6e517232a0f1c4bd680bb5915a9aa025
-SHA1: 2331f1abbaeb0a8b1247cd4d625f12a4988ae4fe
-SHA256: b45e364a3bd907403094903454b99c42c3065a5a54c4a403106761729bfa2465
+Size: 3900300
+MD5sum: 06bfc39502803788a2c7eadbe1748db1
+SHA1: afed8c61d9dfc4ad8c5d7472070f1ad44dbf8ee3
+SHA256: 0fd72eaeca9523002a72511ef678e7f0ab8721e8c515bbab9314b55130546dc4
 Section: Crazy HipHop-安装包(Packages)
 Description: A Useful Package Manager
 Tag: purpose::x

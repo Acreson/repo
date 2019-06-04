@@ -93,35 +93,17 @@ Author: Samuel Bingner
 Name: plutil
 
 Package: com.cokepokes.appstoreplusplus
-Version: 0.9-12
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.9-12_iphoneos-arm.deb
-Size: 846256
-MD5sum: 252eec0bd781b964ae7736882d9e6d3f
-SHA1: ede2dc2200f92129974994a5fc1e3ff8bf0e9d64
-SHA256: 6c6c1e1dc9936bb8a13d2d4772575bbaa938bb21964341eef647a220df564658
-Section: Crazy HipHop-插件(Tweaks)
-Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Name: AppStore++ 应用降级
-
-Package: com.cokepokes.appstoreplusplus
 Version: 0.9-14
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.9-14_iphoneos-arm.deb
-Size: 846220
-MD5sum: de66d2d209f142fc4576fae461f58fa4
-SHA1: dfc887018cac6febfef2377d5098738de4431f35
-SHA256: 979967d0c5d3a5df668f932df7d3facd35e31dc9b653e0626f70a204002c6610
-Section: Crazy HipHop-插件(Twekas)
+Size: 846596
+MD5sum: 55cba10c1305ab193139eb6669b80c2e
+SHA1: 97a03f7a4ece33eb4ee53da7197b4a9c3d84f4d6
+SHA256: 32741c1d008a87898be2aa15a9e41521651d9645130846e4822e9d8795fb3195
+Section: Crazy HipHop-插件(Tweaks)
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
 Author: CokePokes

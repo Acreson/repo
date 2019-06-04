@@ -360,10 +360,10 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: CrazyHipHop <342080124@qq.com>
 Filename: ./debs/hiphop.doraemon_1.1_iphoneos-arm.deb
-Size: 7000
-MD5sum: a57d0a2034f257985770fac78675745c
-SHA1: f1db0e91df75db5523da8e2d4b8868cf1db4cd33
-SHA256: 9010bd888fd4ebd0b96d66ff6468a267aed2adf32934883a9cbf2cb619b23185
+Size: 7008
+MD5sum: 061e2561cf8593e42139f1e86c0dbd96
+SHA1: b285a89fb5d3fa277898fea8834e49241e2fd940
+SHA256: fec0e45ff98f39a2ffade65078bf44df4b4053cf1dd50b00ed1a0d38e02affa1
 Section: Crazy HipHop-主题(Themes)
 Description: 哆啦A梦探头 角标
 Author: CrazyHipHop <342080124@qq.com>
@@ -386,6 +386,21 @@ Priority: important
 Homepage: http://tukaani.org/lzma/
 Description: Extremely Fast Compression algorithm
 Name: LZ4
+
+Package: hiphop.skeleton
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop <342080124@qq.com>
+Filename: ./debs/hiphop.skeleton_1.0_iphoneos-arm.deb
+Size: 15024
+MD5sum: 6e973ec7170a57cd20c5a7accc1a45ef
+SHA1: 991bc9bbc9dc49af9d2a9b141a8ac125bd629cc5
+SHA256: 72ddfe62646d37adb2593f080ded4e3ef6af51d4d9e4410c82ec4bf5c237c04b
+Section: Crazy HipHop-主题(Themes)
+Description: 小骷髅 角标
+Author: CrazyHipHop <342080124@qq.com>
+Name: 小骷髅 角标
+Sponsor: CrazyHipHop <http://crazyc.top>
 
 Package: hiphop.tetherme8
 Version: 1.2.4

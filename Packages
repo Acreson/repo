@@ -336,22 +336,6 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
-Package: ga.jakeashacks.drunksileo
-Version: 1.0.6-2
-Architecture: iphoneos-arm
-Maintainer: Jake James
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/ga.jakeashacks.drunksileo_1.0.6-2_iphoneos-arm.deb
-Size: 76932
-MD5sum: 7e779776660708a7d62e6fd9963e39e5
-SHA1: 82503cd5bdbd885856e14d91b4f0b78bb9459f4a
-SHA256: 9311ba2ae870ebd21fa2358fe346f69183711d04a97e6b6da0fda7cdaca3acd9
-Section: Crazy HipHop-工具(Utilities)
-Description: Sileo的自由。在所有描述上启用完整的JavaScript， *正确*加载描述(修复诸如Rocketbootstrap描述之类的问题)，启用SHA1和MD5 repos。
-Author: Jake James
-Name: DrunkSileo for Sileo Sileo强制兼容Cydia源
-
 Package: hiphop.cricetulu
 Version: 1.2
 Architecture: iphoneos-arm
@@ -381,6 +365,22 @@ Description: 哆啦A梦探头 角标
 Author: CrazyHipHop <342080124@qq.com>
 Name: 哆啦A梦 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
+
+Package: hiphop.drunksileo
+Version: 1.0.6-2
+Architecture: iphoneos-arm
+Maintainer: Jake James
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.drunksileo_1.0.6-2_iphoneos-arm.deb
+Size: 76856
+MD5sum: ba3184bf2a3a7fb5cc0093af98fac388
+SHA1: 480f42002103224e1c7f592f5d0565cf12ec63a5
+SHA256: 2b6feddd7875d6897d6fd16605a06181007bbb1552e2f83dc6cd08e391fcc053
+Section: Crazy HipHop-工具(Utilities)
+Description: Sileo的自由。在所有描述上启用完整的JavaScript， *正确*加载描述(修复诸如Rocketbootstrap描述之类的问题)，启用SHA1和MD5 repos。
+Author: Jake James
+Name: Drunk for Sileo Sileo强制兼容Cydia源
 
 Package: hiphop.lz4
 Version: 1.7.5-1

@@ -142,22 +142,6 @@ Description: Restrict certain apps from accessing wifi on iOS 11
 Author: ATWiiks
 Name: ConditionalWiFi4 IOS12网络权限
 
-Package: com.hiphop.drunksileo
-Version: 1.0.6-2
-Architecture: iphoneos-arm
-Maintainer: Jake James
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/com.hiphop.drunksileo_1.0.6-2_iphoneos-arm.deb
-Size: 76876
-MD5sum: fc272208b27e9d0bea9de018c3e78bc5
-SHA1: b8b2cf88668d5eda399e430541cd69c1407da3a4
-SHA256: 99af2a398aaec6641393ac53ca854a28052d8eae839994a0475d503c640ddd61
-Section: Crazy HipHop-工具(Utilities)
-Description: Sileo的自由。在所有描述上启用完整的JavaScript， *正确*加载描述(修复诸如Rocketbootstrap描述之类的问题)，启用SHA1和MD5 repos。
-Author: Jake James
-Name: DrunkSileo for Sileo Sileo强制兼容Cydia源
-
 Package: com.hiphop.powerselector11
 Version: 1.2.0-1
 Architecture: iphoneos-arm
@@ -352,6 +336,22 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
+Package: ga.jakeashacks.drunksileo
+Version: 1.0.6-2
+Architecture: iphoneos-arm
+Maintainer: Jake James
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/ga.jakeashacks.drunksileo_1.0.6-2_iphoneos-arm.deb
+Size: 76932
+MD5sum: 7e779776660708a7d62e6fd9963e39e5
+SHA1: 82503cd5bdbd885856e14d91b4f0b78bb9459f4a
+SHA256: 9311ba2ae870ebd21fa2358fe346f69183711d04a97e6b6da0fda7cdaca3acd9
+Section: Crazy HipHop-工具(Utilities)
+Description: Sileo的自由。在所有描述上启用完整的JavaScript， *正确*加载描述(修复诸如Rocketbootstrap描述之类的问题)，启用SHA1和MD5 repos。
+Author: Jake James
+Name: DrunkSileo for Sileo Sileo强制兼容Cydia源
+
 Package: hiphop.cricetulu
 Version: 1.2
 Architecture: iphoneos-arm
@@ -436,14 +436,13 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CrazyHipHop <342080124@qq.com>
 Filename: ./debs/hiphop.viola_1.0_iphoneos-arm.deb
-Size: 32167516
-MD5sum: a432275718f97161dcfdc2b5de46ea77
-SHA1: cae710d5bab25b307255db50ddd8fc8dfa46fa7a
-SHA256: 6e41a95e3b7b9681f6e1f690d5b41b347ea48fce020f09d1ce98819d237f8390
+Size: 32167104
+MD5sum: 1772760b29f455090a9b3026a3b249fd
+SHA1: 49f9a17767dcb6779c8b8f671144834b6ec523f6
+SHA256: 9a144965bb5b8cf698f71ec163bbb25e875d9ac915af5877ff4b7e0e0465c536
 Section: Crazy HipHop-主题(Themes)
-Description: Viola
+Description: Viola 主题 ，个人正在使用
 Author: CrazyHipHop <342080124@qq.com>
-Depiction: https://crazyc.top/ms/msxq/viola
 Name: Viola 主题
 Sileodepiction: https://crazyc.top/ms/msxq/viola.json
 Sponsor: CrazyHipHop <http://crazyc.top>

@@ -238,6 +238,24 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
+Package: com.niceios.nicebarx
+Version: 2.0.3.2-19
+Architecture: iphoneos-arm
+Maintainer: niceios
+Installed-Size: 7956
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Filename: ./debs/com.niceios.nicebarx_2.0.3.2-19_iphoneos-arm.deb
+Size: 1263628
+MD5sum: 00cf8bbf549d268e0d74bc09368cec69
+SHA1: ab2625cae87c8a4d015d249e057aaa47c97a8448
+SHA256: 853662d61cad2cfb99e7ca0f99412e13a37e493556d628d80be04e2d1149ce74
+Section: Crazy HipHop-插件(Tweaks)
+Description: 状态栏插件.
+Author: niceios
+Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
+Name: NiceBarX 正版分流
+Sileodepiction: http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
+
 Package: com.springtomize.st4.new
 Version: 4.0.2
 Architecture: iphoneos-arm

@@ -336,6 +336,21 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
+Package: hiphop.cricetulu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop <342080124@qq.com>
+Filename: ./debs/hiphop.cricetulu_1.0_iphoneos-arm.deb
+Size: 16116
+MD5sum: 7a562d16feeb140a9370b75bc89aa930
+SHA1: 88a47365f9c6355281aa9d5ae5c2a940c70a5ccb
+SHA256: afbc39dcdd749f337cb1ed136bfb05babd9c910fd00ae710dd5152687c9c2204
+Section: Crazy HipHop-主题(Themes)
+Description: 小仓鼠 角标
+Author: CrazyHipHop <342080124@qq.com>
+Name: 小仓鼠 角标
+Sponsor: CrazyHipHop <http://crazyc.top>
+
 Package: hiphop.doraemon
 Version: 1.1
 Architecture: iphoneos-arm

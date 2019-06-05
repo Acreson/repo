@@ -204,6 +204,25 @@ Description: SnowBoard (App) 完整版
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard  (App) 完整版
 
+Package: com.hiphop.st4.new
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: sharedRoutine
+Installed-Size: 3368
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Provides: com.springtomize.st4.new
+Filename: ./debs/com.hiphop.st4.new_4.0.3_iphoneos-arm.deb
+Size: 552948
+MD5sum: b3c1fe6a9a4ebebc8d587545e8a3f62c
+SHA1: 6568daad426169a538614339baf9be94ae5977b0
+SHA256: 33f9c714b16bf4342c738203588ed1f5796ae921db23500dffc1b9624656aafa
+Section: Crazy HipHop-插件(Tweaks)
+Description: Customize your device like never before.
+Author: sharedRoutine
+Conflict: com.springtomize.st4
+Name: Springtomize4 瑞士军刀4
+
 Package: com.hiphop.transparentmusic
 Version: 0.0.1-2
 Architecture: iphoneos-arm
@@ -255,44 +274,6 @@ Author: niceios
 Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
 Name: NiceBarX 正版分流
 Sileodepiction: http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
-
-Package: com.springtomize.st4.new
-Version: 4.0.2
-Architecture: iphoneos-arm
-Maintainer: sharedRoutine
-Installed-Size: 3368
-Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
-Replaces: com.springtomize.st4
-Provides: com.springtomize.st4.new
-Filename: ./debs/com.springtomize.st4.new_4.0.2_iphoneos-arm.deb
-Size: 551580
-MD5sum: 76c2914a19c66ec7786cfbc3ab8bca97
-SHA1: 581147faac8395a3d8a2c0cfb1bfa62c4659c8a1
-SHA256: ad92ad39f5bffec21e58c4709d157fa546c7bc01563b188f154173634a8d6db3
-Section: Crazy HipHop-插件(Tweaks)
-Description: Customize your device like never before.
-Author: sharedRoutine%汉化：ball
-Conflict: com.springtomize.st4
-Name: Springtomize4 瑞士军刀4
-
-Package: com.springtomize.st4.new
-Version: 4.0.3
-Architecture: iphoneos-arm
-Maintainer: sharedRoutine
-Installed-Size: 3368
-Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
-Replaces: com.springtomize.st4
-Provides: com.springtomize.st4.new
-Filename: ./debs/com.springtomize.st4.new_4.0.3_iphoneos-arm.deb
-Size: 554180
-MD5sum: d879fdc1955f2823cd4dd7e86764cf97
-SHA1: 77cdc1529221d1ca606940fc2605ab63fdeb2c6f
-SHA256: 8d76351f47a426de745ed77f8b41d540c3eb06d5a5b060aed68ea4caa64a11c6
-Section: Crazy HipHop-插件(Tweaks)
-Description: Customize your device like never before.
-Author: sharedRoutine
-Conflict: com.springtomize.st4
-Name: Springtomize4 瑞士军刀4
 
 Package: com.yourepo.lenglengyu.kwmusica12
 Version: 5.0

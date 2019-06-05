@@ -341,13 +341,13 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: CrazyHipHop <342080124@qq.com>
 Filename: ./debs/hiphop.cricetulu_1.2_iphoneos-arm.deb
-Size: 7940
-MD5sum: b84afdb144b3374cf5baf5bb5ffbff3a
-SHA1: 095970a39b686a479708a5fd5f3a50608d27f5b3
-SHA256: b79366f6417290785b4b186553785558ddc5b0c680563d9ab22646fd20b69449
+Size: 7916
+MD5sum: dea5c3656bb0cf5c38c482d366470ed7
+SHA1: bc2db16e3ead9422ceb3326675eda8a3fc9735ae
+SHA256: f2d14d72ee35088753d5bfd60ce426fe4ce8a7635dc6ce22f340d6a3233f78ab
 Section: Crazy HipHop-主题(Themes)
 Description: 小仓鼠 角标
-Author: 板井泉水我本命&CrazyHipHop <342080124@qq.com>
+Author: CrazyHipHop <342080124@qq.com>
 Name: 小仓鼠 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
 

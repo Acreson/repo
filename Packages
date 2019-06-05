@@ -337,32 +337,17 @@ Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
 Package: hiphop.cricetulu
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: CrazyHipHop <342080124@qq.com>
-Filename: ./debs/hiphop.cricetulu_1.0_iphoneos-arm.deb
-Size: 16144
-MD5sum: 6c5cae19647a750dbbf6c771aebef9d3
-SHA1: 4f7d83d3f2bd856585a21e756fc6b742aa25b68f
-SHA256: 9a5bf7b868fe250349c481962495ab51b9a7203d1e749fc2e9e0cb52f976d2b5
+Filename: ./debs/hiphop.cricetulu_1.2_iphoneos-arm.deb
+Size: 7940
+MD5sum: b84afdb144b3374cf5baf5bb5ffbff3a
+SHA1: 095970a39b686a479708a5fd5f3a50608d27f5b3
+SHA256: b79366f6417290785b4b186553785558ddc5b0c680563d9ab22646fd20b69449
 Section: Crazy HipHop-主题(Themes)
 Description: 小仓鼠 角标
-Author: CrazyHipHop <342080124@qq.com>
-Name: 小仓鼠 角标
-Sponsor: CrazyHipHop <http://crazyc.top>
-
-Package: hiphop.cricetulu
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: CrazyHipHop <342080124@qq.com>
-Filename: ./debs/hiphop.cricetulu_1.1_iphoneos-arm.deb
-Size: 16180
-MD5sum: 7c6b4032e04e46362709c50b866ffbfc
-SHA1: 38d81d6bc842860952ff564d37bb8d56ab7787a9
-SHA256: 72cbe31e068fdb1bd54a489c01bf34ae5f9bce958c0116e5f5cf648a6087449c
-Section: Crazy HipHop-主题(Themes)
-Description: 小仓鼠 角标
-Author: 板井泉水我本命 <342080124@qq.com>
+Author: 板井泉水我本命&CrazyHipHop <342080124@qq.com>
 Name: 小仓鼠 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
 

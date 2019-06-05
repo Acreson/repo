@@ -264,10 +264,10 @@ Maintainer: niceios
 Installed-Size: 7956
 Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
 Filename: ./debs/com.niceios.nicebarx_2.0.3.2-19_iphoneos-arm.deb
-Size: 1263628
-MD5sum: 00cf8bbf549d268e0d74bc09368cec69
-SHA1: ab2625cae87c8a4d015d249e057aaa47c97a8448
-SHA256: 853662d61cad2cfb99e7ca0f99412e13a37e493556d628d80be04e2d1149ce74
+Size: 1260456
+MD5sum: 0ce3fe8da5816d6376c210bf65365cc2
+SHA1: 6a54dcb5278e1a1cb48e4d364d9cb39fc4eb8d5a
+SHA256: 2bbb66a920d965c76c4bbace170466ab13e361a7e24766da095ef8ffbad2a3ec
 Section: Crazy HipHop-插件(Tweaks)
 Description: 状态栏插件.
 Author: niceios
@@ -399,6 +399,23 @@ SHA256: 479649e3d17e23d251202f7525cc508284d8984c00e8421a9e8ebb8a4c2f774d
 Section: Crazy HipHop-网络(Networking)
 Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
 Name: TetherMe for iOS8+
+
+Package: hiphop.viola
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop <342080124@qq.com>
+Filename: ./debs/hiphop.viola_1.0_iphoneos-arm.deb
+Size: 32167516
+MD5sum: a432275718f97161dcfdc2b5de46ea77
+SHA1: cae710d5bab25b307255db50ddd8fc8dfa46fa7a
+SHA256: 6e41a95e3b7b9681f6e1f690d5b41b347ea48fce020f09d1ce98819d237f8390
+Section: Crazy HipHop-主题(Themes)
+Description: Viola
+Author: CrazyHipHop <342080124@qq.com>
+Depiction: https://crazyc.top/ms/msxq/viola
+Name: Viola 主题
+Sileodepiction: https://crazyc.top/ms/msxq/viola.json
+Sponsor: CrazyHipHop <http://crazyc.top>
 
 Package: hiphop.xz
 Version: 5.2.4-1

@@ -110,21 +110,6 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++ 应用降级
 
-Package: com.hiphop.cocoatop64
-Version: 2.0.3
-Architecture: iphoneos-arm
-Maintainer: Domo
-Depends: mobilesubstrate
-Filename: ./debs/com.hiphop.cocoatop64_2.0.3_iphoneos-arm.deb
-Size: 118784
-MD5sum: a84cf6c29d2ab0aaec463aa8ea487e72
-SHA1: a89ae5d2a45a361d6b4b300d218c484d61a271dc
-SHA256: a19aa8573e625291d73211c4953424ab9cc78b637932219d32b6c073e3418aab
-Section: Crazy HipHop-工具(Utilities)
-Description: 64位机器 进程查看器
-Author: Domo
-Name: CocoaTop 进程查看器
-
 Package: com.hiphop.conditionalwifi3
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -334,6 +319,22 @@ Tag: purpose::uikit, cydia::essential, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
+
+Package: hiphop.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 742
+Conflicts: hiphop.cocoatop
+Filename: ./debs/hiphop.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 152116
+MD5sum: 6a7430162cd628c38b58ca3e57d9e3cc
+SHA1: 04c613d2dae299ae639c25922405c60d8e94028c
+SHA256: f32132ce0c75af637f7fbda6175a655b2acfd203a695a31c6f97e19a38a5d3b7
+Section: Crazy HipHop-工具(Utilities)
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Name: CocoaTop 64Bit 进程查看器
 
 Package: hiphop.cricetulu
 Version: 1.2

@@ -201,19 +201,19 @@ Name: QQ功能加强破解版
 Sponsor: 小苹果™
 
 Package: com.hiphop.snowboardfull
-Version: 1.1.2
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Spark&CrazyHipHop
-Installed-Size: 900
+Installed-Size: 12345
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.hiphop.snowboardfull_1.1.2_iphoneos-arm.deb
-Size: 1582564
-MD5sum: dd1ae2de3cacf35ccfa252a967c3b52b
-SHA1: 6747d14f085507bd69e07028e71f62fd2ace7842
-SHA256: a00ed3d8c59458876c014fec7d1d4c9ba9c46d526ab52c28943882ae522302d3
+Filename: ./debs/com.hiphop.snowboardfull_1.2_iphoneos-arm.deb
+Size: 1595776
+MD5sum: 99412e13af1da3f4ee0aeea561a25067
+SHA1: f74ae84b6619cb5f0b44caecd0b11535f7b89370
+SHA256: 423b0a30d9bf508fc1614a972c02d2a8c647dc795f3f69aae0b61f072759b126
 Section: Crazy HipHop-工具(Utilities)
 Description: SnowBoard (App) 完整版
 Author: Spark & Dennis D. Bednarz
@@ -428,6 +428,21 @@ Section: Crazy HipHop-主题(Themes)
 Description: 小骷髅 角标
 Author: CrazyHipHop <342080124@qq.com>
 Name: 小骷髅 角标
+Sponsor: CrazyHipHop <http://crazyc.top>
+
+Package: hiphop.smoke
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop <342080124@qq.com>
+Filename: ./debs/hiphop.smoke_1.0_iphoneos-arm.deb
+Size: 29856
+MD5sum: 8c3f6945bb6919d99962bbf8f94cc01c
+SHA1: c714fba6723675cc746e6c2195f7784efe3c8762
+SHA256: fba070b2bcda61e610ea47e1e8797db97912d6739a5750147a938d006132f60e
+Section: Crazy HipHop-主题(Themes)
+Description: 烟雾 角标
+Author: CrazyHipHop <342080124@qq.com>
+Name: 烟雾 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
 
 Package: hiphop.tetherme8

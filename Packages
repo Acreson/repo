@@ -290,22 +290,6 @@ Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
 Name: NiceBarX 正版分流
 Sileodepiction: http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
 
-Package: com.yourepo.lenglengyu.kwmusica12
-Version: 5.0
-Architecture: iphoneos-arm
-Maintainer: daitu <xingxing@126.com>
-Installed-Size: 90
-Depends: mobilesubstrate
-Filename: ./debs/com.yourepo.lenglengyu.kwmusica12_5.0_iphoneos-arm.deb
-Size: 8764
-MD5sum: 6de6324211eabaca1f273cad4bdaa5ee
-SHA1: 54290f9ec363d3dc0ae1eb23a9347fcca8f8f738
-SHA256: 23c3bd3821774f68aec62a201e737514cdeb5b5d2d07d493a6757b36ad9f08ad
-Section: Crazy HipHop-插件(Tweaks)
-Description: 酷我音乐全新全功能破解版，破解年费豪华会员所有特权，点亮年费会员图标，允许试听下载任意付费专辑下架灰色SQ品质音乐，精简移除部分功能，移除海外ip限制，完美去除启动广告，个性皮肤随意用，5.0版更新支持全部无版权灰色歌曲直接在线下载试听，无版本限制，支持所有版本。更多破解软件，关注公众号：一只小果子。
-Author: 带土
-Name: 酷我音乐全功能破解
-
 Package: cydia-dark
 Version: 1.9.3~chimera4
 Architecture: iphoneos-arm
@@ -396,6 +380,23 @@ Section: Crazy HipHop-工具(Utilities)
 Description: Sileo的自由。在所有描述上启用完整的JavaScript， *正确*加载描述(修复诸如Rocketbootstrap描述之类的问题)，启用SHA1和MD5 repos。
 Author: Jake James
 Name: Drunk for Sileo Sileo强制兼容Cydia源
+
+Package: hiphop.kwplayer.kuwoyinyue
+Version: 6.0
+Architecture: iphoneos-arm
+Maintainer: Crazy HipHop
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/hiphop.kwplayer.kuwoyinyue_6.0_iphoneos-arm.deb
+Size: 24188
+MD5sum: e34240b5b04cd733787a819f31580068
+SHA1: 7aeafa7b5d094403ded4cae2f977b9f32788c870
+SHA256: 4c9d69ad9e8b39c75e394dc598cf17c4869dba6dc890d550b6675bdb763018a4
+Section: Crazy HipHop-插件(Tweaks)
+Priority: optional
+Description: 酷我音乐全新全功能破解版，破解年费豪华会员所有特权，点亮年费付费音乐图标，允许试听下载任意付费专辑下架灰色SQ品质音乐，精简移除部分功能，移除海外ip限制，完美去除启动广告，个性皮肤随意用，6.0版更新支持全部无版权灰色歌曲直接在线下载试听，无版本限制，支持所有版本。更多破解软件，关注公众号：一只小果子。
+Author: 带土
+Dev: 长生果子
+Name: 酷我音乐最新全破解
 
 Package: hiphop.lz4
 Version: 1.7.5-1

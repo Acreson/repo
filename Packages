@@ -351,6 +351,24 @@ Author: CrazyHipHop <342080124@qq.com>
 Name: 小仓鼠 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
 
+Package: hiphop.debkeeper12
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 324
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.debkeeper
+Filename: ./debs/hiphop.debkeeper12_1.0.4_iphoneos-arm.deb
+Size: 15736
+MD5sum: 2deae196b69de7d2f554948dc007d0ae
+SHA1: 0b7390490845e7a3cb6ffcd58fef25db4e14de4b
+SHA256: c99a576ddba53a2c2697bfffdf983b8336ac84528f3c0f0b69474297a894b4e4
+Section: Crazy HipHop-工具(Utilities)
+Description: 禁用删除Cydia、Sileo和Zebra中下载的的deb。
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Name: DebKeeper12 禁止删除deb补丁
+Sileodepiction: https://crazyc.top/ms/msxq/debkeeper12.json
+
 Package: hiphop.doraemon
 Version: 1.1
 Architecture: iphoneos-arm

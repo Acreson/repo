@@ -293,6 +293,24 @@ Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
 Name: NiceBarX 正版分流
 Sileodepiction: http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
 
+Package: com.niceios.nicebarx
+Version: 2.0.3.5-3+debug
+Architecture: iphoneos-arm
+Maintainer: niceios
+Installed-Size: 8172
+Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Filename: ./debs/com.niceios.nicebarx_2.0.3.5-3+debug_iphoneos-arm.deb
+Size: 1265164
+MD5sum: 6a7a1c2ff6c9fb94a87a59237af3d6c8
+SHA1: 776973ad4cd7c061377ec2903b633e268aa32447
+SHA256: 51eafc54942b63caf06fba0df07f2f3b8d839930b8d88d218ecb69d349ae3366
+Section: Crazy HipHop-插件(Tweaks)
+Description: statusbar tweak..
+Author: niceios
+Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
+Name: NiceBarX 正版分流
+Sileodepiction: http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
+
 Package: cydia-dark
 Version: 1.9.3~chimera4
 Architecture: iphoneos-arm

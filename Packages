@@ -510,10 +510,10 @@ Maintainer: PixelOmer
 Installed-Size: 336
 Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
 Filename: ./debs/hiphop.tweakexcluder_0.3-1_iphoneos-arm.deb
-Size: 24628
-MD5sum: bf2960de9781bc3a8fed9cf6e4955767
-SHA1: 161d7ecac9701d042e02b2e7664df70fdd2ffd9c
-SHA256: 72d1aea64ad82e92fc8360c006648e38ba33010792f8138f536b1e9d9eef1e98
+Size: 24616
+MD5sum: 1505adb6c326353ce87770f9c938ec10
+SHA1: fcbe7ff4057bf1de0e88f81cceb741b86159e048
+SHA256: ee303437a97cf3ce129008b1e448f6488a90bc2bdacce411c259d493a4171461
 Section: Crazy HipHop-工具(Utilities)
 Description: 自己配置自己的插件!特点:1、你可以选择不加载特定的调整在特定的应用程序。2、你可以完全禁用调整在指定的应用程序。在Electa/unc0ver/chimera工作正常。
 Author: PixelOmer

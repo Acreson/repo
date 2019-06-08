@@ -142,6 +142,24 @@ Description: Restrict certain apps from accessing wifi on iOS 11
 Author: ATWiiks
 Name: ConditionalWiFi4 IOS12网络权限
 
+Package: com.hiphop.libertylite.beta
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debs/com.hiphop.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42324
+MD5sum: e652bcb31d0d7dc3769c5d824e19b1bc
+SHA1: 15362326255929fc4a8efe164d2ed4c73adeee6c
+SHA256: 696806f8e225b237c6f26af8d537207de8d349b2fa0c5ebad701fa160428c267
+Section: Crazy HipHop-插件(Tweaks)
+Description: 一个通用的越狱检测旁路补丁。在设置应用程序中配置Liberty Lite条目，以阻止(大多数)应用程序检测您的越狱。当前不支持禁用基板/替换。这个测试版同时支持arm64e和armv7。
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite (Beta) 屏蔽越狱检测
+
 Package: com.hiphop.powerselector11
 Version: 1.2.0-1
 Architecture: iphoneos-arm

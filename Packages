@@ -110,6 +110,24 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++ 应用降级
 
+Package: com.hiphop.Alipaymysl
+Version: 0.6.6
+Architecture: iphoneos-arm
+Maintainer: 小小名仔
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.hiphop.alipaymysl_0.6.6_iphoneos-arm.deb
+Size: 24944
+MD5sum: bb02055d5405222a4be2780344392ed1
+SHA1: adee11b4fda2262490e394bab09dfa8e5590e273
+SHA256: 4f41e0d9efeb11d4bef199cf2dc57520d63f39391f847e5f9fd322fb43781b25
+Section: Crazy HipHop-插件(Tweaks)
+Priority: optional
+Description: 一键收取能量，个人用
+Author: 小小名仔
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Alipay蚂蚁森林增强插件
+Sponsor: 小小名仔
+
 Package: com.hiphop.conditionalwifi3
 Version: 1.0.0
 Architecture: iphoneos-arm

@@ -336,6 +336,28 @@ Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
 Name: CocoaTop 64Bit 进程查看器
 
+Package: hiphop.crash-reporter
+Version: 1.16.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1460
+Pre-Depends: firmware (>=4.0)
+Depends: coreutils, dpkg, grep, jp.ashikase.libcrashreport (>= 1.1.0), jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
+Filename: ./debs/hiphop.crash-reporter_1.16.0-1_iphoneos-arm.deb
+Size: 253704
+MD5sum: ca222a0b24ba3343ece4ff60d9e673ad
+SHA1: 71dfb25c66a3d49adf2f1b0e1cf9e6d3608149aa
+SHA256: 2c9db3542723d0b6c6957df4a307ea5218c8dbf0d6aa6c4b904e696b5960d040
+Section: Crazy HipHop-工具(Utilities)
+Homepage: http://github/ashikase/CrashReporter/
+Description: 发送实时崩溃日志记录
+Tag: purpose::uikit, role::enduser
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
+Dev: ashikase
+Name: CrashReporter 崩溃日志
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: hiphop.cricetulu
 Version: 1.2
 Architecture: iphoneos-arm

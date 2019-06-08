@@ -110,6 +110,26 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++ 应用降级
 
+Package: com.hiphoip.vcallers
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1514
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.hiphoip.vcallers_1.1_iphoneos-arm.deb
+Size: 181872
+MD5sum: 8953a0765b2d97de0f560fd95e5e3e3b
+SHA1: ec48357800a843ba5b7441da7d0764847f8816b3
+SHA256: faaaafffa91e03b803d6b7795299820e5c52f98b62c2275be47907dcc2680e79
+Section: Crazy HipHop-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vcallersDp
+Description: 设置视频为通话背景
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: dabeecao & TTJB Team <dabeecao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vcallersDp
+Dev: thuthuatjb
+Name: VCaller Screen 通话视频背景
+
 Package: com.hiphop.Alipaymysl
 Version: 0.6.6
 Architecture: iphoneos-arm
@@ -274,6 +294,24 @@ Section: Crazy HipHop-插件(Tweaks)
 Description: Transparency!
 Author: Mateusz Morawski
 Name: Transparent Music 透明通知音乐
+
+Package: com.hiphop.youtubetools
+Version: 3.0-1
+Architecture: iphoneos-arm
+Maintainer: Justin Petkovic
+Installed-Size: 304
+Depends: org.coolstar.tweakinject, com.ex.libsubstitute, cy+cpu.arm64
+Filename: ./debs/com.hiphop.youtubetools_3.0-1_iphoneos-arm.deb
+Size: 22520
+MD5sum: 588285fd5ff8a65a5183a7a1cc4cb5f8
+SHA1: 624c2182ac1be1ef2ebd62fa983e0a500a6364bd
+SHA256: 0b2ee9c1075317be0fd5df77e0b9a9714f9e8d2fd64dd91050a26ec0dec4984e
+Section: Crazy HipHop-插件(Tweaks)
+Description: YouTube应用程序必备工具箱.
+Author: Justin Petkovic
+Icon: https://coolstar.moe/sileoassets/depictions/assets/com.justinpetkovic.youtubetools-icon.png
+Name: YouTube Tools YouTube工具箱
+Sileodepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.justinpetkovic.youtubetools
 
 Package: com.julioverne.cydown
 Version: 6.9.7

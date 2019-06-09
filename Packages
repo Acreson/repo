@@ -334,10 +334,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
-Size: 1084320
-MD5sum: 4ae793e8c32c174ba203a51bd96facf0
-SHA1: cb3db4d854c479f6ee87ef30e5237af0b73c45a3
-SHA256: bcd2118e85c85b7c00c707f6e8f6a84499b62b12e40c1eb57b072a839ad47575
+Size: 1083892
+MD5sum: 52da38c9699c8c749ef964a6e8716560
+SHA1: 16cd3806e12a92283d39c7c9f4400bb729ca172e
+SHA256: 518c3ea5d3cea8c21398fbfc939080c926cffdca1184ae13bd9113739b994dc6
 Section: Crazy HipHop-插件(Tweaks)
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
@@ -697,19 +697,20 @@ Description: locally cached package icons from BigBoss
 Name: BigBoss Icon Set
 
 Package: xyz.willy.zebra
-Version: 1.0~beta13-16+debug
+Version: 1.0~beta13-17+debug
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres & CrazyHipHop
 Installed-Size: 13848
 Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta13-16+debug_iphoneos-arm.deb
-Size: 3849196
-MD5sum: 596bbf84f7040bf9de77083b4e022e43
-SHA1: e34d71fb99c7fefba630d0c69faef735c2dae29f
-SHA256: 42fe61214db24c8710f64fb4ac1cbf2ea19448f7199a924748a688831afcf77d
+Filename: ./debs/xyz.willy.zebra_1.0~beta13-17+debug_iphoneos-arm.deb
+Size: 3849588
+MD5sum: 4ceebd0e6d010e1ca883e6de1e7d158e
+SHA1: e70ae529e244ca6b77aa931edc9dacfd9c304669
+SHA256: c96a837e3c9b7f08595fdde7bb66b3007a46d85578cd0c49f06862cff80fd2a8
 Section: Crazy HipHop-安装包(Packages)
 Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x
 Author: Wilson Styres & CrazyHipHop
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
 Name: 斑马 包管理器(汉化)
 

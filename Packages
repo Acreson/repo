@@ -148,6 +148,21 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Alipay蚂蚁森林增强插件
 Sponsor: 小小名仔
 
+Package: com.hiphop.backupaz3
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
+Filename: ./debs/com.hiphop.backupaz3_1.5_iphoneos-arm.deb
+Size: 3191028
+MD5sum: 149d7bdddfb86da354358d36e113d6f8
+SHA1: d31e86d87735ae554dfff30322f239975f1208b6
+SHA256: c83b1e0242545c617059f7d2cbcf0a9ebea5628447c2c1a3cd5fbf353aa322ab
+Section: Crazy HipHop-工具(Utilities)
+Description: 一个完整的备份工具，IOS10-12
+Author: SynnyG <synnyg.devjb@gmail.com>
+Name: BackupAZ 3 备份神器
+
 Package: com.hiphop.conditionalwifi3
 Version: 1.0.0
 Architecture: iphoneos-arm

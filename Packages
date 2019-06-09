@@ -564,23 +564,6 @@ Author: 带土
 Dev: 长生果子
 Name: 酷我音乐最新全破解
 
-Package: hiphop.lz4
-Version: 1.7.5-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 840
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/hiphop.lz4_1.7.5-1_iphoneos-arm.deb
-Size: 81332
-MD5sum: a8f199297dc0a8bc93c4b459336f21a7
-SHA1: 5a837219ad720ed90690d6aacbe5a6a47afbcf66
-SHA256: e81f671859767029f15f6230ea36a67b1dd4c4cba190598c37e3ff7d28672a0b
-Section: Crazy HipHop-存档(Archiving)
-Priority: important
-Homepage: http://tukaani.org/lzma/
-Description: Extremely Fast Compression algorithm
-Name: LZ4
-
 Package: hiphop.skeleton
 Version: 1.0
 Architecture: iphoneos-arm
@@ -660,24 +643,39 @@ Name: Viola 主题
 Sileodepiction: https://crazyc.top/ms/msxq/viola.json
 Sponsor: CrazyHipHop <http://crazyc.top>
 
-Package: hiphop.xz
-Version: 5.2.4-1
+Package: lz4
+Version: 1.7.5-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1104
-Depends: lzma (=4.32.7-5)
-Conflicts: xz-utils
-Provides: xz-utils
-Filename: ./debs/hiphop.xz_5.2.4-1_iphoneos-arm.deb
-Size: 600400
-MD5sum: 87fe384f9dba4aa2b1c9516305c15f81
-SHA1: 62fd2a3d7a24ecf62e3283ca4cbb28463fea74b8
-SHA256: b11cf839aaad6cda15f00fa5d07effc18c6b5470664e1e9702d771cf05c6f451
+Installed-Size: 840
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/lz4_1.7.5-1_iphoneos-arm.deb
+Size: 751706
+MD5sum: 2fa6c4ca7a63a05e4a4a3c91a48ada7b
+SHA1: c1f6fdfa23604ec81a1a5d3b96a039553ceffe8c
+SHA256: 88a1328698ae38e513a60333c9c09ca0a131812daf7ed4bdd6016119dd1cd4ab
+Section: Crazy HipHop-存档(Archiving)
+Priority: important
+Homepage: http://tukaani.org/lzma/
+Description: Extremely Fast Compression algorithm
+Name: LZ4
+
+Package: lzma
+Version: 4.32.7-5
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 396
+Depends: grep, sed
+Filename: ./debs/lzma_4.32.7-5_iphoneos-arm.deb
+Size: 1238300
+MD5sum: 5155f36d7752743922d91babddc9fe52
+SHA1: bbce2c5de42a886375e305eb0a11cc1314d6433a
+SHA256: bba681e388050d5ea525c30947161fe64cc36c10b8906e500ac8df9c0ab48615
 Section: Crazy HipHop-存档(Archiving)
 Priority: important
 Homepage: http://tukaani.org/lzma/
 Description: slower, but better, compression algorithm
-Name: XZ Utils
+Name: LZMA Utils
 
 Package: org.thebigboss.repo.icons
 Version: 1.1
@@ -713,4 +711,23 @@ Tag: purpose::x
 Author: Wilson Styres & CrazyHipHop
 Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
 Name: 斑马 包管理器(汉化)
+
+Package: xz
+Version: 5.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1104
+Depends: lzma (=4.32.7-5)
+Conflicts: xz-utils
+Provides: xz-utils
+Filename: ./debs/xz_5.2.4-1_iphoneos-arm.deb
+Size: 391588
+MD5sum: 3c79fc7421d0db43ebc446dffb81f32a
+SHA1: 29ed2eceac0f6245b519bcc54d24cae0f6541994
+SHA256: 94e394c7df4df60e79eb55960a384563adcb6012396cd2ae840bebaf9f368f96
+Section: Crazy HipHop-存档(Archiving)
+Priority: important
+Homepage: http://tukaani.org/lzma/
+Description: slower, but better, compression algorithm
+Name: XZ Utils
 

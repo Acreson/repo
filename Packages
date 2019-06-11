@@ -547,18 +547,18 @@ Dev: 长生果子
 Name: 酷我音乐最新全破解
 
 Package: hiphop.sareth
-Version: 1.0.1-1
+Version: 1.0.1-2
 Architecture: iphoneos-arm
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 3012
 Depends: mobilesubstrate, ws.hbang.common, me.nepeta.libcolorpicker, firmware (>= 12.0)
 Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
 Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Filename: ./debs/hiphop.sareth_1.0.1-1_iphoneos-arm.deb
-Size: 2473712
-MD5sum: ce04db17c2fa088d4ebeee39e5dfdcdc
-SHA1: 5db81cc883d51e7b623080fbc4c8ea691606ad70
-SHA256: c2f69618edd87daa3ec32bf0bdb84af9cc07011e182518aed46ee764a0379061
+Filename: ./debs/hiphop.sareth_1.0.1-2_iphoneos-arm.deb
+Size: 2473376
+MD5sum: c62a441de087fb4aba5bb8b69a37687a
+SHA1: d9cac2adb897fe04b635f6ac7eb4d91aaad6cded
+SHA256: 606037283871005c54bd7360bb75f39a47db78e034e87a06008cfd4228b09789
 Section: Crazy HipHop-插件(Tweaks)
 Description: 负责你的控制中心增强。Take charge of your Control Center!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>

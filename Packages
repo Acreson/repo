@@ -245,15 +245,15 @@ Maintainer: 小苹果™
 Installed-Size: 49.78
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.hiphop.qq_7.9.8_iphoneos-arm.deb
-Size: 146708
-MD5sum: 9095f4bb1047957a7462885b2d76d343
-SHA1: 1554468b702025456824456585a78764d7745d42
-SHA256: c305529e8c3a0eaeba518169d6025591ed40e24dce6fae9163064ed705553ecf
-Section: Crazy HipHop-插件(Tweaks)
+Size: 146236
+MD5sum: 0c317402aace926324ee45cafb8a0d99
+SHA1: bc91461094561fe7d832480479e10b13881d5571
+SHA256: 918419d4cf80f19064275655fa6d6cb45281f17722d17a368bae2071e01696dc
+Section: Crazy HipHop-增强(Enhance)
 Priority: optional
 Author: 小苹果™
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: QQ功能加强破解版
+Name: QQ Helper
 Sponsor: 小苹果™
 
 Package: com.hiphop.snowboardfull
@@ -584,10 +584,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CrazyHipHop <342080124@qq.com>
 Filename: ./debs/hiphop.smoke_1.0_iphoneos-arm.deb
-Size: 29856
-MD5sum: 8c3f6945bb6919d99962bbf8f94cc01c
-SHA1: c714fba6723675cc746e6c2195f7784efe3c8762
-SHA256: fba070b2bcda61e610ea47e1e8797db97912d6739a5750147a938d006132f60e
+Size: 29864
+MD5sum: 6f298f4837e7b88389a985f2c9a896a6
+SHA1: faaabe6a4c979d62eafc323e3d073631d39b781a
+SHA256: 5746b24100883b09e03cdd29b8ece54ca439939ba74ce590fb8b3ba953a83b4e
 Section: Crazy HipHop-主题(Themes)
 Description: 烟雾 角标
 Author: CrazyHipHop <342080124@qq.com>
@@ -642,6 +642,36 @@ Author: CrazyHipHop <342080124@qq.com>
 Name: Viola 主题
 Sileodepiction: https://crazyc.top/ms/msxq/viola.json
 Sponsor: CrazyHipHop <http://crazyc.top>
+
+Package: hiphop.wechathelper
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/hiphop.wechathelper_1.4.1_iphoneos-arm.deb
+Size: 55356
+MD5sum: 0aaa163188b5c7cc44736cc96cd8474c
+SHA1: 2a443a98e81afb6483c2859e3d792ad9ab667ae2
+SHA256: b29df451f069cc52ba61a62278d9d6ab0890123907d5167073d708f2fe210bab
+Section: Crazy HipHop-增强(Enhance)
+Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
+Author: iBreak <ibreak2019@qq.com>
+Name: WeChat Helper 微信助手
+
+Package: hiphop.wechathelper
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/hiphop.wechathelper_2.0_iphoneos-arm.deb
+Size: 72696
+MD5sum: e46d07496837d408fee30c7c24e257aa
+SHA1: 2088285eb28e86e5b1e6f19aeab84d40dee5b35f
+SHA256: ff6e917c92052283f0416b657efca1bb1768cd152e8983e2e06caee76aa878e0
+Section: Crazy HipHop-增强(Enhance)
+Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
+Author: iBreak <ibreak2019@qq.com>
+Name: WeChat Helper 微信助手
 
 Package: lz4
 Version: 1.7.5-1

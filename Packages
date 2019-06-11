@@ -592,6 +592,21 @@ Section: Crazy HipHop-网络(Networking)
 Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
 Name: TetherMe for iOS8+
 
+Package: hiphop.tgunblockx
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Jianan Tian <690836844@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.tgunblockx_1.1.1_iphoneos-arm.deb
+Size: 2720
+MD5sum: 42b349e58408421c4e409ae6ece163e5
+SHA1: 8470d4a77c2e53a22ce81ed9db511db626805d23
+SHA256: 8a77ef7cf4f90f9c302cef6bde088ac683fa6ce498fa36ebf2fd534207a8974f
+Section: Crazy HipHop-增强(Enhance)
+Description: 突破电报封锁群，看群内消息，非常好用，直接安装生效，无需设置，适用于Telegram (5.0+)
+Author: Jianan Tian <690836844@qq.com>
+Name: TGUnblock X
+
 Package: hiphop.tweakexcluder
 Version: 0.3-1
 Architecture: iphoneos-arm

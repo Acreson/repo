@@ -227,16 +227,16 @@ Maintainer: 小苹果™
 Installed-Size: 49.78
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.hiphop.qq_7.9.8_iphoneos-arm.deb
-Size: 146480
-MD5sum: 47e8a84c432215c0f9cf51949864a225
-SHA1: 48f4f1f7abde462189f6bc34bfa7a6516086b4a8
-SHA256: 596f2dd78aa6d813a4aeddd8772c393973a88e161ed6298510d0ff9226672afb
+Size: 146716
+MD5sum: d71ab1d58fb3adc6cb4c36f411446a70
+SHA1: cc97f65264e19acf07052cd7ed6adb5d5b8996da
+SHA256: b4087209d4c410df068bcb1e86fd05b70176f8f9bf3361eefa9f2435c7942743
 Section: Crazy HipHop-增强(Enhance)
 Priority: optional
-Description: 虚拟定位，抢红包，防撤回，虚拟机型(随意输入验证码点验证即可)
+Description: 功能：虚拟定位，抢红包，防撤回，虚拟机型(随意输入验证码点验证即可)设置右上角QQMAX
 Author: 小苹果™
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: QQ Helper
+Name: QQ Helper QQ增强助手
 Sponsor: 小苹果™
 
 Package: com.hiphop.snowboardfull
@@ -398,14 +398,15 @@ Architecture: iphoneos-arm
 Maintainer: CrazyHipHop
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/hiphop.alipay-antforest_0.3_iphoneos-arm.deb
-Size: 243624
-MD5sum: facad000d6ea2b9fccb67c3e2e7b8e0d
-SHA1: 7b9226385b282b6ddff42d45fd3e1eed6e78b070
-SHA256: 3220b890eb0babab008b1218742e971e96ed05d0cebd23476f5f5a42337aa0d9
+Size: 243844
+MD5sum: 6d6038c1df4c0178877e20c376937bfd
+SHA1: 3559365a21b220bcd8d3c82e5c36780caa85acc8
+SHA256: a460fcd9208e2cb0f20ea6f3df88ba578a26613e49abfd1575cd05bbe86a96c5
 Section: Crazy HipHop-增强(Enhance)
 Priority: optional
 Description: 收集好友、收集气泡、定时收取、浇水功能、清空数据
 Author: King
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Alipay蚂蚁森林增强(非A12)
 
 Package: hiphop.Alipaymysl
@@ -645,13 +646,14 @@ Architecture: iphoneos-arm
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate,preferenceloader
 Filename: ./debs/hiphop.wechathelper_1.4.1_iphoneos-arm.deb
-Size: 55356
-MD5sum: 0aaa163188b5c7cc44736cc96cd8474c
-SHA1: 2a443a98e81afb6483c2859e3d792ad9ab667ae2
-SHA256: b29df451f069cc52ba61a62278d9d6ab0890123907d5167073d708f2fe210bab
+Size: 55284
+MD5sum: 4f96da5d9c6d4324fc517370cc8f8112
+SHA1: d4c3be6297c7891732ab631c891473fed0991e3c
+SHA256: b5fa9d72f6365c1113b1555393de24f1940bf68c0978b990aac2b7ae3ad1c3c4
 Section: Crazy HipHop-增强(Enhance)
 Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
 Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChat Helper 微信助手
 
 Package: hiphop.wechathelper
@@ -660,13 +662,14 @@ Architecture: iphoneos-arm
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate,preferenceloader
 Filename: ./debs/hiphop.wechathelper_2.0_iphoneos-arm.deb
-Size: 72696
-MD5sum: e46d07496837d408fee30c7c24e257aa
-SHA1: 2088285eb28e86e5b1e6f19aeab84d40dee5b35f
-SHA256: ff6e917c92052283f0416b657efca1bb1768cd152e8983e2e06caee76aa878e0
+Size: 72788
+MD5sum: 63b032f811c9ffb73549a73c520f1d8b
+SHA1: d097b7fe95f0bb54ab12dc59fb9f39335f7a28ac
+SHA256: c0f1f160627aadd8649e7c45fc57455dd98de03cdec57e2322ddb52d06120381
 Section: Crazy HipHop-增强(Enhance)
 Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
 Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChat Helper 微信助手
 
 Package: lz4

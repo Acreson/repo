@@ -564,6 +564,24 @@ Description: 负责你的控制中心增强。Take charge of your Control Center
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: Sareth 控制中心增强
 
+Package: hiphop.sareth
+Version: 1.0.1-3
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 3012
+Depends: mobilesubstrate, ws.hbang.common, me.nepeta.libcolorpicker, firmware (>= 12.0)
+Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Filename: ./debs/hiphop.sareth_1.0.1-3_iphoneos-arm.deb
+Size: 2473936
+MD5sum: b72fb1969456a5fa0a51fec735d6aa54
+SHA1: 6ef8e1ce1375a19277265467aba43c178af28130
+SHA256: 6c834241fb12f3346247683de2ddc0427a4d172f6262b1abe45dfb076e74161d
+Section: Crazy HipHop-插件(Tweaks)
+Description: 负责你的控制中心增强。Take charge of your Control Center!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Sareth 控制中心增强
+
 Package: hiphop.skeleton
 Version: 1.0
 Architecture: iphoneos-arm

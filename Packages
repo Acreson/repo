@@ -300,11 +300,11 @@ Maintainer: Justin Petkovic
 Installed-Size: 304
 Depends: org.coolstar.tweakinject, com.ex.libsubstitute, cy+cpu.arm64
 Filename: ./debs/com.hiphop.youtubetools_3.0-1_iphoneos-arm.deb
-Size: 22520
-MD5sum: 588285fd5ff8a65a5183a7a1cc4cb5f8
-SHA1: 624c2182ac1be1ef2ebd62fa983e0a500a6364bd
-SHA256: 0b2ee9c1075317be0fd5df77e0b9a9714f9e8d2fd64dd91050a26ec0dec4984e
-Section: Crazy HipHop-插件(Tweaks)
+Size: 22536
+MD5sum: f6becc0a557c3810544157b4a1914012
+SHA1: 611707a6c2d972373899d521cc5d830f401e931c
+SHA256: 28b58673bc74c226ff8ec9409413973fa3ca18580f41262a49bb3904a13ffd9d
+Section: Crazy HipHop-增强(Enhance)
 Description: YouTube应用程序必备工具箱.
 Author: Justin Petkovic
 Icon: https://coolstar.moe/sileoassets/depictions/assets/com.justinpetkovic.youtubetools-icon.png

@@ -130,24 +130,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vcallersDp
 Dev: thuthuatjb
 Name: VCaller Screen 通话视频背景
 
-Package: com.hiphop.Alipaymysl
-Version: 0.6.6
-Architecture: iphoneos-arm
-Maintainer: 小小名仔
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.hiphop.alipaymysl_0.6.6_iphoneos-arm.deb
-Size: 24944
-MD5sum: bb02055d5405222a4be2780344392ed1
-SHA1: adee11b4fda2262490e394bab09dfa8e5590e273
-SHA256: 4f41e0d9efeb11d4bef199cf2dc57520d63f39391f847e5f9fd322fb43781b25
-Section: Crazy HipHop-插件(Tweaks)
-Priority: optional
-Description: 一键收取能量，个人用
-Author: 小小名仔
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: Alipay蚂蚁森林增强插件
-Sponsor: 小小名仔
-
 Package: com.hiphop.backupaz3
 Version: 1.5
 Architecture: iphoneos-arm
@@ -416,15 +398,33 @@ Architecture: iphoneos-arm
 Maintainer: CrazyHipHop
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/hiphop.alipay-antforest_0.3_iphoneos-arm.deb
-Size: 243860
-MD5sum: 4d06e0327011103cc189631f2d2999bf
-SHA1: 7fa687012e90e9efdee43b9a91ca8c6a95f8e40f
-SHA256: 02db1a61049eee77f48a466d279591c2f4c6a6d413c24826685fbe15d41c9ac1
+Size: 243624
+MD5sum: facad000d6ea2b9fccb67c3e2e7b8e0d
+SHA1: 7b9226385b282b6ddff42d45fd3e1eed6e78b070
+SHA256: 3220b890eb0babab008b1218742e971e96ed05d0cebd23476f5f5a42337aa0d9
 Section: Crazy HipHop-增强(Enhance)
 Priority: optional
 Description: 收集好友、收集气泡、定时收取、浇水功能、清空数据
 Author: King
-Name: Alipay_AntForest
+Name: Alipay蚂蚁森林增强(非A12)
+
+Package: hiphop.Alipaymysl
+Version: 0.6.6
+Architecture: iphoneos-arm
+Maintainer: 小小名仔
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/hiphop.alipaymysl_0.6.6_iphoneos-arm.deb
+Size: 24892
+MD5sum: 6e7188f2ca73f86ac9847a84022f0254
+SHA1: 424e865556be9605fc95be7b48800f9a1ab4dc39
+SHA256: da3c1e4129a12c44b116eaafd5dba2692694ee0736f2751d6ea2b3a655256396
+Section: Crazy HipHop-增强(Enhance)
+Priority: optional
+Description: 一键收取能量，个人用
+Author: 小小名仔
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Alipay蚂蚁森林增强(A12)
+Sponsor: 小小名仔
 
 Package: hiphop.cocoatop64
 Version: 2.0.2-1+debug

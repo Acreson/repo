@@ -410,6 +410,22 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
+Package: hiphop.Alipay-AntForest
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/hiphop.alipay-antforest_0.3_iphoneos-arm.deb
+Size: 243860
+MD5sum: 4d06e0327011103cc189631f2d2999bf
+SHA1: 7fa687012e90e9efdee43b9a91ca8c6a95f8e40f
+SHA256: 02db1a61049eee77f48a466d279591c2f4c6a6d413c24826685fbe15d41c9ac1
+Section: Crazy HipHop-增强(Enhance)
+Priority: optional
+Description: 收集好友、收集气泡、定时收取、浇水功能、清空数据
+Author: King
+Name: Alipay_AntForest
+
 Package: hiphop.cocoatop64
 Version: 2.0.2-1+debug
 Architecture: iphoneos-arm

@@ -245,12 +245,13 @@ Maintainer: 小苹果™
 Installed-Size: 49.78
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.hiphop.qq_7.9.8_iphoneos-arm.deb
-Size: 146236
-MD5sum: 0c317402aace926324ee45cafb8a0d99
-SHA1: bc91461094561fe7d832480479e10b13881d5571
-SHA256: 918419d4cf80f19064275655fa6d6cb45281f17722d17a368bae2071e01696dc
+Size: 146480
+MD5sum: 47e8a84c432215c0f9cf51949864a225
+SHA1: 48f4f1f7abde462189f6bc34bfa7a6516086b4a8
+SHA256: 596f2dd78aa6d813a4aeddd8772c393973a88e161ed6298510d0ff9226672afb
 Section: Crazy HipHop-增强(Enhance)
 Priority: optional
+Description: 虚拟定位，抢红包，防撤回，虚拟机型(随意输入验证码点验证即可)
 Author: 小苹果™
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ Helper
@@ -334,11 +335,11 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
-Size: 1083892
-MD5sum: 52da38c9699c8c749ef964a6e8716560
-SHA1: 16cd3806e12a92283d39c7c9f4400bb729ca172e
-SHA256: 518c3ea5d3cea8c21398fbfc939080c926cffdca1184ae13bd9113739b994dc6
-Section: Crazy HipHop-插件(Tweaks)
+Size: 1084052
+MD5sum: 6b47ccb2c393d9c81735411ebd2852b0
+SHA1: 9f1871e6ec53906078be7e8c0840ba41c0669404
+SHA256: 100452f0bf8d8d411089c048f51d5631e962eb4738530c638af38ec48afe4276
+Section: Crazy HipHop-工具(Utilities)
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
@@ -347,53 +348,17 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 
 Package: com.niceios.nicebarx
-Version: 2.0.3.2-19
-Architecture: iphoneos-arm
-Maintainer: niceios
-Installed-Size: 7956
-Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
-Filename: ./debs/com.niceios.nicebarx_2.0.3.2-19_iphoneos-arm.deb
-Size: 1260456
-MD5sum: 0ce3fe8da5816d6376c210bf65365cc2
-SHA1: 6a54dcb5278e1a1cb48e4d364d9cb39fc4eb8d5a
-SHA256: 2bbb66a920d965c76c4bbace170466ab13e361a7e24766da095ef8ffbad2a3ec
-Section: Crazy HipHop-插件(Tweaks)
-Description: 状态栏插件.
-Author: niceios
-Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
-Name: NiceBarX 正版分流
-Sileodepiction: http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
-
-Package: com.niceios.nicebarx
-Version: 2.0.3.5-3+debug
+Version: 2.0.3.7-1+debug
 Architecture: iphoneos-arm
 Maintainer: niceios
 Installed-Size: 8172
 Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
-Filename: ./debs/com.niceios.nicebarx_2.0.3.5-3+debug_iphoneos-arm.deb
-Size: 1265164
-MD5sum: 6a7a1c2ff6c9fb94a87a59237af3d6c8
-SHA1: 776973ad4cd7c061377ec2903b633e268aa32447
-SHA256: 51eafc54942b63caf06fba0df07f2f3b8d839930b8d88d218ecb69d349ae3366
-Section: Crazy HipHop-插件(Tweaks)
-Description: statusbar tweak..
-Author: niceios
-Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
-Name: NiceBarX 正版分流
-Sileodepiction: http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
-
-Package: com.niceios.nicebarx
-Version: 2.0.3.6-1+debug
-Architecture: iphoneos-arm
-Maintainer: niceios
-Installed-Size: 8172
-Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
-Filename: ./debs/com.niceios.nicebarx_2.0.3.6-1+debug_iphoneos-arm.deb
-Size: 1265780
-MD5sum: def5be89c032bb2222e5ab29c087f44c
-SHA1: d299ba34d2070b1eb8cc46be565c37a9f11b0456
-SHA256: 71a51cf708f1ce9de2909ec31ac6c817ebdf82c5b0c3069078de91e8a11f8127
-Section: Crazy HipHop-插件(Tweaks)
+Filename: ./debs/com.niceios.nicebarx_2.0.3.7-1+debug_iphoneos-arm.deb
+Size: 1266608
+MD5sum: 86a78ce16ebeb86754b4a6bd2173baf5
+SHA1: 6b872ae09998ef6d129d025728d34c026a75327b
+SHA256: 5bdbb9209525198253d51a66edcd1e7f29a2568dde16544c2fa8370c72a748b0
+Section: Crazy HipHop-分流(Shunt)
 Description: statusbar tweak..
 Author: niceios
 Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx

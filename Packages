@@ -599,15 +599,15 @@ Architecture: iphoneos-arm
 Maintainer: Jianan Tian <690836844@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/hiphop.tgunblockx_1.1.1_iphoneos-arm.deb
-Size: 2760
-MD5sum: 90f2c421fff5abc71ecb7052377faab2
-SHA1: 22e1a590a445e270b25fc53dbacc98c435e62f77
-SHA256: 6bb4178fdcb097c4dbfd92fe4652658edce8607b0b80a5cbe87311ccc891af36
+Size: 2768
+MD5sum: a23870c925f8e76bc474a6076d68147b
+SHA1: f9839123c6419b7908ac8cf60baa34ec83208f22
+SHA256: 3fe527f40572da570f9a7b7c3bef3c6dfa29e4246358ee0b72fcfc5124d56178
 Section: Crazy HipHop-增强(Enhance)
 Description: 突破电报封锁群，看群内消息，非常好用，直接安装生效，无需设置，适用于Telegram (5.0+)
 Author: Jianan Tian <690836844@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: TGUnblock X
+Name: TGUnblock X. TG解锁
 
 Package: hiphop.tweakexcluder
 Version: 0.3-1

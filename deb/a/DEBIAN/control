@@ -1,0 +1,9 @@
+Package: hiphop.wechathelper
+Name: WeChat Helper 微信助手
+Version: 2.0
+Architecture: iphoneos-arm
+Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
+Author: iBreak <ibreak2019@qq.com>
+Section: Crazy HipHop-增强(Enhance)
+Depends: mobilesubstrate,preferenceloader
+Maintainer: iBreak <ibreak2019@qq.com>

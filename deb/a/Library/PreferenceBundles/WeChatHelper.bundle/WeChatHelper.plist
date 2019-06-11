@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>WeChatHelperLogo</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>CYListController</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>label</key>
+			<string>常用功能</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>GJListController</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>label</key>
+			<string>高级功能</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>YLListController</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>label</key>
+			<string>娱乐功能</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>SCListController</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>label</key>
+			<string>上传设置</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>QTListController</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>label</key>
+			<string>其它设置</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>如果你喜欢我的插件，欢迎给我捐赠，感谢你的支持!!</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>AboutwchListController</string>
+			<key>icon</key>
+			<string>iBreak</string>
+			<key>label</key>
+			<string>关于我</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>zcibreak</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>zcibreak</string>
+			<key>label</key>
+			<string>支持我</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>本插件基于微信 V7.0 以上版本开发
+
+本插件完全免费，仅供学习交流，禁止商业用途
+
+Copyright © 2019 iBreak. All rights reserved.</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>返回</string>
+</dict>
+</plist>

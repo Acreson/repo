@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>GJLogo</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>1. 伪装 iPad 客户端说明：开启伪装 iPad 客户端后，彻底将微信变成 iPad 版，可以实现一号两端登录。在另一个不管什么手机上不用装本插件，直接登录你这个本机已登录的帐号不会被强制下线，会提示你iPad与手机同时登录。伪装后你的微信客户端完全变成 iPad 版，比如 iPad 版的微信没有支付或切换帐号和朋友圈上传视频功能等… (但是!! 我还是强制加入了朋友圈上传视频功能。😝)
+
+2. 伪装 iPhone 客户端说明：仅 iPad 设备使用有效，伪装后你的微信客户端完全变成 iPhone 版，可以实现拥有 iPhone 微信客户端所有功能，比如支付功能/切换帐号/朋友圈上传视频等…</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>WeChatHelper</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>key</key>
+			<string>iPad</string>
+			<key>label</key>
+			<string>伪装 iPad 客户端</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>WeChatHelper</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>key</key>
+			<string>iPhone</string>
+			<key>label</key>
+			<string>伪装 iPhone 客户端</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>开启 WeChat Out 电话功能说明： 本功能暂时不支持中国大陆地区的用户。(仅供测试)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>WeChatHelper</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>key</key>
+			<string>kqwechatout</string>
+			<key>label</key>
+			<string>开启 WeChat Out 电话功能</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>开启“拍照/录制”调用系统相机说明：完全将微信相机功能调用为系统相机!!</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>WeChatHelper</string>
+			<key>icon</key>
+			<string>Callbar</string>
+			<key>key</key>
+			<string>kqpzlztyxtxj</string>
+			<key>label</key>
+			<string>开启“拍照/录制”调用系统相机</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>
+Copyright © 2019 iBreak. All rights reserved.</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string></string>
+</dict>
+</plist>

@@ -760,16 +760,16 @@ Description: locally cached package icons from BigBoss
 Name: BigBoss Icon Set
 
 Package: xyz.willy.zebra
-Version: 1.0~beta13-19+debug
+Version: 1.0~beta13-23+debug
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres & CrazyHipHop
-Installed-Size: 13848
+Installed-Size: 15188
 Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta13-19+debug_iphoneos-arm.deb
-Size: 4384880
-MD5sum: 229c89ed093ccc2208d4a3b07a8b9b10
-SHA1: 906c9b7ea456fb6656cd1396a1f501c193b3db54
-SHA256: 0a5598bd9040b1c2ee3792eb4e76d7135973308e8e530fef803f4d7edd6fb81d
+Filename: ./debs/xyz.willy.zebra_1.0~beta13-23+debug_iphoneos-arm.deb
+Size: 5028596
+MD5sum: 4a86ea874de7021a0821423d403e790f
+SHA1: 3a14d5dbfc3c32097af4a90680c6921b6b47c6e0
+SHA256: f2d4589abde753781c1fc0b8fdf67a443aa6d64f6d024f15a798c226ad58f899
 Section: Crazy HipHop-安装包(Packages)
 Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x

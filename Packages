@@ -357,10 +357,10 @@ Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwint
 Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
 Filename: ./debs/cydia-dark_1.9.3~chimera4_iphoneos-arm.deb
-Size: 1290152
-MD5sum: 9537ae5cc950b962a7a16298ac037c3d
-SHA1: d8d0dae014cb206f9cfd1ab478d551aee3ea6eaa
-SHA256: be4fac7df797b463b0d0716ef4d393a35a25d481e4e04dc7e6be8d689e2a0134
+Size: 1291232
+MD5sum: be256256a50d9c08dfa4ee50e96f925b
+SHA1: b0571bb6901d2ad7de89153e713ae62c67a3fcb0
+SHA256: 581714e0a5166aed1061050902c0c4113eb142ef8f9919fffded64508f5e8cce
 Section: Crazy HipHop-安装包(Packages)
 Priority: optional
 Description: graphical iPhone front-end for APT
@@ -368,7 +368,7 @@ Tag: purpose::uikit, role::enduser
 Author: Diatrus <me@diatr.us>
 Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
-Name: Cydia for Chimera/Electra
+Name: Chimera/Electra专用Cydia
 
 Package: cydia-lproj
 Version: 1.9.3~chimera

@@ -529,6 +529,22 @@ Description: Sileo的自由。在所有描述上启用完整的JavaScript， *�
 Author: Jake James
 Name: Drunk for Sileo Sileo强制兼容Cydia源
 
+Package: hiphop.imagecorrect
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Satvik Borra
+Installed-Size: 336
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/hiphop.imagecorrect_0.1_iphoneos-arm.deb
+Size: 33200
+MD5sum: c07d2ff46fa05a33ef2064d9560d0050
+SHA1: 3ea5b34086a0c973fb3d8e4f564388419f8eec0b
+SHA256: e8c8d965939d07d0506b68e0301879d6aa6e6d1ec19e0320b0f900f5c1b50093
+Section: Crazy HipHop-插件(Tweaks)
+Description: An awesome MobileSubstrate tweak!
+Author: Satvik Borra
+Name: ImageCorrect 文本替换(添加图像支持)
+
 Package: hiphop.kwplayer.kuwoyinyue
 Version: 6.0
 Architecture: iphoneos-arm

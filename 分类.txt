@@ -1,5 +1,6 @@
 
 Section: Crazy HipHop-插件(Tweaks)
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 
 
 Section: Crazy HipHop-依赖(Depends)
@@ -9,6 +10,7 @@ Section: Crazy HipHop-安装包(Packages)
 
 
 Section: Crazy HipHop-网络(Networking)
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
 
 
 Section: Crazy HipHop-存档(Archiving)

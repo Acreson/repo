@@ -794,6 +794,43 @@ Author: Wilson Styres & CrazyHipHop
 Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
 Name: 斑马 包管理器(汉化)
 
+Package: xyz.xninja.systeminfo
+Version: 2.2.1-10+debug
+Architecture: iphoneos-arm
+Maintainer: ARX8x
+Installed-Size: 1816
+Depends: mobilesubstrate
+Filename: ./debs/xyz.xninja.systeminfo_2.2.1-10+debug_iphoneos-arm.deb
+Size: 291192
+MD5sum: 74f54b02c962417ea02f6c664c92fd72
+SHA1: 4d7a9c287484de43c16ad62110602f4e4ead7a61
+SHA256: ffa8dd85dc52bd86cca8290f6db88090874d9f90a99b3e641d2e630f7b503c6a
+Section: Crazy HipHop-插件(Tweaks)
+Description: 系统信息在设置app >通用>左右，等部分。设置开机nonce，保存shsh，电池信息等
+Author: ARX8x
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: System Info 查看信息
+Tags: settings, specs, system data
+Targets: {"Settings App":["About View"]}
+
+Package: xyz.xninja.systeminfo-uea
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm
+Maintainer: ARX8x
+Installed-Size: 105
+Depends: mobilesubstrate
+Filename: ./debs/xyz.xninja.systeminfo-uea_0.0.1-7+debug_iphoneos-arm.deb
+Size: 6716
+MD5sum: a8846703e02dd2965c974779b319add8
+SHA1: e49387fb8d29b05a23ed838711cf0b59774b3145
+SHA256: 0f38d9dbede7ba575de9424d92bbee11d95a6f89a830299394d314c086c6fb29
+Section: Crazy HipHop-插件(Tweaks)
+Description: 依赖于系统信息(安全删除)来显示CPU温度
+Author: ARX8x
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: system_info_uea 查看CPU信息
+
 Package: xz
 Version: 5.2.4-1
 Architecture: iphoneos-arm

@@ -814,23 +814,6 @@ Name: System Info 查看信息
 Tags: settings, specs, system data
 Targets: {"Settings App":["About View"]}
 
-Package: xyz.xninja.systeminfo-uea
-Version: 0.0.1-7+debug
-Architecture: iphoneos-arm
-Maintainer: ARX8x
-Installed-Size: 105
-Depends: mobilesubstrate
-Filename: ./debs/xyz.xninja.systeminfo-uea_0.0.1-7+debug_iphoneos-arm.deb
-Size: 6716
-MD5sum: a8846703e02dd2965c974779b319add8
-SHA1: e49387fb8d29b05a23ed838711cf0b59774b3145
-SHA256: 0f38d9dbede7ba575de9424d92bbee11d95a6f89a830299394d314c086c6fb29
-Section: Crazy HipHop-插件(Tweaks)
-Description: 依赖于系统信息(安全删除)来显示CPU温度
-Author: ARX8x
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: system_info_uea 查看CPU信息
-
 Package: xz
 Version: 5.2.4-1
 Architecture: iphoneos-arm

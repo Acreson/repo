@@ -4,11 +4,11 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 
 
 Section: Crazy HipHop-依赖(Depends)
-Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
 
 
 Section: Crazy HipHop-安装包(Packages)
-Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Icon: file:///Applications/Cydia.app/Sections/Packaging.png
 
 
 Section: Crazy HipHop-网络(Networking)
@@ -16,7 +16,7 @@ Icon: file:///Applications/Cydia.app/Sections/Networking.png
 
 
 Section: Crazy HipHop-存档(Archiving)
-Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Icon: file:///Applications/Cydia.app/Sections/Archiving.png
 
 
 Section: Crazy HipHop-主题(Themes)
@@ -32,7 +32,7 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 
 
 Section: Crazy HipHop-分流(Shunt)
-Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Icon: file:///Applications/Cydia.app/Sections/Java.png
 
 
 Section: Crazy HipHop-游戏(Games)

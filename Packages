@@ -428,21 +428,21 @@ Name: Alipay蚂蚁森林增强(A12)
 Sponsor: 小小名仔
 
 Package: hiphop.acrebel
-Version: 2.4.1
+Version: 2.4.2
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Installed-Size: 5752
 Depends: mobilesubstrate
-Filename: ./debs/hiphop.acrebel_2.4.1_iphoneos-arm.deb
-Size: 1267856
-MD5sum: 36caf4a87fe9f449897324721042f8c9
-SHA1: 8bbb02d58f1bfa82bee0557753a6e5424593587b
-SHA256: 61adb652ccce4ba673908613b5e55da650b1dbce4f54dbfcae643a2d6f07c0e0
+Filename: ./debs/hiphop.acrebel_2.4.2_iphoneos-arm.deb
+Size: 1267752
+MD5sum: 3832c6006e6c4708d47d309f2e0b774f
+SHA1: 26c27c5aed56fbe959d5bd301e2e16c88b9d578b
+SHA256: a1b006929ea1cc2b031cfbdc0b41c157f98e45ededa4a4cd2bc6606cada6f585
 Section: Crazy HipHop-游戏(Games)
-Description: 解锁功能:上帝模式\一次性杀戮\解锁所有刺客\绕过“区域不受支持”的消息\下载地址:https://itunes.apple.com/us/app/assassins-creed-rebellion/id1164056434?mt=8&uo=4&at=1010lce4
+Description: 解锁功能:上帝模式\一次性杀戮\解锁所有刺客\绕过“区域不受支持”的消息\ appstore下载：刺客信条：燎原
 Author: busmanl30
-Icon: file:///Applications/Cydia.app/Sections/Games.pngHomepage: https://iosgods.com
-Name: Assassin's Creed Rebellion Crack 刺客信条叛乱破解
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Assassin's Creed Rebellion Crack 刺客信条:燎原 破解
 
 Package: hiphop.cocoatop64
 Version: 2.0.2-1+debug

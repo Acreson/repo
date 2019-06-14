@@ -21,6 +21,7 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 
 
 Section: Crazy HipHop-工具(Utilities)
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 
 
 Section: Crazy HipHop-增强(Enhance)

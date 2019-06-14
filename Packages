@@ -550,6 +550,23 @@ Author: CrazyHipHop <342080124@qq.com>
 Name: 小仓鼠 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
 
+Package: hiphop.crowdcity
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3252
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.crowdcity_1.2.10_iphoneos-arm.deb
+Size: 739624
+MD5sum: 14fe52287484939b668438dc8d9e671f
+SHA1: 2351b7db0c06a0d2bbbcb6a78687c6e5425a663d
+SHA256: 7c772b5d6b96a09c0ada1c3c6da5a300c26afeb84af7722594dcf84875740c35
+Section: Crazy HipHop-游戏(Games)
+Description: 解锁功能：快速升级,启用皇冠模式
+Author: K_K
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Crowd City Cheats 拥挤城市 破解
+
 Package: hiphop.debkeeper12
 Version: 1.0.4
 Architecture: iphoneos-arm

@@ -434,12 +434,12 @@ Maintainer: iOSGods.com
 Installed-Size: 5752
 Depends: mobilesubstrate
 Filename: ./debs/hiphop.acrebel_2.4.2_iphoneos-arm.deb
-Size: 1267752
-MD5sum: 3832c6006e6c4708d47d309f2e0b774f
-SHA1: 26c27c5aed56fbe959d5bd301e2e16c88b9d578b
-SHA256: a1b006929ea1cc2b031cfbdc0b41c157f98e45ededa4a4cd2bc6606cada6f585
+Size: 1267900
+MD5sum: 9c579ba463ea413a69fd73a724da2fb4
+SHA1: f10229f7a13b8114af6862d141111e287ee931f2
+SHA256: 744c9a0032d4e5818a5c6a299e5a5cc2230c0e85639c5c6abd2ba1fb4e8aae9c
 Section: Crazy HipHop-游戏(Games)
-Description: 解锁功能:上帝模式\一次性杀戮\解锁所有刺客\绕过“区域不受支持”的消息\ appstore下载：刺客信条：燎原
+Description: 解锁功能:上帝模式\一次性杀戮\解锁所有刺客\绕过“区域不受支持”的消息\ appstore下载：刺客信条：燎原。 Hack Features:- God Mode- One-Shot Kill- Unlock All Assassins- Bypassed "Region not supported" message
 Author: busmanl30
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Assassin's Creed Rebellion Crack 刺客信条:燎原 破解

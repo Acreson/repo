@@ -427,6 +427,23 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Alipay蚂蚁森林增强(A12)
 Sponsor: 小小名仔
 
+Package: hiphop.acrebel
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 5752
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.acrebel_2.4.1_iphoneos-arm.deb
+Size: 1268068
+MD5sum: 127035172d7172d16ad8af78a7e54bd3
+SHA1: 26d06d2c7472fefa56f8ec84f946471b8512f7ab
+SHA256: fd12c5ae8af04e5113e8f81affb0d5cd444d242135da9dda1716b7f96bffc556
+Section: Crazy HipHop-游戏(Games)
+Description: 解锁功能:上帝模式\一次性杀戮\解锁所有刺客\绕过“区域不受支持”的消息\下载地址: https://itunes.apple.com/us/app/assassins-creed-rebellion/id1164056434?mt=8&uo=4&at=1010lce4
+Author: busmanl30
+Icon: file:///Applications/Cydia.app/Sections/Games.pngHomepage: https://iosgods.com
+Name: Assassin's Creed Rebellion Crack 刺客信条叛乱破解
+
 Package: hiphop.cocoatop64
 Version: 2.0.2-1+debug
 Architecture: iphoneos-arm
@@ -775,24 +792,6 @@ Priority: optional
 Multi-Arch: foreign
 Description: locally cached package icons from BigBoss
 Name: BigBoss Icon Set
-
-Package: xyz.willy.zebra
-Version: 1.0~beta13-23+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & CrazyHipHop
-Installed-Size: 15188
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta13-23+debug_iphoneos-arm.deb
-Size: 5028596
-MD5sum: 4a86ea874de7021a0821423d403e790f
-SHA1: 3a14d5dbfc3c32097af4a90680c6921b6b47c6e0
-SHA256: f2d4589abde753781c1fc0b8fdf67a443aa6d64f6d024f15a798c226ad58f899
-Section: Crazy HipHop-安装包(Packages)
-Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
-Author: Wilson Styres & CrazyHipHop
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
 
 Package: xyz.willy.zebra
 Version: 1.0~beta13-27+debug

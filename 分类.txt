@@ -28,3 +28,7 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 
 
 Section: Crazy HipHop-分流(Shunt)
+
+
+Section: Crazy HipHop-游戏(Games)
+Icon: file:///Applications/Cydia.app/Sections/Games.png

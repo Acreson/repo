@@ -447,18 +447,18 @@ Name: Alipay蚂蚁森林增强(A12)
 Sponsor: 小小名仔
 
 Package: hiphop.Asphalt9
-Version: 1.3.1.1.1.1
+Version: 1.3.5.7.9
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Installed-Size: 3228
 Depends: mobilesubstrate
-Filename: ./debs/hiphop.asphalt9_1.3.1.1.1.1_iphoneos-arm.deb
-Size: 716848
-MD5sum: 330d822fd9485a7b5b3953a27d46564e
-SHA1: 04e67d7b2eafeefb3d5489281f5233e90aa520b3
-SHA256: 2d29c3f6ee7a1d2a9dac48b7ba53a5d5a76dcc3371bed5e2161f6b7342d0a0e0
+Filename: ./debs/hiphop.asphalt9_1.3.5.7.9_iphoneos-arm.deb
+Size: 716680
+MD5sum: 480db7ad6e079f48d0350ce7e8180a34
+SHA1: 5b16d6d319403c4f79e87c8f5294bf95e972f638
+SHA256: a6d373c5c8217ed8cc77c3811418f40ef6e979f61331d74b3a7871d65f18836f
 Section: Crazy HipHop-游戏(Games)
-Description: 无限氮气.无限消耗
+Description: 解锁功能:无限氮气.无限消耗
 Author: 0xS14T3R & DiDA
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Asphalt 9: Legends Crack 狂野飙车9 破解

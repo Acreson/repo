@@ -463,6 +463,23 @@ Author: 0xS14T3R & DiDA
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Asphalt 9: Legends Crack 狂野飙车9 破解
 
+Package: hiphop.HI3GL
+Version: 3.1.1
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.hi3gl_3.1.1_iphoneos-arm.deb
+Size: 721124
+MD5sum: dbece7732d344da9561bb9fe25a3122f
+SHA1: 05ff4610d5531608838527690fec91496cb47adf
+SHA256: bfd60127f5c8b4c599922905536ba082a1481312672ed304682ea80f1dd38d2e
+Section: Crazy HipHop-游戏(Games)
+Description: 解锁功能：超高伤害,超高HP，没有技能CD  hack:High Damage- High HP- Inf.Skills- No Skills CoolDown
+Author: DanYal
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Honkai Impact 3rd Cheats 崩坏3 破解
+
 Package: hiphop.NFSNoLimitsFreeHack
 Version: 3.6.13
 Architecture: iphoneos-arm

@@ -907,23 +907,6 @@ Description: 自己配置自己的插件!特点:1、你可以选择不加载特�
 Author: PixelOmer
 Name: TweakConfigurator 插件配置器
 
-Package: hiphop.tweakreviews-db
-Version: 0.3
-Architecture: iphoneos-arm
-Maintainer: PixelOmer
-Installed-Size: 576
-Depends: mobilesubstrate, firmware (>=8.0)
-Conflicts: bz.jed.tweakcompatible
-Filename: ./debs/hiphop.tweakreviews-db_0.3_iphoneos-arm.deb
-Size: 74484
-MD5sum: ab1c769c55219b26ed8ad20097f29a14
-SHA1: 9c86357322a074acf1c1435a4490b24f47fb84e0
-SHA256: c1ab691a303cf0d9e8bee81e86777469e291d7560106a6fc07215c318026fa43
-Section: Crazy HipHop-插件(Tweaks)
-Description: 审查和评价插件!微调reviewsdb是一个微调，让你检查包，并标记为工作或坏在几秒钟!您可以使用此调整来分享您对软件包的看法，以供他人查看。这是一个直接替代微调兼容，支持Cydia, Sileo和zebra。要求iOS 8.0或更高。
-Author: PixelOmer
-Name: TweakReviewsDB 审查和评价插件
-
 Package: hiphop.viola
 Version: 1.3
 Architecture: iphoneos-arm

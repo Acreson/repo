@@ -196,6 +196,26 @@ Description: Restrict certain apps from accessing wifi on iOS 11
 Author: ATWiiks
 Name: ConditionalWiFi4 IOS12网络权限
 
+Package: com.hiphop.impactor
+Version: 0.9.43
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: firmware (>= 7.1), firmware (<= 10.3.3)
+Breaks: com.saurik.patych (<< 1.0.1)
+Filename: ./debs/com.hiphop.impactor_0.9.43_iphoneos-arm.deb
+Size: 519264
+MD5sum: 0b41d53732cc6a6c04014e707b730f75
+SHA1: f32e5dbe920560ca202be93f11cabe5d3639212a
+SHA256: f8db89ca6d82f4efc555c78464b1616bf8a26a31a96880f5ade27d0485707dc5
+Section: Crazy HipHop-系统(System)
+Priority: optional
+Description: specific utility to unjailbreak most devices
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: IOS7.1-10.3.3平刷工具
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: Cydia Eraser 平刷工具
+
 Package: com.hiphop.libertylite.beta
 Version: 0.2.12
 Architecture: iphoneos-arm

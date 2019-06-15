@@ -203,16 +203,15 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Depends: firmware (>= 7.1), firmware (<= 10.3.3)
 Breaks: com.saurik.patych (<< 1.0.1)
 Filename: ./debs/com.hiphop.impactor_0.9.43_iphoneos-arm.deb
-Size: 519264
-MD5sum: 0b41d53732cc6a6c04014e707b730f75
-SHA1: f32e5dbe920560ca202be93f11cabe5d3639212a
-SHA256: f8db89ca6d82f4efc555c78464b1616bf8a26a31a96880f5ade27d0485707dc5
+Size: 519250
+MD5sum: 47a0dab3db267d7f908bb3aa38d7b572
+SHA1: 5354ba8f938c719c4c4142acde1415bb4c6b1784
+SHA256: 3ac2670741b5b3bd33519b30c47fe7256076c4c10397d200224767ac8793d112
 Section: Crazy HipHop-系统(System)
 Priority: optional
-Description: specific utility to unjailbreak most devices
+Description: 7.1-10.3.3平刷工具，测试可用
 Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: IOS7.1-10.3.3平刷工具
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Name: Cydia Eraser 平刷工具
 
@@ -287,15 +286,14 @@ Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3), firmware (
 Conflicts: org.coolstar.semirestore11-lite
 Replaces: org.coolstar.semirestore11-lite
 Filename: ./debs/com.hiphop.semirestore11_1.1.2-1_iphoneos-arm.deb
-Size: 50388
-MD5sum: 38ff451c715db88708cf03f454875bd4
-SHA1: 5d38d6dfbd7b53fe3668e73d0930949b34401782
-SHA256: 4dcf94cb4a216ccfdc36f3b6fd2349b0d023e55bc1cc9a15db276d41af2e3209
+Size: 50408
+MD5sum: c0d98faa4d700c2fbdbb3365a3942ad3
+SHA1: b379920fc54011f5764ecdb5bf1cc9997fcea0ec
+SHA256: c720203bcc6b19df6f325a6cb2df03f8679fe50a905899caaf91ee8d65658c0c
 Section: Crazy HipHop-系统(System)
 Description: 11.3-12.1.2平刷工具，测试可用
 Tag: compatible::ios11
 Author: Pwn20wnd <pwn20wndstuff@gmail.com>
-Depiction: https://repo.chariz.io/package/com.pwn20wnd.semirestore11/
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Name: SemiRestore11 / Rollectra  平刷插件
 

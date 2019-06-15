@@ -531,6 +531,22 @@ Author: Joka
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Need for Speed No Limits Cheats 极品飞车 破解
 
+Package: hiphop.ace
+Version: 4.9.1-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.ace_4.9.1-1+debug_iphoneos-arm.deb
+Size: 37108
+MD5sum: dc2b9467267f3e1f19fbb83774df335f
+SHA1: 9474a0142e7790e277ccf78c3a94f105b222ea98
+SHA256: fbf66c8fb5f2c5901b32cb8df8ff0d2325e5963e3f6f847f46ca8d1edc2fb8ca
+Section: Crazy HipHop-游戏(Games)
+Description: 解锁功能: 自定义火力率（如果太高你将与服务器断开连接）（不同的武器在断开连接之前有不同的最大火力）- 没有反冲- 没有传播
+Author: Crimson
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: MC5 Hack 现代战争5破解
+
 Package: hiphop.acrebel
 Version: 2.4.2
 Architecture: iphoneos-arm

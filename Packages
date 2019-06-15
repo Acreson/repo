@@ -700,6 +700,24 @@ Description: Sileo的自由。在所有描述上启用完整的JavaScript， *�
 Author: Jake James
 Name: Drunk for Sileo Sileo强制兼容Cydia源
 
+Package: hiphop.hidebarx
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.hidebarx_0.0.4_iphoneos-arm.deb
+Size: 3780
+MD5sum: e6e5005e4c0689754cf7b0a9fcec0f64
+SHA1: 9b57c5d2c6718eaf2cd1bed2e54c546f16cb55f0
+SHA256: 1476172370d16636d4c43e1768231fb7a5d4a7e4fa75cc39f678e266a7dcf0d4
+Section: Crazy HipHop-插件(Tweaks)
+Description: 隐藏iPhoneX/XS/XSMAX/XR 底部横条
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: HideBarX 隐藏底部横条
+Removes: com.spark.HidebarX
+
 Package: hiphop.imagecorrect
 Version: 0.1
 Architecture: iphoneos-arm

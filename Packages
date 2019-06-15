@@ -335,6 +335,26 @@ Author: sharedRoutine
 Conflict: com.springtomize.st4
 Name: Springtomize4 瑞士军刀4
 
+Package: com.hiphop.successionrestore
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja <stgardner4@att.net>
+Depends: firmware (>=7.0), firmware-sbin, rsync
+Filename: ./debs/com.hiphop.successionrestore_1.3.2_iphoneos-arm.deb
+Size: 901112
+MD5sum: 89d6787f0baa9e2be2cb868f7179e8ae
+SHA1: 4bf1909f5b99b60865163a9091962c606ab53ea6
+SHA256: 7cb5e20485091f2099d5ac8ad0be8695dc84d61eaec5498d6f07a3895a80e1e0
+Section: Crazy HipHop-系统(System)
+Homepage: https://shuga.co/
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja <stgardner4@att.net>
+Depiction: https://samgisaninja.github.io/depiction/web/com.samgisaninja.successionrestore.html
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Moderndepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
+Name: Succession 平刷工具
+Sileodepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
+
 Package: com.hiphop.transparentmusic
 Version: 0.0.1-2
 Architecture: iphoneos-arm

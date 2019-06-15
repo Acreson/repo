@@ -453,15 +453,15 @@ Maintainer: iOSGods.com
 Installed-Size: 3228
 Depends: mobilesubstrate
 Filename: ./debs/hiphop.asphalt8_4.2.0_iphoneos-arm.deb
-Size: 717900
-MD5sum: 84b7eac79179013c846baaa7ceb29975
-SHA1: bd092fa4db796bf296cc87854f1513934d1842db
-SHA256: 45054649ece3dbbebaa3b11329ba52984749089e6587f5e3bb8ec5406eae1634
+Size: 717424
+MD5sum: 7c1ad437beea6e6ea49336279269ee4f
+SHA1: c58afe52368268a70de7d27be6fc6d7e494bd375
+SHA256: cf0afbac63c4addbf6124dc513ffca84ce411e3146d7f0f1d3f926217bd0ecd7
 Section: Crazy HipHop-游戏(Games)
 Description: 解锁功能:- 无限硝基使用/硝基不减少- 没有车祸/没有残骸- 反禁令 - >并不意味着你可以滥用黑客。- 不需要等级来完成掌握任务
 Author: Battousai & DiDA
 Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: Asphalt 8: Airborne Cheats 狂野飙车8破解
+Name: Asphalt 8: Airborne Crack 狂野飙车8破解
 
 Package: hiphop.Asphalt9
 Version: 1.3.5.7.9

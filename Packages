@@ -497,6 +497,23 @@ Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Honkai Impact 3rd Cheats 崩坏3 破解
 
+Package: hiphop.LocalIAPStore
+Version: 1.5-1
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop <342080124@qq.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/hiphop.localiapstore_1.5-1_iphoneos-arm.deb
+Size: 42388
+MD5sum: 233caad81d7dc20ad64b84fbebfb8ce5
+SHA1: d5bb24c42dea3b4f0a848dfa687ce2cf52a878ee
+SHA256: f7cc573ef4b29a46190ab90701117a71e7ce7bc6fdc4ee4fec011721e4099afb
+Section: Crazy HipHop-插件(Tweaks)
+Description: 内购破解支持A12设备
+Author: anondev
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: LocalIAPStore 内购破解
+Sponsor: CrazyHipHop <342080124@qq.com>
+
 Package: hiphop.NFSMostWantedFreeHack
 Version: 1.1.0
 Architecture: iphoneos-arm

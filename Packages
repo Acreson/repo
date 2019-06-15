@@ -480,6 +480,23 @@ Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Honkai Impact 3rd Cheats 崩坏3 破解
 
+Package: hiphop.NFSMostWantedFreeHack
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 2712
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.nfsmostwantedfreehack_1.1.0_iphoneos-arm.deb
+Size: 652548
+MD5sum: f13021b9e56240516808af881f937404
+SHA1: b4dfc95575150acd48a5db9dec3305c765890ab9
+SHA256: 44421dfaa997476b09f118d6830d624560a17ba30b051163f9fc09d91e92d84f
+Section: Crazy HipHop-游戏(Games)
+Description: 解锁功能:无限现金- 赚取一些收到无限量。-所有汽车解锁- 无法解锁NFS版汽车。-所有曲目解锁-Godmode- 汽车将受到视觉伤害。-禁用对手输入- 将禁止所有对手和警察做任何事情。-愚蠢的反对者- 将导致所有对手和警察开车进入墙壁。-没有相机抖动- 在崩溃时将禁用相机摇晃。-没有路障 - 将禁止产卵路障。-无限硝基 - 将冻结硝基棒。停止硝基，刹车。要重新启用，请关闭此功能，使用一些硝基然后重新启用该功能。- 无限制的速度点- 自定义车速 - 在此设置您的自定车速并启用开关。与AI对手联系在一起。,下载appstore美区搜索：Need for Speed Most Wanted
+Author: Joka
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Need for Speed™ Most Wanted  极品飞车破解
+
 Package: hiphop.NFSNoLimitsFreeHack
 Version: 3.6.13
 Architecture: iphoneos-arm

@@ -31,6 +31,10 @@ Section: Crazy HipHop-增强(Enhance)
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 
 
+Section: Crazy HipHop-系统(System)
+Icon: file:///Applications/Cydia.app/Sections/System.png
+
+
 Section: Crazy HipHop-分流(Shunt)
 Icon: file:///Applications/Cydia.app/Sections/Java.png
 

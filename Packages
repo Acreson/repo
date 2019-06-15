@@ -258,6 +258,27 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ Helper QQ增强助手
 Sponsor: 小苹果™
 
+Package: com.hiphop.semirestore11
+Version: 1.1.2-1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 172
+Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3), firmware (<< 11.4.1)
+Conflicts: org.coolstar.semirestore11-lite
+Replaces: org.coolstar.semirestore11-lite
+Filename: ./debs/com.hiphop.semirestore11_1.1.2-1_iphoneos-arm.deb
+Size: 50388
+MD5sum: 38ff451c715db88708cf03f454875bd4
+SHA1: 5d38d6dfbd7b53fe3668e73d0930949b34401782
+SHA256: 4dcf94cb4a216ccfdc36f3b6fd2349b0d023e55bc1cc9a15db276d41af2e3209
+Section: Crazy HipHop-系统(System)
+Description: 11.3-12.1.2平刷工具，测试可用
+Tag: compatible::ios11
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Depiction: https://repo.chariz.io/package/com.pwn20wnd.semirestore11/
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: SemiRestore11 / Rollectra  平刷插件
+
 Package: com.hiphop.snowboardfull
 Version: 1.2
 Architecture: iphoneos-arm

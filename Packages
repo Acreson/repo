@@ -282,20 +282,20 @@ Version: 1.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
 Installed-Size: 172
-Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3), firmware (<< 11.4.1)
+Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3), firmware (<< 12.1.2)
 Conflicts: org.coolstar.semirestore11-lite
 Replaces: org.coolstar.semirestore11-lite
 Filename: ./debs/com.hiphop.semirestore11_1.1.2-1_iphoneos-arm.deb
-Size: 50408
-MD5sum: c0d98faa4d700c2fbdbb3365a3942ad3
-SHA1: b379920fc54011f5764ecdb5bf1cc9997fcea0ec
-SHA256: c720203bcc6b19df6f325a6cb2df03f8679fe50a905899caaf91ee8d65658c0c
+Size: 50412
+MD5sum: bc6ed1c883d68d75f64e7da453541f05
+SHA1: da94b0d532dafd8442691fa17c5b855d4fa7dfa2
+SHA256: c18a512a18bdcdf2b7880d4054c8779e7249ca3ba8305e79839c2175dfa08009
 Section: Crazy HipHop-系统(System)
 Description: 11.3-12.1.2平刷工具，测试可用
 Tag: compatible::ios11
 Author: Pwn20wnd <pwn20wndstuff@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/System.png
-Name: SemiRestore11 / Rollectra  平刷插件
+Name: SemiRestore11 / Rollectra  平刷工具
 
 Package: com.hiphop.snowboardfull
 Version: 1.2
@@ -341,13 +341,13 @@ Architecture: iphoneos-arm
 Maintainer: Samg_is_a_Ninja <stgardner4@att.net>
 Depends: firmware (>=7.0), firmware-sbin, rsync
 Filename: ./debs/com.hiphop.successionrestore_1.3.2_iphoneos-arm.deb
-Size: 901112
-MD5sum: 89d6787f0baa9e2be2cb868f7179e8ae
-SHA1: 4bf1909f5b99b60865163a9091962c606ab53ea6
-SHA256: 7cb5e20485091f2099d5ac8ad0be8695dc84d61eaec5498d6f07a3895a80e1e0
+Size: 901124
+MD5sum: 5ad3fc0992491c1b7d6107995ed19c95
+SHA1: 98cb4d106050a810c3ed61db59a1b817f0f7a0f1
+SHA256: 031b629b5203d335f64d97cc411eb59cdd3cba761a2a3b00c80a6cb936a2082c
 Section: Crazy HipHop-系统(System)
 Homepage: https://shuga.co/
-Description: Restore without updating via rootfilesystem DMG
+Description: IOS7.0+平刷工具，测试可用
 Author: Samg_is_a_Ninja <stgardner4@att.net>
 Depiction: https://samgisaninja.github.io/depiction/web/com.samgisaninja.successionrestore.html
 Icon: file:///Applications/Cydia.app/Sections/System.png

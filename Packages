@@ -640,6 +640,22 @@ Author: busmanl30
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Assassin's Creed Rebellion Crack 刺客信条:燎原 破解
 
+Package: hiphop.addsource
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/hiphop.addsource_0.1_iphoneos-arm.deb
+Size: 16816
+MD5sum: df76372cba74521a4350991b17b9a15b
+SHA1: 6cbff7dad50702f3979cd7dea2efafe3c2242f40
+SHA256: 813ea810cf663e61134c94e91cca288df33d86cf19dac1af23779c14009a3b2b
+Section: Crazy HipHop-插件(Tweaks)
+Description: 让Cydia跟Sileo那样识别剪切板可以一键添加源
+Author: yuosaf01 & 3bod_syr
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AddSource Cydia快捷加源
+
 Package: hiphop.cocoatop64
 Version: 2.0.2-1+debug
 Architecture: iphoneos-arm

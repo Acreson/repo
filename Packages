@@ -777,6 +777,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: HideBarX 隐藏底部横条
 Removes: com.spark.HidebarX
 
+Package: hiphop.hideseparator
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.hideseparator_1.4_iphoneos-arm.deb
+Size: 9364
+MD5sum: e0080adbe7f0af8a1112f930db569834
+SHA1: dd536c89bee583fdac4eeb4f4ba437c7afbe1d10
+SHA256: b2587300d70aa9b36f6a766f117fb90d4b584409919b774524e4018ae6e27f31
+Section: Crazy HipHop-插件(Tweaks)
+Description: 隐藏全局分割线 支持A12
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Hide Separator 隐藏分割线
+
 Package: hiphop.imagecorrect
 Version: 0.1
 Architecture: iphoneos-arm
@@ -792,6 +809,23 @@ Section: Crazy HipHop-插件(Tweaks)
 Description: An awesome MobileSubstrate tweak!
 Author: Satvik Borra
 Name: ImageCorrect 文本替换(添加图像支持)
+
+Package: hiphop.ioshelper12
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 980
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/hiphop.ioshelper12_2.0_iphoneos-arm.deb
+Size: 139912
+MD5sum: 97ba9d0e21be5ab5a4f163fe2cd76ce6
+SHA1: ea3f6a43f8fbb889ed8cd9ce89e870eb5e4ac071
+SHA256: 7eec0d679f4d9d37aa2f6d401a5a6e27056ffdd9519bf10421d7cadf71bdf987
+Section: Crazy HipHop-插件(Tweaks)
+Description: An awesome MobileSubstrate tweak!
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: iOS Helper 12 系统助手
 
 Package: hiphop.kwplayer.kuwoyinyue
 Version: 6.0
@@ -809,6 +843,23 @@ Description: 酷我音乐全新全功能破解版，破解年费豪华会员所�
 Author: 带土
 Dev: 长生果子
 Name: 酷我音乐最新全破解
+
+Package: hiphop.powerhelper
+Version: 1.0-Beta3
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.powerhelper_1.0-Beta3_iphoneos-arm.deb
+Size: 50804
+MD5sum: fa0d7015878b2d0b07fa95816bf67681
+SHA1: 2298911195085db4b26478fe2d8be738afcdc82e
+SHA256: 677784e45cc054de33c9f8c020a6628659f92b21866ddf87095376066330f037
+Section: Crazy HipHop-插件(Tweaks)
+Description: 电源功能增强
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Power Helper 电源助手
 
 Package: hiphop.sareth
 Version: 1.0.1-3
@@ -890,6 +941,23 @@ Description: 突破电报封锁群，看群内消息，非常好用，直接安�
 Author: Jianan Tian <690836844@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: TGUnblock X. TG解锁
+
+Package: hiphop.thunderhelper
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.thunderhelper_1.4.0_iphoneos-arm.deb
+Size: 53848
+MD5sum: b56cff5e77bd25e5161aa595383396f8
+SHA1: b745b47c93381a0220e9f32736f1d0d72e66e1dd
+SHA256: 3c5a4ce34659166292bc7f18455b724ed2e97875d4011a98b8851f738a7877b1
+Section: Crazy HipHop-增强(Enhance)
+Description: 会员功能应有尽有.
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Thunder Helper 迅雷助手
 
 Package: hiphop.tweakexcluder
 Version: 0.3-1

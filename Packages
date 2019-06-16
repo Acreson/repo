@@ -817,12 +817,12 @@ Maintainer: iBreak
 Installed-Size: 980
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/hiphop.ioshelper12_2.0_iphoneos-arm.deb
-Size: 139912
-MD5sum: 97ba9d0e21be5ab5a4f163fe2cd76ce6
-SHA1: ea3f6a43f8fbb889ed8cd9ce89e870eb5e4ac071
-SHA256: 7eec0d679f4d9d37aa2f6d401a5a6e27056ffdd9519bf10421d7cadf71bdf987
+Size: 139476
+MD5sum: f35414ad9d15e6ffb6d6bcea99f910f3
+SHA1: 516e781fdd5205f3fd46b3bb6d2854662c4a917b
+SHA256: 5c76393ee73cba02b2898c1905e2820376dad0e5680169c9cdf175b081e091ef
 Section: Crazy HipHop-插件(Tweaks)
-Description: An awesome MobileSubstrate tweak!
+Description: IOS 系统多功能定义助手
 Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: iOS Helper 12 系统助手

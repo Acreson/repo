@@ -129,6 +129,26 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++ 应用降级
 
+Package: com.exile90.icleanerpro
+Version: 7.7.5
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.7.5_iphoneos-arm.deb
+Size: 5379988
+MD5sum: db6839196a98693d448d0997f9bb7ec7
+SHA1: 8e161515701ec896f16d41692dcb594b026c3172
+SHA256: 87d2cfb962b1174822366a666c7e9f5c148e84daa3896f19c95601c976fee180
+Section: Crazy HipHop-工具(Utilities)
+Homepage: http://ib-soft.net/icleaner
+Description: 第一个真正的iOS系统清洁和优化
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro 清理工具
+
 Package: com.hiphoip.vcallers
 Version: 1.1
 Architecture: iphoneos-arm

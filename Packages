@@ -395,10 +395,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
-Size: 1085424
-MD5sum: 559fba06aef821393e0aafc537a3979c
-SHA1: e6babae9c4150efbafa18c4e0d0d6e122a44cfc8
-SHA256: 01bc0738cbbea38b0d0b53374f8643e259a9a19b6615a2267f767b8d3305eb1a
+Size: 1086696
+MD5sum: bac51f2347ae5fa2ee108b10e29d880f
+SHA1: 4f94dfb27fb26d2a018b2b74c61b2c0d253ae7bb
+SHA256: d4c569b33573b83f78aa6c76f3869afb1dfd2761aa27818dcade569c01df686d
 Section: Crazy HipHop-工具(Utilities)
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!

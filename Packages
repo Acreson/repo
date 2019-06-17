@@ -877,6 +877,22 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Power Helper 电源助手
 
+Package: hiphop.qqanitirecallhook
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.qqanitirecallhook_0.1-1_iphoneos-arm.deb
+Size: 14480
+MD5sum: e6b0dfce0cbd9311e384257e6c2e9bcb
+SHA1: 9475b24dc2928fcb8c3c2f9b0e46ddb4db27924e
+SHA256: fecfc91a09f46dbea00e95e74860059bdf8bee554cd534a588ca425f43f2dffd
+Section: Crazy HipHop-增强(Enhance)
+Description: qq防撤回带提示，使用前请关闭其他防撤回
+Author: wjg (TouGBao)
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQ RecallHook 防撤回增强
+
 Package: hiphop.sareth
 Version: 1.0.1-3
 Architecture: iphoneos-arm

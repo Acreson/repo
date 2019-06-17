@@ -877,23 +877,6 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Power Helper 电源助手
 
-Package: hiphop.powerhelper
-Version: 1.0-Beta3
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 376
-Depends: mobilesubstrate
-Filename: ./debs/hiphop.powerhelper_1.0-Beta3_iphoneos-arm.deb
-Size: 50804
-MD5sum: be30da7f040ae0827b7bd2c723526b5e
-SHA1: 0250be1c27462c9d3476ccca1f9bd4c1d267340a
-SHA256: 901ccad66a6792f462a6dbef2da51c3c8f793ed9d6911da401def7632f2083ef
-Section: Crazy HipHop-插件(Tweaks)
-Description: 电源功能增强
-Author: iBreak
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Power Helper 电源助手
-
 Package: hiphop.qqanitirecallhook
 Version: 0.1-1
 Architecture: iphoneos-arm

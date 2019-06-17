@@ -1072,6 +1072,26 @@ Author: iBreak <ibreak2019@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChat Helper 微信助手
 
+Package: hiphop.wifipasswords
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 4112
+Depends: firmware (>= 6.0)
+Filename: ./debs/hiphop.wifipasswords_3.0.1_iphoneos-arm.deb
+Size: 851964
+MD5sum: c506c31bebfa65d07b16a09bcce21886
+SHA1: 8a259cd48afc1ed5389b30c19a2e862dd6cb0af0
+SHA256: 934d00d7beb50b8a161ac189a5e71ef985035177c3ffcd3183cd36aaf5f656f5
+Section: Crazy HipHop-工具(Utilities)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
+Description: 显示以前输入的wifi密码。这个应用程序会显示你输入的所有WiFi密码。如果你忘记了密码，需要连接另一个设备，或者告诉朋友咖啡店的密码，而不用再问那个尴尬的问题，这非常方便。按住密码键将其复制到剪贴板。要求iOS 6.0或更高版本。
+Author: Malcolm Hall <indiekiduk@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
+Dev: malcolmhall
+Icon: file:///Applications/WiFiPasswords.app/Icon.png
+Name: WiFi Passwords WIFI密码查看器
+
 Package: lz4
 Version: 1.7.5-1
 Architecture: iphoneos-arm
@@ -1124,70 +1144,16 @@ Description: locally cached package icons from BigBoss
 Name: BigBoss Icon Set
 
 Package: xyz.willy.zebra
-Version: 1.0~beta13-28+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & CrazyHipHop
-Installed-Size: 15188
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta13-28+debug_iphoneos-arm.deb
-Size: 5028610
-MD5sum: 068850d837af03d551c257a28e6f050f
-SHA1: 36ff094de24d832a9aca177ff8fbfca01c8174e4
-SHA256: 57f9dca933dd6cb19f266a1af81d729812e59013b0a0e5ebc575ef2280e40b22
-Section: Crazy HipHop-安装包(Packages)
-Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
-Author: Wilson Styres & CrazyHipHop
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
-
-Package: xyz.willy.zebra
-Version: 1.0~beta14-2+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & CrazyHipHop
-Installed-Size: 15268
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta14-2+debug_iphoneos-arm.deb
-Size: 5056370
-MD5sum: 9e98ae4d3409a510427679532ea9cb1f
-SHA1: f6cfefd17a9f2a2ccbdcfcb83abed3d2b17c3292
-SHA256: dddf8bffc0d68a5cc2e3058ac39cbe0362d4526872ba23d00bb78257ad1c0416
-Section: Crazy HipHop-安装包(Packages)
-Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
-Author: Wilson Styres & CrazyHipHop
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
-
-Package: xyz.willy.zebra
-Version: 1.0~beta14-6+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & CrazyHipHop
-Installed-Size: 15268
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta14-6+debug_iphoneos-arm.deb
-Size: 5058438
-MD5sum: b28461b26c871efd90226c14fc6bcc5d
-SHA1: 68c62434c8911f95ef5e1978ce5f10b6104de35c
-SHA256: 699948b4195e79ab84faacf9560acf8e20ae4ad3cc9fe72ac80ce290712e313c
-Section: Crazy HipHop-安装包(Packages)
-Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
-Author: Wilson Styres & CrazyHipHop
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
-
-Package: xyz.willy.zebra
-Version: 1.0~beta15-5+debug
+Version: 1.0~beta15-8+debug
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres & CrazyHipHop
 Installed-Size: 15432
 Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta15-5+debug_iphoneos-arm.deb
-Size: 5106482
-MD5sum: 8558658defd56c93c3e418d3faf22dab
-SHA1: b2796aa70a58865b5b545fb5973d01d71076def1
-SHA256: 5833ed479a396d60c0da0a7a08faecb6c5c2f8be85a99fe09e1b06eaf23ba9a6
+Filename: ./debs/xyz.willy.zebra_1.0~beta15-8+debug_iphoneos-arm.deb
+Size: 5106452
+MD5sum: 8378ce33907f6a5c3cda29a7dab5f8ff
+SHA1: 0e93a304ba4efad9ae892b4d17825ea718149528
+SHA256: 706108e2aabb05b278751118b46805cc11f897f00a31cfe93f2ceb3c43792b6e
 Section: Crazy HipHop-安装包(Packages)
 Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x

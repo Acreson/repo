@@ -742,24 +742,6 @@ Author: K_K
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Crowd City Cheats 拥挤城市 破解
 
-Package: hiphop.debkeeper12
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: tateu (Josh Harris) <tateu@tateu.net>
-Installed-Size: 324
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
-Conflicts: net.tateu.debkeeper
-Filename: ./debs/hiphop.debkeeper12_1.0.4_iphoneos-arm.deb
-Size: 15736
-MD5sum: 2deae196b69de7d2f554948dc007d0ae
-SHA1: 0b7390490845e7a3cb6ffcd58fef25db4e14de4b
-SHA256: c99a576ddba53a2c2697bfffdf983b8336ac84528f3c0f0b69474297a894b4e4
-Section: Crazy HipHop-工具(Utilities)
-Description: 禁用删除Cydia、Sileo和Zebra中下载的的deb。
-Author: tateu (Josh Harris) <tateu@tateu.net>
-Name: DebKeeper12 禁止删除deb补丁
-Sileodepiction: https://crazyc.top/ms/msxq/debkeeper12.json
-
 Package: hiphop.doraemon
 Version: 1.1
 Architecture: iphoneos-arm
@@ -774,22 +756,6 @@ Description: 哆啦A梦探头 角标
 Author: CrazyHipHop <342080124@qq.com>
 Name: 哆啦A梦 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
-
-Package: hiphop.drunksileo
-Version: 1.0.6-2
-Architecture: iphoneos-arm
-Maintainer: Jake James
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/hiphop.drunksileo_1.0.6-2_iphoneos-arm.deb
-Size: 76856
-MD5sum: ba3184bf2a3a7fb5cc0093af98fac388
-SHA1: 480f42002103224e1c7f592f5d0565cf12ec63a5
-SHA256: 2b6feddd7875d6897d6fd16605a06181007bbb1552e2f83dc6cd08e391fcc053
-Section: Crazy HipHop-工具(Utilities)
-Description: Sileo的自由。在所有描述上启用完整的JavaScript， *正确*加载描述(修复诸如Rocketbootstrap描述之类的问题)，启用SHA1和MD5 repos。
-Author: Jake James
-Name: Drunk for Sileo Sileo强制兼容Cydia源
 
 Package: hiphop.hidebarx
 Version: 0.0.4
@@ -1014,13 +980,14 @@ Maintainer: PixelOmer
 Installed-Size: 336
 Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
 Filename: ./debs/hiphop.tweakexcluder_0.3-1_iphoneos-arm.deb
-Size: 24616
-MD5sum: 1505adb6c326353ce87770f9c938ec10
-SHA1: fcbe7ff4057bf1de0e88f81cceb741b86159e048
-SHA256: ee303437a97cf3ce129008b1e448f6488a90bc2bdacce411c259d493a4171461
-Section: Crazy HipHop-工具(Utilities)
+Size: 24648
+MD5sum: 88639875a91d6c5f04c1eccb4851a369
+SHA1: cb808664f58afefda8c412d3e544cf78180fb284
+SHA256: 775325b42865f3b8258c797cf3bce0231317709927fa062461ca5574c246741c
+Section: Crazy HipHop-插件(Tweaks)
 Description: 自己配置自己的插件!特点:1、你可以选择不加载特定的调整在特定的应用程序。2、你可以完全禁用调整在指定的应用程序。在Electa/unc0ver/chimera工作正常。
 Author: PixelOmer
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TweakConfigurator 插件配置器
 
 Package: hiphop.viola

@@ -395,17 +395,17 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
-Size: 1084052
-MD5sum: 6b47ccb2c393d9c81735411ebd2852b0
-SHA1: 9f1871e6ec53906078be7e8c0840ba41c0669404
-SHA256: 100452f0bf8d8d411089c048f51d5631e962eb4738530c638af38ec48afe4276
+Size: 1085424
+MD5sum: 559fba06aef821393e0aafc537a3979c
+SHA1: e6babae9c4150efbafa18c4e0d0d6e122a44cfc8
+SHA256: 01bc0738cbbea38b0d0b53374f8643e259a9a19b6615a2267f767b8d3305eb1a
 Section: Crazy HipHop-工具(Utilities)
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
 Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown
+Name: CyDown Cydia增强
 
 Package: com.niceios.nicebarx
 Version: 2.0.3.7-1+debug

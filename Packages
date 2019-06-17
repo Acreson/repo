@@ -1154,16 +1154,16 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChat Helper 微信助手
 
 Package: hiphop.wifipasswords
-Version: 3.0.1
+Version: 11.0.1
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 4112
 Depends: firmware (>= 6.0)
-Filename: ./debs/hiphop.wifipasswords_3.0.1_iphoneos-arm.deb
-Size: 851964
-MD5sum: c506c31bebfa65d07b16a09bcce21886
-SHA1: 8a259cd48afc1ed5389b30c19a2e862dd6cb0af0
-SHA256: 934d00d7beb50b8a161ac189a5e71ef985035177c3ffcd3183cd36aaf5f656f5
+Filename: ./debs/hiphop.wifipasswords_11.0.1_iphoneos-arm.deb
+Size: 851728
+MD5sum: 944407c84f368c61d85817158fd6d581
+SHA1: 216125e42cf35ede07210d12ea3cfa9c4665d626
+SHA256: f6378933a0264722a1478a9829b2ce163d834a28e8da3c8b8d7f4235e50fd6fa
 Section: Crazy HipHop-工具(Utilities)
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
 Description: 显示以前输入的wifi密码。这个应用程序会显示你输入的所有WiFi密码。如果你忘记了密码，需要连接另一个设备，或者告诉朋友咖啡店的密码，而不用再问那个尴尬的问题，这非常方便。按住密码键将其复制到剪贴板。要求iOS 6.0或更高版本。

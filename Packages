@@ -861,6 +861,23 @@ Dev: 长生果子
 Name: 酷我音乐最新全破解
 
 Package: hiphop.powerhelper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.powerhelper_1.0_iphoneos-arm.deb
+Size: 56484
+MD5sum: 23c3b02dfe4b74898f712dfe3ec325ba
+SHA1: 3d7afdb227541c1d0402b645f9f0415011bb80bd
+SHA256: 46dcf7c5336cd1548fa7cf3f3fdd7c2d6cb5f62514ebb5d47d88aca80cedae09
+Section: Crazy HipHop-插件(Tweaks)
+Description: 电源功能增强
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Power Helper 电源助手
+
+Package: hiphop.powerhelper
 Version: 1.0-Beta3
 Architecture: iphoneos-arm
 Maintainer: iBreak
@@ -868,9 +885,9 @@ Installed-Size: 376
 Depends: mobilesubstrate
 Filename: ./debs/hiphop.powerhelper_1.0-Beta3_iphoneos-arm.deb
 Size: 50804
-MD5sum: fa0d7015878b2d0b07fa95816bf67681
-SHA1: 2298911195085db4b26478fe2d8be738afcdc82e
-SHA256: 677784e45cc054de33c9f8c020a6628659f92b21866ddf87095376066330f037
+MD5sum: be30da7f040ae0827b7bd2c723526b5e
+SHA1: 0250be1c27462c9d3476ccca1f9bd4c1d267340a
+SHA256: 901ccad66a6792f462a6dbef2da51c3c8f793ed9d6911da401def7632f2083ef
 Section: Crazy HipHop-插件(Tweaks)
 Description: 电源功能增强
 Author: iBreak

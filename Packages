@@ -757,6 +757,26 @@ Author: CrazyHipHop <342080124@qq.com>
 Name: 哆啦A梦 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
 
+Package: hiphop.ext3nder-installer
+Version: 021a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: ./debs/hiphop.ext3nder-installer_021a_iphoneos-arm.deb
+Size: 422956
+MD5sum: 90d57db77af3435f8b65d5b597f5cffe
+SHA1: 7741ee56e8f0287bc7429c0c1a6a0751ee7057c1
+SHA256: 4a17e37669183f768e441f9623e309fe1f18ce76dc060be39e3f97cffad285e0
+Section: Crazy HipHop-工具(Utilities)
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Ext3nder Installer 签名工具
+
 Package: hiphop.hidebarx
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -874,6 +894,28 @@ Description: qq防撤回带提示，使用前请关闭其他防撤回
 Author: wjg (TouGBao)
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ RecallHook 防撤回增强
+
+Package: hiphop.reprovision
+Version: 0.4.2
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/hiphop.reprovision_0.4.2_iphoneos-arm.deb
+Size: 9985204
+MD5sum: 51c616a945d6ef2fe6664f38a04c1d2a
+SHA1: 6fa66acf1a95dcca2f8d2b7a5678d6653e50ca63
+SHA256: 2705c8231711076f5fdaf41e33523ad042950602f98a38ca0589885ba070cfe5
+Section: Crazy HipHop-工具(Utilities)
+Priority: optional
+Homepage: https://github.com/Matchstic/Extender-Installer
+Description: 重新为设备上的应用程序签名
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision 签名工具
 
 Package: hiphop.sareth
 Version: 1.0.1-3

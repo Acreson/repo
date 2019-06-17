@@ -1161,6 +1161,24 @@ Author: Wilson Styres & CrazyHipHop
 Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
 Name: 斑马 包管理器(汉化)
 
+Package: xyz.willy.zebra
+Version: 1.0~beta15-1+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres <wilson@styres.me>
+Installed-Size: 15424
+Depends: dpkg
+Filename: ./debs/xyz.willy.zebra_1.0~beta15-1+debug_iphoneos-arm.deb
+Size: 5105008
+MD5sum: b3c395b1fcdbed3aa091a0da2b5e0ab7
+SHA1: ba475dd5e835696374704511bf6721f9ed17311e
+SHA256: ad379c583eecc170f3e74edf32950583a40c16cd647210d60b5925d63afd8968
+Section: Packaging
+Description: A Useful Package Manager
+Tag: purpose::x
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
+Name: Zebra (BETA)
+
 Package: xyz.xninja.systeminfo
 Version: 2.2.1-10+debug
 Architecture: iphoneos-arm

@@ -425,6 +425,58 @@ Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
 Name: NiceBarX 正版分流
 Sileodepiction: http://apt.niceios.com/sileodepictions/com.niceios.nicebarx/depiction.json
 
+Package: com.tigisoftware.appdatamanager
+Version: 1.5.0-12
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 8928
+Filename: ./debs/com.tigisoftware.appdatamanager_1.5.0-12_iphoneos-arm.deb
+Size: 2453260
+MD5sum: 24137697c42f7048dc25ffee07fe373b
+SHA1: d1072b9e595580b07ca93d7a8275104a0d28aa3e
+SHA256: a3a4d2973597ad31c72a687febfd8962792d89ff16432c148e68421f8e2a41bf
+Section: Crazy HipHop-工具(Utilities)
+Description: 该工具为已安装的应用程序提供擦除、备份和恢复软件数据的方法
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Apps Manager 软件备份管理器
+
+Package: com.tigisoftware.filza
+Version: 3.7.0-18
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 29668
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/com.tigisoftware.filza_3.7.0-18_iphoneos-arm.deb
+Size: 9880376
+MD5sum: cdd0ba7b388ac137fecc32f6fab6ada4
+SHA1: ebe82c973252a5c29c473b87944fa611c1b09ed5
+SHA256: b22b0eec313003ea34fb6d2518eb3a267aaebba79b8a9b01670a5bef19ae2994
+Section: Crazy HipHop-工具(Utilities)
+Description: iPhone, iPad, iPod Touch的文件管理器。支持iOS 7 +
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Filza File Manager 文件管理器
+
+Package: com.tigisoftware.filza64bit
+Version: 3.7.0-18
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 20132
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debs/com.tigisoftware.filza64bit_3.7.0-18_iphoneos-arm.deb
+Size: 6723552
+MD5sum: fdc74880ed217d89f75ac2a07b95bbf4
+SHA1: 3009fc86d73b64d267f905355e6ae0efe9ddd87e
+SHA256: 93e3c85614988618a4a25f1c03016333f87c294778918766a47b01a1769e82ca
+Section: Crazy HipHop-工具(Utilities)
+Description: iPhone, iPad, iPod Touch的文件管理器。支持iOS 7 +。这个特殊版本只支持64位设备
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Filza File Manager 64bit 文件管理器
+
 Package: cydia-dark
 Version: 1.9.3~chimera4
 Architecture: iphoneos-arm

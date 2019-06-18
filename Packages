@@ -938,25 +938,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: iOS Helper 12 系统助手
 
 Package: hiphop.kingsraidcrack
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: CrazyHipHop<342080124@qq.com>
-Installed-Size: 49.78
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/hiphop.kingsraidcrack_0.0.1_iphoneos-arm.deb
-Size: 144012
-MD5sum: bd34e99cdd604e590df4c70604627fcf
-SHA1: 4d5acf1fa77b4f2382e489f3812596171aeb9f88
-SHA256: e346814b5d574774c0718ce2dd4e28e42b7a04be967f1b60effcbace5a97cbaf
-Section: Crazy HipHop-游戏(Games)
-Priority: optional
-Description: 解锁功能:1.上帝模式(不掉血）2.敌人0防御3.敌人低血量.低调使用，小心封号，下载去美区搜King‘s Raid即可
-Author: CrazyHipHop<342080124@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: King's Raid Crack 王之逆袭 破解
-Sponsor: CrazyHipHop<342080124@qq.com>
-
-Package: hiphop.kingsraidcrack
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: CrazyHipHop<342080124@qq.com>

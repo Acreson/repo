@@ -497,6 +497,26 @@ Author: TIGI Software
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Filza File Manager 64bit 文件管理器
 
+Package: com.unlimapps.uaupdatetools
+Version: 1.0r-102
+Architecture: iphoneos-arm
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-102_iphoneos-arm.deb
+Size: 544536
+MD5sum: facf560ac2fc81db0b7d4ac5b8c81aa9
+SHA1: 692ba7c46be6bea2a43fd57402f826e4fdfc8cfc
+SHA256: 721112a4032f5eab9fbfe38a1eb8cbf3c18cfc731eb12fde099ca53547e27f00
+Section: Crazy HipHop-插件(Tweaks)
+Priority: optional
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Description: 将iOS应用程序降级到以前的任何版本!不需要AppSync ! ! !
+Author: UnlimApps Inc.
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: App Admin 应用降级
+
 Package: cydia-dark
 Version: 1.9.3~chimera4
 Architecture: iphoneos-arm
@@ -933,6 +953,27 @@ Description: 酷我音乐全新全功能破解版，破解年费豪华会员所�
 Author: 带土
 Dev: 长生果子
 Name: 酷我音乐最新全破解
+
+Package: hiphop.packages
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 98
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/hiphop.packages_1.0.5_iphoneos-arm.deb
+Size: 7100
+MD5sum: 5bcb995077d6d6a1990669ec2b3eb967
+SHA1: d9ea75fb0f3a604743446553c27d4b42fbde9ac4
+SHA256: 94aab29e1eed7157d96f4672abd51c5f60377ad335827b2bd10272ad2ff8c319
+Section: Crazy HipHop-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=packagesDp
+Description: 设置-通用-关于本机 显示插件的有关数据(点击互换)
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=packagesDp
+Dev: cpdigitaldarkroom
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Packages 插件数据显示
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: hiphop.powerhelper
 Version: 1.0

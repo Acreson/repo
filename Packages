@@ -428,18 +428,18 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown Cydia增强
 
 Package: com.niceios.nicebarx
-Version: 2.0.3.7-1+debug
+Version: 2.0.3.9-1+debug
 Architecture: iphoneos-arm
 Maintainer: niceios
-Installed-Size: 8172
+Installed-Size: 8316
 Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
-Filename: ./debs/com.niceios.nicebarx_2.0.3.7-1+debug_iphoneos-arm.deb
-Size: 1266608
-MD5sum: 86a78ce16ebeb86754b4a6bd2173baf5
-SHA1: 6b872ae09998ef6d129d025728d34c026a75327b
-SHA256: 5bdbb9209525198253d51a66edcd1e7f29a2568dde16544c2fa8370c72a748b0
+Filename: ./debs/com.niceios.nicebarx_2.0.3.9-1+debug_iphoneos-arm.deb
+Size: 1307580
+MD5sum: a4b2dc60b30ff0dfe810e7e89310d9ff
+SHA1: b777d807adf95bcc7a357b7f9f879f7e56ebc02e
+SHA256: c97b95021e09adc21e80db375dd5e8214f663b6606906dbdc5e7385fcaa31b28
 Section: Crazy HipHop-分流(Shunt)
-Description: statusbar tweak..
+Description: 状态栏插件..
 Author: niceios
 Depiction: http://apt.niceios.com/depictions/?p=com.niceios.nicebarx
 Name: NiceBarX 正版分流

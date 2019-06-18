@@ -428,16 +428,16 @@ Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown Cydia增强
 
 Package: com.niceios.nicebarx
-Version: 2.0.3.9-1+debug
+Version: 2.0.4.0-2+debug
 Architecture: iphoneos-arm
 Maintainer: niceios
 Installed-Size: 8316
 Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
-Filename: ./debs/com.niceios.nicebarx_2.0.3.9-1+debug_iphoneos-arm.deb
-Size: 1307580
-MD5sum: a4b2dc60b30ff0dfe810e7e89310d9ff
-SHA1: b777d807adf95bcc7a357b7f9f879f7e56ebc02e
-SHA256: c97b95021e09adc21e80db375dd5e8214f663b6606906dbdc5e7385fcaa31b28
+Filename: ./debs/com.niceios.nicebarx_2.0.4.0-2+debug_iphoneos-arm.deb
+Size: 1302836
+MD5sum: b5b842b1089e0076c3594c5cd7d36b6d
+SHA1: a2c9186f0d3e713523f3948255915f54c8a6ea43
+SHA256: 74f0f11b4f329c0c3a90fdbd808092c4f5744f04427d504368e2385e01da7518
 Section: Crazy HipHop-分流(Shunt)
 Description: 状态栏插件..
 Author: niceios
@@ -1206,6 +1206,27 @@ Priority: important
 Homepage: http://tukaani.org/lzma/
 Description: slower, but better, compression algorithm
 Name: LZMA Utils
+
+Package: net.85819.ios.otrlocation
+Version: 5.5.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 170521
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: ./debs/net.85819.ios.otrlocation_5.5.1_iphoneos-arm.deb
+Size: 40764048
+MD5sum: 752afeb12466461cc247eb3f5fbe2572
+SHA1: fb7b3ced65f2c219de6d379dcb8d189c1098c307
+SHA256: d6319ba5d989f75610bc1dd4206c6d1be3bdcde08017eb55e079d04bff906d92
+Section: Crazy HipHop-工具(Utilities)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
+Description: 完全免费的地址和设备型号修改神器!
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: onTheRoadStudio <ontheroadstudio@live.cn>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
+Dev: ontheroadstudio
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Anywhere!--虚拟定位
 
 Package: org.thebigboss.repo.icons
 Version: 1.1

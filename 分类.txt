@@ -41,3 +41,6 @@ Icon: file:///Applications/Cydia.app/Sections/Java.png
 
 Section: Crazy HipHop-游戏(Games)
 Icon: file:///Applications/Cydia.app/Sections/Games.png
+
+Section: Crazy HipHop-玩具(Toys)
+Icon: file:///Applications/Cydia.app/Sections/Toys.png

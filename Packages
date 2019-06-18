@@ -728,6 +728,24 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: hiphop.cloudmusic
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/hiphop.cloudmusic_0.0.2_iphoneos-arm.deb
+Size: 13864
+MD5sum: 0784bda3c89e76195679c0309ab4b022
+SHA1: bb83efd79bfc54a375f843a506c290b383b828e8
+SHA256: 3d7f6d13f0433f93b9f7f235914bb9df9fcefe97e6073c38687f65d9c742a040
+Section: Crazy HipHop-玩具(Toys)
+Priority: optional
+Description: 部分VIP权限
+Author: CrazyHipHop
+Icon: file:///Applications/Cydia.app/Sections/Toys.png
+Name: CloudMusic VIP 网易云VIP
+Sponsor: CrazyHipHop
+
 Package: hiphop.cocoatop64
 Version: 2.0.2-1+debug
 Architecture: iphoneos-arm

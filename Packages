@@ -699,6 +699,23 @@ Author: Joka
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Need for Speed No Limits Cheats 极品飞车 破解
 
+Package: hiphop.WB
+Version: 4.8.1
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.wb_4.8.1_iphoneos-arm.deb
+Size: 717524
+MD5sum: 5c596f4d87f3f120ebf00f2dd467aec1
+SHA1: 8f4a17c873b3c8c32a2c9f7192140ee2b7fcd6f4
+SHA256: 7d4e32df2cb28763fbe41cfc187ddcdd082a226035be4c2e75a6c94d8b6ed677
+Section: Crazy HipHop-游戏(Games)
+Description: 解锁功能：透视（墙壁后面的敌人全部看得见）
+Author: DanYal
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: War Robots Crack 机甲战队 破解
+
 Package: hiphop.ace
 Version: 4.9.1-1+debug
 Architecture: iphoneos-arm

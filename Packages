@@ -361,17 +361,18 @@ Name: CrashReporter 崩溃日志
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.cricetulu
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
-Filename: ./debs/acreson.cricetulu_1.2_iphoneos-arm.deb
-Size: 7916
-MD5sum: bf1d8ed43cfe43167fb61a393069a645
-SHA1: 841c6288a5b51d75c0ccfd7dc744249b43e1b351
-SHA256: bd347d2ba3cd23904cc695b0010ed80aef251456b23f460d61477bbbbe33a876
+Filename: ./debs/acreson.cricetulu_1.3_iphoneos-arm.deb
+Size: 7948
+MD5sum: ae5e0b77b9e125649e7337015ce51db4
+SHA1: dc3822873cd4c0f46763492e50a71342b09018c4
+SHA256: f0395299442093200f9c2cf34f39ffd8528acffbb0076c0badafbffd2ef58d1b
 Section: Acreson-主题(Themes)
 Description: 小仓鼠 角标
 Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 小仓鼠 角标
 Sponsor: Acreson <http://crazyc.top>
 

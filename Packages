@@ -188,6 +188,23 @@ Author: Crimson
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: MC5 Hack 现代战争5破解
 
+Package: acreson.ace233
+Version: 0.13.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/acreson.ace233_0.13.0-1+debug_iphoneos-arm.deb
+Size: 37020
+MD5sum: b76281c1b28fbd86da0119edfa4566f6
+SHA1: febbf0079f3641fffdb3e8d6ffc14b58c5210e24
+SHA256: a39edecb9f3e034a1758465f715083d9fd83d7f5734a37c2fab1cf165a0c655e
+Section: Acreson-游戏(Games)
+Description: 解锁功能:无后座，无扩散
+Author: Crimson
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Pubg Mobile 0.13.0 Hack 刺激战场国际服破解
+
 Package: acreson.acrebel
 Version: 2.4.2
 Architecture: iphoneos-arm

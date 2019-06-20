@@ -34,6 +34,23 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Hide Separator 隐藏分割线
 
+Package: acreson.Alipay-AntForest
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.alipay-antforest_0.3_iphoneos-arm.deb
+Size: 243828
+MD5sum: e87a019e8ec2ab76691acad7f1e034bf
+SHA1: c5908598f53669760349d4e8de8b2ef536356c38
+SHA256: ccadb873d4404ab24cd4c2f2bd97170ff3c8cb31aee071d3ba61f81968ba819d
+Section: Acreson-增强(Enhance)
+Priority: optional
+Description: 收集好友、收集气泡、定时收取、浇水功能、清空数据
+Author: King
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Alipay蚂蚁森林增强(非A12)
+
 Package: acreson.Asphalt8
 Version: 4.2.0
 Architecture: iphoneos-arm
@@ -186,6 +203,22 @@ Author: SynnyG <synnyg.devjb@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: BackupAZ 3 备份神器
 
+Package: acreson.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 742
+Filename: ./debs/acreson.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 151796
+MD5sum: f20be17fc3a7dc9ad92dbe322a59782c
+SHA1: 1fefd33d9f537305e2c6615820203923d4eb7a9c
+SHA256: 92b7e494bd7ba57913be487dec0bd6e8038912aab6f755ab4621a4ce972c5ecd
+Section: Acreson-工具(Utilities)
+Description: 用于iOS GUI的流程查看器(64位)
+Author: Domo
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CocoaTop 64Bit 进程查看器
+
 Package: acreson.crackerxi
 Version: 1.1.5
 Architecture: iphoneos-arm
@@ -201,6 +234,28 @@ Description: 解密iOSApp,普通用户可用于导出App⚠️如出现打开“
 Author: c0pyn1nja
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CrackerXI+ 砸壳工具
+
+Package: acreson.crash-reporter
+Version: 1.16.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1460
+Pre-Depends: firmware (>=4.0)
+Depends: coreutils, dpkg, grep, jp.ashikase.libcrashreport (>= 1.1.0), jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.crash-reporter_1.16.0-1_iphoneos-arm.deb
+Size: 253744
+MD5sum: ea46071ec32cf035e6976bda284cea7b
+SHA1: 97a37dc0e3017f7fbf5ce5f2910d421df04caca4
+SHA256: 18bdd8824e48a190fa147dba9035bbbf5abf1e5faad23d3f2c74ff10bd12cf72
+Section: Acreson-工具(Utilities)
+Homepage: http://github/ashikase/CrashReporter/
+Description: 发送实时崩溃日志记录
+Tag: purpose::uikit, role::enduser
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
+Dev: ashikase
+Name: CrashReporter 崩溃日志
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.cricetulu
 Version: 1.2
@@ -304,6 +359,25 @@ Author: Satvik Borra
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: ImageCorrect 文本替换(添加图像支持)
 
+Package: acreson.impactor
+Version: 0.9.43
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: firmware (>= 7.1), firmware (<= 10.3.3)
+Breaks: com.saurik.patych (<< 1.0.1)
+Filename: ./debs/acreson.impactor_0.9.43_iphoneos-arm.deb
+Size: 387204
+MD5sum: aefa522bbbecde46e8b95fa1779e1519
+SHA1: f317c97bfdf485e87ccfb09b4c26044036aa3e34
+SHA256: 93eb9c1db613ab6bc431ad95f7665972e300a9f116173a3e71795787be4bbb7f
+Section: Acreson-系统(System)
+Priority: optional
+Description: 7.1-10.3.3平刷工具，测试可用
+Tag: purpose::uikit, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: Cydia Eraser 平刷工具
+
 Package: acreson.ioshelper12
 Version: 2.0
 Architecture: iphoneos-arm
@@ -395,6 +469,66 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Power Helper 电源助手
 
+Package: acreson.powerselector11
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1860
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/acreson.powerselector11_1.2.0-1_iphoneos-arm.deb
+Size: 191800
+MD5sum: bda3a4c32ccf01bc207e8c79594c3971
+SHA1: a389a1048874e750be8961dab4f2d309f2bf602c
+SHA256: 87b27e9c4e045f5aa397eaabc7ed102cfdc4ca2d55c85393116ccf38a168b44f
+Section: Acreson-工具(Utilities)
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Depiction: https://willfeeltips.appspot.com/depiction/powerselector11.html
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Name: PowerSelector 快捷工具箱(iOS 11 & 12)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: acreson.pubgweeding
+Version: 0.13.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: mobilesubstrate
+Filename: ./debs/acreson.pubgweeding_0.13.0_iphoneos-arm.deb
+Size: 684060
+MD5sum: 03ba47e849767e747a80ac2e2412645b
+SHA1: 02641f3eab517812726162a44d50ad941ae4a44a
+SHA256: 3e0c0ddf7840af19e906197343921794b6a6d35da0613f5bb0e9149ff998bb73
+Section: Acreson-游戏(Games)
+Description: 解锁功能:完整除草除房带设置项.
+Author: Hack Game
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG Mobile Hack 刺激战场国际服破解
+
+Package: acreson.qq
+Version: 7.9.8
+Architecture: iphoneos-arm
+Maintainer: 小苹果™
+Installed-Size: 49.78
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.qq_7.9.8_iphoneos-arm.deb
+Size: 146796
+MD5sum: 37c57e73eab5a8a62a859278c812e1c3
+SHA1: 559933b988d0118fc36eefa98ca3bc08a21fce4f
+SHA256: 2febcaaa8d87f34ccd67288060b9575c2cc61bdcb6c332e3685e819b4f87ed2d
+Section: Acreson-增强(Enhance)
+Priority: optional
+Description: 功能：虚拟定位，抢红包，防撤回，虚拟机型(随意输入验证码点验证即可)设置右上角QQMAX
+Author: 小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQ Helper QQ增强助手
+Sponsor: 小苹果™
+
 Package: acreson.qqanitirecallhook
 Version: 0.1-2
 Architecture: iphoneos-arm
@@ -454,6 +588,26 @@ Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
 Dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision 签名工具
+
+Package: acreson.semirestore11
+Version: 1.1.2-1
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 172
+Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3), firmware (<< 12.1.2)
+Conflicts: org.coolstar.semirestore11-lite
+Replaces: org.coolstar.semirestore11-lite
+Filename: ./debs/acreson.semirestore11_1.1.2-1_iphoneos-arm.deb
+Size: 50404
+MD5sum: 035333eecd7dd2e361a54a012dbc9203
+SHA1: 81becc8b5a9156cc2c91e17124fefb818d1f7c26
+SHA256: 99a4dea1eb77c9c4783e019ff588dac43b12f776ca5db6c15a3f603e502333c3
+Section: Acreson-系统(System)
+Description: 11.3-12.1.2平刷工具，测试可用
+Tag: compatible::ios11
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: SemiRestore11 / Rollectra  平刷工具
 
 Package: acreson.skeleton
 Version: 1.1
@@ -982,6 +1136,26 @@ Author: TIGI Software
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Filza File Manager 64bit 文件管理器
 
+Package: com.unlimapps.uaupdatetools
+Version: 1.0r-102
+Architecture: iphoneos-arm
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-102_iphoneos-arm.deb
+Size: 544544
+MD5sum: d88f4f4e40739d766bd569b1f887498d
+SHA1: c5994bc63c861ed6f13e41ddbd6803e9cb08c71a
+SHA256: 87adfab764f736540bdc006921c1c246aac9fff8e0d73d952ad20fa18188a902
+Section: Acreson-插件(Tweaks)
+Priority: optional
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Description: 将iOS应用程序降级到以前的任何版本!不需要AppSync ! ! !
+Author: UnlimApps Inc.
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: App Admin 应用降级
+
 Package: cydia-dark
 Version: 1.9.3~chimera4
 Architecture: iphoneos-arm
@@ -1004,6 +1178,29 @@ Author: Diatrus <me@diatr.us>
 Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Chimera/Electra专用Cydia
+
+Package: cydia-lproj
+Version: 1.9.3~chimera
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 712
+Depends: cydia
+Conflicts: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Filename: ./debs/cydia-lproj_1.9.3~chimera_iphoneos-arm.deb
+Size: 66996
+MD5sum: 42c19a10a649c578837dedf9d0f3854a
+SHA1: 34e47673750a6dbcf3ba8cd36a81e29f5466b417
+SHA256: 8e4330442a00bf3f76d8cf5586ebf4e5a4b91947e2893254797073fb70d3d581
+Section: Acreson-依赖(Depends)
+Priority: required
+Description: languages and translations for Cydia
+Tag: purpose::uikit, cydia::essential, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: Cydia Translations
 
 Package: lz4
 Version: 1.7.5-1

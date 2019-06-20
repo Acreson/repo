@@ -311,10 +311,10 @@ Installed-Size: 1460
 Pre-Depends: firmware (>=4.0)
 Depends: coreutils, dpkg, grep, jp.ashikase.libcrashreport (>= 1.1.0), jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
 Filename: ./debs/acreson.crash-reporter_1.16.0-1_iphoneos-arm.deb
-Size: 253744
-MD5sum: ea46071ec32cf035e6976bda284cea7b
-SHA1: 97a37dc0e3017f7fbf5ce5f2910d421df04caca4
-SHA256: 18bdd8824e48a190fa147dba9035bbbf5abf1e5faad23d3f2c74ff10bd12cf72
+Size: 253456
+MD5sum: 941bd0820a1c07486e7e507a91420e54
+SHA1: 94961ac1a74166c14febeab25e9a4cee01970f63
+SHA256: ded9b7dc288f6c5ff82a3f9693b251f7e87d7b68d166add4e4514f2d4676554a
 Section: Acreson-工具(Utilities)
 Homepage: http://github/ashikase/CrashReporter/
 Description: 发送实时崩溃日志记录
@@ -322,6 +322,7 @@ Tag: purpose::uikit, role::enduser
 Author: Lance Fetters (ashikase) <support@ashikase.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
 Dev: ashikase
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CrashReporter 崩溃日志
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -746,7 +747,7 @@ Name: 烟雾 角标
 Sponsor: Acreson <http://crazyc.top>
 
 Package: acreson.snowboardfull
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Spark&CrazyHipHop
 Installed-Size: 12345
@@ -754,14 +755,15 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/acreson.snowboardfull_1.2_iphoneos-arm.deb
-Size: 1595820
-MD5sum: d8c46eae7b8c569b35cbff3802521bef
-SHA1: 034c3d9e68b9a8a188d1ad6572fed10f459a1c6d
-SHA256: 2660acb1024530c6d917cdb8a1f28adc186c911061d0cfdb6f6bdcc1a7bd8045
+Filename: ./debs/acreson.snowboardfull_1.3_iphoneos-arm.deb
+Size: 1597584
+MD5sum: b60a9f2a36350a90cb7cc386c4c6b616
+SHA1: dc8ec51197e9c429ba41145d2d44b29d67f3d454
+SHA256: 7e6c106c24826587cfb1dd4958530a175eb82fdaef0ad7ea384fb8efa8609520
 Section: Acreson-工具(Utilities)
 Description: SnowBoard (App) 完整版
 Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: SnowBoard  (App) 完整版
 
 Package: acreson.st4.new
@@ -773,14 +775,15 @@ Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstra
 Replaces: com.springtomize.st4
 Provides: com.springtomize.st4.new
 Filename: ./debs/acreson.st4.new_4.0.4_iphoneos-arm.deb
-Size: 553568
-MD5sum: 6623c947f5774b845f2dafc5436e4886
-SHA1: e7f40f0ffeedf2537e6e216d91b191495bcfb6a6
-SHA256: ca7935c925c6354b1654b7e282199919c4c29722d959c0d3da2a977e9e3a8069
+Size: 553412
+MD5sum: 344056abd39609bf875e6e19c562150b
+SHA1: cc63bdc8a6486f45d6d6fc9f3724a5229120ebb3
+SHA256: af46da5e965c2c4597dcae62ddc161ef2c593054607f9d27af2d6fda6328eae0
 Section: Acreson-插件(Tweaks)
 Description: 前所未有地定制您的设备.
 Author: sharedRoutine
 Conflict: com.springtomize.st4
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Springtomize4 瑞士军刀4
 
 Package: acreson.successionrestore
@@ -909,13 +912,14 @@ Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | ne
 Conflicts: net.tetherme.tetherme
 Replaces: net.tetherme.tetherme
 Filename: ./debs/acreson.tetherme8_1.2.4_iphoneos-arm.deb
-Size: 80240
-MD5sum: 1738273df1a8ecb076afbdd4205bd683
-SHA1: aac5b81fb22c3469fdb25fd4ca2c3b32ab987ba8
-SHA256: 07456af0785f1e4f76ca5325caca6978b04a8575a9ceb7dc1964857a332ad1b8
+Size: 80256
+MD5sum: 3827446a625bda8228f98f0056b7d878
+SHA1: c7348f51f60000e4d97a46f0dac89093ea6a04b6
+SHA256: dca330577667c49fa0c22f267601d93301905c146fede51c4fd177c599c13588
 Section: Acreson-网络(Networking)
-Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
-Name: TetherMe for iOS8+  热点多功能设定
+Description: 动态支持iOS8+设备的本地连接。这应该在任何载体上工作，而不需要定制捆绑包或首选项。
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Name: TetherMe for iOS8+  热点强化
 
 Package: acreson.tgunblockx
 Version: 1.1.1
@@ -1115,10 +1119,10 @@ Architecture: iphoneos-arm
 Maintainer: https://twitter.com/CydiaSaurikStar
 Depends: firmware (>= 11.0)
 Filename: ./debs/com.shadowstonk.jw.sailyinstaller_0.1.5_iphoneos-arm.deb
-Size: 31599112
-MD5sum: 4d97e965e2c3045d3ff3e37a466cc73e
-SHA1: e2ed5934dd47e0a377ac2024de246036266304fa
-SHA256: f460f7864b0f4709d11bb366ada58bb2bedfc5d649dce2d27c0788c43722338b
+Size: 31598724
+MD5sum: 8dadfa98ce7fa4e43430079b91316519
+SHA1: f9ded3dde94520d2a0a37164f0527d7a5ffa1779
+SHA256: 90b9c4c9ae97846df7ab35469338b1240ae46c19b2f0ea9d1985f6e163d6c2d7
 Section: Acreson-安装包(Packages)
 Priority: optional
 Homepage: https://twitter.com/CydiaSaurikStar
@@ -1126,7 +1130,7 @@ Description: Saily Package Manager Installer
 Author: Lakr Aream / ShadowStonk
 Depiction: nil
 Dev: https://twitter.com/Lakr233
-Icon: file:///Applications/Saily Package Manager.app/AppIcon60x60@2x.png
+Icon: file:///Applications/Cydia.app/Sections/Packaging.png
 Name: Saily 包管理器
 
 Package: com.bingner.plutil

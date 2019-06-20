@@ -1,3 +1,56 @@
+Package: Flex3beta
+Version: 1:3~Beta63
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/flex3beta_3~Beta63_iphoneos-arm.deb
+Size: 15435216
+MD5sum: 10933e99b16f6d3209d44b6b9a67c364
+SHA1: 8dc71b9ebdd4b2cfbf7ffbb2d11c2eb14a51bb1d
+SHA256: b24501a5880e765f08ba34e16ed73232bea45a907495dc005cb1e7262e3c59cb
+Section: Acreson-工具(Utilities)
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Flex 3 Beta 补丁汇聚地
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: acresob.hideseparator
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/acresob.hideseparator_1.4_iphoneos-arm.deb
+Size: 9376
+MD5sum: e3ea5c66eb1991a0f397ce6ec804cf37
+SHA1: d9ef22c70f4f95c6433a9d73f137b9bc28545236
+SHA256: 186bf65467a492ccd9a3c720ef1deb514d455328e9e895a95360bc2ac6d559b6
+Section: Acreson-插件(Tweaks)
+Description: 隐藏全局分割线 支持A12
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Hide Separator 隐藏分割线
+
+Package: acreson.HI3GL
+Version: 3.1.2
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.hi3gl_3.1.2_iphoneos-arm.deb
+Size: 720836
+MD5sum: 0345e04f3234506b84e41af98aedfc1f
+SHA1: 38aaff70e8ccb0582127a3563d8f24435bb8a330
+SHA256: 9bba9371ed827aaaac368a83974bdb38ae8b423784c0759d349eef4877209e59
+Section: Acreson-游戏(Games)
+Description: 解锁功能：超高伤害,超高HP，没有技能CD  hack:High Damage- High HP- Inf.Skills- No Skills CoolDown.  下载方式:AppStore美区搜索:Honkai Impact 3rd
+Author: DanYal
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Honkai Impact 3rd Cheats 崩坏3 破解
+
 Package: acreson.LocalIAPStore
 Version: 1.5-2
 Architecture: iphoneos-arm
@@ -81,6 +134,124 @@ Description: 一个完整的备份工具，IOS10-12
 Author: SynnyG <synnyg.devjb@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: BackupAZ 3 备份神器
+
+Package: acreson.crackerxi
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 11.0), ldid (>=2.0)
+Filename: ./debs/acreson.crackerxi_1.1.5_iphoneos-arm.deb
+Size: 5790312
+MD5sum: c5dda8d3ac0a667f6513c9bc519074f5
+SHA1: 4c61962a3069ce5b2c413848dab03b539a292062
+SHA256: e33f92b5526827e7ed7af975794b36481119a8bd439237c81a940d6a0468f7fa
+Section: Acreson-工具(Utilities)
+Description: 解密iOSApp,普通用户可用于导出App⚠️如出现打开“CrackerXI+”闪退,即表明此应用未正确联网,国行机器解决网络权限问题.
+Author: c0pyn1nja
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CrackerXI+ 砸壳工具
+
+Package: acreson.cricetulu
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.cricetulu_1.2_iphoneos-arm.deb
+Size: 7916
+MD5sum: bf1d8ed43cfe43167fb61a393069a645
+SHA1: 841c6288a5b51d75c0ccfd7dc744249b43e1b351
+SHA256: bd347d2ba3cd23904cc695b0010ed80aef251456b23f460d61477bbbbe33a876
+Section: Acreson-主题(Themes)
+Description: 小仓鼠 角标
+Author: Acreson <342080124@qq.com>
+Name: 小仓鼠 角标
+Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.doraemon
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.doraemon_1.1_iphoneos-arm.deb
+Size: 7004
+MD5sum: 43d3e2d0e2cb3bf1851ae774b3716bbf
+SHA1: eb4f94892b362b662e02e83ff0637eae5c697e5d
+SHA256: 32da5e5ab663a326a670209ed644d0cf9c76622fcdc25670c029f04d7a28e23b
+Section: Acreson-主题(Themes)
+Description: 哆啦A梦探头 角标
+Author: Acreson <342080124@qq.com>
+Name: 哆啦A梦 角标
+Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.ext3nder-installer
+Version: 021a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: ./debs/acreson.ext3nder-installer_021a_iphoneos-arm.deb
+Size: 423220
+MD5sum: 1aa08de56ed8f31eaca9e7d8b48dbed6
+SHA1: 07d6aeec38e1f2ae8a5b59937c754a7246b2d166
+SHA256: 7d9b024bba42e862d6052529cd0fdc71116e3b91907a349c780801f86d7f5a79
+Section: Acreson-工具(Utilities)
+Homepage: http://twitter.com/ijulioverne
+Description: 具有额外功能的Cydia扩展程序安装程序
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Ext3nder Installer 签名工具
+
+Package: acreson.hidebarx
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/acreson.hidebarx_0.0.4_iphoneos-arm.deb
+Size: 3776
+MD5sum: afdae9a08278637cc5dd041284d5bdc0
+SHA1: 12bdbb33415eba8096094ad3ea87ec9e1a872f6e
+SHA256: 1b91d8dde89b8e46293b0a41ec61297b8a41165a1e424d7c28837615c282c345
+Section: Acreson-插件(Tweaks)
+Description: 隐藏iPhoneX/XS/XSMAX/XR 底部横条
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: HideBarX 隐藏底部横条
+Removes: com.spark.HidebarX
+
+Package: acreson.imagecorrect
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Satvik Borra
+Installed-Size: 336
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/acreson.imagecorrect_0.1_iphoneos-arm.deb
+Size: 33228
+MD5sum: 8ac9f70ae2bd03f87fa956cb9cf659fd
+SHA1: e72adf7a9fb2439c02b2d0c948c851a4dd5c90ea
+SHA256: 63766c65ddbf16e3022260fd0103824bcdf9eb8f31295d860f4b23f4dab1f72c
+Section: Acreson-插件(Tweaks)
+Description: An awesome MobileSubstrate tweak!
+Author: Satvik Borra
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: ImageCorrect 文本替换(添加图像支持)
+
+Package: acreson.ioshelper12
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 980
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.ioshelper12_2.0_iphoneos-arm.deb
+Size: 139564
+MD5sum: 876318c8a7712c87353cc1421bd01c2c
+SHA1: 0569d5c75d30d89efb762a8afd65ef916d99bf6c
+SHA256: 012727b9442b489d34cb5149b4360d7ae48b81dead10f91214ef413c8d937c2f
+Section: Acreson-插件(Tweaks)
+Description: IOS 系统多功能定义助手
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: iOS Helper 12 系统助手
 
 Package: acreson.kingsraidcrack
 Version: 0.0.2
@@ -375,6 +546,23 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Thunder Helper 迅雷助手
 
+Package: acreson.transparentmusic
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Mateusz Morawski
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/acreson.transparentmusic_0.0.1-2_iphoneos-arm.deb
+Size: 4152
+MD5sum: de125327d6f4e11629fc6212c0bb4c42
+SHA1: 119b977b38cb13cd73acb55220b4509467bd0e41
+SHA256: fd42299c4f1e545e75fd0f3f9f16f41cbdc4d58e321e3a50baed6099270e4d74
+Section: Acreson-插件(Tweaks)
+Description: Transparency!
+Author: Mateusz Morawski
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Transparent Music 透明通知音乐
+
 Package: acreson.tweakexcluder
 Version: 0.3-1
 Architecture: iphoneos-arm
@@ -499,6 +687,26 @@ Dev: malcolmhall
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: WiFi Passwords WIFI密码查看器
 
+Package: com.ShadowStonk.jw.SailyInstaller
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: https://twitter.com/CydiaSaurikStar
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.shadowstonk.jw.sailyinstaller_0.1.5_iphoneos-arm.deb
+Size: 31599112
+MD5sum: 4d97e965e2c3045d3ff3e37a466cc73e
+SHA1: e2ed5934dd47e0a377ac2024de246036266304fa
+SHA256: f460f7864b0f4709d11bb366ada58bb2bedfc5d649dce2d27c0788c43722338b
+Section: Acreson-安装包(Packages)
+Priority: optional
+Homepage: https://twitter.com/CydiaSaurikStar
+Description: Saily Package Manager Installer
+Author: Lakr Aream / ShadowStonk
+Depiction: nil
+Dev: https://twitter.com/Lakr233
+Icon: file:///Applications/Saily Package Manager.app/AppIcon60x60@2x.png
+Name: Saily 包管理器
+
 Package: com.bingner.plutil
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -557,6 +765,42 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: iCleaner Pro 清理工具
+
+Package: com.tigisoftware.filza
+Version: 3.7.0-18
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 29668
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/com.tigisoftware.filza_3.7.0-18_iphoneos-arm.deb
+Size: 9879908
+MD5sum: f4da01ccf25dd32f89a692232cffbbe2
+SHA1: 65a9bfce9ce51bdc10d387fca17d6526c3c02be0
+SHA256: 9d47fc73a970fb04efaa5a71a49456897adfef26e9c01bdb8c0ea2b375b978da
+Section: Acreson-工具(Utilities)
+Description: iPhone, iPad, iPod Touch的文件管理器。支持iOS 7 +
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Filza File Manager 文件管理器
+
+Package: com.tigisoftware.filza64bit
+Version: 3.7.0-18
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 20132
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debs/com.tigisoftware.filza64bit_3.7.0-18_iphoneos-arm.deb
+Size: 6724484
+MD5sum: 7d89334a9334acbe4c8987139f452af1
+SHA1: 5c27fbbc830d65bf6892dee97739913eb1430426
+SHA256: fa222ccdd9ae2eb126631a9fbcb2ec2fed912615e02fe457e933cf8ed2883184
+Section: Acreson-工具(Utilities)
+Description: iPhone, iPad, iPod Touch的文件管理器。支持iOS 7 +。这个特殊版本只支持64位设备
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Filza File Manager 64bit 文件管理器
 
 Package: lz4
 Version: 1.7.5-1

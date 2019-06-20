@@ -17,6 +17,23 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Flex 3 Beta 补丁汇聚地
 Recommended: com.rpetrich.rocketbootstrap
 
+Package: acres.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./debs/acres.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 9128
+MD5sum: 0d82ee4e9d6c7923c6d1e7ee429d6a8e
+SHA1: 8ce0fd2f4362334935c72ead1b97c2ac238ae95a
+SHA256: 8a9bc9aa29534d132a509a6f0deaafb43799b36ec2659f40cbf862c6c0ef5d15
+Section: Acreson-网络(Networking)
+Description: 限制某些应用程序访问iOS 12上的wifi
+Author: ATWiiks
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Name: ConditionalWiFi4 IOS12网络权限
+
 Package: acresob.hideseparator
 Version: 1.4
 Architecture: iphoneos-arm
@@ -50,6 +67,24 @@ Description: 收集好友、收集气泡、定时收取、浇水功能、清空�
 Author: King
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Alipay蚂蚁森林增强(非A12)
+
+Package: acreson.Alipaymysl
+Version: 0.6.6
+Architecture: iphoneos-arm
+Maintainer: 小小名仔
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.alipaymysl_0.6.6_iphoneos-arm.deb
+Size: 24876
+MD5sum: 2275ba84e230356bf70cf7087848463d
+SHA1: a29785a65b036f7b9f69875f33af75bb65f660d2
+SHA256: 8ae23dcb459f5a9f033a31a734d1f0073c5a4f1da49132adfb1b29709aaf3f5a
+Section: Acreson-增强(Enhance)
+Priority: optional
+Description: 一键收取能量，个人用
+Author: 小小名仔
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Alipay蚂蚁森林增强(A12)
+Sponsor: 小小名仔
 
 Package: acreson.Asphalt8
 Version: 4.2.0
@@ -170,6 +205,55 @@ Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: War Robots Crack 机甲战队 破解
 
+Package: acreson.ace
+Version: 4.9.1-1+debug
+Architecture: iphoneos-arm
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/acreson.ace_4.9.1-1+debug_iphoneos-arm.deb
+Size: 37140
+MD5sum: 4088b464c12588fc3e7d4fbf9b6650da
+SHA1: 5f717716c66c49a69ae8930f57960694b5c7015a
+SHA256: 546b1b077e58c977350d70fe496bb2d10381393bacce829d8ea49e9a9a0ce780
+Section: Acreson-游戏(Games)
+Description: 解锁功能: 自定义火力率（如果太高你将与服务器断开连接）（不同的武器在断开连接之前有不同的最大火力）- 没有反冲- 没有传播
+Author: Crimson
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: MC5 Hack 现代战争5破解
+
+Package: acreson.ace
+Version: 4.9.2
+Architecture: iphoneos-arm
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/acreson.ace_4.9.2_iphoneos-arm.deb
+Size: 37084
+MD5sum: f85c3fafa780bcd3ce11aed30b2264df
+SHA1: ed3f1c0b5af0b33f354ea9ae53e9869a3872ea32
+SHA256: 95a8b307a76488ddd3bfaac0379837d2c27310bebee1fdde4c1684014a2a64d5
+Section: Acreson-游戏(Games)
+Description: 解锁功能: 1，无后座。2，火力倍数（开大会被踢出服务器）.
+Author: Crimson
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: MC5 Hack 现代战争5破解
+
+Package: acreson.ace
+Version: 4.9.3
+Architecture: iphoneos-arm
+Maintainer: acreson
+Depends: mobilesubstrate
+Filename: ./debs/acreson.ace_4.9.3_iphoneos-arm.deb
+Size: 37088
+MD5sum: 3cbcdd2f7b6b1d40b43dd140982201cf
+SHA1: f4a2cdc489a5d89246aa992ab7d690beba977d96
+SHA256: f87338214204cd7d39fcd02dfdbf88d07149a08beed16c80b1bf881904fab3a3
+Section: Acreson-游戏(Games)
+Priority: optional
+Description: 解锁功能: 1，无后座。2，火力倍数（开大会被踢出服务器）.
+Author: Crimson
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: MC5 Hack 现代战争5破解
+
 Package: acreson.acrebel
 Version: 2.4.2
 Architecture: iphoneos-arm
@@ -186,6 +270,22 @@ Description: 解锁功能:上帝模式\一次性杀戮\解锁所有刺客\绕过
 Author: busmanl30
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Assassin's Creed Rebellion Crack 刺客信条:燎原 破解
+
+Package: acreson.addsource
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/acreson.addsource_0.1_iphoneos-arm.deb
+Size: 16800
+MD5sum: ecb504a0576a89fd4a2a3f6f5fdf95bc
+SHA1: d981a18da11c065a57acc7e2a74d8b9fbfa0c954
+SHA256: faab8917863495a80afbefe3cc40387ff51ba1f5a779530f2d139a6f8703e456
+Section: Acreson-插件(Tweaks)
+Description: 让Cydia跟Sileo那样识别剪切板可以一键添加源
+Author: yuosaf01 & 3bod_syr
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AddSource Cydia快捷加源
 
 Package: acreson.backupaz3
 Version: 1.5
@@ -987,6 +1087,24 @@ Dev: malcolmhall
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: WiFi Passwords WIFI密码查看器
 
+Package: acreson.youtubetools
+Version: 3.0-1
+Architecture: iphoneos-arm
+Maintainer: Justin Petkovic
+Installed-Size: 304
+Depends: org.coolstar.tweakinject, com.ex.libsubstitute, cy+cpu.arm64
+Filename: ./debs/acreson.youtubetools_3.0-1_iphoneos-arm.deb
+Size: 22520
+MD5sum: 6b34a58a95485852b6c2439458873e16
+SHA1: c4702e95585c1609754073c3de7446f5cc44e4b4
+SHA256: 482369764f33a2d84d177f5d53b0b10e9859ba2b174eae6d3d6a4f91454d86dd
+Section: Acreson-增强(Enhance)
+Description: YouTube应用程序必备工具箱.
+Author: Justin Petkovic
+Icon: https://coolstar.moe/sileoassets/depictions/assets/com.justinpetkovic.youtubetools-icon.png
+Name: YouTube Tools YouTube工具箱
+Sileodepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.justinpetkovic.youtubetools
+
 Package: com.ShadowStonk.jw.SailyInstaller
 Version: 0.1.5
 Architecture: iphoneos-arm
@@ -1065,6 +1183,40 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: iCleaner Pro 清理工具
+
+Package: com.hiphop.conditionalwifi3
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Depends: mobilesubstrate
+Filename: ./debs/com.hiphop.conditionalwifi3_1.0.0_iphoneos-arm.deb
+Size: 9052
+MD5sum: f9c4ebbcb0b57157018013499be83f2f
+SHA1: c74404ea7629ca89cbc57278a358cf4768b187d3
+SHA256: 72341e3c49284c242479a5f58480262ed0ab57d5ccd88eb4c7a0a23985767e07
+Section: Crazy HipHop-网络(Networking)
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: iOS Creatix
+Depiction: https://mrmadtw.github.io/repo/depiction/conditionalwifi3/index.html
+Name: ConditionalWiFi3 IOS11网络权限
+
+Package: com.hiphop.libertylite.beta
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debs/com.hiphop.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42352
+MD5sum: c2f2f850453bcdb3ecda9c2221faae56
+SHA1: dc7658396f565c015c93268d6cfd465cb24ed238
+SHA256: 283d5d2d8bf4348edb97ca6af5acc53bef9be5fca62c95478f4919b90e1fdffe
+Section: Acreson-插件(Tweaks)
+Description: 一个通用的越狱检测旁路补丁。在设置应用程序中配置Liberty Lite条目，以阻止(大多数)应用程序检测您的越狱。当前不支持禁用基板/替换。这个测试版同时支持arm64e和armv7。
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite (Beta) 屏蔽越狱检测
 
 Package: com.julioverne.cydown
 Version: 6.9.7

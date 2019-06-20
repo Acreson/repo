@@ -1151,6 +1151,40 @@ Author: CrazyHipHop <342080124@qq.com>
 Name: 烟雾 角标
 Sponsor: CrazyHipHop <http://crazyc.top>
 
+Package: hiphop.sutuplus
+Version: 2.6.3
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.sutuplus_2.6.3_iphoneos-arm.deb
+Size: 215100
+MD5sum: e028f1709baf1037b9c6340d46bb1085
+SHA1: 68b74acdeeb89b9e3e9f0ed4e56be5e0130332b7
+SHA256: 98c3eb6320cd35c4d9532eb629e097b317aba2ab0700884c2cc76c0a79569854
+Section: Crazy HipHop-增强(Enhance)
+Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
+Author: Karo
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
+
+Package: hiphop.sutupluscg
+Version: 2.6.3CG
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./debs/hiphop.sutupluscg_2.6.3CG_iphoneos-arm.deb
+Size: 214860
+MD5sum: 886cf6a251eb85e330f7804043387fd9
+SHA1: cdbaa4f7c3558b1599b5d0857b45c015c4631810
+SHA256: fca0a06dafd700738a812835aa4d2c950f36ef345fea70c4ae7d69cf51a7947f
+Section: Crazy HipHop-增强(Enhance)
+Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
+Author: Karo
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
+
 Package: hiphop.tetherme8
 Version: 1.2.4
 Architecture: iphoneos-arm

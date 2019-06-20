@@ -112,6 +112,38 @@ Dev: thuthuatjb
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VCaller Screen 通话视频背景
 
+Package: acreson.wechathelper
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/acreson.wechathelper_1.4.1_iphoneos-arm.deb
+Size: 55300
+MD5sum: e5449e60f0fc25852320ff53831eb9e6
+SHA1: a8f61acbb54e52d9eeeee4afa5146b6f83baba25
+SHA256: 8d7d5a4d2fd3fca20f07f24eb5e7a96b2c6afdf3bbde42b4673f4824e084c7f5
+Section: Acreson-增强(Enhance)
+Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
+Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChat Helper 微信助手
+
+Package: acreson.wechathelper
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/acreson.wechathelper_2.0_iphoneos-arm.deb
+Size: 72960
+MD5sum: d3aa3a7febb476255463e72db76cad58
+SHA1: e61043c100e761e11468aea3d7560c216df5b8ed
+SHA256: 4fe117ec31709e3a8c943cdd347c604654504895377ec4280f45340d626680d7
+Section: Acreson-增强(Enhance)
+Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
+Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChat Helper 微信助手
+
 Package: acreson.wifipasswords
 Version: 11.0.2
 Architecture: iphoneos-arm

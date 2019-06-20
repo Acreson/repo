@@ -708,15 +708,15 @@ Maintainer: CrazyHipHop <342080124@qq.com>
 Installed-Size: 6352
 Depends: mobilesubstrate, hiphop.pubgmobilehost0130
 Filename: ./debs/hiphop.pubgmobilev030_0.13.0_iphoneos-arm.deb
-Size: 2520672
-MD5sum: 139e59148516b36d9bcad8fc34efc7c1
-SHA1: 7e371ed107aa739c146741dc20ec95ae2203b1fd
-SHA256: d15820ed8bd11cef9115db1e58f7d5247a7b8b051014bdc813b9b592a089d9b3
+Size: 2519476
+MD5sum: 93a2a5600310d5992c98b34b8cf434f1
+SHA1: 33591ade9e88380354821ca399b3a8f3752e0c35
+SHA256: eccea0c9e674855df94f779425ebd2847af85d919b2b6f03ce713a53272f7129
 Section: Crazy HipHop-游戏(Games)
 Description: 解锁功能:上色小红人，自瞄，午后，除草等VIP功能。
 Author: CrazyHipHop & DiDA
 Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: PUBG MOBILE VIP 0.13。0 国际服刺激战场VIP插件
+Name: PUBG MOBILE VIP 0.13 国际服刺激战场VIP插件
 Sponsor: CrazyHipHop <342080124@qq.com>
 
 Package: hiphop.WB

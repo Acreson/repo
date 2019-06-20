@@ -34,6 +34,40 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Hide Separator 隐藏分割线
 
+Package: acreson.Asphalt8
+Version: 4.2.0
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.asphalt8_4.2.0_iphoneos-arm.deb
+Size: 717708
+MD5sum: ccbed7cedc9b6d8ae6909039665c8a46
+SHA1: 59ff56a712440ddd00617885af0e0778480faee0
+SHA256: a0d6ef855ad42e1af1c979d36a71e820109365d03e713528a416ec47acc896d4
+Section: Acreson-游戏(Games)
+Description: 解锁功能:- 无限硝基使用/硝基不减少- 没有车祸/没有残骸- 反禁令 - >并不意味着你可以滥用黑客。- 不需要等级来完成掌握任务
+Author: Battousai & DiDA
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Asphalt 8: Airborne Crack 狂野飙车8 破解
+
+Package: acreson.Asphalt9
+Version: 1.3.5.7.9
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.asphalt9_1.3.5.7.9_iphoneos-arm.deb
+Size: 716488
+MD5sum: 58706c7862cc38506f0e5facbeb1998a
+SHA1: c78fb4e434f323bba6f708a5c3dbe9bb34426980
+SHA256: b2c8ca2b6e0e0447f3c689fd230018f483bb4150adbe2855ef2cabe8189f6617
+Section: Acreson-游戏(Games)
+Description: 解锁功能:无限氮气.无限消耗
+Author: 0xS14T3R & DiDA
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Asphalt 9: Legends Crack 狂野飙车9 破解
+
 Package: acreson.HI3GL
 Version: 3.1.2
 Architecture: iphoneos-arm
@@ -182,6 +216,23 @@ Description: 小仓鼠 角标
 Author: Acreson <342080124@qq.com>
 Name: 小仓鼠 角标
 Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.crowdcity
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3252
+Depends: mobilesubstrate
+Filename: ./debs/acreson.crowdcity_1.2.10_iphoneos-arm.deb
+Size: 739652
+MD5sum: 9d21a27448aa60221b46f2093e946fe3
+SHA1: 812e245f84eb8364b7b9692273b91d5d4bed7259
+SHA256: 555ffbec686eafe3e1fb10d5300ee9ae64c4df21b562c557a7093e2cb18260fc
+Section: Acreson-游戏(Games)
+Description: 解锁功能：快速升级,启用皇冠模式
+Author: K_K
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Crowd City Cheats 拥挤城市 破解
 
 Package: acreson.doraemon
 Version: 1.1
@@ -454,6 +505,65 @@ Section: Acreson-工具(Utilities)
 Description: SnowBoard (App) 完整版
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard  (App) 完整版
+
+Package: acreson.st4.new
+Version: 4.0.4
+Architecture: iphoneos-arm
+Maintainer: sharedRoutine
+Installed-Size: 3368
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Provides: com.springtomize.st4.new
+Filename: ./debs/acreson.st4.new_4.0.4_iphoneos-arm.deb
+Size: 553568
+MD5sum: 6623c947f5774b845f2dafc5436e4886
+SHA1: e7f40f0ffeedf2537e6e216d91b191495bcfb6a6
+SHA256: ca7935c925c6354b1654b7e282199919c4c29722d959c0d3da2a977e9e3a8069
+Section: Acreson-插件(Tweaks)
+Description: 前所未有地定制您的设备.
+Author: sharedRoutine
+Conflict: com.springtomize.st4
+Name: Springtomize4 瑞士军刀4
+
+Package: acreson.successionrestore
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja <stgardner4@att.net>
+Depends: firmware (>=7.0), firmware-sbin, rsync
+Filename: ./debs/acreson.successionrestore_1.3_iphoneos-arm.deb
+Size: 826576
+MD5sum: 0666c20d21b3f89025a0e3d2dc9c2951
+SHA1: 15fce538f939526054d993e295b4d7069905361f
+SHA256: c7219d2a2b91c33c0c156d15160d9f64a30b60b7900c32a0bbac0c802a54ae04
+Section: Acreson-系统(System)
+Homepage: https://shuga.co/
+Description: IOS7.0+平刷工具，测试可用
+Author: Samg_is_a_Ninja <stgardner4@att.net>
+Depiction: https://samgisaninja.github.io/depiction/web/com.samgisaninja.successionrestore.html
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Moderndepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
+Name: Succession 平刷工具
+Sileodepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
+
+Package: acreson.successionrestore
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja <stgardner4@att.net>
+Depends: firmware (>=7.0), firmware-sbin, rsync
+Filename: ./debs/acreson.successionrestore_1.3.2_iphoneos-arm.deb
+Size: 761036
+MD5sum: c450baa1f67e10ebe65d28205bf8782d
+SHA1: 6a6b312ab9e97291f94473e6d7db57b19b303c5c
+SHA256: b5e7e8520dd71116d288e43ad22e8061d6521c49cc876946f4d8716c905ac5fd
+Section: Acreson-系统(System)
+Homepage: https://shuga.co/
+Description: IOS7.0+平刷工具，测试可用
+Author: Samg_is_a_Ninja <stgardner4@att.net>
+Depiction: https://samgisaninja.github.io/depiction/web/com.samgisaninja.successionrestore.html
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Moderndepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
+Name: Succession 平刷工具
+Sileodepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
 
 Package: acreson.sutuplus
 Version: 2.6.3

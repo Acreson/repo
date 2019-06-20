@@ -53,6 +53,80 @@ Icon: file:///Applications/Cydia.app/Sections/Networking.png
 Name: 连个锤子-越狱联网一键修复
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.reprovision
+Version: 0.4.2
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/acreson.reprovision_0.4.2_iphoneos-arm.deb
+Size: 9985160
+MD5sum: c5b00453b3c8bf0496b5f04d80236481
+SHA1: 66ca8930faafd984853e41fb9518699de6780ca2
+SHA256: 9e8c52da42f03881dbeeff418048df0bb1f795b73b9e83c3abee42500e5abb61
+Section: Acreson-工具(Utilities)
+Priority: optional
+Homepage: https://github.com/Matchstic/Extender-Installer
+Description: 重新为设备上的应用程序签名
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision 签名工具
+
+Package: acreson.skeleton
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.skeleton_1.1_iphoneos-arm.deb
+Size: 15064
+MD5sum: 668336f55eb429813c27bc1d8ffd11e2
+SHA1: 3f71fb15ce4a91c251c635ca97d34112df4a06ad
+SHA256: a525fd2ba5f80aeba095e95db6cfb61421873e533d002f924fbbc25822072ddc
+Section: Acreson-主题(Themes)
+Description: 小骷髅 角标
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: 小骷髅 角标
+Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.smoke
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.smoke_1.1_iphoneos-arm.deb
+Size: 29896
+MD5sum: 9d6e7a6cee4c885a0484e34f61296cc2
+SHA1: 40967a5098c739009624b87afb49d8217465d3b7
+SHA256: a1b5a60caffd9dc0a1838fb4aa054b7d347e397d659824d5b967872bf3f03961
+Section: Acreson-主题(Themes)
+Description: 烟雾 角标
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: 烟雾 角标
+Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.sutuplus
+Version: 2.6.3
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./debs/acreson.sutuplus_2.6.3_iphoneos-arm.deb
+Size: 214944
+MD5sum: c12e328aa01ab2d462b1f7ad79bdc6e0
+SHA1: 6e4db6292b6a633c787db8ff56a90a6ce494e2e7
+SHA256: ecb973e3bc6d6988caa21e7df45b8dea55a569648c5bf221ee2d21892c8a98d4
+Section: Acreson-增强(Enhance)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
+Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12
+Author: Karo
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
+
 Package: acreson.sutupluscg
 Version: 2.6.3CG
 Architecture: iphoneos-arm

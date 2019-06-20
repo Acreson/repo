@@ -701,6 +701,24 @@ Author: Joka
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Need for Speed No Limits Cheats 极品飞车 破解
 
+Package: hiphop.PUBGMobilev030
+Version: 0.13.0
+Architecture: iphoneos-arm
+Maintainer: CrazyHipHop <342080124@qq.com>
+Installed-Size: 6352
+Depends: mobilesubstrate, hiphop.pubgmobilehost0130
+Filename: ./debs/hiphop.pubgmobilev030_0.13.0_iphoneos-arm.deb
+Size: 2520672
+MD5sum: 139e59148516b36d9bcad8fc34efc7c1
+SHA1: 7e371ed107aa739c146741dc20ec95ae2203b1fd
+SHA256: d15820ed8bd11cef9115db1e58f7d5247a7b8b051014bdc813b9b592a089d9b3
+Section: Crazy HipHop-游戏(Games)
+Description: 解锁功能:上色小红人，自瞄，午后，除草等VIP功能。
+Author: CrazyHipHop & DiDA
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG MOBILE VIP 0.13。0 国际服刺激战场VIP插件
+Sponsor: CrazyHipHop <342080124@qq.com>
+
 Package: hiphop.WB
 Version: 4.8.1
 Architecture: iphoneos-arm
@@ -1028,6 +1046,24 @@ Description: 电源功能增强
 Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Power Helper 电源助手
+
+Package: hiphop.pubgmobilehost0130
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: CrazyHipHop<342080124@qq.com>
+Filename: ./debs/hiphop.pubgmobilehost0130_1.0_iphoneos-arm.deb
+Size: 8356
+MD5sum: ec1b0e8d3affe91ae8264b1e53cf0d8b
+SHA1: 2a28abe06579cf7730f4dac62447db40cc887b9f
+SHA256: 3531461100302c33bcd789fdbb7bc7a012c6e358d793c40a24689778539b4e74
+Section: Crazy HipHop-依赖(Depends)
+Priority: standard
+Description: 破解所需要的绑定文件，替换服务器的host。
+Author: CrazyHipHop<342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: PUBG MOBILE VIP Crack 刺激战场VIP插件破解
+Sponsor: CrazyHipHop<342080124@qq.com>
 
 Package: hiphop.qqanitirecallhook
 Version: 0.1-1

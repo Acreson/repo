@@ -253,16 +253,33 @@ Author: Domo
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CocoaTop 64Bit 进程查看器
 
+Package: acreson.conditionalwifi2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/acreson.conditionalwifi2_1.0.0_iphoneos-arm.deb
+Size: 18320
+MD5sum: f30ac1c83fb32cc9c3ce52b45f7e4d26
+SHA1: c4101b24732a53b770f70636c49a4e4fca897483
+SHA256: 39265fed01c002e9340d5c9b2a9a2932c9188661ec283d1ad4d368c89a070ed7
+Section: Acreson-网络(Networking)
+Description: 限制某些应用程序访问iOS 11上的wifi
+Author: iOS Creatix
+Depiction: https://mrmadtw.github.io/repo/depiction/conditionalwifi3/index.html
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Name: ConditionalWiFi2 IOS10网络权限
+
 Package: acreson.conditionalwifi3
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: iOS Creatix
 Depends: mobilesubstrate
 Filename: ./debs/acreson.conditionalwifi3_1.0.0_iphoneos-arm.deb
-Size: 9112
-MD5sum: 06a223f25848db63addbd0bd6ce0aa0e
-SHA1: ffec8a6cf8bbca595f7b52a22fa8417f93c533c5
-SHA256: 47474d188ec547db8a065eb51c82fb22b20943b07d7b56ed5ef0ff915d07ff14
+Size: 9104
+MD5sum: e99276b2c7a32231a5925ce616a3f2e5
+SHA1: 31705313d57230957708a98d7c73762f3306bdc2
+SHA256: 8486223de2567700d034a68252aaf48b8a8273182dc0cbee69b6a01d5b28af73
 Section: Acreson-网络(Networking)
 Description: 限制某些应用程序访问iOS 11上的wifi
 Author: iOS Creatix
@@ -464,6 +481,22 @@ Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Name: Cydia Eraser 平刷工具
+
+Package: acreson.ioshelper11
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 12.0), preferenceloader
+Filename: ./debs/acreson.ioshelper11_1.0_iphoneos-arm.deb
+Size: 131016
+MD5sum: 6d981cbb332c35771ca9b19a89d95c68
+SHA1: d811b3daa36ec0bf72eb0f842acd79482d5c8a8f
+SHA256: 5431081e0193feb7c3199a6df64c141ff47db95d7c21ea80db6bda3fa3e7ce13
+Section: Acreson-插件(Tweaks)
+Description: IOS系统多功能定义助手
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: iOS Helper 11 系统助手
 
 Package: acreson.ioshelper12
 Version: 2.0

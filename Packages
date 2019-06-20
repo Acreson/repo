@@ -587,6 +587,42 @@ Dev: 长生果子
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 酷我音乐最新全破解
 
+Package: acreson.liberty
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 608
+Depends: mobilesubstrate, preferenceloader, applist, firmware (<< 11.0)
+Conflicts: com.ryleyangus.libertylite
+Filename: ./debs/acreson.liberty_0.2.10_iphoneos-arm.deb
+Size: 52564
+MD5sum: a985025a8c2a4c45ccd4efa2996df641
+SHA1: a2acc904c2b096754ebb9faab917ff7b096be79f
+SHA256: 22c6262be75232bb100c83783242da4c43e4d451d8d7b2f63c6fb59a0c309c62
+Section: Acreson-插件(Tweaks)
+Description: 适应于IOS10以下的一个(lite)通用越狱检测旁路补丁。使用设置应用程序中的自由条目来阻止(大多数)应用程序检测你的越狱。不支持禁用承印物/代用品，因此某些应用程序(贝宝、汇丰香港)仍然存在问题。
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty 屏蔽越狱检测
+
+Package: acreson.libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Filename: ./debs/acreson.libertylite_0.2.10_iphoneos-arm.deb
+Size: 46892
+MD5sum: 4390923269560545aa0d6d0110fdc777
+SHA1: 995db79b2671b25b5234f78b9faa954e76be43cd
+SHA256: 5ff2412b9e4efd21d666bd6dc9676a26dac53fa14991aff4cddcaccae887cef7
+Section: Acreson-插件(Tweaks)
+Description: 适用于IOS11+的一个(lite)通用越狱检测旁路补丁。使用设置应用程序中的自由条目来阻止(大多数)应用程序检测你的越狱。不支持禁用承印物/代用品，因此某些应用程序(贝宝、汇丰香港)仍然存在问题。
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite 屏蔽越狱检测
+
 Package: acreson.libertylite.beta
 Version: 0.2.12
 Architecture: iphoneos-arm
@@ -595,12 +631,12 @@ Installed-Size: 616
 Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
 Filename: ./debs/acreson.libertylite.beta_0.2.12_iphoneos-arm.deb
-Size: 42384
-MD5sum: e71b2178160b492b17e2080f7a02a649
-SHA1: d6ff015bebda3878a4de898d1694d7724da27479
-SHA256: 98bbcd5600fd825629471a0819afd0b3e8b97148ae360ad0974a255311398bd3
+Size: 42380
+MD5sum: 97db713327e404c187841c7a6579ddc2
+SHA1: 3338c430fa3f0a65c59c05c872fa9814c081f0be
+SHA256: 1d8f50a24c4d2e7f64586f488d5e271cf613208b8e84046603701f810667176a
 Section: Acreson-插件(Tweaks)
-Description: 一个通用的越狱检测旁路补丁。在设置应用程序中配置Liberty Lite条目，以阻止(大多数)应用程序检测您的越狱。当前不支持禁用基板/替换。这个测试版同时支持arm64e和armv7。
+Description: 适应于IOS11+(支持A12)一个通用的越狱检测旁路补丁。在设置应用程序中配置Liberty Lite条目，以阻止(大多数)应用程序检测您的越狱。当前不支持禁用基板/替换。这个测试版同时支持arm64e和armv7。
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Name: Liberty Lite (Beta) 屏蔽越狱检测

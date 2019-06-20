@@ -253,6 +253,23 @@ Author: Domo
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CocoaTop 64Bit 进程查看器
 
+Package: acreson.colorizeios
+Version: 0.0.1-49+debug
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 576
+Depends: mobilesubstrate
+Filename: ./debs/acreson.colorizeios_0.0.1-49+debug_iphoneos-arm.deb
+Size: 81984
+MD5sum: e653a5ebc60f9e4dfa70983529042fb2
+SHA1: 906a17307453ece2ad6251bdc9c0e9cc5b81446f
+SHA256: 7754824c7a87e27b201beab5ccd648eed25a866de1d62b0cc772ca4c2c6ee814
+Section: Acreson-插件(Tweaks)
+Description: 所有开关彩色随机变化,不支持a12
+Author: XCXiao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: ColorizeiOS 彩色开关
+
 Package: acreson.conditionalwifi2
 Version: 1.0.0
 Architecture: iphoneos-arm

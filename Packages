@@ -889,6 +889,24 @@ Author: Spark & Dennis D. Bednarz
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: SnowBoard  (App) 完整版
 
+Package: acreson.soulark
+Version: 1.21-16+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/acreson.soulark_1.21-16+debug_iphoneos-arm.deb
+Size: 32648
+MD5sum: 12913b9bee20f61a6aee7706d55fd897
+SHA1: 476c591000d09ca4b49e002032b264eaede17089
+SHA256: 428c51ed8b5cba6d29f12090df58cdce51359c8cb5e275582c6d82d526575d98
+Section: Acreson-游戏(Games)
+Homepage: iosgods.com
+Description: 解锁功能:(伤害+防御)X100倍。游戏下载美区appstore，搜索：Soul Ark: Brave and Fate
+Author: intell
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Soul Ark Hack 灵魂方舟破解
+
 Package: acreson.st4.new
 Version: 4.0.4
 Architecture: iphoneos-arm

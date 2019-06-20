@@ -119,6 +119,23 @@ Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: War Robots Crack 机甲战队 破解
 
+Package: acreson.acrebel
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 5752
+Depends: mobilesubstrate
+Filename: ./debs/acreson.acrebel_2.4.2_iphoneos-arm.deb
+Size: 1267844
+MD5sum: c421eff3ba3494cb11f1294a1faaec11
+SHA1: ea83bc8e47bcc8537cc833b08c3fe4875eea183f
+SHA256: 8c85516f34ac00872edd37b8a97b04e3b2e58801f3fa77f8f50aea251ad63bc4
+Section: Acreson-游戏(Games)
+Description: 解锁功能:上帝模式\一次性杀戮\解锁所有刺客\绕过“区域不受支持”的消息\ appstore下载：刺客信条：燎原。 Hack Features:- God Mode- One-Shot Kill- Unlock All Assassins- Bypassed "Region not supported" message
+Author: busmanl30
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Assassin's Creed Rebellion Crack 刺客信条:燎原 破解
+
 Package: acreson.backupaz3
 Version: 1.5
 Architecture: iphoneos-arm
@@ -418,6 +435,25 @@ Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 烟雾 角标
 Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.snowboardfull
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Spark&CrazyHipHop
+Installed-Size: 12345
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/acreson.snowboardfull_1.2_iphoneos-arm.deb
+Size: 1595820
+MD5sum: d8c46eae7b8c569b35cbff3802521bef
+SHA1: 034c3d9e68b9a8a188d1ad6572fed10f459a1c6d
+SHA256: 2660acb1024530c6d917cdb8a1f28adc186c911061d0cfdb6f6bdcc1a7bd8045
+Section: Acreson-工具(Utilities)
+Description: SnowBoard (App) 完整版
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard  (App) 完整版
 
 Package: acreson.sutuplus
 Version: 2.6.3
@@ -766,6 +802,40 @@ Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: iCleaner Pro 清理工具
 
+Package: com.julioverne.cydown
+Version: 6.9.7
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
+Size: 1086224
+MD5sum: 4258068fde2f4a755a31d66cb2ea79a3
+SHA1: e8f3a71398fe8a07edab996c32ca83befb711b5b
+SHA256: 1802b3e5cca357a95f7e5a73b89ae34c903b9080543bafa323d9bd34eecda482
+Section: Acreson-工具(Utilities)
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown Cydia增强
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.5.0-12
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 8928
+Filename: ./debs/com.tigisoftware.appdatamanager_1.5.0-12_iphoneos-arm.deb
+Size: 2452480
+MD5sum: 6b5b0466fbd22fad4662ef993da190ba
+SHA1: 6752f53d51bb48aad0b59c8453f7f7a1aa7752d2
+SHA256: a46fc858784aec75cfb21b071bb3d72894ddf0320915169999ccedcef878ec74
+Section: Acreson-工具(Utilities)
+Description: 该工具为已安装的应用程序提供擦除、备份和恢复软件数据的方法
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Apps Manager 软件备份管理器
+
 Package: com.tigisoftware.filza
 Version: 3.7.0-18
 Architecture: iphoneos-arm
@@ -801,6 +871,29 @@ Description: iPhone, iPad, iPod Touch的文件管理器。支持iOS 7 +。这个
 Author: TIGI Software
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Filza File Manager 64bit 文件管理器
+
+Package: cydia-dark
+Version: 1.9.3~chimera4
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 8920
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
+Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
+Filename: ./debs/cydia-dark_1.9.3~chimera4_iphoneos-arm.deb
+Size: 1290044
+MD5sum: 234b1ba33a0b8bc214f66987c3f38d64
+SHA1: 2b7b79cd2f0b98c79bc9123fd676688353b2f13d
+SHA256: c2a87262d7140c8cd9b0c62d64e80ba7b4432df8f5ad3a217fe927ca40f421b6
+Section: Acreson-安装包(Packages)
+Priority: optional
+Description: graphical iPhone front-end for APT
+Tag: purpose::uikit, role::enduser
+Author: Diatrus <me@diatr.us>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Name: Chimera/Electra专用Cydia
 
 Package: lz4
 Version: 1.7.5-1

@@ -1,3 +1,54 @@
+Package: acreson.LocalIAPStore
+Version: 1.5-2
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.localiapstore_1.5-2_iphoneos-arm.deb
+Size: 42376
+MD5sum: a4af269767a606c283feee71994bd4f8
+SHA1: ba2caaecc7116b6595e7a83175929a5f9a9fa854
+SHA256: 281674f5ffb413ba31ca8023c8ab7372f23cdf1aa0cb31c7775fb4fc7d607eba
+Section: Acreson-插件(Tweaks)
+Description: 内购破解支持A12设备
+Author: anondev
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: LocalIAPStore 内购破解
+Sponsor: CrazyHipHop <342080124@qq.com>
+
+Package: acreson.NFSMostWantedFreeHack
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 2712
+Depends: mobilesubstrate
+Filename: ./debs/acreson.nfsmostwantedfreehack_1.1.0_iphoneos-arm.deb
+Size: 652360
+MD5sum: 3a7958737db1ea389d3617b8520c76c7
+SHA1: ff3ac0178ca962ee5f5cbc83f8e3b455dfd56e9d
+SHA256: 3f20ba69c3394a62ed29f8ff309531a9c013e3931ef1760508a39c9791fd3259
+Section: Acreson-游戏(Games)
+Description: 解锁功能:无限现金- 赚取一些收到无限量。-所有汽车解锁- 无法解锁NFS版汽车。-所有曲目解锁-Godmode- 汽车将受到视觉伤害。-禁用对手输入- 将禁止所有对手和警察做任何事情。-愚蠢的反对者- 将导致所有对手和警察开车进入墙壁。-没有相机抖动- 在崩溃时将禁用相机摇晃。-没有路障 - 将禁止产卵路障。-无限硝基 - 将冻结硝基棒。停止硝基，刹车。要重新启用，请关闭此功能，使用一些硝基然后重新启用该功能。- 无限制的速度点- 自定义车速 - 在此设置您的自定车速并启用开关。与AI对手联系在一起。,下载appstore美区搜索：Need for Speed Most Wanted
+Author: Joka
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Need for Speed™ Most Wanted  极品飞车破解
+
+Package: acreson.NFSNoLimitsFreeHack
+Version: 3.6.13
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.nfsnolimitsfreehack_3.6.13_iphoneos-arm.deb
+Size: 717020
+MD5sum: 4d67a21c25becaf0c260403611202fe8
+SHA1: 8ec5cd771f6541016dcd80ec8a8bb2b290e09506
+SHA256: d5bb0dd00326e9da43dc6ca5fa1a4e47e71d78e018a528f2e9d2fce2d7c2c19f
+Section: Acreson-游戏(Games)
+Description: 解锁功能：警车自动开进墙壁，禁止生产警车，无限氮气。 Appstore下载:极品飞车：无极限赛车
+Author: Joka
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Need for Speed No Limits Cheats 极品飞车 破解
+
 Package: acreson.WB
 Version: 4.8.1
 Architecture: iphoneos-arm
@@ -30,6 +81,96 @@ Description: 一个完整的备份工具，IOS10-12
 Author: SynnyG <synnyg.devjb@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: BackupAZ 3 备份神器
+
+Package: acreson.kingsraidcrack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 49.78
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.kingsraidcrack_0.0.2_iphoneos-arm.deb
+Size: 143832
+MD5sum: b87af07b78a600454b7efcb93a46db3f
+SHA1: df3f935d96830be554af40ee51f6fd14c9fde9b8
+SHA256: f1d58a978be5f53e7cf364f6e6515a81aa0e622c2787abee7ac6ff1c143d85f9
+Section: Acreson-游戏(Games)
+Priority: optional
+Description: 解锁功能:1.上帝模式(不掉血）2.敌人0防御3.敌人低血量.低调使用，小心封号.游戏下载去美区搜King‘s Raid即可,加速器有<迅游加速器>appstore有免费下载即可。
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: King's Raid Crack 王之逆袭 破解
+
+Package: acreson.kuwoyinyue
+Version: 6.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.kuwoyinyue_6.0_iphoneos-arm.deb
+Size: 24252
+MD5sum: 3c12891451f67bc70210cbccc4b3548f
+SHA1: 635a94bd53caf50fe52336ec3dd605d6c4eda674
+SHA256: 5fa15e747b7c40e28937446f3096f62296610e0c5d45ed98cb42c1f24c29bac8
+Section: Acreson-插件(Tweaks)
+Priority: optional
+Description: 酷我音乐全新全功能破解版，破解年费豪华会员所有特权，点亮年费付费音乐图标，允许试听下载任意付费专辑下架灰色SQ品质音乐，精简移除部分功能，移除海外ip限制，完美去除启动广告，个性皮肤随意用，6.0版更新支持全部无版权灰色歌曲直接在线下载试听，无版本限制，支持所有版本。更多破解软件，关注公众号：一只小果子。
+Author: 带土
+Dev: 长生果子
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 酷我音乐最新全破解
+
+Package: acreson.packages
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 98
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/acreson.packages_1.0.5_iphoneos-arm.deb
+Size: 7092
+MD5sum: 88ece876e1014225be31d420fd4583b9
+SHA1: 35e70cb12e85c302689a73f21681d8801dc0c7d2
+SHA256: e59d610c8610e1c83fe7f81e517d88cc560ba162baac7f316b582b5ff23dfd36
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=packagesDp
+Description: 设置-通用-关于本机 显示插件的有关数据(点击互换)
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=packagesDp
+Dev: cpdigitaldarkroom
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Packages 插件数据显示
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: acreson.powerhelper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debs/acreson.powerhelper_1.0_iphoneos-arm.deb
+Size: 56496
+MD5sum: 526fa858688df91e9eabf68b9944b055
+SHA1: c2679912e9df908097c73b1e83e6f364fa8b4a18
+SHA256: 5eda55c4e7b7249a7bb8de758ac4b0b13eb351acce39e6260d5801c9baf5f1b8
+Section: Acreson-插件(Tweaks)
+Description: 电源功能增强
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Power Helper 电源助手
+
+Package: acreson.qqanitirecallhook
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: mobilesubstrate
+Filename: ./debs/acreson.qqanitirecallhook_0.1-2_iphoneos-arm.deb
+Size: 14480
+MD5sum: 755f0f792b7ade6f1da4f423e36c8da9
+SHA1: cd10a5fa010559b9333265867b51da2054411417
+SHA256: 140caa9e61206d04050160510475015ddbbd57c135ea524d4d7fb591d4dd1002
+Section: Acreson-增强(Enhance)
+Description: qq防撤回带提示，使用前请关闭其他防撤回
+Author: wjg (TouGBao)
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQ RecallHook 防撤回增强
 
 Package: acreson.renet
 Version: 1.0

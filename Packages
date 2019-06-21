@@ -737,6 +737,22 @@ Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Name: PowerSelector 快捷工具箱(iOS 11 & 12)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.pubgweeding
+Version: 0.13.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.pubgweeding_0.13.0_iphoneos-arm.deb
+Size: 682744
+MD5sum: 4b77c4b39a0a347f74bb6cc3ea474fce
+SHA1: 195ce0ac5003ae2c4fb4309544cfb7e0e82dbd25
+SHA256: 520df25955b716c3a0397c928978a4fd6f555bca43e26cdd72644609118133d8
+Section: Acreson-游戏(Games)
+Description: 解锁功能：老一辈的2048除草房子石头(支持A12)
+Author: Hack Game
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG Mobile Hack 刺激战场国际服破解
+
 Package: acreson.pubgy13elch
 Version: 0.13.0-2+debug
 Architecture: iphoneos-arm

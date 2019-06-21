@@ -338,6 +338,21 @@ Author: ATWiiks
 Icon: file:///Applications/Cydia.app/Sections/Networking.png
 Name: ConditionalWiFi4 IOS12网络权限
 
+Package: acreson.counterattack1
+Version: 1.2.16-1
+Architecture: iphoneos-arm
+Maintainer: nkod <nkodder@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.counterattack1_1.2.16-1_iphoneos-arm.deb
+Size: 20840
+MD5sum: f69f6fbb384a3157d57e068a8e201393
+SHA1: 47ccbc872cec8dd55c96d329a628d398d44aca34
+SHA256: 58edb0f6845c193ce6c3f81ca482cc29d32280556237d5a25131864e5129134e
+Section: Acreson-游戏(Games)
+Description: 解锁功能:无后座，无需重装子弹，雷达透视 登陆通用账户：acreson2019 密码：acreson123456。 游戏美区Appstore下载搜索《Counter Attack Multiplayer FPS》
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Counter Attack Hack 反击逆袭破解
+
 Package: acreson.crackerxi
 Version: 1.1.5
 Architecture: iphoneos-arm

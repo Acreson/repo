@@ -739,6 +739,40 @@ Author: Y_Dagriri
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: PUBG Mobile Hack 刺激战场国际服破解(Electra/Chimera)
 
+Package: acreson.pubgy13kelch
+Version: 0.13.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/acreson.pubgy13kelch_0.13.0-3+debug_iphoneos-arm.deb
+Size: 111228
+MD5sum: 114db7e9ae321be3cb72dbb8653b4332
+SHA1: e0a653592d47a691ca8643eeff549b5a239724e0
+SHA256: f302294ded32ae03679b818b1e656c5ebca1c93bf627b4702b9ac680b364a252
+Section: Acreson-游戏(Games)
+Description: 解锁功能：除草 无后 不扩散。此版本Electra/Chimera专用(支持A12)，登陆通用账户：acreson2019 密码：acreson123456
+Author: Y_Dagriri
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG Mobile Korean Hack 刺激战场日韩服破解版(Electra/Chimera)
+
+Package: acreson.pubgy13kun
+Version: 0.13.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/acreson.pubgy13kun_0.13.0-4+debug_iphoneos-arm.deb
+Size: 111668
+MD5sum: ce29b666512efbd39ee9f5f4f77744a9
+SHA1: ce54369dd7dd4ec8f8aacc85179f2e51159218ad
+SHA256: a2f1bcdf3d265010110f10e096d1a1a7cd5dc6efcc7766f761cfd16dd42dad2f
+Section: Acreson-游戏(Games)
+Description: 解锁功能：除草 无后 不扩散。此版本Unc0ver专用，登陆通用账户：acreson2019 密码：acreson123456
+Author: Y_Dagriri
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG Mobile Korean Hack 刺激战场日韩服破解(Unc0ver)
+
 Package: acreson.pubgy13un
 Version: 0.13.0-3+debug
 Architecture: iphoneos-arm

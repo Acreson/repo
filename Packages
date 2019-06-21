@@ -429,6 +429,25 @@ Depiction: http://www.tateu.net/repo/html/?p=debkeeper12
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: DebKeeper12 禁用删除deb
 
+Package: acreson.dleasy
+Version: 2.6.2K
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 6424
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Conflicts: qwewqsdf
+Filename: ./debs/acreson.dleasy_2.6.2K_iphoneos-arm.deb
+Size: 1103552
+MD5sum: 3e5fb3c9ece1e872a774e78269f5ca4f
+SHA1: 3671cd1dc87d4f93af027ad6ada19af4811a575f
+SHA256: ab6420c087693116274f7e354c723b1529bf657950b68fbdeeefcfb518b00f81
+Section: Acreson-插件(Tweaks)
+Description: 轻松从社交应用下载图片和视频!
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: https://pulandres.me/repo/index.php?pid=229
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: DLEasy 图片视频提取神器
+
 Package: acreson.doraemon
 Version: 1.1
 Architecture: iphoneos-arm

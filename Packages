@@ -722,21 +722,39 @@ Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Name: PowerSelector 快捷工具箱(iOS 11 & 12)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: acreson.pubgweeding
-Version: 0.13.0
+Package: acreson.pubgy13elch
+Version: 0.13.0-2+debug
 Architecture: iphoneos-arm
 Maintainer: Acreson
+Installed-Size: 604
 Depends: mobilesubstrate
-Filename: ./debs/acreson.pubgweeding_0.13.0_iphoneos-arm.deb
-Size: 684060
-MD5sum: 03ba47e849767e747a80ac2e2412645b
-SHA1: 02641f3eab517812726162a44d50ad941ae4a44a
-SHA256: 3e0c0ddf7840af19e906197343921794b6a6d35da0613f5bb0e9149ff998bb73
+Filename: ./debs/acreson.pubgy13elch_0.13.0-2+debug_iphoneos-arm.deb
+Size: 111208
+MD5sum: 521cd975667320afdb56116a091ac06e
+SHA1: 90a21dafcd0f301b55536a1ea2e7ca26e3f7a124
+SHA256: 76422cd009750850041aad473b8e2e3e0ad7370dd62391434e7d2acc08477716
 Section: Acreson-游戏(Games)
-Description: 解锁功能:完整除草除房带设置项.
-Author: Hack Game
+Description: 解锁功能：除草 无后 不扩散。此版本Electra/Chimera专用(支持A12)，登陆通用账户：acreson2019 密码：acreson123456
+Author: Y_Dagriri
 Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: PUBG Mobile Hack 刺激战场国际服破解
+Name: PUBG Mobile Hack 刺激战场国际服破解(Electra/Chimera)
+
+Package: acreson.pubgy13un
+Version: 0.13.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/acreson.pubgy13un_0.13.0-3+debug_iphoneos-arm.deb
+Size: 111448
+MD5sum: 64dee0b6fe0d34422918d4b32fa5ad91
+SHA1: aed241d7c0664034ee1bcd6c25f02944ad6e1d94
+SHA256: 5ee08f02ef76c8b367474c1835adb93b8596f0a4b4e3706807c0f5e22081e013
+Section: Acreson-游戏(Games)
+Description: 解锁功能：除草 无后 不扩散。此版本Unc0ver专用，登陆通用账户：acreson2019 密码：acreson123456
+Author: Y_Dagriri
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG Mobile Hack 刺激战场国际服破解(Unc0ver)
 
 Package: acreson.qq
 Version: 7.9.8

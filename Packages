@@ -171,6 +171,40 @@ Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: War Robots Crack 机甲战队 破解
 
+Package: acreson.WeChatHookPro
+Version: 0.3-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.wechathookpro_0.3-5_iphoneos-arm.deb
+Size: 1373712
+MD5sum: 96e1ac60221e59f9852f77c31a8607ac
+SHA1: cca0fb7a51694e7ce35f86140b6277f7025f948f
+SHA256: 3160087382cbc90357cdbbdd357992c5d3b628115ba66702e36cf5cad9b27e77
+Section: Acreson-增强(Enhance)
+Priority: optional
+Description: 老猫微信助手
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChatHookPro 微信助手
+
+Package: acreson.YouQuan
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.youquan_1.0-1_iphoneos-arm.deb
+Size: 60160
+MD5sum: 976f9b7efd89cbd5937f3bf868ccae66
+SHA1: 6ad470d4ce69d69d59ff8e94a0f49f8e233f297b
+SHA256: 79a7ce5913a0978e732e377776154e6ffcbbe31d9a12356b8ef090cfc24d5cf0
+Section: Acreson-增强(Enhance)
+Priority: optional
+Description: 淘宝购买页面添加领卷，价格历史
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 淘宝优惠券
+
 Package: acreson.ace
 Version: 4.9.3
 Architecture: iphoneos-arm

@@ -1424,6 +1424,22 @@ Dev: thuthuatjb
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VCaller Screen 通话视频背景
 
+Package: acreson.videohelper
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/acreson.videohelper_2.1.0_iphoneos-arm.deb
+Size: 120280
+MD5sum: 88b0ef93d838bccac1d300e4c7e24868
+SHA1: 0f613d4093ab80053813a5ffaad25780dc4cdd4e
+SHA256: 11df65c6780edf07a546e75bbb01aed20eced15715fe48d560907adc48c2c957
+Section: Acreson-插件(Tweaks)
+Description: 视频免广告多功能助手·Video Removal
+Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Video Helper 视频助手
+
 Package: acreson.viola
 Version: 1.3
 Architecture: iphoneos-arm

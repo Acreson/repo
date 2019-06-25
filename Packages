@@ -507,20 +507,18 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1212
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: ./debs/acreson.datameter_1.4-3_iphoneos-arm.deb
-Size: 243716
-MD5sum: 45fe4c354938881b81d04d8f06d3b003
-SHA1: a7f5cd5cf4f969df09f060434d26cb71b5fa1e91
-SHA256: ccd141c0ea3866791ad2b3b681365c05f2404cb9ea56957fa19711b303337fcf
+Size: 243776
+MD5sum: d7fb72568a98d15cd3f1a72f113f0cca
+SHA1: 5fed917c19340d86ca0c2e84f23c7f0af52f3ea7
+SHA256: 89db25c72fa4ef4c5edf7f458e0879ff69cd0586620919cccfed4d733470baa7
 Section: Acreson-插件(Tweaks)
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
-Description: DataMeter for iOS 7-10 Notification Center
-Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Description: iOS 7-12通知中心的数据计量器
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8,
 Author: Minuit <minuits@163.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
-Dev: minuit
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: DataMeter 流量助手
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.debkeeper12
 Version: 1.0.5
@@ -787,6 +785,22 @@ Description: 适应于IOS11+(支持A12)一个通用的越狱检测旁路补丁�
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Name: Liberty Lite (Beta) 屏蔽越狱检测
+
+Package: acreson.netfixtools
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iggvip
+Installed-Size: 1448
+Filename: ./debs/acreson.netfixtools_1.0.1_iphoneos-arm.deb
+Size: 618092
+MD5sum: 29725e39487f34e1bf7e3ca1d5928f4c
+SHA1: 940efb00fb93e985096666ea5e2d010d3ba1cb0f
+SHA256: 626d552227e62deb4d10240e56f94a448aa2a041638ec56c7b9e969865f0c6c4
+Section: Acreson-网络(Networking)
+Description: ios11~12网络访问权限修复工具!!
+Author: iggvip
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Name: NetFixTools网络访问权限修复工具
 
 Package: acreson.packages
 Version: 1.0.5

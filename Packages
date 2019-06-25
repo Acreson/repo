@@ -288,28 +288,6 @@ Author: SynnyG <synnyg.devjb@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: BackupAZ 3 备份神器
 
-Package: acreson.chromepp
-Version: 1.0r-2
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, firmware (>= 7.0),com.unlimapps.uamediaexporthelper (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.2r-71)
-Conflicts: com.unlimapps.jodeboxlib
-Filename: ./debs/acreson.chromepp_1.0r-2_iphoneos-arm.deb
-Size: 4901340
-MD5sum: ac3f0eff5d92fe81ef058ec2b59433ed
-SHA1: 8227dac63b94d3bf9fa4d8303b1eb8d4d72005a5
-SHA256: d22c0f8ce7c574ceab2011b60c00eceea29bffe8738eb8e161e5b597586a7d32
-Section: Acreson-增强(Enhance)
-Priority: optional
-Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.chromepp/
-Description: 下载所有文件类型，包括视频!继续后台播放和更多!!
-Tag: purpose::extension, role::enduser
-Author: UnlimApps Inc <support@unlimapps.com>
-Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.chromepp/
-Dev: i4iphones
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: Chrome ++ - Chrome Download Manager 谷歌浏览器下载管理器
-
 Package: acreson.cnGamePlayer
 Version: 3.4
 Architecture: iphoneos-arm
@@ -1914,6 +1892,24 @@ Size: 5107316
 MD5sum: efc76235ebac7bc77f64fad3ae988ac9
 SHA1: 990665e968abbce70c2348671a5e6ad1b3dafcb1
 SHA256: 2158a01199d2988021c0430fa905f6ed889a9e88d4270a56b25cc95961f4eb88
+Section: Acreson-安装包(Packages)
+Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
+Tag: purpose::x
+Author: Wilson Styres & CrazyHipHop
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: 斑马 包管理器(汉化)
+
+Package: xyz.willy.zebra
+Version: 1.0~beta15-19+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & CrazyHipHop
+Installed-Size: 15432
+Depends: dpkg
+Filename: ./debs/xyz.willy.zebra_1.0~beta15-19+debug_iphoneos-arm.deb
+Size: 5107450
+MD5sum: 56801c776dcbde0cb154d861facdacba
+SHA1: 9ae0b236e27281abb06ad31aeb58b17b6ec84f7c
+SHA256: 540f394022351bc4c8bad6db6cfb99f0c7466c9cde1c02b0b81cc59be7034300
 Section: Acreson-安装包(Packages)
 Description: 支持系统 iOS 8.0 至 12.1.2斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x

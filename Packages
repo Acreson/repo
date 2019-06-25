@@ -955,12 +955,12 @@ Architecture: iphoneos-arm
 Maintainer: Acreson
 Depends: mobilesubstrate
 Filename: ./debs/acreson.qqanitirecallhook_1.2_iphoneos-arm.deb
-Size: 26816
-MD5sum: 711880238b4f79d4f4e9ab05da350a98
-SHA1: 97ac0e32717a77fe6e6bfa2de6bd618cfd997145
-SHA256: db5a94b281c7fa50c05242e7350383de6817471e9e754f7bf746c308cdc34394
+Size: 26796
+MD5sum: 8eec2f9dc44b316bccc140d7c2189d19
+SHA1: beaff1f8b3f9208dfb0b8ec115199f6b39c0901e
+SHA256: 87bdb308f8d4e0bf5bfd6d06d096ab92ed74276224a7cb5f0ae48a4fe4690b12
 Section: Acreson-增强(Enhance)
-Description: qq防撤回带提示，使用前请关闭其他防撤回
+Description: QQ+TIM防撤回带提示，使用前请关闭其他防撤回
 Author: wjg (TouGBao)
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ RecallHook 防撤回增强

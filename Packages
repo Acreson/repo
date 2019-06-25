@@ -618,6 +618,23 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: iOS Helper 12 系统助手
 
+Package: acreson.jbhook
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 1225
+Depends: mobilesubstrate
+Filename: ./debs/acreson.jbhook_1.0_iphoneos-arm.deb
+Size: 1404324
+MD5sum: 2c7039d064ec706e3c12dce8aa412020
+SHA1: 1a20c5cd1278d9cc2b67ceba790b14956ebf5350
+SHA256: 84fa63c89d4547d1b13ffcb8ab4238cce3eee6854a2e1402e6cdb555758d41f7
+Section: Acreson-游戏(Games)
+Description: 解锁功能:即时技能，无限魔法，无限弹药，无重装弹药，无限金币
+Author: Laxus
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: 聚爆Implosion 破解
+
 Package: acreson.kingsraidcrack
 Version: 0.0.2
 Architecture: iphoneos-arm

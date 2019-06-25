@@ -746,6 +746,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Packages 插件数据显示
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.plague
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.plague_1.0_iphoneos-arm.deb
+Size: 1386056
+MD5sum: 8409fbfdb1b7e4f1ceeaf4e00621bd71
+SHA1: ddc5f87fbc3f142a9dd6cef3a7dc015cb957665e
+SHA256: 85faf476356119aa2c3bfe5fdbe95349dfd401b1bdeebc2c0406d2520daf6ed2
+Section: Acreson-游戏(Games)
+Description: 解锁功能:- 无限DNA(进化)
+Author: Acreson<342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Plague Inc Crack 瘟疫公司 破解
+
 Package: acreson.powerhelper
 Version: 1.0
 Architecture: iphoneos-arm
@@ -986,6 +1003,23 @@ Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 小骷髅 角标
 Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.smashhit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.smashhit_1.0_iphoneos-arm.deb
+Size: 1269300
+MD5sum: 4678e60f6fe0ad5af5dab7d3ed0aea7d
+SHA1: 4d5029e34150493c3f7030584344f451bb45545b
+SHA256: a812be943ee5259ee116967af2f37a7527881887aed7836418c540f7bdb304a8
+Section: Acreson-游戏(Games)
+Description: 解锁功能:- 无限球，内购
+Author: Battousai & DiDA
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Smash Hit Crack 某种破球 破解
 
 Package: acreson.smoke
 Version: 1.1

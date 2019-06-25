@@ -1719,10 +1719,10 @@ Maintainer: Aqua Wu <igameguardian@gmail.com>
 Installed-Size: 1372
 Depends: firmware (>= 8.0)
 Filename: ./debs/idv.aqua.igg12.speed_12.0.4_iphoneos-arm.deb
-Size: 363300
-MD5sum: 0e44dddfec72c1c0cab59ae691c9dd66
-SHA1: c0a19f8f873340784e819fb0031254b30ea2e088
-SHA256: 0f4ff3f011c89e0f6c45bb8a02e35e82befdeae93cbd1bb09f3d3ca74a90bb44
+Size: 363408
+MD5sum: a3dea6c4ea38dd553af429882d7fa799
+SHA1: 0c43b8ee79eb2886cf1c7f7ef641984ab160452c
+SHA256: e37b0b191f3bb86532663d114405719298286a84377932430f930f2a9a7f92c5
 Section: Acreson-修改器(Modifiers)
 Priority: optional
 Homepage: https://igg-server.herokuapp.com/
@@ -1732,7 +1732,7 @@ Author: Aqua Wu <igameguardian@gmail.com>
 Depiction: https://igg-server.herokuapp.com/
 Dev: aqua
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: iGG 12 Speed    IGG12速度版
+Name: iGG 12 Speed   IGG12速度版
 Sponsor: Aqua Wu <igameguardian@gmail.com>
 
 Package: lz4

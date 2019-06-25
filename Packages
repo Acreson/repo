@@ -641,6 +641,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: iOS Helper 11 系统助手
 
 Package: acreson.ioshelper12
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: iBreak
+Installed-Size: 568
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.ioshelper12_1.4.2_iphoneos-arm.deb
+Size: 99388
+MD5sum: fc9afde8c6f652af2759df3ff7c399b9
+SHA1: 4257399cacfd4bde904b683ee97957b5845ebb1f
+SHA256: 794b2ea2fe56564fe6c93238515e5e0507ff542d3a8955d8a7666b38711b2582
+Section: Acreson-插件(Tweaks)
+Description: IOS 系统多功能定义助手
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: iOS Helper 12 系统助手
+
+Package: acreson.ioshelper12
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: iBreak

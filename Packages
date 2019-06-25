@@ -1653,6 +1653,69 @@ Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: Cydia Translations
 
+Package: idv.aqua.iGameGuardian
+Version: 8.3
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 15000
+Filename: ./debs/idv.aqua.igameguardian_8.3_iphoneos-arm.deb
+Size: 341080
+MD5sum: 385427b785c9b28924d6172b51bc0c2b
+SHA1: 87d1c0e5e2954286a24dea7b07f52f74d04b74be
+SHA256: 031309626f71f092cb527f68b5b7dfd1707f80067d0eaba3904f4ecbd85375b8
+Section: Acreson-修改器(Modifiers)
+Priority: optional
+Description: iGameGuardian是iOS 8.x/9.x/10.2/11.0-11.3.1的一种修改器.
+Author: Aqua Wu <igameguardian@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: iGameGuardian 修改器
+
+Package: idv.aqua.igg12
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.igg12_12.0.4_iphoneos-arm.deb
+Size: 363052
+MD5sum: d4fa2a96faea8c35e6e0633e37aa12dc
+SHA1: f8f714e684371f6d5e5760f1120a0a2e1b3e2904
+SHA256: 6ff71f268cdf0ebca43e96de8a47073f3491f498665c9e7255aaf122423097ef
+Section: Acreson-修改器(Modifiers)
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian是iOS 8到12的内存编辑器。
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: iGG 12 Stable   IGG12稳定版
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.igg12.speed
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.igg12.speed_12.0.4_iphoneos-arm.deb
+Size: 363300
+MD5sum: 0e44dddfec72c1c0cab59ae691c9dd66
+SHA1: c0a19f8f873340784e819fb0031254b30ea2e088
+SHA256: 0f4ff3f011c89e0f6c45bb8a02e35e82befdeae93cbd1bb09f3d3ca74a90bb44
+Section: Acreson-修改器(Modifiers)
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian是iOS 8到12的内存编辑器。
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: iGG 12 Speed    IGG12速度版
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
 Package: lz4
 Version: 1.7.5-1
 Architecture: iphoneos-arm

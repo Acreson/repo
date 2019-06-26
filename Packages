@@ -515,6 +515,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterD
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: DataMeter 流量助手
 
+Package: acreson.ddzqzs
+Version: 1.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/acreson.ddzqzs_1.0-5+debug_iphoneos-arm.deb
+Size: 32242
+MD5sum: dd86082b55f018cc38d08a409f7ef344
+SHA1: 022a4558bba8d68d4845de1c7f6d9fc87580db5e
+SHA256: eff2e874b38ae1c70e521bd6660a2c564be4b921cec2ec6c637e2bdd03a7f3cd
+Section: Acreson-增强(Enhance)
+Description: 可自定义设置wifi或定位远程打卡的钉钉助手,完美支持A12
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: DingDing 钉钉增强助手
+
 Package: acreson.debkeeper12
 Version: 1.0.5
 Architecture: iphoneos-arm

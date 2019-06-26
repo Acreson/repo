@@ -570,6 +570,22 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nd
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Ext3nder Installer 签名工具
 
+Package: acreson.hackpubgxs-xr-xsmaxs
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ahmedmakls <makhl.2266@yahoo.com>
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/acreson.hackpubgxs-xr-xsmaxs_1.2_iphoneos-arm.deb
+Size: 878760
+MD5sum: d4c4b3b23897b7d6eb6ff39c390ea217
+SHA1: 51b4f36f38226943003fc7705bcbd7039da578f6
+SHA256: 1bd1de35b403c924f618d468056ddb67a42aa77ea1f81e9aa0b203c83afa64f0
+Section: Acreson-游戏(Games)
+Description: 233(XS-Xr-XSmaxs)
+Author: ahmedmakls <makhl.2266@yahoo.com>
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: HACK PUBG XS-XR-XSmax 刺激国际服XS-XR-XSMAX
+
 Package: acreson.hidebarx
 Version: 0.0.4
 Architecture: iphoneos-arm

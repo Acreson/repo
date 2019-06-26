@@ -288,6 +288,23 @@ Author: SynnyG <synnyg.devjb@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: BackupAZ 3 备份神器
 
+Package: acreson.cloudmusichook
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cloudmusichook_1.0-2+debug_iphoneos-arm.deb
+Size: 11428
+MD5sum: 4a0b82f300d112246eac21dfef3cf5ea
+SHA1: 4ace36c814c1839793420b3b917e7c70be93408e
+SHA256: 30b8f874cf1b00b93802d2b29499862051e4ff683f0e22edca52d12fd66e82a0
+Section: Acreson-增强(Enhance)
+Description: 打开开关后，每次打开歌单，会对VIP的音乐获取播放地址，过几分钟后点击下载就能下载所有VIP音乐，不用先听才能下载，不用播一次下载一次2秒会获取一次vip地址，状态栏左上角会转圈，没有转圈时地址就全部获取了，可以点下载了
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: CloudMusic Crack 某云玩具
+
 Package: acreson.cnGamePlayer
 Version: 3.4
 Architecture: iphoneos-arm
@@ -995,6 +1012,22 @@ Description: QQ+TIM防撤回带提示，使用前请关闭其他防撤回
 Author: wjg (TouGBao)
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ RecallHook 防撤回增强
+
+Package: acreson.qqcrack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: mobilesubstrate
+Filename: ./debs/acreson.qqcrack_1.0_iphoneos-arm.deb
+Size: 173872
+MD5sum: 514f04a5144f40467921419cf1cce53e
+SHA1: 854270fb7b18b14d53efbff0187a800755d3374d
+SHA256: 17de6530179f6c661a3dbb8c9e7c8ca960ac6a0522acca2d0ffd4fa7071f793b
+Section: Acreson-增强(Enhance)
+Description: 自动保存闪照，闪照截图无限制，自动抢红包，支持私聊红包、群红包；普通红包、口令红包，消息防撤回，修改手机型号，支持的手机型号有iPhone 1G-iPhone XS Max、iPad、iPod，修改后的手机型号会在对方聊天页面顶部以及QQ空间生效，设置完毕需要重启QQ生效。所有功能默认关闭，请至设置-QQ插件中打开或设置。多开需要定制。
+Author: 照相
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQ Crack QQ增强
 
 Package: acreson.renet
 Version: 1.0

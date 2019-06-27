@@ -831,6 +831,23 @@ Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Name: Liberty Lite (Beta) 屏蔽越狱检测
 
+Package: acreson.mahuahelper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 带土&长生果子
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.mahuahelper_1.0_iphoneos-arm.deb
+Size: 17376
+MD5sum: 5aadb695f822b6af2b0ef8689cdf3321
+SHA1: 88cd05176fd2407aefe2ee44563d195ef4957852
+SHA256: cc9a69a3fd4f07f56aeec296d82f5a3f9a22c3e53670b2fb5c154a88f7010468
+Section: Acreson-增强(Enhance)
+Priority: optional
+Description: 解锁麻花播放器会员权限，去除广告，允许下载视频，去除本地会员播放权限
+Author: 带土&长生果子
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Mahua Crack 麻花播放器破解
+
 Package: acreson.netfixtools
 Version: 1.0.1
 Architecture: iphoneos-arm

@@ -831,6 +831,23 @@ Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Name: Liberty Lite (Beta) 屏蔽越狱检测
 
+Package: acreson.linetoolsxii
+Version: 0.1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: sugi
+Installed-Size: 304
+Filename: ./debs/acreson.linetoolsxii_0.1.1-1+debug_iphoneos-arm.deb
+Size: 60548
+MD5sum: 31f25d8fec954fd27dc6c2ebc337dd37
+SHA1: 560dc16b482834db1368034c68a40764b5c2563a
+SHA256: bbc172ad519bb3bb9396dc6d5a84f2ae8dd9cba9809bc323ca0e3348379a3b4d
+Section: Acreson-增强(Enhance)
+Description: LINE 多功能调整。
+Author: sugi
+Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: LINE Tools XII LINE工具箱
+
 Package: acreson.mahuahelper
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1642,6 +1659,23 @@ Author: Justin Petkovic
 Icon: https://coolstar.moe/sileoassets/depictions/assets/com.justinpetkovic.youtubetools-icon.png
 Name: YouTube Tools YouTube工具箱
 Sileodepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.justinpetkovic.youtubetools
+
+Package: acreson.youtubetoolsxii
+Version: 0.0.4-1+debug
+Architecture: iphoneos-arm
+Maintainer: sugi
+Installed-Size: 332
+Filename: ./debs/acreson.youtubetoolsxii_0.0.4-1+debug_iphoneos-arm.deb
+Size: 67332
+MD5sum: 48d4edb9fb5321bcbe36f534a97f92bc
+SHA1: f0fef1fefa75e3c9c862540e16db8a7ef3f31d86
+SHA256: 8b4f534e735f396547e4f04e5026272ac40d6c66b77c0fa1da6e4cb50f10c2fa
+Section: Acreson-增强(Enhance)
+Description: Youtube工具箱
+Author: sugi
+Depiction: https://sugiuta.github.io/descriptions/youtubetoolsxii/index.html
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Youtube Tools XII Youtube工具箱
 
 Package: com.ShadowStonk.jw.SailyInstaller
 Version: 0.1.5

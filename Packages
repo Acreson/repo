@@ -1143,6 +1143,23 @@ Author: Pwn20wnd <pwn20wndstuff@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Name: SemiRestore11 / Rollectra  平刷工具
 
+Package: acreson.shadow
+Version: 2.0.14-1+debug
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 1632
+Depends: mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/acreson.shadow_2.0.14-1+debug_iphoneos-arm.deb
+Size: 161464
+MD5sum: a1cf31b98f173d0e470fe7ea1a06f941
+SHA1: de63b4cb71a037d50a1ce48e6d840582d802aff5
+SHA256: f52eb7c2f92b6741cc0a3a89da90bbfa639cce5854d2e49daaecf954f5c7ad5b
+Section: Acreson-插件(Tweaks)
+Description: 一个轻量级的通用越狱检测旁路。
+Author: jjolano
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Shadow 屏蔽越狱
+
 Package: acreson.skeleton
 Version: 1.1
 Architecture: iphoneos-arm

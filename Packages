@@ -902,6 +902,22 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Packages 插件数据显示
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.pipixiahook
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: mobilesubstrate
+Filename: ./debs/acreson.pipixiahook_0.2.0_iphoneos-arm.deb
+Size: 14124
+MD5sum: 25f912797de2829e1567c2d4507cdacc
+SHA1: 8967d6f21c27036ae39f8f067149645f9460a8ff
+SHA256: 91338b7b13ed7ccd28ad9fb15638cf768c395e70de9d296d2fa815534ebf0eea
+Section: Acreson-增强(Enhance)
+Description: 去下载水印(修复下载按钮不见了)、去启动广告、去掉视频中的广告、去评论中的广告
+Author: 土拨鼠
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 皮皮虾 Crack
+
 Package: acreson.plague
 Version: 1.0
 Architecture: iphoneos-arm

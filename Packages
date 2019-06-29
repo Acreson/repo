@@ -1486,6 +1486,23 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Thunder Helper 迅雷助手
 
+Package: acreson.tiktokhooknew
+Version: 0.4.5
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.tiktokhooknew_0.4.5_iphoneos-arm.deb
+Size: 17124
+MD5sum: 3e78633ab257119104f51678322e573d
+SHA1: 48c9b4e8f05864814f02e51fbc3e347b9e2d7b52
+SHA256: 4427286c45fa3e7cad72eedf4c0400459454b7eb817b3b3e119f945a1627b25a
+Section: Acreson-增强(Enhance)
+Priority: optional
+Description: ⚠️此版本只支持最新版抖音！！！禁用双击(抖音设置页面开启)、纯净模式(抖音设置页面开启)、自动播放(抖音设置页面开启)、去启动广告、去视频广告、去下载水印、去除商家推荐商品、解封设备（出现封号后重新打开两次抖音即可）、长视频下载、新增顶部热门附近按钮开关隐藏、新增防封检测开关（解决无法登陆问题）
+Author: 土拨鼠
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 抖音 Crack
+
 Package: acreson.transparentmusic
 Version: 0.0.1-2
 Architecture: iphoneos-arm

@@ -961,6 +961,24 @@ Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Name: PowerSelector 快捷工具箱(iOS 11 & 12)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.ppsspp
+Version: 1.8.0.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Filename: ./debs/acreson.ppsspp_1.8.0.1_iphoneos-arm.deb
+Size: 14607040
+MD5sum: 2d93f21a31393b5d3a3d5c4fe8017ce8
+SHA1: 1c5efe961cf43c0d597292ac95849f959a7c128e
+SHA256: 9ca54b2d11cec6ee8069d0cab67c50b8c16e37cc2e78f82cdfcfdf020c6740f4
+Section: Acreson-游戏(Games)
+Description: PPSSPP模拟器
+Author: Henrik Rydgård
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PPSSPP模拟器
+
 Package: acreson.pubgweeding
 Version: 0.13.0
 Architecture: iphoneos-arm

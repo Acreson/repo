@@ -969,12 +969,12 @@ Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxw
 Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Filename: ./debs/acreson.ppsspp_1.8.0.1_iphoneos-arm.deb
-Size: 14607040
-MD5sum: 2d93f21a31393b5d3a3d5c4fe8017ce8
-SHA1: 1c5efe961cf43c0d597292ac95849f959a7c128e
-SHA256: 9ca54b2d11cec6ee8069d0cab67c50b8c16e37cc2e78f82cdfcfdf020c6740f4
+Size: 14607240
+MD5sum: 3c5c0c314fa8480ec37f0f6630031475
+SHA1: d31a79739dc1b47207de53c5ac12db7a79761f8b
+SHA256: eb7b39ae7a6ba585532e2edb0af8bff274e5e9a8472314350e4ad822e412d1b3
 Section: Acreson-游戏(Games)
-Description: PPSSPP模拟器
+Description: PPSSPP模拟器，最新编译支持A12 jit操作
 Author: Henrik Rydgård
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: PPSSPP模拟器

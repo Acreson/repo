@@ -43,6 +43,10 @@ Section: Acreson-游戏(Games)
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 
 
+Section: Acreson-模拟器(Simulators)
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+
+
 Section: Acreson-玩具(Toys)
 Icon: file:///Applications/Cydia.app/Sections/Toys.png
 

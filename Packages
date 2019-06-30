@@ -272,6 +272,38 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.chick11
+Version: 1.5.7
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 742
+Filename: ./debs/acreson.chick11_1.5.7_iphoneos-arm.deb
+Size: 85990864
+MD5sum: aba9fc5983570811ce1b8c93aa685670
+SHA1: 1b36b7cf10932af5857090e010c158cd718a5abc
+SHA256: 8d5cc3dda4930dc49a9a0208e29c4472b67bdf42e0dfc674ac6b0388fdf17016
+Section: Acreson-模拟器(Simulators)
+Description: 小鸡模拟器IOS11以上专用
+Author: Domo
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: 小鸡(IOS11+) 模拟器
+
+Package: acreson.chickjail
+Version: 1.5.6
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 742
+Filename: ./debs/acreson.chickjail_1.5.6_iphoneos-arm.deb
+Size: 77911476
+MD5sum: 477a39e360bf94915d715c6d03a356e9
+SHA1: c17f6d1bcfb39825520ee74141cb4d5218a15951
+SHA256: 72e33bd8044a79f855cc7e903bcef4435e675c0c028b08683ef66bdd2a165613
+Section: Acreson-模拟器(Simulators)
+Description: 小鸡模拟器IOS10以下专用
+Author: Domo
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: 小鸡(IOS10-) 模拟器
+
 Package: acreson.cloudmusichook
 Version: 1.0-2+debug
 Architecture: iphoneos-arm

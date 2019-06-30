@@ -7,6 +7,10 @@ Section: Acreson-依赖(Depends)
 Icon: file:///Applications/Cydia.app/Sections/Addons.png
 
 
+Section: Acreson-开发(Development)
+Icon: file:///Applications/Cydia.app/Sections/Development.png
+
+
 Section: Acreson-安装包(Packages)
 Icon: file:///Applications/Cydia.app/Sections/Packaging.png
 

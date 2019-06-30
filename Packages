@@ -571,6 +571,43 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nd
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Ext3nder Installer 签名工具
 
+Package: acreson.flexall
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 2772
+Depends: mobilesubstrate
+Filename: ./debs/acreson.flexall_0.0.1-2_iphoneos-arm.deb
+Size: 573820
+MD5sum: 17679098c2456ba436bfbf524ce6763c
+SHA1: a12017269fcdee8ebfa3fb92d99ef61759ce7f5f
+SHA256: b939acd91839908743075d414200896993753c1f6f12fd1abb87e22bd63e6d16
+Section: Acreson-开发(Development)
+Description: Flex调试工具
+Author: DGh0st <deeppwnage@yahoo.com>
+Icon: file:///Applications/Cydia.app/Sections/Development.png
+Name: FLEXall Flex调试工具
+
+Package: acreson.flexible
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 4920
+Depends: firmware(>= 8.0), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/acreson.flexible_2.1.0_iphoneos-arm.deb
+Size: 706660
+MD5sum: f331d84d5a27438f251ba7fc66607c49
+SHA1: c70f5f50ad9b26bed443106bd429bf45dc96e9f7
+SHA256: c12aee004933818f26c9aba84bd2809043f8c86081c016b374d672e2748cc4cf
+Section: Acreson-开发(Development)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexibleDp
+Description: FLEX调试工具
+Author: Shmoopi <shmoopillc@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexibleDp
+Dev: shmoopi
+Icon: file:///Applications/Cydia.app/Sections/Development.png
+Name: FLEXible Flex调试工具
+
 Package: acreson.gba4ios
 Version: 2.1.6
 Architecture: iphoneos-arm

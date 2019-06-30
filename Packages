@@ -593,10 +593,10 @@ Architecture: iphoneos-arm
 Maintainer: A
 Installed-Size: 742
 Filename: ./debs/acreson.gba4ios_2.1.6_iphoneos-arm.deb
-Size: 13447044
-MD5sum: 39a2abc727c70d2a0e4028158759dd07
-SHA1: eabaddb44c97ddcb7a448084f52b0b464da1dc37
-SHA256: f5f556296f77e255d34afef3c99fe8045c18b0fd34a9297d647409415399aabb
+Size: 13446596
+MD5sum: 0d6663a8f78f9ce440de67867423d48c
+SHA1: 42f456f1eeee5c0bb0619a5605c0aafe42228846
+SHA256: 465e51a1efb454b39ebce2eb2beac67bef142c9c9675f57eb20f5229c602943f
 Section: Acreson-模拟器(Simulators)
 Description: GBA4IOS 模拟器
 Author: Domo
@@ -653,6 +653,23 @@ Description: 隐藏全局分割线 支持A12
 Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Hide Separator 隐藏分割线
+
+Package: acreson.iNDS
+Version: 1.10.6
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Installed-Size: 24131
+Filename: ./debs/acreson.inds_1.10.6_iphoneos-arm.deb
+Size: 5687044
+MD5sum: 5b0fb7bce508a8004034a4414aad86a7
+SHA1: 7c2b85520c4e6602b7ef580b3ea84a4f744074a3
+SHA256: 612584d8e659b9ffc195354a1f9f4d536a548921a89777b58d10cc825956752f
+Section: Acreson-模拟器(Simulators)
+Homepage: https://inds.nerd.net
+Description: 复兴任天堂NDS模拟器. 编译修改完美支持a12
+Author: iNDS Team <inds@nerd.net>
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: iNDS 模拟器
 
 Package: acreson.imagecorrect
 Version: 0.1
@@ -1001,15 +1018,15 @@ Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxw
 Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Filename: ./debs/acreson.ppsspp_1.8.0.1_iphoneos-arm.deb
-Size: 14606616
-MD5sum: 537ecf849631b0aa7e017872a514a9c4
-SHA1: 8495544eb08c504cd16194e32932bb461b2cf56d
-SHA256: 5d049a62ab5b7f4017780297a3640a45010403c7bc69e18407834532d69f2740
+Size: 14606860
+MD5sum: 71c60b38ca8310c80a8171a6d68f2fb0
+SHA1: 80640c97beee72f619a8e51cecec973cf1c66c02
+SHA256: 1726a78e431f9ed243e2e2e67e57db04c08004ef7c48cd9768cc5e1ab358abfc
 Section: Acreson-模拟器(Simulators)
 Description: PPSSPP模拟器，最新编译支持A12 jit操作
 Author: Henrik Rydgård
 Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: PPSSPP模拟器
+Name: PPSSPP 模拟器
 
 Package: acreson.pubgweeding
 Version: 0.13.0
@@ -2078,23 +2095,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocatio
 Dev: ontheroadstudio
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Anywhere!--虚拟定位
-
-Package: net.nerd.iNDS
-Version: 1.10.6
-Architecture: iphoneos-arm
-Maintainer: iNDS Team <inds@nerd.net>
-Installed-Size: 24131
-Filename: ./debs/net.nerd.inds_1.10.6_iphoneos-arm.deb
-Size: 5686908
-MD5sum: f40c5a8253e21f77f6bbf1b7a28b1fea
-SHA1: 50e386358ea7fe939b79f38a2901d86c7df473ce
-SHA256: 7342e4a031e12fa2c9ceb2c5ef0e5d1afb25fd4978f9cce33c7a893a9657ea17
-Section: Acreson-模拟器(Simulators)
-Homepage: https://inds.nerd.net
-Description: 复兴任天堂NDS模拟器. 编译修改完美支持a12
-Author: iNDS Team <inds@nerd.net>
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: NDS模拟器
 
 Package: org.thebigboss.repo.icons
 Version: 1.2

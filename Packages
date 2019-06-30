@@ -272,22 +272,6 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
-Package: acreson.backupaz3
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: SynnyG <synnyg.devjb@gmail.com>
-Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
-Filename: ./debs/acreson.backupaz3_1.5_iphoneos-arm.deb
-Size: 3203812
-MD5sum: 4fcd55b96f24725e30cc43243774301c
-SHA1: 5af46c329c4952f1411a7145dc927386c97429a6
-SHA256: 5f3e78b80bebaf0fdac162723e5c46177da78ed4415ce7fad27ec560226cd4a2
-Section: Acreson-工具(Utilities)
-Description: 一个完整的备份工具，IOS10-12
-Author: SynnyG <synnyg.devjb@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: BackupAZ 3 备份神器
-
 Package: acreson.cloudmusichook
 Version: 1.0-2+debug
 Architecture: iphoneos-arm
@@ -593,10 +577,10 @@ Architecture: iphoneos-arm
 Maintainer: A
 Installed-Size: 742
 Filename: ./debs/acreson.gba4ios_2.1.6_iphoneos-arm.deb
-Size: 13446596
-MD5sum: 0d6663a8f78f9ce440de67867423d48c
-SHA1: 42f456f1eeee5c0bb0619a5605c0aafe42228846
-SHA256: 465e51a1efb454b39ebce2eb2beac67bef142c9c9675f57eb20f5229c602943f
+Size: 13447148
+MD5sum: f06b99478e3ed625dd8fbf4d0dc93aee
+SHA1: 7dc643a8a2faa4c8305fac607a49692335eded61
+SHA256: 78ea5233a4c3074ce40d7a8497d22f54a7cd317050ec583a4ba954ece69efd04
 Section: Acreson-模拟器(Simulators)
 Description: GBA4IOS 模拟器
 Author: Domo
@@ -654,23 +638,6 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Hide Separator 隐藏分割线
 
-Package: acreson.iNDS
-Version: 1.10.6
-Architecture: iphoneos-arm
-Maintainer: iNDS Team <inds@nerd.net>
-Installed-Size: 24131
-Filename: ./debs/acreson.inds_1.10.6_iphoneos-arm.deb
-Size: 5687044
-MD5sum: 5b0fb7bce508a8004034a4414aad86a7
-SHA1: 7c2b85520c4e6602b7ef580b3ea84a4f744074a3
-SHA256: 612584d8e659b9ffc195354a1f9f4d536a548921a89777b58d10cc825956752f
-Section: Acreson-模拟器(Simulators)
-Homepage: https://inds.nerd.net
-Description: 复兴任天堂NDS模拟器. 编译修改完美支持a12
-Author: iNDS Team <inds@nerd.net>
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: iNDS 模拟器
-
 Package: acreson.imagecorrect
 Version: 0.1
 Architecture: iphoneos-arm
@@ -706,6 +673,23 @@ Tag: purpose::uikit, role::enduser
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Name: Cydia Eraser 平刷工具
+
+Package: acreson.inds
+Version: 1.10.6
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Installed-Size: 24131
+Filename: ./debs/acreson.inds_1.10.6_iphoneos-arm.deb
+Size: 5687008
+MD5sum: 9b098163c7206a56f8f0829dabb8e33f
+SHA1: 8c1e9155bed417e9b5936f71e33a8dbbd6852e88
+SHA256: 56f73f67f61c074c938348c660ae9b54c8abfb769a514a3892cd89d3425b3203
+Section: Acreson-模拟器(Simulators)
+Homepage: https://inds.nerd.net
+Description: 复兴任天堂NDS模拟器. 编译修改完美支持a12
+Author: iNDS Team <inds@nerd.net>
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: iNDS 模拟器
 
 Package: acreson.ioshelper11
 Version: 1.0
@@ -1018,10 +1002,10 @@ Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxw
 Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Filename: ./debs/acreson.ppsspp_1.8.0.1_iphoneos-arm.deb
-Size: 14606860
-MD5sum: 71c60b38ca8310c80a8171a6d68f2fb0
-SHA1: 80640c97beee72f619a8e51cecec973cf1c66c02
-SHA256: 1726a78e431f9ed243e2e2e67e57db04c08004ef7c48cd9768cc5e1ab358abfc
+Size: 14606020
+MD5sum: 9e0baa7e5361593ea33710d66df3b5ed
+SHA1: c2c7ed48c12554d8f3fd5d3e8a2d3b24bc285772
+SHA256: fe3340dfe8252a49cb082a5c2268953a8d72ee220385838f99b2821eba3a58cc
 Section: Acreson-模拟器(Simulators)
 Description: PPSSPP模拟器，最新编译支持A12 jit操作
 Author: Henrik Rydgård

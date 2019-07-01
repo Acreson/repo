@@ -1085,6 +1085,23 @@ Author: Henrik Rydgård
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: PPSSPP 模拟器
 
+Package: acreson.pubgmobilehook
+Version: 0.13.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.pubgmobilehook_0.13.0_iphoneos-arm.deb
+Size: 715744
+MD5sum: c1eac524a0efd25f39c2defaa5704bb5
+SHA1: ba7520542cd1ef03ffc7c82d00648c4068717547
+SHA256: 21a19236da343501911ae9aa8076b286adc9bd8181023d730640893302c31d99
+Section: Acreson-游戏(Games)
+Description: 解锁功能:除草(滑动条)，无后座，无扩散，聚点
+Author: S14T3R & DiDA
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG MOBILE Hack 刺激战场国际服破解
+
 Package: acreson.pubgweeding
 Version: 0.13.0
 Architecture: iphoneos-arm

@@ -1898,6 +1898,25 @@ Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown Cydia增强
 
+Package: com.kingpuffdaddi.control-center.ccvpn
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/com.kingpuffdaddi.control-center.ccvpn_1.0.2_iphoneos-arm.deb
+Size: 7912
+MD5sum: ef7b14719941b4341f71124cde27473e
+SHA1: fafe5bb787b15acf30fdc5ef7a7415e98e673191
+SHA256: 599003c01dbb4f888ebab73a128aa41bf88d31bbc2119753868009e0e0e2b1b3
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: 一个连接/断开VPN的控制中心模块
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: CCVPN 快捷VPN开关
+
 Package: com.tigisoftware.appdatamanager
 Version: 1.5.0-12
 Architecture: iphoneos-arm

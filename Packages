@@ -571,6 +571,25 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nd
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Ext3nder Installer 签名工具
 
+Package: acreson.filzaplus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 776
+Depends: mobilesubstrate, com.tigisoftware.filza
+Filename: ./debs/acreson.filzaplus_1.0_iphoneos-arm.deb
+Size: 222708
+MD5sum: 4a6e459e774881c959734c738089367e
+SHA1: 16f62493bc7a14c653ff5aee7cde50b2dd525123
+SHA256: fd86e3553ccf4c5f17c7e1a2f36b053e64e554972f764987406a3342961ea93e
+Section: Acreson-开发(Development)
+Description: 将Filza转换为代码编辑器。
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/?p=xyz.skitty.filzaplus
+Icon: file:///Applications/Cydia.app/Sections/Development.png
+Name: FilzaPlus Filza增强
+Sileodepiction: https://skitty.xyz/repo/depictions/?s=xyz.skitty.filzaplus
+
 Package: acreson.flexall
 Version: 0.0.1-2
 Architecture: iphoneos-arm

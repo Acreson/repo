@@ -39,10 +39,6 @@ Section: Acreson-系统(System)
 Icon: file:///Applications/Cydia.app/Sections/System.png
 
 
-Section: Acreson-分流(Shunt)
-Icon: file:///Applications/Cydia.app/Sections/Java.png
-
-
 Section: Acreson-游戏(Games)
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 

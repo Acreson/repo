@@ -747,6 +747,23 @@ Author: iNDS Team <inds@nerd.net>
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: iNDS 模拟器
 
+Package: acreson.instagramtoolsxii
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: sugi
+Installed-Size: 316
+Filename: ./debs/acreson.instagramtoolsxii_0.0.1-1+debug_iphoneos-arm.deb
+Size: 71516
+MD5sum: fafd1baa5c7292febc10d283b53d802f
+SHA1: b30725995997c09c7b6dbb07468d2f8f6bcb13a4
+SHA256: ad5c8cb37fa2be2329edd6448590f6fdbe69c89fb90ac331934f525f5b03cb5c
+Section: Acreson-增强(Enhance)
+Description: Instagram的多功能调整。
+Author: sugi
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Instagram Tools Instagram工具箱
+Sileodepiction: https://sugiuta.github.io/descriptions/instagramtoolsxii/instagramtoolsxii.json
+
 Package: acreson.ioshelper11
 Version: 1.0
 Architecture: iphoneos-arm

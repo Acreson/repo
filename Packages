@@ -576,12 +576,12 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Skitty
 Installed-Size: 776
-Depends: mobilesubstrate, com.tigisoftware.filza
+Depends: mobilesubstrate
 Filename: ./debs/acreson.filzaplus_1.0_iphoneos-arm.deb
-Size: 222708
-MD5sum: 4a6e459e774881c959734c738089367e
-SHA1: 16f62493bc7a14c653ff5aee7cde50b2dd525123
-SHA256: fd86e3553ccf4c5f17c7e1a2f36b053e64e554972f764987406a3342961ea93e
+Size: 222172
+MD5sum: d2e0e66c82e7adb5c4132cb994bbfd18
+SHA1: ba5535f7db94b1d93228999b2e72aef7a2785ae3
+SHA256: 79f071f71e7d0d2d46af1eff32641f061ff478dec24ec357df2eb96eb1827e38
 Section: Acreson-开发(Development)
 Description: 将Filza转换为代码编辑器。
 Author: Skitty

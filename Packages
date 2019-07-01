@@ -272,6 +272,23 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.bundleidsxii
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: TD, mass1ve_err0r
+Installed-Size: 1044
+Depends: applist
+Filename: ./debs/acreson.bundleidsxii_2.0_iphoneos-arm.deb
+Size: 47072
+MD5sum: 01a8461161d04714d8436ff5f2cdbefc
+SHA1: c615500ac92226dbfce0a4bab72f2d6660b4ecd9
+SHA256: 401233441d344334c46b524a95088a2dba23924a7274a70daa8ef12ebc28146c
+Section: Acreson-工具(Utilities)
+Description: 快速显示所有应用标识符，完美支持A12。
+Author: TD
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: BundleIDsXII 标识符工具
+
 Package: acreson.cloudmusichook
 Version: 1.0-2+debug
 Architecture: iphoneos-arm

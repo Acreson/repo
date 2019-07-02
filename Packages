@@ -520,14 +520,13 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1212
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: ./debs/acreson.datameter_1.4-3_iphoneos-arm.deb
-Size: 243776
-MD5sum: d7fb72568a98d15cd3f1a72f113f0cca
-SHA1: 5fed917c19340d86ca0c2e84f23c7f0af52f3ea7
-SHA256: 89db25c72fa4ef4c5edf7f458e0879ff69cd0586620919cccfed4d733470baa7
+Size: 243792
+MD5sum: 4ddf8eee0c2b98d4a2d77cf8a68b3bbf
+SHA1: 63c2f90418f6a502fba6972c184e0faf1f0b6880
+SHA256: 19282b6eb37cd044370345d03c8b9ed38041f5faeb214fd874503a6186977850
 Section: Acreson-插件(Tweaks)
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
 Description: iOS 7-12通知中心的数据计量器
-Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8,
 Author: Minuit <minuits@163.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png

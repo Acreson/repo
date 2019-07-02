@@ -289,6 +289,23 @@ Author: TD
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: BundleIDsXII 标识符工具
 
+Package: acreson.bundleidsxii
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: TD, mass1ve_err0r
+Installed-Size: 1044
+Depends: applist
+Filename: ./debs/acreson.bundleidsxii_2.0.1_iphoneos-arm.deb
+Size: 46824
+MD5sum: 40ac66ead67c7d7bb12281a3e8b95816
+SHA1: 05eec4afa22dcfdd0dee5e10b32c3ee5b642c6c0
+SHA256: f79c9da0031640ceb8cf88457d1596aec33cbbc641e1abdc83b68ca07cc5fb1e
+Section: Acreson-工具(Utilities)
+Description: 快速显示所有应用标识符，完美支持A12。
+Author: TD
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: BundleIDsXII 标识符工具
+
 Package: acreson.cloudmusichook
 Version: 1.0-2+debug
 Architecture: iphoneos-arm
@@ -588,6 +605,27 @@ Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ext3nd
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Ext3nder Installer 签名工具
 
+Package: acreson.fakegps
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10217
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: ./debs/acreson.fakegps_3.6.2_iphoneos-arm.deb
+Size: 2739724
+MD5sum: eaf8bcdde6537e422af6df496b6361d8
+SHA1: 88020b7c8fb6ecfb6fdfe6b291a025d080689dd6
+SHA256: 8bb9851a54b3c86a833138ee33ae348135a57da7d5aae8e2661712bd8bf4e261
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakelocationDp
+Description: 定位修改大师，Fake GPS Location, 修改微信、朋友圈、微博、陌陌、Facebook、QQ空间、支付宝、Instagram等应用定位，玩游戏、企业钉钉打卡必备工具。360度全球虚拟定位到想要的任何地方。
+Author: suifeng <260298032@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakelocationDp
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: 定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.filzaplus
 Version: 1.0
 Architecture: iphoneos-arm
@@ -659,6 +697,63 @@ Description: GBA4IOS 模拟器
 Author: Domo
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: GBA4IOS 模拟器
+
+Package: acreson.gpscheat
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/acreson.gpscheat_1.1-5_iphoneos-arm.deb
+Size: 133932
+MD5sum: 8952c638c9e8b23f9e1a522b8136f2bb
+SHA1: aefcb797e5afc8f945de73e6048672345e7f7bdc
+SHA256: 99a61fcbf19c49b0a874c7f4825ef1b6f94267b20ab96f29b7955bdc57bbda03
+Section: HYI - Tweaks
+Description: Set a Fake Any Location On Device!单纯虚拟定位
+Author: Acreson
+Name: GPSCheat
+
+Package: acreson.gpsmanager
+Version: 1.8.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 9913
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, topme.ios.FakeGps, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
+Filename: ./debs/acreson.gpsmanager_1.8.6_iphoneos-arm.deb
+Size: 2734856
+MD5sum: 1381aa583a4e09fccaadb22820d17f3b
+SHA1: e01e39f9ea1e8cde2dbf3a413340e25362696b9d
+SHA256: 0b8d1049039ffc7674f7336960de2e1bd82cd5db425e29a4361766e473983bda
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpsmanagerDp
+Description: Configure APP's fake GPS location wherever you like. GPS定位管家，可设置应用的虚拟定位，随时随地定位修改打卡。
+Author: chencong <xinapps@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpsmanagerDp
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: GPS Manager(GPS定位管家)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: acreson.gpsmaster
+Version: 1.7.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10812
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
+Filename: ./debs/acreson.gpsmaster_1.7.6_iphoneos-arm.deb
+Size: 3014916
+MD5sum: 16a6d709a8a7f8d825e7b823d45688cd
+SHA1: d3dd4f7346ffbab14c1cf27bc688e5ca278a7c19
+SHA256: dff15c928358182b2f729641554f42a57cd08aa5b8d871c7f172b039cc750748
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpsmasterDp
+Description: GPS Master can fake your iOS device's GPS location like you are driving between two places.
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpsmasterDp
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: GPS Master(GPS定位大师)-Fake Navigation,Location Spoofer
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.hackpubgxs-xr-xsmaxs
 Version: 1.2
@@ -955,6 +1050,73 @@ Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: LINE Tools XII LINE工具箱
 
+Package: acreson.locaspriti
+Version: 4.59
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 33711
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: app.weiphone.locaspriti.app, com.locaspriti.app, cn.tinyapps.xgps, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.xgpslite, cn.tinyapps.xgpsfree, app.weiphone.txyapp85.lib, app.weiphone.txyapp.app, com.txyapp.app, app.weiphone.locationholic.rwx, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, rwx.appvv, app.weiphone.sxtb.rwx, com.sxtb.rwx.armv6, com.txyapp.new, app.weiphone.txyapp.new, com.txyapp.gaode, app.weiphone.txyapp.gaode, com.yinlian.txytweak, com.skywalk.skywalkerbasetweak, app.weiphone.skywalk.skywalkerbasetweak, app.weiphone.lj.anylocation, com.lj.anylocation, net.85819.ios.otrlocation, app.weiphone.locaspritiag.app, com.locaspritiag.app, app.weiphone.abc.txyapp.gaode, app.weiphone.fakeloca.app, app.weiphone.locaspriti.register, apt.locaspriti.app, aptag.locaspriti.app, com.fakeloca.app
+Replaces: app.weiphone.locaspriti.app, com.locaspriti.app, cn.tinyapps.xgps, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.xgpslite, cn.tinyapps.xgpsfree,app.weiphone.txyapp85.lib, app.weiphone.txyapp.app, com.txyapp.app, app.weiphone.locationholic.rwx, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, app.weiphone.sxtb.rwx,rwx.appvv, com.sxtb.rwx.armv6, com.txyapp.new, app.weiphone.txyapp.new, com.txyapp.gaode, app.weiphone.txyapp.gaode, com.yinlian.txytweak, com.skywalk.skywalkerbasetweak, app.weiphone.skywalk.skywalkerbasetweak, app.weiphone.lj.anylocation, com.lj.anylocation, net.85819.ios.otrlocation, app.weiphone.locaspritiag.app, com.locaspritiag.app, app.weiphone.abc.txyapp.gaode, app.weiphone.fakeloca.app, app.weiphone.locaspriti.register, apt.locaspriti.app, aptag.locaspriti.app, com.fakeloca.app
+Filename: ./debs/acreson.locaspriti_4.59_iphoneos-arm.deb
+Size: 11782020
+MD5sum: 1d091ec5403fb8ac3b157f80b317c01d
+SHA1: 20e9c563d492a04b6a66ff316435dd8fab3cf322
+SHA256: 606e43a683aa270731f10c41cd7ac339d48569077352f83db85956745c6eb795
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locaspritiDp
+Description: 心行是一款虚拟定位软件支持伪装地理位置。免费试用,支持导航和直线双扫街核心，
+Author: locaspriti <locaspriti@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locaspritiDp
+Dev: tinyapps
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: 位置随心行(虚拟定位专用)世界任我行,天下游不停,易天行,神行者,Fake GPS,筋斗云
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: acreson.locationexpert
+Version: 2.6.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 11212
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
+Filename: ./debs/acreson.locationexpert_2.6.0_iphoneos-arm.deb
+Size: 3067996
+MD5sum: 0f4ed6e5a82d7fca14be146c64902c41
+SHA1: f0ccbac21b72516e96e16239263ccc69ec7ed6dd
+SHA256: 4a5036f189e4107222ad09bf6823be40c81cae0f9d76126db23d267bf69f210d
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationexpertDp
+Description: 虚拟定位专家，模拟导航和GPS定位，微信吸粉和查找附近好友神器，Uber、滴滴虚拟驾驶导航。
+Author: liuming <liuminggui1993@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationexpertDp
+Dev: liuming
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: 虚拟定位专家(GPS Faker Expert)-模拟导航，扫街
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: acreson.locationhelper
+Version: 5.3.10
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10101
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, me.liuming.LocationExpert, topme.ios.FakeGps, apt.tinyapps.location360pro
+Filename: ./debs/acreson.locationhelper_5.3.10_iphoneos-arm.deb
+Size: 3080916
+MD5sum: 162c61f9755c91b694b6d4034e029879
+SHA1: 7f1bd74fee6bc7aa485844a1721d44aff3974dc5
+SHA256: 22d079ce6ecaa823c40239c0f47004df9ab2963d771fcb974f2f2bca1e5604a9
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationhelperDp
+Description: 轻松修改微信、QQ、支付宝、朋友圈、微博、陌陌、百度、高德位置信息，玩游戏、企业钉钉打卡、360度撩妹必备。
+Author: mingfaker <liuminggui1993@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationhelperDp
+Dev: liuming
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: 虚拟定位助手 - 系统GPS定位修改器，GPS Faker，天下游，模拟地理位置
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.mahuahelper
 Version: 1.0
 Architecture: iphoneos-arm
@@ -987,6 +1149,27 @@ Description: ios11~12网络访问权限修复工具!!
 Author: iggvip
 Icon: file:///Applications/Cydia.app/Sections/Networking.png
 Name: NetFixTools网络访问权限修复工具
+
+Package: acreson.otrlocation
+Version: 5.5.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 170521
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: ./debs/acreson.otrlocation_5.5.1_iphoneos-arm.deb
+Size: 40765052
+MD5sum: 47ce348f7dd5f1e8af2441ba0010f737
+SHA1: c3e1a1da8d10ce55f4db1f2b5373ea8c123f79a3
+SHA256: c32233783dcf3b41960a552c0f9dfb3ded979defa2d3c324e31ac9bda4999d68
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
+Description: 完全免费的地址和设备型号修改神器!
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: onTheRoadStudio <ontheroadstudio@live.cn>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
+Dev: ontheroadstudio
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: Anywhere!--虚拟定位
 
 Package: acreson.packages
 Version: 1.0.5
@@ -1253,6 +1436,23 @@ Description: 自动保存闪照，闪照截图无限制，自动抢红包，支�
 Author: 照相
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ Crack QQ增强
+
+Package: acreson.relocate
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 520
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/acreson.relocate_1.0_iphoneos-arm.deb
+Size: 216100
+MD5sum: 75de45cd81f1aa6d4ed80df1bba68dcb
+SHA1: 743cf44d3143169b06dd84ff42d16df3e4d4e540
+SHA256: ba121a3108abf8d6325c93141618a32004589838e10081b229e119b65ac606d3
+Section: Acreson-定位(Localization)
+Description: 免费的虚拟定位多样化设置
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: Relocate 完整版
 
 Package: acreson.renet
 Version: 1.0
@@ -1837,6 +2037,50 @@ Dev: malcolmhall
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: WiFi Passwords WIFI密码查看器
 
+Package: acreson.xgpsfree
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 16910
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSPro, me.liuming.locationhelper, apt.tinyapps.XGPSPro
+Filename: ./debs/acreson.xgpsfree_2.3.1_iphoneos-arm.deb
+Size: 4809968
+MD5sum: 779465c668e3ea8404e62b1f2ad28171
+SHA1: 350eff35b2ff63e45e43e8e0862228969f495767
+SHA256: f0efbbe80a048df03626f6704c6dd89c6efb9b063ad32981a0f3f8e539c5cc09
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xgpsfreeDp
+Description: iPhone定位修改伪装，适合微信、QQ、微博、陌陌、美团、Facebook、Twitter等地理位置应用【Tinyapps出品，必属精品】 Email: tinyapps@qq.com
+Author: Tinyapps.cn <wen.shane@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xgpsfreeDp
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: 定位修改器 (Fake GPS Free)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: acreson.xgpspro
+Version: 3.9.8
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 13522
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: ./debs/acreson.xgpspro_3.9.8_iphoneos-arm.deb
+Size: 4280104
+MD5sum: 4ef0fc238a9b0c4857d95eb8c6e3456f
+SHA1: 3f2887b76477df5de7362709ba2f2cbc69ae503b
+SHA256: 33ba3dcdf1f95e35d63e0bbc2ce3e0e789bbb7d2db84782d7357c4ba9bcc6c09
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xgpsproDp
+Description: iOS 5.1.1~12.1.2 CHANGE your iPhone's location as you wish.
+ A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~12.1.2)    and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max)。支持所有iOS系统(5.1.1~12.1.2)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max), iPad, iPod Touch. 完美兼容最新12.1.2越狱。
+Author: Sheng Wen <tinyapps@foxmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xgpsproDp
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.youtubetools
 Version: 3.0-1
 Architecture: iphoneos-arm
@@ -2204,27 +2448,6 @@ Homepage: http://tukaani.org/lzma/
 Description: slower, but better, compression algorithm
 Icon: file:///Applications/Cydia.app/Sections/Archiving.png
 Name: LZMA Utils
-
-Package: net.85819.ios.otrlocation
-Version: 5.5.1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 170521
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
-Filename: ./debs/net.85819.ios.otrlocation_5.5.1_iphoneos-arm.deb
-Size: 40765056
-MD5sum: cb70510e99eba4567cdd4f4aec5ed9d8
-SHA1: 80f294766a886647022d655fb4f4ca5849cf1894
-SHA256: e9d75e09b6d28a9c8f687db77ef3b909196d4cfa51b24bc1293978ee5fc31d91
-Section: Acreson-工具(Utilities)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
-Description: 完全免费的地址和设备型号修改神器!
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-Author: onTheRoadStudio <ontheroadstudio@live.cn>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=otrlocationDp
-Dev: ontheroadstudio
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: Anywhere!--虚拟定位
 
 Package: org.thebigboss.repo.icons
 Version: 1.2

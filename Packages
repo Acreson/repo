@@ -705,12 +705,13 @@ Maintainer: Acreson
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: ./debs/acreson.gpscheat_1.1-5_iphoneos-arm.deb
 Size: 133932
-MD5sum: 8952c638c9e8b23f9e1a522b8136f2bb
-SHA1: aefcb797e5afc8f945de73e6048672345e7f7bdc
-SHA256: 99a61fcbf19c49b0a874c7f4825ef1b6f94267b20ab96f29b7955bdc57bbda03
-Section: HYI - Tweaks
+MD5sum: f5415c3c0382019d0e60ee2ec2ae1afc
+SHA1: dee9d728aa35e4a08330b48e04534e54d23d226d
+SHA256: 7a650819072d809aeb9536a57344ba55f7a3fd4a024dc87292388d49774aa218
+Section: Acreson-定位(Localization)
 Description: Set a Fake Any Location On Device!单纯虚拟定位
 Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
 Name: GPSCheat
 
 Package: acreson.gpsmanager

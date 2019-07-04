@@ -1613,16 +1613,16 @@ Maintainer: MidnightChips
 Installed-Size: 1228
 Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
 Filename: ./debs/acreson.snapback_2.0.0_iphoneos-arm.deb
-Size: 544400
-MD5sum: f8366ad7903a7f302196feaae558bb4a
-SHA1: f5a08238707a360bdafa7a5680ba76a8e583e36b
-SHA256: 344320af7f49e9f80316e6f2115ec7b7ff43ee5cf0b24c641d92b85233b95de8
+Size: 545180
+MD5sum: 92dd2a2b9f5284d8072eaa9214def273
+SHA1: 7ab81f10fefe5405d8aa052c86af2297ab7ec4d4
+SHA256: bd9733b3632c5cdbd561a1390077d395faf346874087a89424655034abcc4456
 Section: Acreson-工具(Utilities)
 Description: 快照管理器
 Author: MidnightChips
 Depiction: https://midnightchips.me/depiction/?snapback
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: SnapBack
+Name: SnapBack 快照管理器
 Sileodepiction: https://midnightchips.me/sileo/snapback.json
 
 Package: acreson.snowboardfull

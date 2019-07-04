@@ -2055,6 +2055,25 @@ Author: iBreak <ibreak2019@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChat Helper 微信助手
 
+Package: acreson.wechatredenvelop
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/acreson.wechatredenvelop_2.1.1_iphoneos-arm.deb
+Size: 37172
+MD5sum: 25bbc634b88995bca083572d1d9d41bb
+SHA1: 2d924241877d938a37aaa77daf495d5e569e876e
+SHA256: 01776947a1ee104cdd0c6577b0bffefdbb3c405bd887e0ae026f9cac1cd8223b
+Section: Acreson-增强(Enhance)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatredenvelopDp
+Description: 微信抢红包插件.更新支持最新建议7.0.3以下
+Author: Zhichao Yang <wordbeyondyoung@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatredenvelopDp
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChat 微信自动抢红包插件
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.wifipasswords
 Version: 11.0.2
 Architecture: iphoneos-arm

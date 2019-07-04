@@ -1,0 +1,76 @@
+* {user-select: none;}
+
+.column {
+  transition: transform 0.2s ease-in-out;
+}
+
+.column:hover {
+  transform: scale(1.01);
+  cursor: pointer;
+}
+
+.project {background-color: #fff; border-radius: 15px; padding: 20px}
+
+a.twitter {
+  background-color: rgba(0, 172, 237, 0.2);
+  border: none;
+  color: #00aced;
+}
+
+a.github {
+  background-color: rgba(51, 51, 51, 0.1);
+  border: none;
+}
+
+a.discord {
+  background-color: rgba(114, 137, 218, 0.2);
+  border: none;
+  color: #7289da;
+}
+
+a.reddit {
+  background-color: rgba(255, 69, 0, 0.2);
+  border: none;
+  color: #ff4500;
+}
+
+a.telegram {
+  background-color: rgba(0, 172, 237, 0.2);
+  border: none;
+  color: #0088cc;
+}
+
+a.mail {
+  background-color: rgba(237, 27, 46, 0.2);
+  border: none;
+  color: #ed1b2e;
+}
+
+a.sileo {
+  background-color: rgba(9, 169, 172, 0.2);
+  border: none;
+  color: #09a9ac;
+}
+
+a.cydia {
+  background-color: rgba(132, 89, 70, 0.2);
+  border: none;
+  color: #845946;
+}
+
+a.button {
+  transition: transform 0.2s ease-in-out;
+}
+
+a.button:hover {
+  transform: scale(1.1);
+}
+
+img.thumbnail {
+  width: 100%;
+  border-radius: 10px;
+}
+
+div.card-info {
+  padding: 10px;
+}

@@ -362,6 +362,22 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: CloudMusic Crack 某云玩具
 
+Package: acreson.clouds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.clouds_1.0_iphoneos-arm.deb
+Size: 21008
+MD5sum: 6773b096a0c98e27f54d721f385ad76d
+SHA1: 6efdfa46102d70a482d689e65ad91cde03dbcb6d
+SHA256: 370edf173ae6d1ef855f99e6cbe5f035d2f59208d285edacb90d333af43004c7
+Section: Acreson-主题(Themes)
+Description: 云朵 角标
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: 云朵 角标
+Sponsor: Acreson <http://crazyc.top>
+
 Package: acreson.cnGamePlayer
 Version: 3.4
 Architecture: iphoneos-arm

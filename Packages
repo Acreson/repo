@@ -1835,6 +1835,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
 
+Package: acreson.swipeformore
+Version: 1.1.10
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 172
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.swipeformore_1.1.10_iphoneos-arm.deb
+Size: 24196
+MD5sum: 9ae72fd39f955edc6d56146e9f3d4d15
+SHA1: b8ebcdec96fd8d45b4e8301f6daf6ec732c1b7eb
+SHA256: fd2c6e45dfd1f0549950896ff189ed95b599eb1a6a6916da1d7ecc3544545be3
+Section: Acreson-插件(Tweaks)
+Description: Cydia智能滑动增强
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SwipeForMore Cydia智能滑动增强
+
 Package: acreson.sylph
 Version: 1.1~Beta.2
 Architecture: iphoneos-arm

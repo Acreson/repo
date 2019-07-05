@@ -272,6 +272,23 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.brickfix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/acreson.brickfix_1.0.0_iphoneos-arm.deb
+Size: 4804
+MD5sum: a562404effd133373e9df379a6f43f55
+SHA1: 56370e98db23f6c6d5ea5d51b55df6d33167715e
+SHA256: 73cf98c3c282f6b874e2e1ac718d76aec204259d38d9c34dd6e7bf70859d237a
+Section: Acreson-插件(Tweaks)
+Description: 修复iMessage可以让你手机变砖的BUG.
+Author: Muirey03
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: BrickFix 修复iMessage无限重启
+
 Package: acreson.bundleidsxii
 Version: 2.0
 Architecture: iphoneos-arm

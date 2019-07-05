@@ -1590,6 +1590,26 @@ Author: jjolano
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Shadow 屏蔽越狱
 
+Package: acreson.shuffle
+Version: 0.8.0b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 472
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/acreson.shuffle_0.8.0b_iphoneos-arm.deb
+Size: 91180
+MD5sum: f2de329d2c3de11dd5f3ef5c23fda9be
+SHA1: 66a6773ffee61de2ceb710779982c0d1e0dfe0eb
+SHA256: a215f91f26a87a098fdfd485c3c9c36d38283a1ec0597c2c0f6fba9d7b7c9591
+Section: Acreson-插件(Tweaks)
+Description: 插件 应用 系统设置归类
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: shuffle 设置归类
+
 Package: acreson.skeleton
 Version: 1.1
 Architecture: iphoneos-arm

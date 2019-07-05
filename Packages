@@ -2225,6 +2225,24 @@ Depiction: https://sugiuta.github.io/descriptions/youtubetoolsxii/index.html
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Youtube Tools XII Youtube工具箱
 
+Package: areson.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debs/areson.unsub_0.1.9_iphoneos-arm.deb
+Size: 41280
+MD5sum: 12660e02f6bd1d1f9e7978e11ec5a9bb
+SHA1: 2388fea9df76f3015675626ea7e5c54ff9033817
+SHA256: 1cf0956325aa2a205efd79354e2020ed7b63b73dfa7c6f32f73ea2d92f2912c8
+Section: Acreson-插件(Tweaks)
+Description: 在某些应用程序中禁用微调注入(Substrate/Substitute)。
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: UnSub 屏蔽越狱+禁止注入
+
 Package: com.ShadowStonk.jw.SailyInstaller
 Version: 0.1.5
 Architecture: iphoneos-arm

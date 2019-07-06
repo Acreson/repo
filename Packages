@@ -430,6 +430,23 @@ Author: XCXiao
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: ColorizeiOS 彩色开关
 
+Package: acreson.commcenterpatch
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Filename: ./debs/acreson.commcenterpatch_3.1_iphoneos-arm.deb
+Size: 6624
+MD5sum: 25fb977bf3dc12f4228b11f5598197c6
+SHA1: a86e8968a097ea2e9dccc42a0c4cdd2b08889ac6
+SHA256: 6872a0cca7d9fa86dbebd96d61bbc0214f02d0ff42136b32d151fa3ff2228660
+Section: Acreson-网络(Networking)
+Description: 去运营商签名验证(移动联通电信)
+Author: iTweakiOS
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Name: CommCenter Patch 去验证
+
 Package: acreson.conditionalwifi2
 Version: 1.0.0
 Architecture: iphoneos-arm

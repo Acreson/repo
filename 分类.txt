@@ -3,6 +3,10 @@ Section: Acreson-插件(Tweaks)
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 
 
+Section: Acreson-美化(Beautify)
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+
+
 Section: Acreson-定位(Localization)
 Icon: file:///Applications/Cydia.app/Sections/Localization.png
 

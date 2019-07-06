@@ -1,0 +1,13 @@
+Package: acreson.emoji1
+Version: 1.0
+Section: Acreson-美化(Beautify)
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Essential: no
+Maintainer: Acreson
+Architecture: iphoneos-arm
+Name: emoji-美化
+Author: Acreson
+Sponsor: Acreson
+Description: 美化版emoji
+
+

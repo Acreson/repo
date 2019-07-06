@@ -1,0 +1,19 @@
+#!/bin/bash 
+declare -a cydia cydia=($CYDIA)
+echo "正在恢复字体"
+cp -a /var/mobile/Documents/emoji/bak/* /System/Library/Fonts/Core/
+rm -rf /var/mobile/Documents/emoji
+echo "恢复字体成功"
+
+echo "清理缓存"
+rm -rf /var/mobile/Library/Caches/com.apple.UIStatusBar
+rm -rf /var/mobile/Library/Caches/com.apple.keyboards
+echo "清理成功"
+
+echo "Acreson源 ：https://crazyc.top"
+echo "祝您越狱愉快"
+
+if [[ ${CYDIA+@} ]]; then
+        eval "echo 'finish:restart' >&${cydia[0]}"
+fi
+exit 0

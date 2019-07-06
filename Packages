@@ -512,6 +512,40 @@ Author: c0pyn1nja
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CrackerXI+ 砸壳工具
 
+Package: acreson.cracktool2
+Version: 2.3~beta9
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debs/acreson.cracktool2_2.3~beta9_iphoneos-arm.deb
+Size: 357036
+MD5sum: b7c3201e70d2648c244225617d7a1f15
+SHA1: 5aad35f0bed1fc74cf422a967d6d2e8b9852db70
+SHA256: 7a5b346951db4ac82adeb35521e53ae1baf727db0e99f479953cabf6fd79ac80
+Section: Acreson-工具(Utilities)
+Homepage: http://twitter.com/ijulioverne
+Description: IOS10破解注入工具
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CrackTool2 破解工具
+
+Package: acreson.cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/acreson.cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 143420
+MD5sum: cebdfd5299df7c6baa6ed876e2783a9e
+SHA1: a3fa35cef8ac409cfe1db2d1ad92029ff3567e30
+SHA256: 5cb3fac7584fa3d069e39e4cedde563957f4a49c41b8163c6d481ed0d406e6a4
+Section: Acreson-工具(Utilities)
+Homepage: http://twitter.com/ijulioverne
+Description: arm64设备调整工具 IOS11工具
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CrackTool3 (iOS 11) 破解工具
+
 Package: acreson.crash-reporter
 Version: 1.16.0-1
 Architecture: iphoneos-arm
@@ -638,6 +672,23 @@ Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 哆啦A梦 角标
 Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.emoji1
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Acreson
+Filename: ./debs/acreson.emoji1_1.0_iphoneos-arm.deb
+Size: 41146172
+MD5sum: 84389d3952d5b09e021604301f32cb0d
+SHA1: 5494f6b73335f95606a45ba5b49010b1d8f73139
+SHA256: a4c06b82d37336e8995936994aca1fb975edbac6fc698fe67318085fe96bd1c1
+Section: Acreson-美化(Beautify)
+Description: 美化版emoji
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: emoji-美化
+Sponsor: Acreson
 
 Package: acreson.ext3nder-installer
 Version: 021a
@@ -1246,6 +1297,23 @@ Dev: cpdigitaldarkroom
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Packages 插件数据显示
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: acreson.picobanners2
+Version: 0.0.1b2
+Architecture: iphoneos-arm
+Maintainer: Michele Primavera <support@dreamcode.it>
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/acreson.picobanners2_0.0.1b2_iphoneos-arm.deb
+Size: 19544
+MD5sum: 34d7d4dac783900a71997bc5e0081e89
+SHA1: 98d4c4686e5c6a139fc1377ec94813b2a7b29555
+SHA256: 24bfb7e3498e2fafd9bd8d1c6d5f33b4ce4cbaad7b844c135454a5cbfcb87866
+Section: Acreson-插件(Tweaks)
+Description: IOS11的迷你通知
+Author: Michele Primavera <support@dreamcode.it>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: PicoBanners 2 迷你通知(IOS11)
 
 Package: acreson.pipixiahook
 Version: 0.2.0
@@ -2646,6 +2714,27 @@ Depiction: https://synnygr.dev/AppTapp/installer.html
 Icon: file:///Applications/Cydia.app/Sections/Packaging.png
 Name: Installer 5 包管理器
 Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: org.ioshack.icontool
+Version: 1.9-7
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1712
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.rpetrich.iconrenamer
+Filename: ./debs/org.ioshack.icontool_1.9-7_iphoneos-arm.deb
+Size: 253956
+MD5sum: 74714bbb30c7cec82cd03947c274711a
+SHA1: db30700137681bdb5f520cf6a043c15f3955b9de
+SHA256: 0923e88217f6c6170160e398f959146363b5835d95d997d413065422e836a3e9
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Description: app tools menu from jiggle mode
+Author: ioshack <wsdhr1982@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Icon Tool 快捷工具
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: org.thebigboss.repo.icons
 Version: 1.2

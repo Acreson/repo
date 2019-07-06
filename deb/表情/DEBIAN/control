@@ -1,13 +1,12 @@
 Package: acreson.emoji1
-Version: 1.0
+Version: 1.1
 Section: Acreson-美化(Beautify)
 Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Essential: no
 Maintainer: Acreson
 Architecture: iphoneos-arm
-Name: emoji-美化
+Name: emoji-美化1
 Author: Acreson
 Sponsor: Acreson
-Description: 美化版emoji
-
-
+SileoDepiction:https://crazyc.top/ms/msxq/meihua1.json
+Description: 美化版emoji。安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化.

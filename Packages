@@ -674,20 +674,140 @@ Name: 哆啦A梦 角标
 Sponsor: Acreson <http://crazyc.top>
 
 Package: acreson.emoji1
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Essential: no
 Maintainer: Acreson
-Filename: ./debs/acreson.emoji1_1.0_iphoneos-arm.deb
-Size: 41146172
-MD5sum: 84389d3952d5b09e021604301f32cb0d
-SHA1: 5494f6b73335f95606a45ba5b49010b1d8f73139
-SHA256: a4c06b82d37336e8995936994aca1fb975edbac6fc698fe67318085fe96bd1c1
+Filename: ./debs/acreson.emoji1_1.1_iphoneos-arm.deb
+Size: 41149352
+MD5sum: d013444f15469f1bf5391498841bf27c
+SHA1: 81b8042e45565978058f83f3ce1f2221c5c3fba0
+SHA256: b59fecf985d331f032e935151fe0f2c80671900f6bf698b740125fe7349385e4
 Section: Acreson-美化(Beautify)
-Description: 美化版emoji
+Description: 美化版emoji直装版，不是工具版，安装自动备份，卸载自动还原。切记不可根工具同步使用。
 Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: emoji-美化
+Name: emoji-美化1 直装版
+Sponsor: Acreson
+
+Package: acreson.emojiandroidp
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Acreson
+Filename: ./debs/acreson.emojiandroidp_1.1_iphoneos-arm.deb
+Size: 40919484
+MD5sum: 9f34a0b8895f9740db77bf687e4ad7c1
+SHA1: 8bd438b60e36e6a5e468a280b2e35e24d158a319
+SHA256: be2709e9cb0ff38a6cd3c08e774220a18443d2faaa219b23afc69873c51f2dc3
+Section: Acreson-美化(Beautify)
+Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: emoji-Android-P 直装版
+Sponsor: Acreson
+
+Package: acreson.emojifacebook
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Acreson
+Filename: ./debs/acreson.emojifacebook_1.1_iphoneos-arm.deb
+Size: 53189732
+MD5sum: 5f34aa1565c03c77e41ff4af0b88b3d5
+SHA1: ecac756a799184f846e2f87084a22e12a0683cf4
+SHA256: c37a4a6a4588cb502d88003dcec6133851897635e5353af2c21d5ec0976b0cec
+Section: Acreson-美化(Beautify)
+Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: emoji-Facebook 直装版
+Sponsor: Acreson
+
+Package: acreson.emojifontmanager
+Version: 0.0.6-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 332
+Depends: mobilesubstrate, preferenceloader, com.ps.emojilibrary, firmware (>= 6.0), ws.hbang.common (>= 1.11.3)
+Filename: ./debs/acreson.emojifontmanager_0.0.6-1_iphoneos-arm.deb
+Size: 40216
+MD5sum: f4d505f0ef4d0b7ac605e61fafbbffb0
+SHA1: 67c2d7287a025f7397816ff6678275d24760161b
+SHA256: d33cc7c954009016dda3825f0e2fbeee067c1a6fcc155bd23d5ac8f1a48bdb86
+Section: Acreson-插件(Tweaks)
+Description: Emoji字体覆盖和管理。emoji表情路径：/Library/Themes/EmojiFontManager
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojifontmanager.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: EmojiFontManager emoji表情切换工具
+
+Package: acreson.emojione2019
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Acreson
+Filename: ./debs/acreson.emojione2019_1.1_iphoneos-arm.deb
+Size: 41149136
+MD5sum: acc9555c8e2cb51ef13f9fe17155c09f
+SHA1: 90ecdeaaadc938b1a0607d780eaddae010ed2623
+SHA256: 17bdc83b7c81681d60e48d17995beb740b94c657ac4b9f29681fb5e04240a93f
+Section: Acreson-美化(Beautify)
+Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: emoji-One2019 直装版
+Sponsor: Acreson
+
+Package: acreson.emojionedecal2019
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Acreson
+Filename: ./debs/acreson.emojionedecal2019_1.1_iphoneos-arm.deb
+Size: 51281244
+MD5sum: c8e3b717d793ead0c033d3aec1a58a0a
+SHA1: 19d0908f779df661599843742b5cd3d4e07e5f4f
+SHA256: 1f05a5f642791755cbe645ffd7afd5909d5f5526eb90fcd0864ceebeed2ab65f
+Section: Acreson-美化(Beautify)
+Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: emoji-One Decal 2019 直装版
+Sponsor: Acreson
+
+Package: acreson.emojisamsung
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Acreson
+Filename: ./debs/acreson.emojisamsung_1.1_iphoneos-arm.deb
+Size: 50964288
+MD5sum: f15dcb3add9ca8cf44853cbb6ab06c06
+SHA1: 9e9da785042f5d16008f9507a48108d0c6e863db
+SHA256: 648808de20a405f9a3efbd1b8fc683d3a268d7f94ae6b6a4f8e75efea8d4480d
+Section: Acreson-美化(Beautify)
+Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: emoji-Samsung 直装版
+Sponsor: Acreson
+
+Package: acreson.emojitwitter
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Acreson
+Filename: ./debs/acreson.emojitwitter_1.1_iphoneos-arm.deb
+Size: 33732392
+MD5sum: 185c5bdb38d7fd9f66816bc588dc27cc
+SHA1: 29a6f0e85b2999078dfcc44c8dd592cf654a58f2
+SHA256: c62eba509379aeba76ee41acb5e4e56711ba18cec335d9ca6f131377056ed16f
+Section: Acreson-美化(Beautify)
+Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: emoji-Twitter 直装版
 Sponsor: Acreson
 
 Package: acreson.ext3nder-installer

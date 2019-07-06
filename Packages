@@ -2237,6 +2237,23 @@ Author: 土拨鼠
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 抖音 Crack
 
+Package: acreson.topalkaline
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.topalkaline_1.4_iphoneos-arm.deb
+Size: 145620
+MD5sum: 3e49a24559bbb4d06b6c57cb0cc881d3
+SHA1: 3ee9d4c9c8767b3920c6970ca5b50357a0b92787
+SHA256: ed5a09f21f92cfe1df19c27bedb91151741134923b2d1879e8bf77c3abf050cd
+Section: Acreson-插件(Tweaks)
+Description: 3.5/4.0/4.7/5.5寸电池图标修改器
+Author: magn2o <magn2o@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Alkaline 电量图标修改器
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: acreson.transparentmusic
 Version: 0.0.1-2
 Architecture: iphoneos-arm

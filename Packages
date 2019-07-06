@@ -707,6 +707,21 @@ Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: emoji-Android-P 直装版
 Sponsor: Acreson
 
+Package: acreson.emojiandroidpfontefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: ./debs/acreson.emojiandroidpfontefm_1.0_iphoneos-arm.deb
+Size: 40921612
+MD5sum: 87a25443c156fbd58b912c67e0c45cee
+SHA1: c666e3934a82037a1de82a782848eba475cb39b7
+SHA256: 48e299c42100f54c683253cbdf5982f525572693cbac73a698394445170aedc0
+Section: Acreson-美化(Beautify)
+Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
+Author: PoomSmart & vXBaKeRXv
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: Emoji-Android P 工具版
+
 Package: acreson.emojifacebook
 Version: 1.1
 Architecture: iphoneos-arm
@@ -759,6 +774,21 @@ Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: emoji-One2019 直装版
 Sponsor: Acreson
 
+Package: acreson.emojione2019efm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: ./debs/acreson.emojione2019efm_1.0_iphoneos-arm.deb
+Size: 41147628
+MD5sum: aaf848a5d393434d7135bb18474fc42b
+SHA1: ccfd70f3e1fa96684547e023ab67dd531d4e57c5
+SHA256: c2b1c907187bb2ef44605c29edc652dfc6dcaf51d16ce6908bef354c43cbee64
+Section: Acreson-美化(Beautify)
+Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
+Author: PoomSmart & vXBaKeRXv
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: Emoji-One 2019 工具版
+
 Package: acreson.emojionedecal2019
 Version: 1.1
 Architecture: iphoneos-arm
@@ -775,6 +805,21 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: emoji-One Decal 2019 直装版
 Sponsor: Acreson
+
+Package: acreson.emojionedecal2019efm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: ./debs/acreson.emojionedecal2019efm_1.0_iphoneos-arm.deb
+Size: 51279564
+MD5sum: a8236f6c09db318a04fafd3adf3c514c
+SHA1: c05c953ad6c6337a2906e1cbb944305708de470d
+SHA256: ade67f34b7e0c626ebe360fbc4d49285e8662ff630df4ec46777b3fb31c991e3
+Section: Acreson-美化(Beautify)
+Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
+Author: PoomSmart & vXBaKeRXv
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: Emoji-One Decal 2019 工具版
 
 Package: acreson.emojisamsung
 Version: 1.1
@@ -793,6 +838,21 @@ Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: emoji-Samsung 直装版
 Sponsor: Acreson
 
+Package: acreson.emojisamsungefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: ./debs/acreson.emojisamsungefm_1.0_iphoneos-arm.deb
+Size: 50962628
+MD5sum: a0e1534719a7cc18126420ba070cd110
+SHA1: 0ce2e5a307eb85c7804f76c2759f29328f9abb02
+SHA256: 3c6b35fb19c606cfe0710937449f128da489c163ee269db165674034540086b3
+Section: Acreson-美化(Beautify)
+Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
+Author: PoomSmart & vXBaKeRXv
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: Emoji-Samsung 工具版
+
 Package: acreson.emojitwitter
 Version: 1.1
 Architecture: iphoneos-arm
@@ -809,6 +869,21 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: emoji-Twitter 直装版
 Sponsor: Acreson
+
+Package: acreson.emojitwitterfontefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: ./debs/acreson.emojitwitterfontefm_1.0_iphoneos-arm.deb
+Size: 33730560
+MD5sum: dad89dac8df53a737ee6de82ace33f16
+SHA1: b21770f6f2e3eff82c0901cfd51177c0238b967a
+SHA256: bb5a73ff6c59adb14ae5b062a32fa3a7db5671f0f5b29541bbd3d8575486ae58
+Section: Acreson-美化(Beautify)
+Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
+Author: PoomSmart & vXBaKeRXv
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: Emoji-Twitter 工具版
 
 Package: acreson.ext3nder-installer
 Version: 021a
@@ -2483,6 +2558,21 @@ Description: 在某些应用程序中禁用微调注入(Substrate/Substitute)。
 Author: Nepeta
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: UnSub 屏蔽越狱+禁止注入
+
+Package: cacreson.emojifacebookefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: ./debs/cacreson.emojifacebookefm_1.0_iphoneos-arm.deb
+Size: 53188696
+MD5sum: d8406056590298c9f3b76d7303d3121f
+SHA1: d0278def624ecdd597149653443d72528f99129b
+SHA256: 92f460009b06aed2c6ca215932406821140e4afe5c6f639fd3777d0c80c3cedb
+Section: Acreson-美化(Beautify)
+Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
+Author: PoomSmart & vXBaKeRXv
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: Emoji-Facebook 工具版
 
 Package: com.ShadowStonk.jw.SailyInstaller
 Version: 0.1.5

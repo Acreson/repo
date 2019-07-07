@@ -272,6 +272,24 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.blocksimalert
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Ken
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/acreson.blocksimalert_1.0.0-3_iphoneos-arm.deb
+Size: 2904
+MD5sum: 4a24a9b3b16ea054cb5a78c29ec9bd0b
+SHA1: a7fc4dff0835af10723bbc9529e0fa6afd89a736
+SHA256: e1e2950f6e2b60486fe330b0817159e159e6b90f382b63c99d5b1b2aa8c1d1a3
+Section: Acreson-插件(Tweaks)
+Description: 去掉无SIM警报
+Author: Ken
+Depiction: https://kkyuen.github.io/repo/depictions/?p=com.ken.blocksimalert
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: BlockSIMAlert 去SIM提示
+
 Package: acreson.brickfix
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -689,6 +707,24 @@ Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 哆啦A梦 角标
 Sponsor: Acreson <http://crazyc.top>
+
+Package: acreson.douyinAutoNext
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ken <yuenkinken@icloud.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/acreson.douyinautonext_1.0.0_iphoneos-arm.deb
+Size: 3944
+MD5sum: 2bc740b58739982954a561d970ab730a
+SHA1: 9b0449d84bc05d5b7d7b6115c31f6ad5bbbc6e58
+SHA256: b6cb45b9dac223fdf1839549a22b3672b341aa698497a8be49c5b72ab0fd66a5
+Section: Acreson-增强(Enhance)
+Description: 抖音首页自动播放下一视频
+Author: Ken <yuenkinken@icloud.com>
+Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.douyinautonext
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: douyinAutoNext 抖音自动播放下一个
 
 Package: acreson.emoji1
 Version: 1.1
@@ -2378,6 +2414,24 @@ Dev: thuthuatjb
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VCaller Screen 通话视频背景
 
+Package: acreson.videodownloadercn
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Ken <yuenkinken@icloud.com>
+Installed-Size: 1000
+Depends: mobilesubstrate
+Filename: ./debs/acreson.videodownloadercn_1.2.1_iphoneos-arm.deb
+Size: 265212
+MD5sum: 14236e2fd64a4cc0cea81352dfa92c90
+SHA1: e46256016e6fd874bf55729e70ecc88c8b291ed7
+SHA256: b2b8f65bc7c6244c15bad1f3c5ed8c3532c293f8cffd773ebf819c73e740e927
+Section: Acreson-插件(Tweaks)
+Description: 允许App内短视频下载保存到本地
+Author: Ken <yuenkinken@icloud.com>
+Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.videodownloadercn
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.pngVideoDownloaderIcon.png
+Name: VideoDownloaderCN 视频下载工具
+
 Package: acreson.videohelper
 Version: 2.1.0
 Architecture: iphoneos-arm
@@ -3063,6 +3117,24 @@ Size: 5888230
 MD5sum: 85bc9e1fed4a08b16507dd74f57f48e5
 SHA1: b571c050ef228fdbe9ab92d2cfd98b307c90ff1c
 SHA256: 308677cf1f10fc671b45545539927d4a4978cb475c6f4560582ee2699d186888
+Section: Acreson-安装包(Packages)
+Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
+Tag: purpose::x
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: 斑马 包管理器(汉化)
+
+Package: xyz.willy.zebra
+Version: 1.0~beta16-7+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 17300
+Depends: dpkg
+Filename: ./debs/xyz.willy.zebra_1.0~beta16-7+debug_iphoneos-arm.deb
+Size: 5888078
+MD5sum: 09baf6bb665e577daa8db70f711b5379
+SHA1: 35e726d26626f5c05ae4722088106834dcb02a01
+SHA256: 25b362f5a1ed8b772b73a4e72caf0cbd62b87b9fb3926c88fc7b6176c2b92aca
 Section: Acreson-安装包(Packages)
 Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x

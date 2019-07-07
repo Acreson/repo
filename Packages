@@ -761,18 +761,36 @@ Version: 0.0.6-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 332
-Depends: mobilesubstrate, preferenceloader, com.ps.emojilibrary, firmware (>= 6.0), ws.hbang.common (>= 1.11.3)
+Depends: mobilesubstrate, preferenceloader, acreson.emojilibrary, firmware (>= 6.0), ws.hbang.common (>= 1.11.3)
 Filename: ./debs/acreson.emojifontmanager_0.0.6-1_iphoneos-arm.deb
-Size: 40216
-MD5sum: f4d505f0ef4d0b7ac605e61fafbbffb0
-SHA1: 67c2d7287a025f7397816ff6678275d24760161b
-SHA256: d33cc7c954009016dda3825f0e2fbeee067c1a6fcc155bd23d5ac8f1a48bdb86
+Size: 40212
+MD5sum: 942b4bcd2aa73de1934c9a4842fb0e35
+SHA1: dafa71238ac31df3ceadaeb3bab1a3d073446bca
+SHA256: e6062baded8470818ddb32ba79a46d85e54447e5d68a3e364cb7fdc42ce96031
 Section: Acreson-插件(Tweaks)
 Description: Emoji字体覆盖和管理。emoji表情路径：/Library/Themes/EmojiFontManager
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/emojifontmanager.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: EmojiFontManager emoji表情切换工具
+
+Package: acreson.emojilibrary
+Version: 1.0.18.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 536
+Filename: ./debs/acreson.emojilibrary_1.0.18.2_iphoneos-arm.deb
+Size: 48404
+MD5sum: 1507dab41cffe3ae7ee31c68a6c05c2d
+SHA1: 77d2be070c1bb9130540d43ff055d691dc039aad
+SHA256: 35577021ba83e3007d83293c0bf7cc95e8b212966d84b392cf4c6f30b64102a1
+Section: Acreson-依赖(Depends)
+Description: emoji表情主要加载库.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: EmojiLibrary 表情加载库
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
 
 Package: acreson.emojione2019
 Version: 1.1

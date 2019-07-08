@@ -3071,70 +3071,16 @@ Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: BigBoss Icon Set
 
 Package: xyz.willy.zebra
-Version: 1.0~beta16-4+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & CrazyHipHop
-Installed-Size: 17300
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta16-4+debug_iphoneos-arm.deb
-Size: 5887382
-MD5sum: f9b1871be2a3ed67290227bba364f3e6
-SHA1: ee41461248409cf10acc26e9d09276b13c6b313f
-SHA256: 2cdca066940e1e8f5510de4f22880e8a91ca6199adb4982dcf2d0ec50946de5d
-Section: Acreson-安装包(Packages)
-Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
-Author: Wilson Styres & CrazyHipHop
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
-
-Package: xyz.willy.zebra
-Version: 1.0~beta16-5+debug
+Version: 1.0~beta17-1+debug
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres & Acreson
-Installed-Size: 17300
+Installed-Size: 17648
 Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta16-5+debug_iphoneos-arm.deb
-Size: 5887816
-MD5sum: a4169810f4e2415c615c5eb3494c884e
-SHA1: 5442c44d18f920142013a6af411220a3f177b081
-SHA256: a1046c9f376191f953f2fd7ec952ac8ef52a3e0f9759b2363d86639cc89371a9
-Section: Acreson-安装包(Packages)
-Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
-
-Package: xyz.willy.zebra
-Version: 1.0~beta16-6+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 17300
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta16-6+debug_iphoneos-arm.deb
-Size: 5888230
-MD5sum: 85bc9e1fed4a08b16507dd74f57f48e5
-SHA1: b571c050ef228fdbe9ab92d2cfd98b307c90ff1c
-SHA256: 308677cf1f10fc671b45545539927d4a4978cb475c6f4560582ee2699d186888
-Section: Acreson-安装包(Packages)
-Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
-
-Package: xyz.willy.zebra
-Version: 1.0~beta16-7+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 17300
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta16-7+debug_iphoneos-arm.deb
-Size: 5888078
-MD5sum: 09baf6bb665e577daa8db70f711b5379
-SHA1: 35e726d26626f5c05ae4722088106834dcb02a01
-SHA256: 25b362f5a1ed8b772b73a4e72caf0cbd62b87b9fb3926c88fc7b6176c2b92aca
+Filename: ./debs/xyz.willy.zebra_1.0~beta17-1+debug_iphoneos-arm.deb
+Size: 6360164
+MD5sum: 887cb30939784c0f3c443e344328066d
+SHA1: ad8a991e78d20a16c7015877d7dcf942b5108b20
+SHA256: d64e11393a8da0de847b445bb7f490b417b931e26fdeef3bdcca3ea170b6e707
 Section: Acreson-安装包(Packages)
 Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x

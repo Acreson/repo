@@ -2498,15 +2498,15 @@ Maintainer: Ken <yuenkinken@icloud.com>
 Installed-Size: 1000
 Depends: mobilesubstrate
 Filename: ./debs/acreson.videodownloadercn_1.2.1_iphoneos-arm.deb
-Size: 265212
-MD5sum: 14236e2fd64a4cc0cea81352dfa92c90
-SHA1: e46256016e6fd874bf55729e70ecc88c8b291ed7
-SHA256: b2b8f65bc7c6244c15bad1f3c5ed8c3532c293f8cffd773ebf819c73e740e927
+Size: 265064
+MD5sum: 6bce82f62590e1d02aeb572fe19e9ed8
+SHA1: 7cf7f50a853c2983731ca791107ee2966a1e7788
+SHA256: ff90eb0d2007a93133e091acea008b857a433f6d9f354ff8fe24add812ff7308
 Section: Acreson-插件(Tweaks)
 Description: 允许App内短视频下载保存到本地
 Author: Ken <yuenkinken@icloud.com>
 Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.videodownloadercn
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.pngVideoDownloaderIcon.png
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VideoDownloaderCN 视频下载工具
 
 Package: acreson.videohelper

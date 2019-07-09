@@ -2450,15 +2450,15 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.pngVideoDownloaderIcon.png
 Name: VideoDownloaderCN 视频下载工具
 
 Package: acreson.videohelper
-Version: 2.1.0
+Version: 2.2.0
 Architecture: iphoneos-arm
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/acreson.videohelper_2.1.0_iphoneos-arm.deb
-Size: 120280
-MD5sum: 88b0ef93d838bccac1d300e4c7e24868
-SHA1: 0f613d4093ab80053813a5ffaad25780dc4cdd4e
-SHA256: 11df65c6780edf07a546e75bbb01aed20eced15715fe48d560907adc48c2c957
+Filename: ./debs/acreson.videohelper_2.2.0_iphoneos-arm.deb
+Size: 130768
+MD5sum: ba1decc622405123c1e7a72a21933907
+SHA1: a5c44ae865d8364ea0110be85e8bbe0f14366c88
+SHA256: d93f0d952b359f2f24b589d6c4da9c494d0ea0184aec58f3995565cf8b2fe100
 Section: Acreson-插件(Tweaks)
 Description: 视频免广告多功能助手·Video Removal
 Author: iBreak <ibreak2019@qq.com>

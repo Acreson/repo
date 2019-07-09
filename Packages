@@ -400,23 +400,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CCDataMore 数据开关
 
 Package: acreson.cloudmusichook
-Version: 1.0-2+debug
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 148
-Depends: mobilesubstrate
-Filename: ./debs/acreson.cloudmusichook_1.0-2+debug_iphoneos-arm.deb
-Size: 11428
-MD5sum: 4a0b82f300d112246eac21dfef3cf5ea
-SHA1: 4ace36c814c1839793420b3b917e7c70be93408e
-SHA256: 30b8f874cf1b00b93802d2b29499862051e4ff683f0e22edca52d12fd66e82a0
-Section: Acreson-增强(Enhance)
-Description: 打开开关后，每次打开歌单，会对VIP的音乐获取播放地址，过几分钟后点击下载就能下载所有VIP音乐，不用先听才能下载，不用播一次下载一次2秒会获取一次vip地址，状态栏左上角会转圈，没有转圈时地址就全部获取了，可以点下载了
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: CloudMusic Crack 某云玩具
-
-Package: acreson.cloudmusichook
 Version: 1.0-3+debug
 Architecture: iphoneos-arm
 Maintainer: Acreson

@@ -380,6 +380,25 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Camera Crap(A12) 相机增强
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.ccdatamore
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 198
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Filename: ./debs/acreson.ccdatamore_1.0-3_iphoneos-arm.deb
+Size: 9148
+MD5sum: c038efdd42f0a7d251ba142d5cbec483
+SHA1: 8c83f4c93bdfc3545505fa68542335f04135ae8d
+SHA256: 6020a6d4dd6a897f99b7e6cbf7196a5a581c2111d904ca3ce96c4b32f1be8a4e
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccdatamoreDp
+Description: 控制中心3D touch蜂窝数据 切换2/3/4G
+Author: Lizynz <Lizynz@yandex.ru>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccdatamoreDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: CCDataMore 数据开关
+
 Package: acreson.cloudmusichook
 Version: 1.0-2+debug
 Architecture: iphoneos-arm

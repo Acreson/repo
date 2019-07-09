@@ -1115,12 +1115,12 @@ Version: 2.0.9-16
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 4920
-Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, applist,firmware(<=11.4.1)
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, applist, firmware(<= 11.4.1)
 Filename: ./debs/acreson.flexible11_2.0.9-16_iphoneos-arm.deb
-Size: 513964
-MD5sum: 70d59a2e769cc454d971ce9a62f704cf
-SHA1: a6739c83a155c23242ad8ebb8dacebbcd472f5c2
-SHA256: dff5cac1351c4dd1001f42ff4708d9675aa8e6db54c724e94cfdb45253c6f188
+Size: 513676
+MD5sum: b737f374219df387720bf3d6029bb7f1
+SHA1: f8c0d84dea374b490ab2ae4b4de01beaa2eb0962
+SHA256: f2ad7de59f987aa1a5113fae1857f1883c41d7a0b1857d11725326386f76edad
 Section: Acreson-开发(Development)
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexibleDp
 Description: FLEX调试工具(ELectra)

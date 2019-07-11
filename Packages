@@ -765,24 +765,6 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 哆啦A梦 角标
 Sponsor: Acreson <http://crazyc.top>
 
-Package: acreson.douyinAutoNext
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Ken <yuenkinken@icloud.com>
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/acreson.douyinautonext_1.0.0_iphoneos-arm.deb
-Size: 3944
-MD5sum: 2bc740b58739982954a561d970ab730a
-SHA1: 9b0449d84bc05d5b7d7b6115c31f6ad5bbbc6e58
-SHA256: b6cb45b9dac223fdf1839549a22b3672b341aa698497a8be49c5b72ab0fd66a5
-Section: Acreson-增强(Enhance)
-Description: 抖音首页自动播放下一视频
-Author: Ken <yuenkinken@icloud.com>
-Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.douyinautonext
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: douyinAutoNext 抖音自动播放下一个
-
 Package: acreson.emoji1
 Version: 1.1
 Architecture: iphoneos-arm

@@ -1409,6 +1409,23 @@ Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: King's Raid Crack 王之逆袭 破解
 
+Package: acreson.krpubg
+Version: 0.13.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: X204
+Installed-Size: 1172
+Depends: mobilesubstrate
+Filename: ./debs/acreson.krpubg_0.13.0-1+debug_iphoneos-arm.deb
+Size: 378000
+MD5sum: 6376b1afa7bc9231f163d87751c0af56
+SHA1: 5160c7a313c5ce54260305031a7be87554f8dc08
+SHA256: 44dac949c2c22fd50e664b9a5b0ce2f934658acc52c441535855c31c6947996e
+Section: Acreson-游戏(Games)
+Description: 神奇的菜单自己测
+Author: X204
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG MOBILE Mod Menu 刺激战场日韩服修改菜单
+
 Package: acreson.kuwoyinyue
 Version: 6.0
 Architecture: iphoneos-arm

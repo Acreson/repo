@@ -1599,6 +1599,22 @@ Author: 带土&长生果子
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Mahua Crack 麻花播放器破解
 
+Package: acreson.moveable9
+Version: 1.0.0~beta29-29
+Architecture: iphoneos-arm
+Maintainer: \Acreson
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.moveable9_1.0.0~beta29-29_iphoneos-arm.deb
+Size: 198612
+MD5sum: e049353689eb186fdd118498cb1a8ce0
+SHA1: 23cba9aab2376e063a8f784e5bd3d0176f04acc2
+SHA256: 5fd35c239ef63e9652586f4a8beda7d30a5e8ddd9941972e25c88cf17d69652f
+Section: Acreson-插件(Tweaks)
+Description: Moveable9 汉化版，一款自定义状态栏图标位置与距离的老牌插件。完善插件内简体中文(最大程度)!自己用9-11系统也可以用。汉化:ball
+Author: Josh Harris (tateu) <tateu@tateu.net>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Moveable9 汉化版(自用)
+
 Package: acreson.netfixtools
 Version: 1.0.1
 Architecture: iphoneos-arm

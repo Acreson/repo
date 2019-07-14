@@ -396,6 +396,26 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: ByeBreadcrumbs 去左上角返回APP按钮
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.callkiller
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 5121
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/acreson.callkiller_1.5.2_iphoneos-arm.deb
+Size: 824732
+MD5sum: 3d6ce07fd06fb34663d03cea49a70ece
+SHA1: 745c7fa068665210e5348accb37a6d8968e49c05
+SHA256: a949a190c12a73f9a671deb18af117f446a6d8658eb7777764102a6fb0356fff
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callkillerDp
+Description: 消灭烦人的垃圾电话，编译修改支持A12
+Author: laoyur <admin@laoyur.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callkillerDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: CallKiller 拦截神器
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.cc12
 Version: 1.0
 Architecture: iphoneos-arm

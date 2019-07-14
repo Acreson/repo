@@ -1632,6 +1632,25 @@ Author: Josh Harris (tateu) <tateu@tateu.net>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Moveable9 汉化版(自用)
 
+Package: acreson.musilyric
+Version: 0.5~beta7b-3+debug
+Architecture: iphoneos-arm
+Maintainer: Julio
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/acreson.musilyric_0.5~beta7b-3+debug_iphoneos-arm.deb
+Size: 30408
+MD5sum: c4fcc11630af1abc90e7584a6d8c5c98
+SHA1: 1653d4ef19475d3919d0c63b71e4dfd44876c3c2
+SHA256: 1b6a1827c419da77153509aa09d7f9abe8c7fb2cc3e6aa96de39f4cc1826032c
+Section: Acreson-增强(Enhance)
+Homepage: http://twitter.com/ijulioverne
+Description: 获取音乐.spotify.TIDAL.Pandora和lockScreen的歌词，在北京中获取最佳性能，歌词才有私有api库
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.musilyric
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: MusiLyric 音乐歌词增强
+
 Package: acreson.netfixtools
 Version: 1.0.1
 Architecture: iphoneos-arm

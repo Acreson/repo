@@ -272,6 +272,42 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.backgrounderaction11
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 72
+Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
+Filename: ./debs/acreson.backgrounderaction11_0.0.8_iphoneos-arm.deb
+Size: 9536
+MD5sum: f203f221b99ae66bd2dd2596adb25cbb
+SHA1: ca3de268ea60f9ff0761304f4c04252ee3bf0055
+SHA256: 049def6ecbde08c582c17ebe5e965addf9d28baeada1536d67d27fc12c88ff5b
+Section: Acreson-插件(Tweaks)
+Description: *添加“切换背景模式”的行动，以激活。
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction/index.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Backgrounder Action 真后台
+
+Package: acreson.backgrounderaction12
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 276
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/acreson.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Size: 12740
+MD5sum: dd09a32accc81dce37f6dddbd2cba5a3
+SHA1: 1d3f763b51c62e121c0926976d9832be39a4e58a
+SHA256: c549ce3ef1900fc142a462c23b6c799bb58fdc8a7a2686b53422b538bbc8a42f
+Section: Acreson-插件(Tweaks)
+Description: 将“切换背景模式”动作添加到控制中心。
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: BackgrounderAction for CCSupport 真后台组件
+
 Package: acreson.bfdecrypt
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -1671,6 +1707,24 @@ Description: 解锁麻花播放器会员权限，去除广告，允许下载视�
 Author: 带土&长生果子
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Mahua Crack 麻花播放器破解
+
+Package: acreson.milkyway
+Version: 0.1.4beta
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 208
+Depends: mobilesubstrate, acreson.backgrounderaction11 | acreson.backgrounderaction12
+Filename: ./debs/acreson.milkyway_0.1.4beta_iphoneos-arm.deb
+Size: 30660
+MD5sum: a60665fb1cc58ba1f2bb20a0ec59b2ed
+SHA1: 203fe5a35000c34a4452f6f40089ebe50cf936ae
+SHA256: 63fe42274da2b7c313e5e4e6642a1cad146a364973f48cf56f103a33cab893be
+Section: Acreson-插件(Tweaks)
+Description: IOS多任务分屏
+Author: akusio <akusio-report@neko2.net>
+Depiction: http://akusio.github.io/descriptions/milkyway/index.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: MilkyWay 快捷分屏
 
 Package: acreson.moveable9
 Version: 6.6.6

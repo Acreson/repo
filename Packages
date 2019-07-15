@@ -1166,6 +1166,25 @@ Dev: shmoopi
 Icon: file:///Applications/Cydia.app/Sections/Development.png
 Name: FLEXible Flex调试工具(IOS11Electra)
 
+Package: acreson.ft
+Version: 0.0.6b2
+Architecture: iphoneos-arm
+Maintainer: Angelacc <admin@ccydia.com>
+Installed-Size: 257
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Conflicts: it.dreamcode.ft, apt.cydiaba.touch, com.abcydia.ft, aptso.cn.ft, aptso.cn.fingertouch, app.weiphone.virtualhome8, com.w00tylab.virtualhome8, com.cydiaapp.virtualhome8, com.wxbts.virtualhome, com.abcydia.virtualhome8, aptso.cn.virtualhome8, app.weiphone.touchr, com.clezz.touchr, com.wxhbts.touchr, com.cydiaapp.touchr, com.abcydia.touchr, apt.cydiaba.touchr, apt.cydiaba.cntouchr, aptso.cn.touchr, com.repo.xarold.com.touchr, com.hackyouriphone.touchr, com.yourepo.kiiimo.ft2, com.yourepo.kiiimo.ft, apt.cydiaba.
+Filename: ./debs/acreson.ft_0.0.6b2_iphoneos-arm.deb
+Size: 20112
+MD5sum: 016c12ddbc8b8aa5916f9baa7891dc41
+SHA1: 3e361bf78c83a0346cc980b3f439fc680120c825
+SHA256: 6a8388df99f3658a1e791a4d2d5bdbb9b77950f117c47d02ed5502cca2eb0560
+Section: Acreson-插件(Tweaks)
+Description: FingerTouch 老牌指纹触控
+Author: Michele Primavera <support@dreamcode.it>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: FingerTouch 指纹触控
+Sponsor: Ccydia <admin@ccydia.com>
+
 Package: acreson.gba4ios
 Version: 2.1.6
 Architecture: iphoneos-arm

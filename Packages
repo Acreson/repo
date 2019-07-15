@@ -1291,6 +1291,23 @@ Author: iBreak
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Hide Separator 隐藏分割线
 
+Package: acreson.homegesture
+Version: 1.78
+Architecture: iphoneos-arm
+Maintainer: Ccydia <admin@ccydia.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Filename: ./debs/acreson.homegesture_1.78_iphoneos-arm.deb
+Size: 81032
+MD5sum: 9ee492e8292d6b31e734d286fb05e14d
+SHA1: b881eb0b86409729aefc427a4a05c0605e477e02
+SHA256: 2c3de05019d3a070f1e1697ff29a7ab5164c96af05636070b691c4f4eae752e1
+Section: Acreson-插件(Tweaks)
+Description: 安装后前往手机设置相关功能的设置，此版本修复了已知的微信消息误触和锁屏界面问题
+Author: VitaTaf/MidnightChips/PINPAL
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: HomeGesture 全能手势修复版
+Sponsor: Acreson
+
 Package: acreson.imagecorrect
 Version: 0.1
 Architecture: iphoneos-arm

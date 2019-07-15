@@ -277,12 +277,12 @@ Version: 0.0.8
 Architecture: iphoneos-arm
 Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 72
-Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
+Depends: mobilesubstrate, libactivator (>= 1.9.13~beta2), Firmware(>= 11.0)
 Filename: ./debs/acreson.backgrounderaction11_0.0.8_iphoneos-arm.deb
-Size: 9536
-MD5sum: f203f221b99ae66bd2dd2596adb25cbb
-SHA1: ca3de268ea60f9ff0761304f4c04252ee3bf0055
-SHA256: 049def6ecbde08c582c17ebe5e965addf9d28baeada1536d67d27fc12c88ff5b
+Size: 9532
+MD5sum: 22a2fd087c7e82708061a8b8dcfd7c2d
+SHA1: ec73091722bcd8e2fcd3f4177f81ab4168e68776
+SHA256: c18acd6b760eaa9345ea5a7b26e55f275ab3ecc5c9b6e2890ebaedd5526e916a
 Section: Acreson-插件(Tweaks)
 Description: *添加“切换背景模式”的行动，以激活。
 Author: akusio <akusio-report@neko2.net>
@@ -344,23 +344,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: BlockSIMAlert 去SIM提示
 
 Package: acreson.brickfix
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Muirey03
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/acreson.brickfix_1.0.0_iphoneos-arm.deb
-Size: 4804
-MD5sum: a562404effd133373e9df379a6f43f55
-SHA1: 56370e98db23f6c6d5ea5d51b55df6d33167715e
-SHA256: 73cf98c3c282f6b874e2e1ac718d76aec204259d38d9c34dd6e7bf70859d237a
-Section: Acreson-插件(Tweaks)
-Description: 修复iMessage可以让你手机变砖的BUG.
-Author: Muirey03
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: BrickFix 修复iMessage无限重启
-
-Package: acreson.brickfix
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Muirey03
@@ -376,23 +359,6 @@ Description: 修复iMessage可以让你手机变砖的BUG.
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: BrickFix 修复iMessage无限重启
-
-Package: acreson.bundleidsxii
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: TD, mass1ve_err0r
-Installed-Size: 1044
-Depends: applist
-Filename: ./debs/acreson.bundleidsxii_2.0_iphoneos-arm.deb
-Size: 47072
-MD5sum: 01a8461161d04714d8436ff5f2cdbefc
-SHA1: c615500ac92226dbfce0a4bab72f2d6660b4ecd9
-SHA256: 401233441d344334c46b524a95088a2dba23924a7274a70daa8ef12ebc28146c
-Section: Acreson-工具(Utilities)
-Description: 快速显示所有应用标识符，完美支持A12。
-Author: TD
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: BundleIDsXII 标识符工具
 
 Package: acreson.bundleidsxii
 Version: 2.0.1
@@ -3324,24 +3290,6 @@ Multi-Arch: foreign
 Description: locally cached package icons from BigBoss
 Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: BigBoss Icon Set
-
-Package: xyz.willy.zebra
-Version: 1.0~beta17-3+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 17648
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta17-3+debug_iphoneos-arm.deb
-Size: 6360964
-MD5sum: f4433e6bc7258165efa97344e75fb5aa
-SHA1: 8521b596cafd1c2d64f29c9d1eed57b4eb9fe1a1
-SHA256: 327537d37f8608ca26bf9c000d6e55d9e194a8390430d83bea44ef5bd94ce9a3
-Section: Acreson-安装包(Packages)
-Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。CrazyHipHop提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
 
 Package: xyz.willy.zebra
 Version: 1.0~beta18-1+debug

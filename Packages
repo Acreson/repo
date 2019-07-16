@@ -1679,12 +1679,12 @@ Version: 0.1.4beta
 Architecture: iphoneos-arm
 Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 208
-Depends: mobilesubstrate, acreson.backgrounderaction11 | acreson.backgrounderaction12
+Depends: mobilesubstrate, acreson.backgrounderaction11, acreson.backgrounderaction12
 Filename: ./debs/acreson.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 30660
-MD5sum: a60665fb1cc58ba1f2bb20a0ec59b2ed
-SHA1: 203fe5a35000c34a4452f6f40089ebe50cf936ae
-SHA256: 63fe42274da2b7c313e5e4e6642a1cad146a364973f48cf56f103a33cab893be
+Size: 30652
+MD5sum: 7fba392c716c04a5c0854946453b862d
+SHA1: 4108fea364d8f98857b633ab5e14175fa7d1afdf
+SHA256: 6f302071eda92c64405ae07a7aeb49efbe08a80be11ca4f9729e19fa9104a29c
 Section: Acreson-插件(Tweaks)
 Description: IOS多任务分屏
 Author: akusio <akusio-report@neko2.net>

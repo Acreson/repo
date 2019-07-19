@@ -1796,6 +1796,28 @@ Author: iggvip
 Icon: file:///Applications/Cydia.app/Sections/Networking.png
 Name: NetFixTools网络访问权限修复工具
 
+Package: acreson.newterm2
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 2200
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.2.1-1), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Filename: ./debs/acreson.newterm2_2.1_iphoneos-arm.deb
+Size: 745360
+MD5sum: ae609d8d16db933e5708441936d5cb00
+SHA1: 38c9d2a5782a1f2c11db4c7fd0f12ab4fcfbc76c
+SHA256: 7b0418ff1ce3c70447a8c052e098c9121f2d989389cf7bd26ca6d7beae64dd72
+Section: Acreson-工具(Utilities)
+Description: iOS 7-12 终端机
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://repo.chariz.io/package/ws.hbang.newterm2/
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: NewTerm 2 终端
+Sponsor: thebigboss.org <http://thebigboss.org>
+Support: https://hbang.ws/support/
+
 Package: acreson.otrlocation
 Version: 5.5.1
 Architecture: iphoneos-arm

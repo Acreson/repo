@@ -1729,6 +1729,22 @@ Depiction: http://akusio.github.io/descriptions/milkyway/index.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: MilkyWay 快捷分屏
 
+Package: acreson.miui8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.miui8_1.0_iphoneos-arm.deb
+Size: 1043068
+MD5sum: 145b06213c8c5cadb0a2bd1354b5a8c0
+SHA1: b4d73a572912ffa3e23964ef8c93471efb5b65d7
+SHA256: 1ded3e48fa23a3d6f92010f240d906531d0766363a9039c08ef3ce977158856e
+Section: Acreson-主题(Themes)
+Description: MIUI8 主题
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: MIUI8 主题
+Sponsor: Acreson <http://crazyc.top>
+
 Package: acreson.moveable9
 Version: 6.6.6
 Architecture: iphoneos-arm

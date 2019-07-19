@@ -2177,6 +2177,23 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: Rupii 主题
 Sponsor: Acreson <342080124@qq.com>
 
+Package: acreson.screendump
+Version: 0.0.2-4+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 3208
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.screendump_0.0.2-4+debug_iphoneos-arm.deb
+Size: 1293554
+MD5sum: 0507e6dc304a0c3357f8230b62587004
+SHA1: af79fe85575da9c8a3ae36ab5d4c22d6487a0f4b
+SHA256: 12ddb020735b8acc86f40024d4664a4693c92abad4876fc20836b2630f801b9d
+Section: Acreson-插件(Tweaks)
+Description: VNC服务应用于IOS，原理同Veency,用过的老越狱玩家都知道,闲人勿装后果自负
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: ScreenDump VNC服务
+
 Package: acreson.semirestore11
 Version: 1.1.2-1
 Architecture: iphoneos-arm

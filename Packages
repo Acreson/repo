@@ -733,6 +733,27 @@ Author: K_K
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Crowd City Cheats 拥挤城市 破解
 
+Package: acreson.cylinder
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 899
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/acreson.cylinder_1.0.7_iphoneos-arm.deb
+Size: 255548
+MD5sum: c063ba495eba45946deabb239b14a9b2
+SHA1: c51cbe439ab603f4e0444fdfe4e6c6111acb548b
+SHA256: a499831df96be3523d1a77d97d292efd1de353e4c7e81f75264d2075c7ba90d2
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Description: 图标转动特效，测试编译中，仅限IOS11+安装
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Dev: rweichler
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Cylinder 图标特效
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.datameter
 Version: 1.4-3
 Architecture: iphoneos-arm

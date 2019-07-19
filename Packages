@@ -272,6 +272,22 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.astral
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.astral_1.0_iphoneos-arm.deb
+Size: 844
+MD5sum: 7a2a72196cec7128b23b3cc6418f93c9
+SHA1: cc051b07b0737275f5e3e622583c22f6afec84bc
+SHA256: b8a5e51f0fb6dd9c171ba685d853021e450f79654f154d335d8d34221c5427f8
+Section: Acreson-主题(Themes)
+Description: iOS4 主题风格 回忆逝去的青葱岁月
+Author: frenchitouch
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: Astral 主题
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.backgrounderaction11
 Version: 0.0.8
 Architecture: iphoneos-arm
@@ -2129,6 +2145,22 @@ Dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision 签名工具
 
+Package: acreson.rupii
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.rupii_1.0_iphoneos-arm.deb
+Size: 40934980
+MD5sum: 4efc474ab0247b0ee8c82a3553436852
+SHA1: bbf49b313232ab1b70e1b84c7e12e438d405be54
+SHA256: a973d1f3929ee86cd998f8ab33a01c38e10a5cfc62cd05e23939b50471a1595f
+Section: Acreson-主题(Themes)
+Description: 类iOS11清爽主题风格
+Author: frenchitouch
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: Rupii 主题
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.semirestore11
 Version: 1.1.2-1
 Architecture: iphoneos-arm
@@ -2655,6 +2687,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vcallersDp
 Dev: thuthuatjb
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VCaller Screen 通话视频背景
+
+Package: acreson.venenoios
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.venenoios_1.0_iphoneos-arm.deb
+Size: 11974620
+MD5sum: aba2e17ec1830a4cd999b292b67a4508
+SHA1: 442f7dda517bdc0528832f46ffec46cbf3692b6f
+SHA256: a0d8e5095cf1dd24a24029fc86575eaf4df9409cb954fff9db8a497083c90e22
+Section: Acreson-主题(Themes)
+Description: 清新圆角风格主题
+Author: frenchitouch
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: Veneno 主题
+Sponsor: Acreson <342080124@qq.com>
 
 Package: acreson.videodownloadercn
 Version: 1.2.1
@@ -3323,6 +3371,24 @@ Size: 9132246
 MD5sum: 1e1e63ac4a4cd23d686d395fa183d047
 SHA1: 825dea1998a6cf5e467eb04cbb0d7af00bac23eb
 SHA256: 7b202fb27e7458f63af9ea9b8d3620e42aabb248c726c980729b23085996871f
+Section: Acreson-安装包(Packages)
+Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。Acreson提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
+Tag: purpose::x
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: 斑马 包管理器(汉化)
+
+Package: xyz.willy.zebra
+Version: 1.0~beta18-9+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 20868
+Depends: dpkg
+Filename: ./debs/xyz.willy.zebra_1.0~beta18-9+debug_iphoneos-arm.deb
+Size: 9132110
+MD5sum: 6ac205e2cad7631ff12bfc737af73e30
+SHA1: 8ee3583d19935b3c66712f085ca4dc2b05a1555b
+SHA256: b4ce221bad48eacd15f1134acd61254ca90d1cb4a90523fe6a2324a23ef29ff4
 Section: Acreson-安装包(Packages)
 Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。Acreson提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
 Tag: purpose::x

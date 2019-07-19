@@ -2810,6 +2810,26 @@ Name: Viola 主题
 Sileodepiction: https://crazyc.top/ms/msxq/viola.json
 Sponsor: Acreson <http://crazyc.top>
 
+Package: acreson.wechat.spirit
+Version: 2.1.5
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 369
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/acreson.wechat.spirit_2.1.5_iphoneos-arm.deb
+Size: 105928
+MD5sum: ba51eab4e8edada5124b3ae06ba23c43
+SHA1: 84656a2dc2c9f61cd04ea086f22df2ae5a950c5a
+SHA256: 4e7d9ba3dd1cefc07433b7904274a69e2145ef9075f63cef05bc6f653ab30d2b
+Section: Acreson-增强(Enhance)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatspiritDp
+Description: Wechat 抢红包插件纯净版。红包精灵、省电后台 (wechatspirit)
+Author: blabala <tamomonk6@sina.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatspiritDp
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WechatSpirit 红包精灵、省电后台 (wechatspirit)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.wechathelper
 Version: 1.4.1
 Architecture: iphoneos-arm

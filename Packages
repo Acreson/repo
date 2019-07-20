@@ -1761,6 +1761,23 @@ Author: Josh Harris (tateu) <tateu@tateu.net>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Moveable9 汉化版(自用)
 
+Package: acreson.multimedia
+Version: 1.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/acreson.multimedia_1.0-3+debug_iphoneos-arm.deb
+Size: 55140
+MD5sum: 327cf12d6ea009a29919f44b6436ed66
+SHA1: 112c1e79c7237adbbf6c48abe36fd5fd6f3df580
+SHA256: b67eb66ee899fd5f82a1c87bb445664084eae83fd62dd0ee6584bea776161d05
+Section: Acreson-增强(Enhance)
+Description: 去水印(支持抖音、皮皮虾、皮皮搞笑、TikTok)(计划支持微视、西瓜、最右、快手... ...)
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Multimedia Helper 多媒体助手
+
 Package: acreson.musilyric
 Version: 0.5~beta7b-3+debug
 Architecture: iphoneos-arm

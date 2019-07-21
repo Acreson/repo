@@ -3524,6 +3524,24 @@ Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
 Name: Zebra（beta） 汉化
 Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
 
+Package: xyz.willy.zebra
+Version: 1.0~beta19-6+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 17840
+Depends: dpkg, uikittools
+Filename: ./debs/xyz.willy.zebra_1.0~beta19-6+debug_iphoneos-arm.deb
+Size: 6032646
+MD5sum: ea8d5f502c7ec282a3088e29e40301cb
+SHA1: 6336dd8b7076df699a8a838156ba5ca0c92e5ffc
+SHA256: a03694509116ebdec169cafc05c7d5db46161c84211c660fde352e51b1ba1173
+Section: Acreson-安装包(Packages)
+Description: 一个包管理器支持IOS8-12
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: Zebra（beta） 汉化
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
+
 Package: xz
 Version: 5.2.4-1
 Architecture: iphoneos-arm

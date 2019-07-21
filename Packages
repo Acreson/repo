@@ -324,6 +324,24 @@ Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: BackgrounderAction for CCSupport 真后台组件
 
+Package: acreson.batterypercentx
+Version: 1.3.7-1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/acreson.batterypercentx_1.3.7-1_iphoneos-arm.deb
+Size: 126508
+MD5sum: ada4db584408710a9cd23cfd9ec36079
+SHA1: 7e853214e35143ddb5c59988d221e17e871cae97
+SHA256: d4aff5f426333aed81176928ae57eacad0d53970abb99d9838d77395df5a602e
+Section: Acreson-插件(Tweaks)
+Description: 用iPhone X上的百分比电池
+Author: Spark
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=BatteryPercentX
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: BatteryPercentX 电池百分比
+
 Package: acreson.bfdecrypt
 Version: 1.3.1
 Architecture: iphoneos-arm
@@ -1762,16 +1780,16 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Moveable9 汉化版(自用)
 
 Package: acreson.multimedia
-Version: 1.0-3+debug
+Version: 1.0-4+debug
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
 Installed-Size: 348
 Depends: mobilesubstrate
-Filename: ./debs/acreson.multimedia_1.0-3+debug_iphoneos-arm.deb
-Size: 55140
-MD5sum: 327cf12d6ea009a29919f44b6436ed66
-SHA1: 112c1e79c7237adbbf6c48abe36fd5fd6f3df580
-SHA256: b67eb66ee899fd5f82a1c87bb445664084eae83fd62dd0ee6584bea776161d05
+Filename: ./debs/acreson.multimedia_1.0-4+debug_iphoneos-arm.deb
+Size: 55144
+MD5sum: 05c0dc2f65e489ba048bf9865a2f5e2b
+SHA1: e3f5c4f343c3f773ba0d04143a9e815779b19858
+SHA256: 4c0b633032e753d8306db6c1055cfa26b550eb8f1e5de2b989eca028a5a8b552
 Section: Acreson-增强(Enhance)
 Description: 去水印(支持抖音、皮皮虾、皮皮搞笑、TikTok)(计划支持微视、西瓜、最右、快手... ...)
 Author: Acreson <342080124@qq.com>

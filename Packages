@@ -2435,18 +2435,18 @@ Name: SoundLock 自定义声音
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.st4.new
-Version: 4.0.4
+Version: 4.0.5
 Architecture: iphoneos-arm
 Maintainer: sharedRoutine
 Installed-Size: 3368
 Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
 Replaces: com.springtomize.st4
 Provides: com.springtomize.st4.new
-Filename: ./debs/acreson.st4.new_4.0.4_iphoneos-arm.deb
-Size: 553412
-MD5sum: 344056abd39609bf875e6e19c562150b
-SHA1: cc63bdc8a6486f45d6d6fc9f3724a5229120ebb3
-SHA256: af46da5e965c2c4597dcae62ddc161ef2c593054607f9d27af2d6fda6328eae0
+Filename: ./debs/acreson.st4.new_4.0.5_iphoneos-arm.deb
+Size: 555488
+MD5sum: 388e96e83edf7f57221515ddc330a206
+SHA1: f3e42ebade3397424909e25d3fd97d5b6551aa60
+SHA256: d644ae5b39260989410440d1aac94483d4f1f675eb488781f6fcc3f4d4cbc1ad
 Section: Acreson-插件(Tweaks)
 Description: 前所未有地定制您的设备.
 Author: sharedRoutine
@@ -3471,22 +3471,22 @@ Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: BigBoss Icon Set
 
 Package: xyz.willy.zebra
-Version: 1.0~beta18-10+debug
+Version: 1.0~beta18-13+debug
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres & Acreson
 Installed-Size: 20868
 Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta18-10+debug_iphoneos-arm.deb
-Size: 9131930
-MD5sum: fd348eb798cce8176dfb101e897ccd04
-SHA1: 0457dc5d4d07c571ec201c27a304b8843153a49e
-SHA256: a075e50724e48b30f99101ba4759e93b01b58ca57766e3de702f2ab04a1ea842
+Filename: ./debs/xyz.willy.zebra_1.0~beta18-13+debug_iphoneos-arm.deb
+Size: 9131176
+MD5sum: c1252fecffeb7d48667115f7a7e4da18
+SHA1: 02fb096e7113198ad48a2e75c53094778d5aac7c
+SHA256: 1555b938f629bb62c4bc4897653a30046b2231568a61feaf276c5ced52e61c9c
 Section: Acreson-安装包(Packages)
-Description: 支持系统IOS8-12 斑马 (nee AUPM)是一个非常基本的iOS设备包管理器。它支持大多数现代iOS版本，并提供了Cydia所具有的大部分功能，同时速度明显更快。这个产品还在测试阶段，感谢您的帮助。如果您遇到任何问题，您想要请求的功能，或者其他任何事情，请发送给我和电子邮件，我将很快回复您。Acreson提供完整汉化。不完整之处可以发送邮件，也可以推特联系我。
-Tag: purpose::x
+Description: 一个包管理器支持IOS8-12
 Author: Wilson Styres & Acreson
 Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: 斑马 包管理器(汉化)
+Name: Zebra
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
 
 Package: xz
 Version: 5.2.4-1

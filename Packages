@@ -273,14 +273,14 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
 Package: acreson.astral
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
-Filename: ./debs/acreson.astral_1.0_iphoneos-arm.deb
-Size: 844
-MD5sum: 7a2a72196cec7128b23b3cc6418f93c9
-SHA1: cc051b07b0737275f5e3e622583c22f6afec84bc
-SHA256: b8a5e51f0fb6dd9c171ba685d853021e450f79654f154d335d8d34221c5427f8
+Filename: ./debs/acreson.astral_1.1_iphoneos-arm.deb
+Size: 4967988
+MD5sum: de164251f08f9a8336a238807827508a
+SHA1: b4839268cd523a95f6b5d831d8504119cd25cf73
+SHA256: 3c208393881518f9555fd32a47384c6a3a56be52f47902c5570e11a59b0053a6
 Section: Acreson-主题(Themes)
 Description: iOS4 主题风格 回忆逝去的青葱岁月
 Author: frenchitouch

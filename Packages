@@ -189,18 +189,17 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChatHookPro 微信助手
 
 Package: acreson.YouQuan
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.youquan_1.0-1_iphoneos-arm.deb
-Size: 60160
-MD5sum: 976f9b7efd89cbd5937f3bf868ccae66
-SHA1: 6ad470d4ce69d69d59ff8e94a0f49f8e233f297b
-SHA256: 79a7ce5913a0978e732e377776154e6ffcbbe31d9a12356b8ef090cfc24d5cf0
+Filename: ./debs/acreson.youquan_1.0-2_iphoneos-arm.deb
+Size: 70444
+MD5sum: 37e5bd80e4026498981c6c620c8f8f74
+SHA1: a37d78d376dc9c910c31fb1f157361d52f730aac
+SHA256: 6e4e1753ff06cb5ed36beb44b3434f41c046095c9c52911d9607f1f28c803d3f
 Section: Acreson-增强(Enhance)
-Priority: optional
-Description: 淘宝购买页面添加领卷，价格历史
+Description: 淘宝购买页面添加领卷，价格历史等，开关在淘宝里面
 Author: Mao
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 淘宝优惠券
@@ -376,6 +375,23 @@ Author: Ken
 Depiction: https://kkyuen.github.io/repo/depictions/?p=com.ken.blocksimalert
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: BlockSIMAlert 去SIM提示
+
+Package: acreson.boxy3
+Version: 3.4.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm
+Filename: ./debs/acreson.boxy3_3.4.2_iphoneos-arm.deb
+Size: 2581156
+MD5sum: 527cb3d046abb499e8faac0e24b3a13b
+SHA1: 0d647de1d76265c89deda804803a59b90096dfec
+SHA256: 7669ff90f32cfacbd8e7f29f9e35e107bc7c049a7f0fcd55ac24acabf90e9871
+Section: Acreson-插件(Tweaks)
+Description: 桌面布局自定义,大小，间距
+Author: William Vabrinskas
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Boxy 3 桌面布局自定义
 
 Package: acreson.brickfix
 Version: 1.0.1
@@ -1257,6 +1273,24 @@ Description: GBA4IOS 模拟器
 Author: Domo
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: GBA4IOS 模拟器
+
+Package: acreson.goodwifi
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.goodwifi_0.0~beta4_iphoneos-arm.deb
+Size: 42264
+MD5sum: 8c3eab1157787efef9fde814fa16bead
+SHA1: 0af683bfafe8e68ff8979f9d7e638e03e72481e3
+SHA256: dab8ecd364a62a8c6d29eef922a96e47101dee46a593dc5e6dd7981cd095f58f
+Section: Acreson-插件(Tweaks)
+Homepage: http://twitter.com/ijulioverne
+Description: 设置中查看wifi有关的信息
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: GoodWiFi WIFI信息查看器
 
 Package: acreson.gpscheat
 Version: 1.1-5
@@ -2156,6 +2190,26 @@ Description: 自动保存闪照，闪照截图无限制，自动抢红包，支�
 Author: 照相
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ Crack QQ增强
+
+Package: acreson.realcc
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 102
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/acreson.realcc_1.0.2_iphoneos-arm.deb
+Size: 4348
+MD5sum: ed2e46c22f96ca03f0fbf1f5c0e8f648
+SHA1: 3934c05bcb09cd01442b15ec89a08bd4d2208ca4
+SHA256: f9cb470cc59b29764b0fef83500cda3a7d66a97118c32246e0346dd63ccc5bdb
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Description: 在ios11+ 控制中心中禁用Wi-Fi/蓝牙
+Author: Jake James <jakeashacks@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: RealCC 真实关闭蓝牙/WIFI
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.relocate
 Version: 1.0

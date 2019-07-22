@@ -2362,6 +2362,24 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: shuffle 设置归类
 
+Package: acreson.sixguns
+Version: 3.0.4-9+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 964
+Depends: mobilesubstrate
+Filename: ./debs/acreson.sixguns_3.0.4-9+debug_iphoneos-arm.deb
+Size: 408480
+MD5sum: 9d114e8c7835d8381c6ddf808451d8e3
+SHA1: da4b5fce73a2b3c17242d325fbb8656e82aab2b3
+SHA256: 45c96a8643803141e0e613f962efa5786509930a6a5f68accdb63f306f216617
+Section: Acreson-游戏(Games)
+Homepage: https://iosgods.com
+Description: 解锁功能：定制硬币，自定义明星。    游戏下载appstore：六发左轮
+Author: Ted2
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Six-Guns Crack 六发左轮破解
+
 Package: acreson.skeleton
 Version: 1.1
 Architecture: iphoneos-arm
@@ -2449,6 +2467,23 @@ Description: SnowBoard (App) 完整版
 Author: Spark & Dennis D. Bednarz
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: SnowBoard  (App) 完整版
+
+Package: acreson.so2
+Version: 0.10.11-17
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/acreson.so2_0.10.11-17_iphoneos-arm.deb
+Size: 83976
+MD5sum: 84d2480e943acde840d72639075a783b
+SHA1: 879e6e3b5561c57c74c11e8dbb10912a1ae60693
+SHA256: 59c937cffa1d1b24d1e51dd1e0d23b417cd8e55d2500476d120a6ac28731d1e2
+Section: Acreson-游戏(Games)
+Description: 解锁功能：1方框透视、2自喵、3雷达界限显示、4优先目标、5自定义攻击位置、6颜色选择器、7线条辅助。游戏下载appstore搜索：《standoff 2》只支持0.10.11.2版本，通用外挂账号：《acreson2019》密码：《acreson123456》账户别乱改登陆就行，修改的我不负责更新了。
+Author: Ruit
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Standoff 2 Crack 对峙 2外挂
 
 Package: acreson.soulark
 Version: 1.21-16+debug

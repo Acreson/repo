@@ -3210,19 +3210,19 @@ Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: plutil
 
 Package: com.cokepokes.appstoreplusplus
-Version: 0.9.2
+Version: 0.9.4-2
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.2_iphoneos-arm.deb
-Size: 857796
-MD5sum: 5897ebcc22849db86a122f3a96c16ec0
-SHA1: 83b83775f53ea0c34c823f9abf410d8aa90f5291
-SHA256: 30e318ed2bffc54c273581eb198b98a8022dd236413e2ee6b45ba91510b59f00
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.4-2_iphoneos-arm.deb
+Size: 438504
+MD5sum: 1aa4e28a2751087e97b77e23b3eecb00
+SHA1: cb4839660fd9812da751f907dc2c8375c1a71cf0
+SHA256: c759f2bdb003cda27bccbbb974188df754f8f1193907d0060042dd87802b8daa
 Section: Acreson-插件(Tweaks)
 Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
+Description: 允许你降级/升级iOS 11-12.2应用商店中的应用程序
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png

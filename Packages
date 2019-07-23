@@ -18,15 +18,15 @@ Name: Flex 3 Beta 补丁汇聚地
 Recommended: com.rpetrich.rocketbootstrap
 
 Package: acreson.Alipay-AntForest
-Version: 0.3
+Version: 0.4.1
 Architecture: iphoneos-arm
-Maintainer: CrazyHipHop
+Maintainer: Acreson <342080124@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.alipay-antforest_0.3_iphoneos-arm.deb
-Size: 243828
-MD5sum: e87a019e8ec2ab76691acad7f1e034bf
-SHA1: c5908598f53669760349d4e8de8b2ef536356c38
-SHA256: ccadb873d4404ab24cd4c2f2bd97170ff3c8cb31aee071d3ba61f81968ba819d
+Filename: ./debs/acreson.alipay-antforest_0.4.1_iphoneos-arm.deb
+Size: 5053856
+MD5sum: eba6b125849c90ed5145c1cb3ccd9457
+SHA1: 7102045b1bbf99eb4285e710a58d0dea8c53c027
+SHA256: 20140ad53ec5a5c512258dfc742129bd4b51c985783c219d106f692fa7cf898d
 Section: Acreson-增强(Enhance)
 Priority: optional
 Description: 收集好友、收集气泡、定时收取、浇水功能、清空数据

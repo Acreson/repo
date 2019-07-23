@@ -3578,52 +3578,16 @@ Name: Zebra
 Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
 
 Package: xyz.willy.zebra
-Version: 1.0~beta19-4+debug
+Version: 1.0~beta19-7+debug
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres & Acreson
-Installed-Size: 17840
+Installed-Size: 17856
 Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta19-4+debug_iphoneos-arm.deb
-Size: 6029156
-MD5sum: dfa98661b1047d8a26a14139bb0f2b54
-SHA1: ede348327aa576b676863fb52bb65a2fd5ba643b
-SHA256: 3981f8f55b62defc83e3b1e3944dd2f4e216d7f3506d14f056cc704ab96394f9
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-12
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta） 汉化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
-Version: 1.0~beta19-5+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 17840
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta19-5+debug_iphoneos-arm.deb
-Size: 6030828
-MD5sum: 7bc8a9050d00ea6eaea0ea96398629b7
-SHA1: 8b6572a553f4ccf03867b252b434fdff1253842b
-SHA256: 0e0730dfd0c4336d9a15d9c632a685eaaae5e18591d7e3422c36548e64296af5
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-12
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta） 汉化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
-Version: 1.0~beta19-6+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 17840
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta19-6+debug_iphoneos-arm.deb
-Size: 6032646
-MD5sum: ea8d5f502c7ec282a3088e29e40301cb
-SHA1: 6336dd8b7076df699a8a838156ba5ca0c92e5ffc
-SHA256: a03694509116ebdec169cafc05c7d5db46161c84211c660fde352e51b1ba1173
+Filename: ./debs/xyz.willy.zebra_1.0~beta19-7+debug_iphoneos-arm.deb
+Size: 6033294
+MD5sum: f2a545c4d31926a1029bbdfb547f9cde
+SHA1: 3fcec89fc3e2d64bce477fcc76726c5bf882a964
+SHA256: ded34eb775aa03fd21d041f1f05a32b9180253029edb0069ab5c3b61869a14c3
 Section: Acreson-安装包(Packages)
 Description: 一个包管理器支持IOS8-12
 Author: Wilson Styres & Acreson

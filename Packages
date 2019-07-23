@@ -2362,6 +2362,23 @@ Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: shuffle 设置归类
 
+Package: acreson.sileo
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 236
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/acreson.sileo_0.0.2_iphoneos-arm.deb
+Size: 18688
+MD5sum: b81e62120f838503d7b3b28dfa51a782
+SHA1: f7400e0331947325bd1d6cd3a4fbd29ba6b878ff
+SHA256: 3eb7462ecbc0289499d622ac1945add3e6ac975ad5aef90bdda797ced0121344
+Section: Acreson-插件(Tweaks)
+Description: Sileo增强。所有付费变已付，去广告，去横幅
+Author: @3bod_syr & CrazyMind90
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Sileo 神器
+
 Package: acreson.sixguns
 Version: 3.0.4-9+debug
 Architecture: iphoneos-arm

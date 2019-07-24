@@ -3102,6 +3102,22 @@ Icon: file:///Applications/Cydia.app/Sections/Localization.png
 Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.xyz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.xyz_1.0_iphoneos-arm.deb
+Size: 324104
+MD5sum: 58e2c50b53c601cb10a33e3f4f4dfc23
+SHA1: 00665336419e12ddb77e10710da278bc104cedd1
+SHA256: ad86d0089eaa2dfe751676656e161c974a652ee450a81990f395a240ac2a1b74
+Section: Acreson-游戏(Games)
+Description: 解锁功能；各种资源绿钞无限使用
+Author: 长生果子
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: 模拟城市破解
+
 Package: acreson.yangqitingshu
 Version: 1.0
 Architecture: iphoneos-arm

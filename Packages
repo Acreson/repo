@@ -271,20 +271,69 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.app.iosthunder
+Version: 5.32
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 9.0)
+Filename: ./debs/acreson.app.iosthunder_5.32_iphoneos-arm.deb
+Size: 51351196
+MD5sum: 8997b708a4424c95c35a8a18fa45b774
+SHA1: 37f71c728393468f78dba3772d667b7fb484a4f2
+SHA256: 8c16e73de5910b3b67108e99f17a5b432a7c3e13a770c516305276bf5186bbe4
+Section: Acreson-软件(Applications)
+Description: 迅雷Beta5.32版本可配合源插件Thunder Helper进行加速下载
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-迅雷532
+
+Package: acreson.app.ngdy
+Version: 4.7.3
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 8.0)
+Filename: ./debs/acreson.app.ngdy_4.7.3_iphoneos-arm.deb
+Size: 39061000
+MD5sum: e1751a8c25a0b9545b3312ac2147b470
+SHA1: 447945eb746c383ba02d301b97bb511ce9247dcf
+SHA256: 9df1bed6e714ffacf8816bfc66c9ccb2e4ce8543fe17547aed33a6f59a894d9d
+Section: Acreson-软件(Applications)
+Description: 南瓜电影破解版，低调使用，会员账号来源于群友提供
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-南瓜电影(内置破解)
+
 Package: acreson.app.shupro
 Version: 1.0.2
 Architecture: iphoneos-arm
+Maintainer: Acreson
 Depends: firmware (>= 9.3)
 Filename: ./debs/acreson.app.shupro_1.0.2_iphoneos-arm.deb
-Size: 6471532
-MD5sum: 3714ef9a849b611b0202f8e560c2649e
-SHA1: a7fe833a92ad4485509c5fd06ad96b87a6128792
-SHA256: 8d8e944ababf2ced7dff6c432c16f850062c8afa9d3167757d43e25eee8161e5
+Size: 6470140
+MD5sum: 64c133b86ce398bdfe9c1290d6c239bd
+SHA1: 684b61581f56977cb9f6cf52f2a8d82231c386bb
+SHA256: e11950e2395b3e950da12dc8d476ff746a407a90554f0de42776ea5dad8b5980
 Section: Acreson-软件(Applications)
 Description: Shu可安装ipa版本
-Author: ChenQi
+Author: Chen Qi
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-Shu Pro
+
+Package: acreson.app.ttys
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 9.0)
+Filename: ./debs/acreson.app.ttys_1.3_iphoneos-arm.deb
+Size: 8499632
+MD5sum: bcef7e3c8721b52840eebb9ea82e3557
+SHA1: aedff6f4eef25ec45d7aa1219a2924e76ae6dd15
+SHA256: 3bfe281d2d4f20324ffcd3c9c831249bc76b8dbaf61da65265c742e2cc04539b
+Section: Acreson-软件(Applications)
+Description: 天堂影视，电影-电视剧-动漫影视！资源一般，已去视频开头广告，启动广告
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-天堂影视(去广告)
 
 Package: acreson.app.yinyuetai
 Version: 1.3.6
@@ -301,6 +350,54 @@ Description: 《音悦台》appstore68元的app,已砸壳转deb
 Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-音悦台
+
+Package: acreson.app.ytspcrack
+Version: 8.8.8
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 10.0)
+Filename: ./debs/acreson.app.ytspcrack_8.8.8_iphoneos-arm.deb
+Size: 42670452
+MD5sum: da959585617b79e956562530e1cedb35
+SHA1: 9e090b12a7b0d7b4649d0e8772491905e8e74cdd
+SHA256: 979b89e7f9ccb8d547a764e6ed5e292e59ac5f1eca644b40fa95fddb9802c35f
+Section: Acreson-软件(Applications)
+Description: 樱桃视频，直装破解版无需担心掉证书！
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-樱桃视频(内置破解)
+
+Package: acreson.app.zxfqsqcrack
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 8.0)
+Filename: ./debs/acreson.app.zxfqsqcrack_2.2.1_iphoneos-arm.deb
+Size: 65521504
+MD5sum: d5467d14c54494c91ada5fbdd953e2bf
+SHA1: eb237fe5c32cfdd0fc9b6fbc2c697293609d39a1
+SHA256: cc41f524cc5d49dacdb8be0c5786f97e57aed932a84ac1e23459e1d7e4cebf9d
+Section: Acreson-软件(Applications)
+Description: 全网一手最新番茄社区，直装破解版无需担心掉证书！注意进去提示验证，请点击取消
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-番茄社区(内置破解)
+
+Package: acreson.app.zzzfun
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 8.0)
+Filename: ./debs/acreson.app.zzzfun_2.0.5_iphoneos-arm.deb
+Size: 10109936
+MD5sum: 5b5b9ac1f701ee7d20629903da9ddf28
+SHA1: d41fcf437696cce151c61edd8e0c96152de2bc45
+SHA256: 8a152a19eaee58e9ac7e7a5f1c0f6d5a6e7b3fa80866d2ae4521c1dcb6443136
+Section: Acreson-软件(Applications)
+Description: 看正规番剧的应用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-ZzzFun
 
 Package: acreson.astral
 Version: 1.1
@@ -3232,6 +3329,22 @@ Author: sugi
 Depiction: https://sugiuta.github.io/descriptions/youtubetoolsxii/index.html
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Youtube Tools XII Youtube工具箱
+
+Package: acreson.zq..djdd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.zq..djdd_1.0_iphoneos-arm.deb
+Size: 21408
+MD5sum: c7b0ea7b9e6e2e83fd1aa005eed5429e
+SHA1: 7de1ece319443146348f51cabaaaf230a84d4ad1
+SHA256: c266ac3360cfed8cd989f5408f21cf4bebeb9763b2c01946125dd789c649373e
+Section: Acreson-增强(Enhance)
+Description: DJ多多破解会员权限，优化部分界面
+Author: 红豆妹妹
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: DJ多多 Crack
 
 Package: acreson.zq.aiyinyuecrack
 Version: 1.0

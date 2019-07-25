@@ -3255,26 +3255,6 @@ Icon: file:///Applications/Cydia.app/Sections/Packaging.png
 Name: Saily 包管理器
 Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
 
-Package: com.ShadowStonk.jw.SailyInstaller
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: https://twitter.com/CydiaSaurikStar
-Depends: firmware (>= 11.0)
-Filename: ./debs/com.shadowstonk.jw.sailyinstaller_0.1.5_iphoneos-arm.deb
-Size: 31598724
-MD5sum: 8dadfa98ce7fa4e43430079b91316519
-SHA1: f9ded3dde94520d2a0a37164f0527d7a5ffa1779
-SHA256: 90b9c4c9ae97846df7ab35469338b1240ae46c19b2f0ea9d1985f6e163d6c2d7
-Section: Acreson-安装包(Packages)
-Priority: optional
-Homepage: https://twitter.com/CydiaSaurikStar
-Description: Saily Package Manager Installer
-Author: Lakr Aream / ShadowStonk
-Depiction: nil
-Dev: https://twitter.com/Lakr233
-Icon: file:///Applications/Cydia.app/Sections/Packaging.png
-Name: Saily 包管理器
-
 Package: com.bingner.plutil
 Version: 0.1.0
 Architecture: iphoneos-arm

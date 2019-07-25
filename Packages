@@ -271,6 +271,22 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.app.amjpj
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 8.0)
+Filename: ./debs/acreson.app.amjpj_1.2_iphoneos-arm.deb
+Size: 3125920
+MD5sum: e83ce6db8959d93aafb8112eae03e38a
+SHA1: 6f34ac2ed60baa0d59cfbbecaa3f735a631f05f4
+SHA256: 414dbb95698c9e7d94445249f4073d76e2212d05f5a0b789e0d2a16c43382650
+Section: Acreson-软件(Applications)
+Description: 爱美剧破解版，去缓存限制，去广告
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-爱美剧(内置破解)
+
 Package: acreson.app.iosthunder
 Version: 5.32
 Architecture: iphoneos-arm

@@ -287,6 +287,38 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-爱美剧(内置破解)
 
+Package: acreson.app.bikagg
+Version: 2.1.1.6
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 9.2)
+Filename: ./debs/acreson.app.bikagg_2.1.1.6_iphoneos-arm.deb
+Size: 14098188
+MD5sum: c927e9a59057a50bdb5fce2bf87a957c
+SHA1: f18b4fc8efe8538f99c376314993b66e323177bb
+SHA256: c96d5f8281a18e49ce18b0749f77374ebec61d7e89fd3f000728cf92c2aa8731
+Section: Acreson-软件(Applications)
+Description: 哔卡哔卡～18R+漫画软件
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-Bika CG
+
+Package: acreson.app.coolmarket
+Version: 2.0-1906182
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 11.0)
+Filename: ./debs/acreson.app.coolmarket_2.0-1906182_iphoneos-arm.deb
+Size: 7867628
+MD5sum: 68a5853d8c039a6c7900c8f3491f6283
+SHA1: 54c3fea599129b737dd8b34b6b8a201c8cfb01d9
+SHA256: 4edceb69c83b5ae7de764462c814371795ac7045e827985babad7779efd4112c
+Section: Acreson-软件(Applications)
+Description: 酷安社区iOS版来了！Netskao带你优先体验！用过安卓版的用户都懂～不比某锋差，⚠️对于安装后打不开，请检测软件是否已联网特别是国行机器，wifi4，连个锤子等等自己折腾
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-酷安
+
 Package: acreson.app.iosthunder
 Version: 5.32
 Architecture: iphoneos-arm
@@ -302,6 +334,38 @@ Description: 迅雷Beta5.32版本可配合源插件Thunder Helper进行加速下
 Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-迅雷532
+
+Package: acreson.app.kdxs
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 8.0)
+Filename: ./debs/acreson.app.kdxs_1.3.0_iphoneos-arm.deb
+Size: 5041500
+MD5sum: c38056d962fe134cc3e9b9266829903e
+SHA1: c16cd4df381f226c4910aab36c47620f720a5157
+SHA256: 8c4d24a3abc4d24bb252cb33447c41da35f2d9080ece732fee07e19fd085cd63
+Section: Acreson-软件(Applications)
+Description: 快读小说全本免费看，可换源，无广告！
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-快读小说
+
+Package: acreson.app.newt66y
+Version: 2.3.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 9.0)
+Filename: ./debs/acreson.app.newt66y_2.3.2_iphoneos-arm.deb
+Size: 7527768
+MD5sum: 03e6a5efee4d310dc80753e61ad69a5a
+SHA1: 0b595f1ccb8d4655122b274dc70a51bf8413b3bb
+SHA256: 27d9303049ea864078436bc1fea033494d7f59f5b9ca618cdd286a8b0ed7256d
+Section: Acreson-软件(Applications)
+Description: 1024你懂的
+Author: T66y
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-1024
 
 Package: acreson.app.ngdy
 Version: 4.7.3

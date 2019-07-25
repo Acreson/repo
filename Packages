@@ -3235,6 +3235,26 @@ Author: PoomSmart & vXBaKeRXv
 Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: Emoji-Facebook 工具版
 
+Package: com.Lakr233.Saily
+Version: 0.6-b552
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 11.0)
+Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
+Filename: ./debs/com.lakr233.saily_0.6-b552_iphoneos-arm.deb
+Size: 13329800
+MD5sum: 1805f3e463de77abf171b70de0adcb64
+SHA1: 65af906890d4c44412a0549149274382c28c52e7
+SHA256: c7056f3c051e0c506aa7a0b7bb4d9eda19eb0553387a7ced3ee8062f45defd79
+Section: Acreson-安装包(Packages)
+Priority: required
+Description: Saily 包管理器
+Author: Lakr Aream
+Dev: Lakr Aream
+Icon: file:///Applications/Cydia.app/Sections/Packaging.png
+Name: Saily 包管理器
+Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
+
 Package: com.ShadowStonk.jw.SailyInstaller
 Version: 0.1.5
 Architecture: iphoneos-arm

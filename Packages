@@ -1780,6 +1780,26 @@ Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: 聚爆Implosion 破解
 
+Package: acreson.jp.nudekeysios12
+Version: 1.0.0~b8
+Architecture: iphoneos-arm
+Maintainer: Orangebananaspy <admin@orangebananaspy.com>
+Installed-Size: 2808
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.nudekeys
+Filename: ./debs/acreson.jp.nudekeysios12_1.0.0~b8_iphoneos-arm.deb
+Size: 1814984
+MD5sum: 23765b172cd53ff81c69ed4cbda50aa9
+SHA1: f1b44b4178f9191e0ebc2ae5891ad4f97e70a9cd
+SHA256: e8b3467f653f89c73adec0424908c9ffb29f26b80072d15e59ea5f247ef3dfa9
+Section: Acreson-键盘(Keyboards)
+Homepage: https://repo.orangebananaspy.com/depiction.php?id=1
+Description: 自定义键盘颜色.渐变色 支持A12
+Author: Orangebananaspy <support@orangebananaspy.com>
+Depiction: https://repo.orangebananaspy.com/depiction.php?id=1
+Icon: file:///Applications/Cydia.app/Sections/Keyboards.png
+Name: NudeKeys (iOS 12) 键盘增强
+
 Package: acreson.kingsraidcrack
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -3825,6 +3845,25 @@ Depiction: https://synnygr.dev/AppTapp/installer.html
 Icon: file:///Applications/Cydia.app/Sections/Packaging.png
 Name: Installer 5 包管理器
 Sileodepiction: https://apptapp.me/repo/installer.json
+
+Package: oacreson.jp.nudekeys
+Version: 4.3
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 5116
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/oacreson.jp.nudekeys_4.3_iphoneos-arm.deb
+Size: 1095524
+MD5sum: 1340c8b6e0dd457babf10bfd097fb2bd
+SHA1: 3ea18bbe52d579443cfdebd64be4177c0bf0904d
+SHA256: 7df82b557842b97903266fdddf1309fef150eaf1ffe9c404cc8e795436b164de
+Section: Acreson-键盘(Keyboards)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nudekeysDp
+Description: 自定义键盘颜色，渐变色
+Author: Orangebananaspy <support@orangebananaspy.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nudekeysDp
+Icon: file:///Applications/Cydia.app/Sections/Keyboards.png
+Name: NudeKeys(IOS7-11)键盘增强
 
 Package: org.ioshack.icontool
 Version: 1.9-7

@@ -80,3 +80,6 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 
 Section: Acreson-依赖(Depends)
 Icon: file:///Applications/Cydia.app/Sections/Addons.png
+
+Section: Acreson-键盘(Keyboards)
+Icon: file:///Applications/Cydia.app/Sections/Keyboards.png

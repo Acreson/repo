@@ -735,6 +735,73 @@ Author: 180 & 小苹果
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AntiRevoke
 
+Package: acreson.cj.bannermusic
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 452
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/acreson.cj.bannermusic_0.0.9_iphoneos-arm.deb
+Size: 73480
+MD5sum: 5f189ec98633797d071cc385d7b5c333
+SHA1: 1c1044e6073bdc7b5bbcf34ad62bf9e8560b86b3
+SHA256: 229519c7f1017c6894e365edfa206d0b28030343789ba5d4b99548c6d276f9f4
+Section: Acreson-插件(Tweaks)
+Description: 通过ios 8、9、10、11的通知横幅，查看你播放的是哪首歌。工作:股票音乐。app, Deezer, Spotify, TIDAL & Joox Music。在设置中配置选项。
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: BannerMusic 通知音乐
+
+Package: acreson.cj.cameramode10
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.cameramode10_2.0.2_iphoneos-arm.deb
+Size: 3900
+MD5sum: 9e2476f86b593d0726c95ceacf69beb8
+SHA1: 9d6e5b2a9b612c9403c41f7828a375ce146e43e5
+SHA256: 010097c4f786bf6b2b3dcf619166156643c4dc058ee8887dc666e3d1c3e9208b
+Section: Acreson-插件(Tweaks)
+Description: 旧系统iPhone 7Plus启用人像模式
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Camera Mode 10
+
+Package: acreson.cj.cydia3dtouch
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/acreson.cj.cydia3dtouch_0.0.4_iphoneos-arm.deb
+Size: 14680
+MD5sum: 73c877e02bca7e483095bd96d6ec6704
+SHA1: a4bb6033a81cefdfe66e22847feab296cfe906dc
+SHA256: 307d240d6a71a4020e3ba65fb20392144ab6a00e817d178ab15edcdc03eb8624
+Section: Acreson-插件(Tweaks)
+Description: 添加3D触摸手势到Cydia IOS 12 (unc0ver)。
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Cydia3DTouch 12
+
+Package: acreson.cj.nosileodepiction
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.nosileodepiction_0.1.1_iphoneos-arm.deb
+Size: 7044
+MD5sum: d78d9788b24b4e15cbb72d55f1009921
+SHA1: 77518e9424585e74a1dc9cea54c23431e5ee48cd
+SHA256: 3d0eb414cebaa88e22e22857a2cef335075ea82201380604f394c9e8b87f5f87
+Section: Acreson-插件(Tweaks)
+Description: 关闭Sileo的Web详情页面显示,对于没有适配新版的源这样就不会显示乱码！但是没有适配的下载可能还是无法下载 因为没有开启sha256 所有请联系源管理尽快更新成sha256
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: No SileoDepiction
+
 Package: acreson.cloudmusichook
 Version: 1.0-3+debug
 Architecture: iphoneos-arm
@@ -3447,6 +3514,74 @@ Author: 红豆妹妹
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: DJ多多 Crack
 
+Package: acreson.zq.1998camhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.1998camhack_0.0.2_iphoneos-arm.deb
+Size: 74396
+MD5sum: 306a55adc397ab8053b6c404c17f779a
+SHA1: 609934bf9c2b9ab208f07e785a10d9fc569ebbc6
+SHA256: 5078d368a7f28eb252af072b043dfebc3825bb5b0a059e13657fa7921fb0793a
+Section: Acreson-增强(Enhance)
+Description: 1998 Cam Pro 订阅无限制
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 1998Cam Crack
+
+Package: acreson.zq.1passwordhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.1passwordhack_0.0.2_iphoneos-arm.deb
+Size: 74492
+MD5sum: 34615ced5e52dfcd6fba00d46d65b165
+SHA1: 793c9917756698449f8c476c6dca5c6e72df7402
+SHA256: 525522423d13db87958c35a9726ef41ce51314ac06ad0029f662e025411a93ef
+Section: Acreson-增强(Enhance)
+Description: 1Password Pro订阅无限制。
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 1Password Crack
+
+Package: acreson.zq.SoundCloud
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.soundcloud_0.0.1-4+debug_iphoneos-arm.deb
+Size: 6620
+MD5sum: 52d0aaadbeae43dbac9a42d1aae20b4a
+SHA1: da42ba6833a8f61970c15e8bc3f636467bd2f73c
+SHA256: 05083c55d4be2de8fc28a33a387d90d52e865721e55051ea446674ab059e3e15
+Section: Acreson-增强(Enhance)
+Description: 下载歌曲、播放列表和所有你喜欢的歌曲，离线播放模式来保存数据。
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: SoundCloud Plus
+
+Package: acreson.zq.adoberushhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.adoberushhack_0.0.2_iphoneos-arm.deb
+Size: 59328
+MD5sum: 32a99d2aa2c9b020c7f897bb4991ab4d
+SHA1: e3a2d8e90e23a4feda00d85e7a7d55b843c9f359
+SHA256: 24edb75fc7f3723504286123faffc4c8373c68121661b21f3068d8676a8211f5
+Section: Acreson-增强(Enhance)
+Description: 订阅无限制
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: AdobeRushCC Crack
+
 Package: acreson.zq.aiyinyuecrack
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3462,6 +3597,328 @@ Description: 爱音乐去除无版权音乐下载试听限制，免费无损下�
 Author: 带土
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 爱音乐 Crack
+
+Package: acreson.zq.alayers
+Version: 0.0.2~BETA1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 276
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.alayers_0.0.2~BETA1_iphoneos-arm.deb
+Size: 75868
+MD5sum: 37bbe6fde300d9731e782e728afc644e
+SHA1: 0702aa40f7463d8a62889a5fcf4a9765dbf4d427
+SHA256: 2ab40c555676d665a5e23be72bae713f13c10ecdf7558820d0e0484dfd23cdb1
+Section: Acreson-增强(Enhance)
+Description: 无限制订阅破解
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Alayers Crack
+
+Package: acreson.zq.alltrailshack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.alltrailshack_0.0.2_iphoneos-arm.deb
+Size: 59216
+MD5sum: 31f75add6fce1bbf3a110ef254dc647c
+SHA1: db0664de0e104f7897e6dd8ff438be9832cd9378
+SHA256: 64959274acc8c17694a5da220b93294c49fb12e0dee3b814f7f04cebd90cf9f3
+Section: Acreson-增强(Enhance)
+Description: Pro无限制订阅破解
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: AllTrails Crack
+
+Package: acreson.zq.autocadhack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.autocadhack_0.0.2_iphoneos-arm.deb
+Size: 57164
+MD5sum: 8f041b3f64be5538c467e82ac3593caf
+SHA1: 47bfe1ac11297a86930ca9b95a6b8a979ed503c3
+SHA256: 5e6d79b6ff87c04e83f70a78eda72ea62aa3e771f2e3cfb372f3ae841359a542
+Section: Acreson-增强(Enhance)
+Description: AutoCAD 全功能解锁
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: AutoCAD Crack
+
+Package: acreson.zq.banubafacehack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.banubafacehack_0.0.2_iphoneos-arm.deb
+Size: 57080
+MD5sum: 688de7755eabdf2de2e3bf5ed5b25726
+SHA1: b853088ab49ae3580663bcbdf502e0f6f44e2db2
+SHA256: 583cdd9e261e8f42bdca92f7e6937e211b3bc9e9a45b3d864d7e1a6f4f102bfb
+Section: Acreson-增强(Enhance)
+Description: 无限制会员
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: BanubaFace Crack
+
+Package: acreson.zq.bazaarthack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.bazaarthack_0.0.2_iphoneos-arm.deb
+Size: 74896
+MD5sum: 60c5176db68e8e6b9276fb2411e1f830
+SHA1: ca5105c6097f70a4151fc05aa4f5f1c12c7b9b02
+SHA256: c07555ca1619117ca5bac7c3166f948f5f51f393a028e1894725be4739d3fc10
+Section: Acreson-增强(Enhance)
+Description: 无限制订阅
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Bazaart Crack
+
+Package: acreson.zq.betternethack
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.betternethack_0.0.4_iphoneos-arm.deb
+Size: 57128
+MD5sum: a16e9c4d62ad67454afd211d1f0454ae
+SHA1: 5e00ff840762d813e8a7bfde13a4eb4bf0c3b736
+SHA256: 99e48da850068c40f00325d6d005258e29cd606e6b44551dbbddf948adc6a7b0
+Section: Acreson-增强(Enhance)
+Description: 全免费使用
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Betternet Premium Crack
+
+Package: acreson.zq.enlightpixaloophack
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.enlightpixaloophack_2.0.2_iphoneos-arm.deb
+Size: 50052
+MD5sum: d2c67f467b44bffcb28948eafcfe9dff
+SHA1: 94667772459b24612cb53749eec8488c38db4870
+SHA256: cdfedf8e5a021921ab45ed757853e9adaabf8ed2416f1a31fa9ceee048012ee8
+Section: Acreson-增强(Enhance)
+Description: 解锁一次购买免费。
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Enlight Pixaloop Crack
+
+Package: acreson.zq.enlightquickshot
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.enlightquickshot_0.0.2_iphoneos-arm.deb
+Size: 57032
+MD5sum: 105147761f637fa5e78f63ec26706c93
+SHA1: bac96a49a52eaf684984b80e3ccda05e69d9ba85
+SHA256: f2fa9a9d00f88602cc13c6966013fa4edfaaa9a98995f4c14233535c91b2cef4
+Section: Acreson-增强(Enhance)
+Description: 订阅最高权限
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Enlight Quickshot Crack
+
+Package: acreson.zq.enlightvideoleaphack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.enlightvideoleaphack_0.0.2_iphoneos-arm.deb
+Size: 57108
+MD5sum: 7b357121b7ba04527040c07897e06199
+SHA1: 6a173caa0cc8d1af030dc6c2bccc24210421be23
+SHA256: 2cb699b9ac2f38407967d709097c743c7d513fd7b6aacef1795aea5807e2a35d
+Section: Acreson-增强(Enhance)
+Description: 无限制订阅
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Enlight Videoleap Crack
+
+Package: acreson.zq.enloghtphotofoxpro
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.enloghtphotofoxpro_0.0.2_iphoneos-arm.deb
+Size: 56988
+MD5sum: b7003f033de29c067bafe0945c400a5e
+SHA1: bc1ba82a7ecb152b787cd0d56e605a062ba6db6d
+SHA256: a797afcb762ff39ac5a3e4b1135a487e66743d964096ed85edfbf16a5d069db7
+Section: Acreson-增强(Enhance)
+Description: 无限制订阅
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Enlight Photofox Crack
+
+Package: acreson.zq.facetunevip
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.facetunevip_1.0.4_iphoneos-arm.deb
+Size: 57180
+MD5sum: f282488a59595427b2cc7be188c4cafe
+SHA1: 93c17b338bc95a51b13d9706690cae52fba629a6
+SHA256: f6ff56239e1f0d107d54112b529cd52adffa5e5f5ae9264f75342416f718c59c
+Section: Acreson-增强(Enhance)
+Description: 解锁所有VIP
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Facetune2 Crack
+
+Package: acreson.zq.jooxpremium
+Version: 4.0.7
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 416
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.jooxpremium_4.0.7_iphoneos-arm.deb
+Size: 83472
+MD5sum: 862979c1e791ca894f96e84336b50b9c
+SHA1: adfd9e5a3893b02664121d15c6f81644562d5221
+SHA256: 456f2fc83ce6b5e541197bc23461a4583e6d723692147c91ebd3a3fae0f62e4a
+Section: Acreson-增强(Enhance)
+Description: VIP音乐，下载歌曲，离线收听(320kbps)高保真，DTS激活，享受音乐!
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Joox Crack
+
+Package: acreson.zq.mixhack
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.mixhack_1.0.2_iphoneos-arm.deb
+Size: 60528
+MD5sum: 94fa698ee486d4182f7b6451b4e5be88
+SHA1: cc6b120f30552c51de5f94d994af34258ba7dfa9
+SHA256: cfd376a82d8a3b1decfd748e1a52d58a2509527565724c26af20e0c232b500a8
+Section: Acreson-增强(Enhance)
+Description: 免费VIP
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Mix Crack
+
+Package: acreson.zq.picturevideohelper
+Version: 1.3.5-5
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.zq.picturevideohelper_1.3.5-5_iphoneos-arm.deb
+Size: 192876
+MD5sum: f32e67ceb29862f5fcb88aa077f184eb
+SHA1: 4f65c2cf46781a18b3d808afbc503c69eb6f6849
+SHA256: bdd6360af7ae542f2f9b54844ace0f888a8f43e6fd6d54ec91a4f91e422d4252
+Section: Acreson-增强(Enhance)
+Description: 图片/视频助手！开启市面上主流修图/视频剪辑App会员权限,更新支持A12
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: PictureVideo Helper
+
+Package: acreson.zq.videoshophack
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.videoshophack_1.0.2_iphoneos-arm.deb
+Size: 60332
+MD5sum: 8fd8925472e367ff3994c3c2a8808bef
+SHA1: ed2a1c5e8766064adc02f24469064ff03d2fda47
+SHA256: d37d25069e1ff41502120754850cf775a28971c9c4b7c320fd2f78ee78497896
+Section: Acreson-增强(Enhance)
+Description: 解锁VIP全功能
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Videoshop Crack
+
+Package: acreson.zq.vivavideovip
+Version: 7.0.4
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 292
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.vivavideovip_7.0.4_iphoneos-arm.deb
+Size: 63688
+MD5sum: 2799a8b8252d6699debcb74c7266f73e
+SHA1: e8ca8ae883a9b67bac08669612061efb85264ab7
+SHA256: f8a796cdbea2e7b9ccae5ecbfdf3c231ace4c4800e77329d16bccb0a4cca1bc5
+Section: Acreson-增强(Enhance)
+Description: 解锁VIP全功能
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: VivaVideo Crack
+
+Package: acreson.zq.vuehack
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.vuehack_1.0.2_iphoneos-arm.deb
+Size: 60344
+MD5sum: 210dedff3aa74b7e091535a8215bfa2e
+SHA1: f542f58b288895ff1beb1f246689cae8a1f68f46
+SHA256: dfaaf4213c0db0c2ef67d9ed844d0fc7869eb221ef6bc4ba55df7402c16e2bc3
+Section: Acreson-增强(Enhance)
+Description: 解锁全部
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: VUE Crack
+
+Package: acreson.zq.wpsofficehack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.wpsofficehack_0.0.2_iphoneos-arm.deb
+Size: 76052
+MD5sum: 43cafe08726f5dd7d24d80f64b34848b
+SHA1: ea5f44703fd335b675a53bc0508f25397ce4e92d
+SHA256: e68249cedc78739173b12e80f430bda07e7a85b0e42f78f1199f7b677642eb76
+Section: Acreson-增强(Enhance)
+Description: 超级会员权限
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WPS Office Crack
+
+Package: acreson.zq.zvooqmusicpremium
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.zvooqmusicpremium_0.0.2_iphoneos-arm.deb
+Size: 3424
+MD5sum: 3e481778a8820e6e5587f38f1b915e35
+SHA1: 343d9d6fb9c6708d57cb744e7597f111bd045d8f
+SHA256: 0df8b7c3c7ddf3cbb70de7ab1c61b724d1ef7ba3befabd725e9464852ff434ce
+Section: Acreson-增强(Enhance)
+Description: 免费音乐为iPhone和播放列表。
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Zvooq Music Premium
 
 Package: areson.unsub
 Version: 0.1.9

@@ -1,5 +1,3 @@
-Section: Acreson-软件(Applications)
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 
 
 
@@ -83,3 +81,6 @@ Icon: file:///Applications/Cydia.app/Sections/Addons.png
 
 Section: Acreson-键盘(Keyboards)
 Icon: file:///Applications/Cydia.app/Sections/Keyboards.png
+
+Section: Acreson-软件(Applications)
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png

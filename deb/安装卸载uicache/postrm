@@ -3,7 +3,7 @@
 echo "* Running uicache..."
 echo "* 执行刷新图标缓存中..."
 
-su mobile -c uicache &>/dev/null
+su mobile -c uicache
 
 echo "* Running uicache... Done."
 echo "* 执行刷新图标缓存中... 完成"

@@ -271,6 +271,21 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.app.shupro
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.3)
+Filename: ./debs/acreson.app.shupro_1.0.2_iphoneos-arm.deb
+Size: 6471532
+MD5sum: 3714ef9a849b611b0202f8e560c2649e
+SHA1: a7fe833a92ad4485509c5fd06ad96b87a6128792
+SHA256: 8d8e944ababf2ced7dff6c432c16f850062c8afa9d3167757d43e25eee8161e5
+Section: Acreson-软件(Applications)
+Description: Shu可安装ipa版本
+Author: ChenQi
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-Shu Pro
+
 Package: acreson.app.yinyuetai
 Version: 1.3.6
 Architecture: iphoneos-arm
@@ -2899,6 +2914,22 @@ Author: Aesthyrica
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Twitter Labs 推特增强
 
+Package: acreson.utilities.tsssaver
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 9.0)
+Filename: ./debs/acreson.utilities.tsssaver_1.2.0_iphoneos-arm.deb
+Size: 152068
+MD5sum: 6b66bdc7a82b101a1219f038aebbf6d8
+SHA1: 58553293787f74e072a5aa546e530424a9f48ff3
+SHA256: 999cc069a04cdf8059dd382f61bd5711c86a0f64287fac31829a04ae1895df1b
+Section: Acreson-工具(Utilities)
+Description: SHSH2一键备份工具,挂好VPN即可开始
+Author: Jamie Bishop
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: TSS Saver 备份shsh2
+
 Package: acreson.utils
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -3201,6 +3232,22 @@ Author: sugi
 Depiction: https://sugiuta.github.io/descriptions/youtubetoolsxii/index.html
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Youtube Tools XII Youtube工具箱
+
+Package: acreson.zq.aiyinyuecrack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.zq.aiyinyuecrack_1.0_iphoneos-arm.deb
+Size: 21416
+MD5sum: 915db1776df66f5c596fb4ef9bdf6f41
+SHA1: 644d04ad47ba65650db40b184598d62b444329b7
+SHA256: 7e66ad2b4a9ea0d73598701f38caade9eea687f87bc1c2f02fdeefcf7cdfc117
+Section: Acreson-增强(Enhance)
+Description: 爱音乐去除无版权音乐下载试听限制，免费无损下载，良心播放器
+Author: 带土
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 爱音乐 Crack
 
 Package: areson.unsub
 Version: 0.1.9

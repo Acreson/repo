@@ -277,13 +277,13 @@ Architecture: iphoneos-arm
 Maintainer: Acreson
 Installed-Size: 742
 Filename: ./debs/acreson.app.yinyuetai_1.3.6_iphoneos-arm.deb
-Size: 1110256
-MD5sum: a17e4492f11565a4ad8ec90dd97434f0
-SHA1: 1b7b0e3dd02c5a5bf1fa48118a301376314130e0
-SHA256: 95fba4a55fac89658000a70bfe8c4cb7d0d2f0aeb764fe484b3cdbdc2e86a9a8
+Size: 1110576
+MD5sum: a912948da6167487d4eda71be7f3f0b7
+SHA1: 5df653b8ae444c7799a8ff9b6f0b8d12c07a3e90
+SHA256: ee869fdf1d89ceff440dada131a9ff610ae7d18a319f0a738666556816b94007
 Section: Acreson-软件(Applications)
 Description: 《音悦台》appstore68元的app,已砸壳转deb
-Author: ACreson
+Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-音悦台
 

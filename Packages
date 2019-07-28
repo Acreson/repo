@@ -3752,6 +3752,22 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Betternet Premium Crack
 
+Package: acreson.zq.djmusicbox
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/acreson.zq.djmusicbox_1.0_iphoneos-arm.deb
+Size: 21816
+MD5sum: fc0423fbe119413ca3f26379e70e00b5
+SHA1: 733281c9f8320a7b468840fdb27127387950c662
+SHA256: 336bab19bbabf1941eadcc8f79e42f45a605869744f145a1c5de72698c2e2857
+Section: Acreson-增强(Enhance)
+Description: 解除dj音乐盒会员在线试听各种音质权限，点亮会员装X图标
+Author: 红豆妹妹
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: DJ音乐盒 Crack
+
 Package: acreson.zq.enlightpixaloophack
 Version: 2.0.2
 Architecture: iphoneos-arm
@@ -3836,6 +3852,23 @@ Description: 解锁所有VIP
 Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Facetune2 Crack
+
+Package: acreson.zq.jdjuan
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.zq.jdjuan_0.1-1_iphoneos-arm.deb
+Size: 26688
+MD5sum: 04ae407529a70d283876f25573341561
+SHA1: 62e45e929051a7462a6280c2eec39c852a953104
+SHA256: b6c4892b1223281da5408496a98f9e853bec40fe8882b4c434d96a1c9857f103
+Section: Acreson-增强(Enhance)
+Priority: optional
+Description: 京东优惠卷安装无设置项直接生效
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 京东优惠券
 
 Package: acreson.zq.jooxpremium
 Version: 4.0.7

@@ -1551,6 +1551,24 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: FingerTouch 指纹触控
 Sponsor: Ccydia <admin@ccydia.com>
 
+Package: acreson.game.pmobile013
+Version: 0.13.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.game.pmobile013_0.13.0_iphoneos-arm.deb
+Size: 1881856
+MD5sum: 87925802c7b41e7e053a7c14b2df0acf
+SHA1: c7fb01a2c92632ebc66bc9c9d84d77245438bb91
+SHA256: 44ec943ea228e9d144e0d09c37c93d167c1d8cf315ba497b0fbf0bacec3cce01
+Section: Acreson-游戏(Games)
+Homepage: https://iosgods.com
+Description: 解锁功能:除草无后  设置中修改
+Author: S14T3R & DiDA
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG MOBILE Crack 刺激战场国际服
+
 Package: acreson.gba4ios
 Version: 2.1.6
 Architecture: iphoneos-arm

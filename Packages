@@ -1603,6 +1603,24 @@ Author: S14T3R & DiDA
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: PUBG MOBILE Crack 刺激战场国际服
 
+Package: acreson.game.pmobile0133
+Version: 0.13.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 3228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.game.pmobile0133_0.13.0_iphoneos-arm.deb
+Size: 716172
+MD5sum: 8cbee8eac776ced31b9353e570cb38a7
+SHA1: 1ca50eacb90244024ca4027ae3dc4fe94e3ea77f
+SHA256: b56568106d20a746d198bc2509650c41ecca713a4cc72d9fd072de38eb616016
+Section: Acreson-游戏(Games)
+Homepage: https://iosgods.com
+Description: 解锁功能:多功能你懂的
+Author: S14T3R & DiDA
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: PUBG MOBILE Crack 刺激战场国际服破解
+
 Package: acreson.gba4ios
 Version: 2.1.6
 Architecture: iphoneos-arm

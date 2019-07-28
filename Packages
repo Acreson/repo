@@ -802,6 +802,24 @@ Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: No SileoDepiction
 
+Package: acreson.cj.slices3
+Version: 3.0.5
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 1004
+Depends: firmware (>=11), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.rpetrich.rocketbootstrap (>=1.0.7~beta3)
+Conflicts: com.expetelek.slices, com.subdiox.slices2
+Filename: ./debs/acreson.cj.slices3_3.0.5_iphoneos-arm.deb
+Size: 164964
+MD5sum: c3620382fd5d27b33a77b75a3e88d668
+SHA1: 2e61b21352ef883993e067254d27b0b898510b2b
+SHA256: 5945749502842f25f45261d051b24bb9865d21aa3913fd64d91afc3ca785c0d5
+Section: Acreson-插件(Tweaks)
+Description: 应用多开，支持a12 操作老方法
+Author: Baw Appie <pp121324@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Slices 3 应用多开
+
 Package: acreson.cloudmusichook
 Version: 1.0-3+debug
 Architecture: iphoneos-arm

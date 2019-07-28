@@ -383,6 +383,22 @@ Author: Chen Qi
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-Shu Pro
 
+Package: acreson.app.signed
+Version: 1.9.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 8.0)
+Filename: ./debs/acreson.app.signed_1.9.2_iphoneos-arm.deb
+Size: 8387500
+MD5sum: bf3b45fd7f87d113fccfeff77e30b7fe
+SHA1: 759dc4f5ac207515da2ac0b5d698ed4dd8803f98
+SHA256: bd6e281af3b2ba361dd3832a602fb26ca85afd9f507a2c1e61dd2509c161693b
+Section: Acreson-软件(Applications)
+Description: QQ一键签到、会员签到、协议签到、群签到、游戏签到达尔博格，已砸壳转deb。
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-我爱网
+
 Package: acreson.app.ttys
 Version: 1.3
 Architecture: iphoneos-arm

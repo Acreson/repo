@@ -3878,12 +3878,12 @@ Maintainer: Acreson
 Installed-Size: 228
 Depends: mobilesubstrate
 Filename: ./debs/acreson.zq.fkwechatzan_0.0.1-6+debug_iphoneos-arm.deb
-Size: 33930
-MD5sum: 8d7d6eeb60532acf70f95b6895a8d331
-SHA1: 28d3c88cc67fb2edca2f2f4b8d758e4330831203
-SHA256: cbfe29e59eb7975556ceea2f9cd4ed19568c492c7d6c1d842ccf8d17a385e01f
+Size: 32200
+MD5sum: 6efb258e7d66960dd9099ecbf044c666
+SHA1: 4fb719420e24ee0b6644913ecd068df4795a3f6a
+SHA256: 6024ae482d539007d2f263386e4701a66bdccb9302cb03a797392a9ea55d60d0
 Section: Acreson-增强(Enhance)
-Description: 微信集赞，评论插件，随意设置点赞数量和评论。集赞换礼品终结杀手！
+Description: 微信集赞，评论插件，随意设置点赞数量和评论。集赞换礼品终结杀手！多人测试6.7.4以下闪退，建议7.0+
 Author: xia0
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChatZan 集赞评论助手

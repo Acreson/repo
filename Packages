@@ -367,6 +367,22 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-南瓜电影(内置破解)
 
+Package: acreson.app.panda
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 8.0)
+Filename: ./debs/acreson.app.panda_1.1.0_iphoneos-arm.deb
+Size: 21948908
+MD5sum: 8c65f46887708638742dd4b08b703a21
+SHA1: fab733ad17199a008738655f1b76939ea1495a73
+SHA256: 71ae09c95751b18895ea8b217237250a27ba9f8a7aa65024dae5ec39a80c357f
+Section: Acreson-软件(Applications)
+Description: 熊猫助手免费版，已砸壳转deb，去企业证书验证
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-Panda
+
 Package: acreson.app.shupro
 Version: 1.0.2
 Architecture: iphoneos-arm

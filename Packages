@@ -2422,6 +2422,23 @@ Author: Henrik Rydgård
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: PPSSPP 模拟器
 
+Package: acreson.pubghacker2
+Version: 0.13.6-1+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/acreson.pubghacker2_0.13.6-1+debug_iphoneos-arm.deb
+Size: 111556
+MD5sum: 47c0211743b2cbdc372cf581dfaae08b
+SHA1: ad24d71968d002237171082c9be8f1833ece5627
+SHA256: 71572c1720725971f48744d1e23ed377f697ab112fe916a658b722a8defa3dfd
+Section: Acreson-游戏(Games)
+Description: 解锁功能：没有草，没有后坐力，没有蔓延，汽车大小，快速移动，跳高，HIFH汽车视图，隐藏汽车
+Author: kgfunn&7mo0dd9
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Pubg mobile Hack 刺激战场国际服
+
 Package: acreson.pubgmobilehook
 Version: 0.13.0
 Architecture: iphoneos-arm

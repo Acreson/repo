@@ -1954,6 +1954,23 @@ Depiction: https://repo.orangebananaspy.com/depiction.php?id=1
 Icon: file:///Applications/Cydia.app/Sections/Keyboards.png
 Name: NudeKeys (iOS 12) 键盘增强
 
+Package: acreson.kf.lookinloader
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 3780
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/acreson.kf.lookinloader_1.0.2-1_iphoneos-arm.deb
+Size: 642704
+MD5sum: 5f107efca262f944384813990602937b
+SHA1: 4d2ce08cc61804b802bbe39791f46352fbdf4b90
+SHA256: f434b8c9503e10eb838fd591e4f0fab3228e6dcf2624539748551fa4bda2857b
+Section: Acreson-开发(Development)
+Description: UI图形化调试
+Author: creantan/P.Y.G
+Icon: file:///Applications/Cydia.app/Sections/Development.png
+Name: LookinLoader UI图形化调试工具
+
 Package: acreson.kingsraidcrack
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -4055,6 +4072,26 @@ Description: 超级会员权限
 Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WPS Office Crack
+
+Package: acreson.zq.xin
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 5105
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/acreson.zq.xin_2.2.1_iphoneos-arm.deb
+Size: 1367996
+MD5sum: ad97e30e220d073729f62eb22f283a60
+SHA1: b07b9e6e4b030f3b88035d96acc7ee13dbf4920a
+SHA256: aed8fac7b8195081d535908d35dac76b446aa53927cf291dc035dbfaaa63b983
+Section: Acreson-增强(Enhance)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatassistantDp
+Description: 微信多功能小助手
+Author: FantasticSkyBaby <lazysloths@yahoo.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatassistantDp
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChatAssistant-微信多功能小助手
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.zq.zvooqmusicpremium
 Version: 0.0.2

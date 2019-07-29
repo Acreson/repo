@@ -3871,6 +3871,23 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Facetune2 Crack
 
+Package: acreson.zq.fkwechatzan
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 228
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.fkwechatzan_0.0.1-6+debug_iphoneos-arm.deb
+Size: 33930
+MD5sum: 8d7d6eeb60532acf70f95b6895a8d331
+SHA1: 28d3c88cc67fb2edca2f2f4b8d758e4330831203
+SHA256: cbfe29e59eb7975556ceea2f9cd4ed19568c492c7d6c1d842ccf8d17a385e01f
+Section: Acreson-增强(Enhance)
+Description: 微信集赞，评论插件，随意设置点赞数量和评论。集赞换礼品终结杀手！
+Author: xia0
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChatZan 集赞评论助手
+
 Package: acreson.zq.jdjuan
 Version: 0.1-1
 Architecture: iphoneos-arm

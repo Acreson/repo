@@ -4351,6 +4351,28 @@ Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Chimera/Electra专用Cydia
 
+Package: cydia-dark
+Version: 1.9.3~chimera5
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 9416
+Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
+Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
+Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
+Filename: ./debs/cydia-dark_1.9.3~chimera5_iphoneos-arm.deb
+Size: 1366468
+MD5sum: 042268abff8f589dec006d1fafa6a08a
+SHA1: 0d93b033935bf1e31a7f322e902e26385bcf396d
+SHA256: bdf69ea3221f376987b6f7f4dde6ddd97438b215d7bc8d91213c0fb3e2545702
+Section: Acreson-安装包(Packages)
+Priority: optional
+Description: graphical iPhone front-end for APT
+Author: Diatrus <me@diatr.us>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+Name: Chimera/Electra专用Cydia
+
 Package: cydia-lproj
 Version: 1.9.3~chimera
 Architecture: iphoneos-arm
@@ -4369,6 +4391,28 @@ Section: Acreson-依赖(Depends)
 Priority: required
 Description: languages and translations for Cydia
 Tag: purpose::uikit, cydia::essential, role::enduser
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia-lproj/
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: Cydia Translations
+
+Package: cydia-lproj
+Version: 1.9.3~chimera5
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 712
+Depends: cydia
+Conflicts: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Provides: org.thebigboss.russiancydia
+Filename: ./debs/cydia-lproj_1.9.3~chimera5_iphoneos-arm.deb
+Size: 66968
+MD5sum: 8472a388811039a7f8fb99c95c8fff69
+SHA1: d9b7ef2c088afbd2dab579cd829ac4b9086a24b8
+SHA256: e72a3b8b130aab0e22de4b2b70a9e9225a3112e845fbff13c28c05f45b5fadd8
+Section: Acreson-依赖(Depends)
+Priority: required
+Description: languages and translations for Cydia
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Icon: file:///Applications/Cydia.app/Sections/Addons.png

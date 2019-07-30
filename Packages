@@ -399,38 +399,6 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-Panda
 
-Package: acreson.app.pricetag
-Version: 2.6.7
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/acreson.app.pricetag_2.6.7_iphoneos-arm.deb
-Size: 9376500
-MD5sum: 5934a0873d261a34b38688d4b2d98f7b
-SHA1: 9e450ef004e85498a7f0464d16bbbe32be2fce49
-SHA256: f926206fafb0e11fca1d08717ef71a8fc393c7d54744381dee7430b6af79fdf7
-Section: Acreson-软件(Applications)
-Description: AppStore的下架应用，可以查看历史价格等等，已砸壳转deb
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-Price Tag
-
-Package: acreson.app.procam6
-Version: 11.5.7
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/acreson.app.procam6_11.5.7_iphoneos-arm.deb
-Size: 13358448
-MD5sum: e369cf9faa1985eb44970efacdefed7f
-SHA1: aaccca47944f84a2ab62e6abafda180973d45f56
-SHA256: 0984b187147fe42188b5b25417c470759a758699d518a4959e1172995d35e86d
-Section: Acreson-软件(Applications)
-Description: AppStore的40元摄影app，已砸壳转deb
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-ProCam 6
-
 Package: acreson.app.shupro
 Version: 1.0.2
 Architecture: iphoneos-arm

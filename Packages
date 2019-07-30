@@ -834,6 +834,22 @@ Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: No SileoDepiction
 
+Package: acreson.cj.nosourceerrors
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Filename: ./debs/acreson.cj.nosourceerrors_0.1.1_iphoneos-arm.deb
+Size: 3436
+MD5sum: d42bac901b8b77bdf879b0283a4b5376
+SHA1: 2ef3c4dad314a41e74f880750e8f58220a5307b7
+SHA256: 87f12050fb79abb8cd770e44ce2fc3b8081ac83547b393ffc4402873b7685fe3
+Section: Acreson-插件(Tweaks)
+Description: 屏蔽Electra/Chimera越狱上运行Cydia出现的Apt不兼容黄字信息。如：《Problem unlinking the file auxfiles - Clean (1:Operation not permitted)》
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: No SourceErrors 屏蔽Cydia黄字
+Sponsor: Acreson
+
 Package: acreson.cj.silentrecorder
 Version: 1.4.1
 Architecture: iphoneos-arm

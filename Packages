@@ -271,6 +271,22 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
+Package: acreson.app.395
+Version: 1.1.5-9
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/acreson.app.395_1.1.5-9_iphoneos-arm.deb
+Size: 11095600
+MD5sum: 9cf4f2d9f8f60ee242e31abb842cdcea
+SHA1: bdd921dac4c6ed41f1ca1e51e669bd1fe2c15ec6
+SHA256: a769c279fa069273699d65d4496df5ed9fa5775511d27d080e1caff33864c8a3
+Section: Acreson-软件(Applications)
+Description: 开车app
+Author: CokePokes
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-iNutt
+
 Package: acreson.app.amjpj
 Version: 1.2
 Architecture: iphoneos-arm

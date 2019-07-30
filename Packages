@@ -834,6 +834,23 @@ Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: No SileoDepiction
 
+Package: acreson.cj.silentrecorder
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.silentrecorder_1.4.1_iphoneos-arm.deb
+Size: 26072
+MD5sum: aaf0fc48786846e1ab5d636dd123b22f
+SHA1: 9988a705d104e7d59da095231be5148ea63fec63
+SHA256: 9adc1c18c51b2830018e84a5ccfa1c5c07835728a46824514f5df981cd0d57e2
+Section: Acreson-插件(Tweaks)
+Description: 隐藏各种各样的指示标志，比如录制红，热点蓝，支持A12
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SilentRecorder 隐藏各种指示
+
 Package: acreson.cj.slices3
 Version: 3.0.5
 Architecture: iphoneos-arm

@@ -866,6 +866,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: No SourceErrors 屏蔽Cydia黄字
 Sponsor: Acreson
 
+Package: acreson.cj.showtouch
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 388
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/acreson.cj.showtouch_1.0.3-1_iphoneos-arm.deb
+Size: 87804
+MD5sum: 0a4920ec14b35f2160b3a86ab2544877
+SHA1: ef693389b7457a83db7bc4a345ccc7a41f7b468a
+SHA256: f9395f560a13f84dbe8af4e8bd604bb9126c585d795df918f6cdc23b3a6fa551
+Section: Acreson-插件(Tweaks)
+Description: 触摸显示点，适合录屏教学(已汉化)
+Author: LonestarX <me@lonestarx.net>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: ShowTouch 触摸显示
+
 Package: acreson.cj.silentrecorder
 Version: 1.4.1
 Architecture: iphoneos-arm

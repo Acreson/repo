@@ -1684,6 +1684,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: FingerTouch 指纹触控
 Sponsor: Ccydia <admin@ccydia.com>
 
+Package: acreson.game.joker
+Version: 0.13.6-1+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/acreson.game.joker_0.13.6-1+debug_iphoneos-arm.deb
+Size: 110780
+MD5sum: 7f0715b3e034eaec2c10f964d79a040a
+SHA1: 6284e9e807c264e147ae82bfccbaf35cfd665b83
+SHA256: 0871f8781ef5679b910f6640310c7ea61a1e9e72f6c9cbc1c01ef7f8654712a3
+Section: Acreson-游戏(Games)
+Description: 解锁功能:没有草，没有回收，没有传播，汽车尺寸，快速移动，高跳，汽车车视图，隐藏车.账号验证已去掉，打开的时候稍微多等5s 就可以设置了
+Author: kgfunn&7mo0dd9
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Pubg mobile Hack 刺激战场国际服破解
+
 Package: acreson.game.pmobile013
 Version: 0.13.1
 Architecture: iphoneos-arm

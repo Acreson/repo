@@ -4674,24 +4674,6 @@ Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: BigBoss Icon Set
 
 Package: xyz.willy.zebra
-Version: 1.0~beta18-13+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 20868
-Depends: dpkg
-Filename: ./debs/xyz.willy.zebra_1.0~beta18-13+debug_iphoneos-arm.deb
-Size: 9131176
-MD5sum: c1252fecffeb7d48667115f7a7e4da18
-SHA1: 02fb096e7113198ad48a2e75c53094778d5aac7c
-SHA256: 1555b938f629bb62c4bc4897653a30046b2231568a61feaf276c5ced52e61c9c
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-12
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
 Version: 1.0~beta19-10+debug
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres & Acreson

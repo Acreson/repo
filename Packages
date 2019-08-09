@@ -2723,22 +2723,6 @@ Author: wjg (TouGBao)
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ RecallHook 防撤回增强
 
-Package: acreson.qqcrack
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: mobilesubstrate
-Filename: ./debs/acreson.qqcrack_1.0_iphoneos-arm.deb
-Size: 173872
-MD5sum: 514f04a5144f40467921419cf1cce53e
-SHA1: 854270fb7b18b14d53efbff0187a800755d3374d
-SHA256: 17de6530179f6c661a3dbb8c9e7c8ca960ac6a0522acca2d0ffd4fa7071f793b
-Section: Acreson-增强(Enhance)
-Description: 自动保存闪照，闪照截图无限制，自动抢红包，支持私聊红包、群红包；普通红包、口令红包，消息防撤回，修改手机型号，支持的手机型号有iPhone 1G-iPhone XS Max、iPad、iPod，修改后的手机型号会在对方聊天页面顶部以及QQ空间生效，设置完毕需要重启QQ生效。所有功能默认关闭，请至设置-QQ插件中打开或设置。多开需要定制。
-Author: 照相
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: QQ Crack QQ增强
-
 Package: acreson.realcc
 Version: 1.0.2
 Architecture: iphoneos-arm

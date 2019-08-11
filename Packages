@@ -383,22 +383,6 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-南瓜电影(内置破解)
 
-Package: acreson.app.nplayerplus
-Version: 3.10.15.4
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 9.3)
-Filename: ./debs/acreson.app.nplayerplus_3.10.15.4_iphoneos-arm.deb
-Size: 29263368
-MD5sum: be5b8e2f4cb3ef4fdb7d1bd59f432441
-SHA1: 0ded29ea53ad580df2437ad8ff7449b0e3a41717
-SHA256: caa08ab44f8f9854fb986dd388a9b754b1411b3f2769dfd86fcb5e0decfcb1bc
-Section: Acreson-软件(Applications)
-Description: AppStore 60元精品,独特的杜比音效，懂的都懂
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-nPlayer Plus
-
 Package: acreson.app.panda
 Version: 1.1.0
 Architecture: iphoneos-arm

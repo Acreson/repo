@@ -189,15 +189,15 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChatHookPro 微信助手
 
 Package: acreson.YouQuan
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.youquan_1.0-2_iphoneos-arm.deb
-Size: 70444
-MD5sum: 37e5bd80e4026498981c6c620c8f8f74
-SHA1: a37d78d376dc9c910c31fb1f157361d52f730aac
-SHA256: 6e4e1753ff06cb5ed36beb44b3434f41c046095c9c52911d9607f1f28c803d3f
+Filename: ./debs/acreson.youquan_1.0-3_iphoneos-arm.deb
+Size: 60748
+MD5sum: 516bd4bc96b192e2d6c7b29a03ba735d
+SHA1: ce914bdd02ba0c793ecc3196159071f361ba370c
+SHA256: 1c31b5e76c919b99a1da818337f3efb10d717ed98cdd5b4521e120a8594b2fb9
 Section: Acreson-增强(Enhance)
 Description: 淘宝购买页面添加领卷，价格历史等，开关在淘宝里面
 Author: Mao

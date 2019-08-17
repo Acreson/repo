@@ -4214,16 +4214,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
 Filename: ./debs/acreson.zt.vlian_1.0_iphoneos-arm.deb
-Size: 97016
-MD5sum: add9a0fff796e2dcc082ee4a2171c61d
-SHA1: 90677c5bec1b4713f7654d02423ee5f04c4df49f
-SHA256: bac392ef7b8e6e989d64af0b4a22eb5fcb63ed16d67d197c14e073e3e350b66d
+Size: 97008
+MD5sum: 1cd06706acd07bca1b146e7acffcf4c1
+SHA1: eb60500c9af028e2c62e23da3a43460832e691ed
+SHA256: facfbde48bec37ee231b7ff50027437c3a40040b8efdbd7c9fe19c1899551524
 Section: Acreson-主题(Themes)
 Description: V脸注销.个人喜欢
 Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: V脸 ReSpring Logo
-Sileodepiction: https://crazyc.top/ms/msxq/viola.json
+Sileodepiction: https://crazyc.top/ms/msxq/v.json
 Sponsor: Acreson <http://crazyc.top>
 
 Package: areson.unsub

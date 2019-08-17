@@ -4209,6 +4209,23 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Zvooq Music Premium
 
+Package: acreson.zt.vlian
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.zt.vlian_1.0_iphoneos-arm.deb
+Size: 97016
+MD5sum: add9a0fff796e2dcc082ee4a2171c61d
+SHA1: 90677c5bec1b4713f7654d02423ee5f04c4df49f
+SHA256: bac392ef7b8e6e989d64af0b4a22eb5fcb63ed16d67d197c14e073e3e350b66d
+Section: Acreson-主题(Themes)
+Description: V脸注销.个人喜欢
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: V脸 ReSpring Logo
+Sileodepiction: https://crazyc.top/ms/msxq/viola.json
+Sponsor: Acreson <http://crazyc.top>
+
 Package: areson.unsub
 Version: 0.1.9
 Architecture: iphoneos-arm
@@ -4241,6 +4258,22 @@ Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers�
 Author: PoomSmart & vXBaKeRXv
 Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: Emoji-Facebook 工具版
+
+Package: cacreson.zq.DouTu
+Version: 0.1-3
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cacreson.zq.doutu_0.1-3_iphoneos-arm.deb
+Size: 93864
+MD5sum: 4374714946749d8aa1159df4163c87d5
+SHA1: 443fce5776b68a48667ed36c06acae8e13b8d9f3
+SHA256: d58e28cd7ced496083749aaa7969e351c0d81c38121835638905a0fcfe8946b5
+Section: Acreson-增强(Enhance)
+Description: 老猫斗图助手分离出来了
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 微信斗图助手
 
 Package: com.bingner.plutil
 Version: 0.1.0

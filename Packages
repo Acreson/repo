@@ -3567,6 +3567,22 @@ Author: iBreak <ibreak2019@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChat Helper 微信助手
 
+Package: acreson.wechathelper
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/acreson.wechathelper_2.2.0_iphoneos-arm.deb
+Size: 75376
+MD5sum: 2cbc0819c4fc068e9ff219adbafb2bd9
+SHA1: 4ec734de1f9514a740e0da60c0fe4f9d2ea252bf
+SHA256: 4ffc5a31e585db1a1e35247eca56a887879bd2ad222ee369c2bfda13c4fd9940
+Section: Acreson-增强(Enhance)
+Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
+Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChat Helper 微信助手
+
 Package: acreson.wechatredenvelop
 Version: 2.1.1
 Architecture: iphoneos-arm

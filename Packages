@@ -766,6 +766,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccdatamore
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CCDataMore 数据开关
 
+Package: acreson.cj.SuDial
+Version: 0.1-3
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/acreson.cj.sudial_0.1-3_iphoneos-arm.deb
+Size: 240304
+MD5sum: 531534ab52fd60016ff40dcbd1b9260d
+SHA1: b3975f8b222fbd7d663f844057ec027a9a527c11
+SHA256: dd84f59aa45ac2b6f5db1338c1d527cd2d50f550f4e069caedd48e2c425d8221
+Section: Acreson-插件(Tweaks)
+Description: 电话的T9拨号助手
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SuDial - T9拨号
+
 Package: acreson.cj.antirevoke
 Version: 1.1
 Architecture: iphoneos-arm
@@ -833,6 +849,24 @@ Description: 添加3D触摸手势到Cydia IOS 12 (unc0ver)。
 Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Cydia3DTouch 12
+
+Package: acreson.cj.killmyapps
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 916
+Pre-Depends: com.spark.libsparkapplist
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.killmyapps_1.0.3_iphoneos-arm.deb
+Size: 328276
+MD5sum: dde4e5df61daa6c583325d21b463fbb4
+SHA1: b3d7f4d2fd1d8db2c28f900bb3bdab8142efea02
+SHA256: e658ab2b5133eb3f31c9fc97b9d7a77bae9ca899741f55c03e9a59c3bd898c27
+Section: Acreson-插件(Tweaks)
+Description: 锁定后台应用不被杀。
+Author: smokin1337
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: KillMyApps 锁后台
 
 Package: acreson.cj.nosileodepiction
 Version: 0.1.1
@@ -3172,25 +3206,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
 
-Package: acreson.sutupluscg
-Version: 2.6.3CG
-Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 780
-Depends: mobilesubstrate
-Filename: ./debs/acreson.sutupluscg_2.6.3CG_iphoneos-arm.deb
-Size: 214904
-MD5sum: b76fbafe95c49ce74f881389c27ed954
-SHA1: 63c85b71ad7f4df78ff800beba270fab9fe016b6
-SHA256: 81cf9616256baf53465bb14a339c0b97941817a5799dd0019b65de4ff3382271
-Section: Acreson-增强(Enhance)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
-Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
-Author: Karo
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: SutuPLUS软妹版-苏兔PLUS WX美化增强工具
-
 Package: acreson.swipeformore
 Version: 1.1.10
 Architecture: iphoneos-arm
@@ -4119,6 +4134,26 @@ Description: 图片/视频助手！开启市面上主流修图/视频剪辑App�
 Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: PictureVideo Helper
+
+Package: acreson.zq.sutuplus
+Version: 2.6.5
+Architecture: iphoneos-arm
+Maintainer: Carby
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.sutuplus_2.6.5_iphoneos-arm.deb
+Size: 229992
+MD5sum: fef1db83c2cbc7af68598649bc1df4e4
+SHA1: 59c0416c95a4c1232321007d8cdd8f7d1d9170d4
+SHA256: 9e0073d9cf569c70b28fe5afdba966271f355d5355f92e3d84d73d7863a7bb9d
+Section: Acreson-增强(Enhance)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
+Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12
+Author: Karo
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: SutuPLUS-苏兔PLUS WX美化增强工具
 
 Package: acreson.zq.videoshophack
 Version: 1.0.2

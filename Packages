@@ -650,6 +650,23 @@ Author: William Vabrinskas
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Boxy 3 桌面布局自定义
 
+Package: acreson.boxy3
+Version: 3.6.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm
+Filename: ./debs/acreson.boxy3_3.6.1_iphoneos-arm.deb
+Size: 2595252
+MD5sum: 211b0cd08fcab95cbfa4c3f1b56a9031
+SHA1: 0a1c0286bc3b221724317af1cd6aa83eef5cfbd3
+SHA256: 96a0e1992976fbb3f27eda1eec3996efaa32b707c6613b6884b406b930ba02ae
+Section: Acreson-插件(Tweaks)
+Description: 桌面布局自定义,大小，间距
+Author: William Vabrinskas
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Boxy 3 桌面布局自定义
+
 Package: acreson.brickfix
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -3185,26 +3202,6 @@ Icon: file:///Applications/Cydia.app/Sections/System.png
 Moderndepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
 Name: Succession 平刷工具
 Sileodepiction: https://samgisaninja.github.io/depiction/native/com.samgisaninja.successionrestore.json
-
-Package: acreson.sutuplus
-Version: 2.6.3
-Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 780
-Depends: mobilesubstrate
-Filename: ./debs/acreson.sutuplus_2.6.3_iphoneos-arm.deb
-Size: 214944
-MD5sum: c12e328aa01ab2d462b1f7ad79bdc6e0
-SHA1: 6e4db6292b6a633c787db8ff56a90a6ce494e2e7
-SHA256: ecb973e3bc6d6988caa21e7df45b8dea55a569648c5bf221ee2d21892c8a98d4
-Section: Acreson-增强(Enhance)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
-Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
-Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12
-Author: Karo
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: SutuPLUS大众版-苏兔PLUS WX美化增强工具
 
 Package: acreson.swipeformore
 Version: 1.1.10

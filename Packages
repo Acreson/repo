@@ -4083,6 +4083,23 @@ Author: xia0
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChatZan 集赞评论助手
 
+Package: acreson.zq.floatlyric
+Version: 1.5.3-2+debug
+Architecture: iphoneos-arm
+Maintainer: mika
+Installed-Size: 952
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.floatlyric_1.5.3-2+debug_iphoneos-arm.deb
+Size: 126676
+MD5sum: 810b5ae4ef571e46e5b525cda5a16c06
+SHA1: 64b33fb92da3effd5d8d8929c8238913a8e19cfd
+SHA256: 26013ebb40a6d95097efbb4d57adc29846062eebfde03618e069d93a49441fb7
+Section: Acreson-增强(Enhance)
+Description: 歌词悬浮窗
+Author: mika
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: FloatLyric 歌词悬浮窗
+
 Package: acreson.zq.jdjuan
 Version: 0.1-1
 Architecture: iphoneos-arm

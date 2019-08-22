@@ -2120,6 +2120,24 @@ Depiction: https://repo.orangebananaspy.com/depiction.php?id=1
 Icon: file:///Applications/Cydia.app/Sections/Keyboards.png
 Name: NudeKeys (iOS 12) 键盘增强
 
+Package: acreson.kf.debrepack
+Version: 1.0-1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: dpkg
+Filename: ./debs/acreson.kf.debrepack_1.0-1a_iphoneos-arm.deb
+Size: 1376
+MD5sum: 9e05f5540b502c61397cbe50eb56df54
+SHA1: 2f3bc4270550e4b36eb9fdfe9317a01d78fb3968
+SHA256: 4ad51fcf386b5ff5819b9a769ceaefae4084b7d50c74ed644a6d71808c589a34
+Section: Acreson-开发(Development)
+Homepage: http://twitter.com/ijulioverne
+Description: bash命令重新打包deb文件容易重新打包deb文件。在终端上键入debextract/debmount，以卸载/var/mobile/deb/上的/mount deb文件
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.debrepack
+Icon: file:///Applications/Cydia.app/Sections/Development.png
+Name: deb Repack
+
 Package: acreson.kf.lookinloader
 Version: 1.0.2-1
 Architecture: iphoneos-arm

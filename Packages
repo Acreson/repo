@@ -2100,6 +2100,25 @@ Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: 聚爆Implosion 破解
 
+Package: acreson.jp.nudekeys
+Version: 4.3
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 5116
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.jp.nudekeys_4.3_iphoneos-arm.deb
+Size: 1095428
+MD5sum: c734972d2606787f648bb4e4b1afe79f
+SHA1: e00511afa5befb0beaa5c7c8a5efb4bbb4e5b1bf
+SHA256: a6c2d6a9bb775e43f64e37e19da0036f6a7d8b98075f528aa533cc3275604bce
+Section: Acreson-键盘(Keyboards)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nudekeysDp
+Description: 自定义键盘颜色，渐变色
+Author: Orangebananaspy <support@orangebananaspy.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nudekeysDp
+Icon: file:///Applications/Cydia.app/Sections/Keyboards.png
+Name: NudeKeys(IOS7-11)键盘增强
+
 Package: acreson.jp.nudekeysios12
 Version: 1.0.0~b8
 Architecture: iphoneos-arm
@@ -4358,6 +4377,22 @@ Author: Mao
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 微信斗图助手
 
+Package: cacreson.zq.DouTu
+Version: 0.1-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cacreson.zq.doutu_0.1-5_iphoneos-arm.deb
+Size: 102900
+MD5sum: 25242e7a25c3cead940a4c7ec29718ef
+SHA1: a6498f5d88b79ab5afdf4f10fd629e36e0d9c1cf
+SHA256: 2622deda427b2e97360825b4df4c735a4f0972a74f96db72b1a15144ef2d3547
+Section: Acreson-增强(Enhance)
+Description: 老猫斗图助手分离出来了
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 微信斗图助手
+
 Package: com.bingner.plutil
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -4714,25 +4749,6 @@ Homepage: http://tukaani.org/lzma/
 Description: slower, but better, compression algorithm
 Icon: file:///Applications/Cydia.app/Sections/Archiving.png
 Name: LZMA Utils
-
-Package: oacreson.jp.nudekeys
-Version: 4.3
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 5116
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: ./debs/oacreson.jp.nudekeys_4.3_iphoneos-arm.deb
-Size: 1095524
-MD5sum: 1340c8b6e0dd457babf10bfd097fb2bd
-SHA1: 3ea18bbe52d579443cfdebd64be4177c0bf0904d
-SHA256: 7df82b557842b97903266fdddf1309fef150eaf1ffe9c404cc8e795436b164de
-Section: Acreson-键盘(Keyboards)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nudekeysDp
-Description: 自定义键盘颜色，渐变色
-Author: Orangebananaspy <support@orangebananaspy.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nudekeysDp
-Icon: file:///Applications/Cydia.app/Sections/Keyboards.png
-Name: NudeKeys(IOS7-11)键盘增强
 
 Package: org.ioshack.icontool
 Version: 1.9-7

@@ -816,6 +816,24 @@ Author: 180 & 小苹果
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AntiRevoke
 
+Package: acreson.cj.artsy
+Version: 2.0~Beta.8
+Architecture: iphoneos-arm
+Maintainer: Acreson <342081024@qq.com>
+Installed-Size: 1880
+Depends: mobilesubstrate, acreson.yl.utils
+Filename: ./debs/acreson.cj.artsy_2.0~Beta.8_iphoneos-arm.deb
+Size: 649248
+MD5sum: c1b64a297688be8349017e4fb2f75012
+SHA1: d38b6305e9ee6f0cdceb80cf7339d645f54ca163
+SHA256: a64791a8725c5ab7609a4ade61cdf181a9aa3940d24b694dd2646276fdee346f
+Section: Acreson-插件(Tweaks)
+Description: Color your music stuff
+Author: Max Dausch <max.dausch@gmail.com>
+Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.artsy
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Artsy 音乐配色
+
 Package: acreson.cj.bannermusic
 Version: 0.0.9
 Architecture: iphoneos-arm

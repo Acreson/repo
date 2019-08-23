@@ -969,6 +969,24 @@ Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Slices 3 应用多开
 
+Package: acreson.cj.sylph
+Version: 1.1~Beta.3
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 368
+Depends: mobilesubstrate, acreson.yl.utils (>= 0.0.2)
+Filename: ./debs/acreson.cj.sylph_1.1~Beta.3_iphoneos-arm.deb
+Size: 68940
+MD5sum: ce357e672b3f539db03698c1d698b681
+SHA1: 30c781c5f4e60f2c4a4f76cdcdf3870c57312e24
+SHA256: 254e48f9497159f5506e470f344b9cb8ddd4186d2ee4c36433d70dcceabc05a1
+Section: Acreson-插件(Tweaks)
+Description: 定制您的锁屏通知音乐播放器
+Author: Max Dausch <max.dausch@gmail.com>
+Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.sylph
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Sylph 定制LS播放器
+
 Package: acreson.cj.weatherana
 Version: 1.3
 Architecture: iphoneos-arm
@@ -3257,24 +3275,6 @@ Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: SwipeForMore Cydia智能滑动增强
 
-Package: acreson.sylph
-Version: 1.1~Beta.2
-Architecture: iphoneos-arm
-Maintainer: Max Dausch <max.dausch@gmail.com>
-Installed-Size: 368
-Depends: mobilesubstrate, acreson.utils (>= 0.0.2)
-Filename: ./debs/acreson.sylph_1.1~Beta.2_iphoneos-arm.deb
-Size: 68948
-MD5sum: 1ab343dbbf3932426347c6a4e3946a0a
-SHA1: 7608acebf09d4485109139f34b3ff6d607aeef25
-SHA256: 0ef6715ab07bae63358a42c4ccd54e971f528535b34e04c699918d5a9aabab23
-Section: Acreson-插件(Tweaks)
-Description: Customize your LS music player
-Author: Max Dausch <max.dausch@gmail.com>
-Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.sylph
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Sylph 迷你通知音乐
-
 Package: acreson.systeminfo
 Version: 2.2.1-10+debug
 Architecture: iphoneos-arm
@@ -3462,23 +3462,6 @@ Description: SHSH2一键备份工具,挂好VPN即可开始
 Author: Jamie Bishop
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: TSS Saver 备份shsh2
-
-Package: acreson.utils
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: Maxwell Dausch <max.dausch@gmail.com>
-Installed-Size: 236
-Filename: ./debs/acreson.utils_0.0.3_iphoneos-arm.deb
-Size: 14080
-MD5sum: b9a006dac8fbf29c1f89a70eaf77484e
-SHA1: 4a27cbd7869b39618eef6f2623e6c92aec2128f2
-SHA256: c128c98508c0fdce2b121ef45f31a0c188c60661a7cd0bd2659576376071f591
-Section: Acreson-依赖(Depends)
-Description: A collection of common functions for my tweaks. More documentation will be coming soon.
-Tag: role::developer
-Author: Maxwell Dausch <max.dausch@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Addons.png
-Name: MDausch Utils 迷你通知音乐依赖
 
 Package: acreson.vcallers
 Version: 1.1
@@ -3746,6 +3729,23 @@ Description: 氧气听书破解，去除所有广告
 Author: 长生果子
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 氧气听书破解
+
+Package: acreson.yl.utils
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 132
+Filename: ./debs/acreson.yl.utils_0.0.1_iphoneos-arm.deb
+Size: 11304
+MD5sum: 49263abd602b9a0b9ef2dd3253cd86e9
+SHA1: a87d7473fc173070616a28f38c675c793df989d9
+SHA256: 37c370222ad5e077477a4415349328437c95176b289c7eadeff87f620ba32648
+Section: Acreson-依赖(Depends)
+Description: 一组用于我的调整的常用函数。更多的文档将很快发布。
+Tag: role::developer
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: MDausch Utils
 
 Package: acreson.youtubetools
 Version: 3.0-1

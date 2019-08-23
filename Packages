@@ -3832,6 +3832,22 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 1Password Crack
 
+Package: acreson.zq.DouTu
+Version: 0.1-5
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.zq.doutu_0.1-5_iphoneos-arm.deb
+Size: 102940
+MD5sum: b8b87f09c783f279afc784b5a96e1922
+SHA1: afa93a94f2053d3ab09fb7bcad4a5feea8a3874a
+SHA256: f368e479dfe881078b2314c142d32bbe5241924ea35ae4593afb473e8a093114
+Section: Acreson-增强(Enhance)
+Description: 老猫斗图助手分离出来了
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: 微信斗图助手
+
 Package: acreson.zq.SoundCloud
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
@@ -4371,22 +4387,6 @@ Size: 93864
 MD5sum: 4374714946749d8aa1159df4163c87d5
 SHA1: 443fce5776b68a48667ed36c06acae8e13b8d9f3
 SHA256: d58e28cd7ced496083749aaa7969e351c0d81c38121835638905a0fcfe8946b5
-Section: Acreson-增强(Enhance)
-Description: 老猫斗图助手分离出来了
-Author: Mao
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: 微信斗图助手
-
-Package: cacreson.zq.DouTu
-Version: 0.1-5
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/cacreson.zq.doutu_0.1-5_iphoneos-arm.deb
-Size: 102900
-MD5sum: 25242e7a25c3cead940a4c7ec29718ef
-SHA1: a6498f5d88b79ab5afdf4f10fd629e36e0d9c1cf
-SHA256: 2622deda427b2e97360825b4df4c735a4f0972a74f96db72b1a15144ef2d3547
 Section: Acreson-增强(Enhance)
 Description: 老猫斗图助手分离出来了
 Author: Mao

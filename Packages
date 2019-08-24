@@ -4244,6 +4244,22 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Zvooq Music Premium
 
+Package: acreson.zt.fluo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.zt.fluo_1.0_iphoneos-arm.deb
+Size: 10854316
+MD5sum: 134fd68ba83f35113a82498e4cfa239a
+SHA1: e0d715e69fe71c2615d82beeb95cfb4ba4e5c1bd
+SHA256: ff9910b6e3ebca6b5feef73301b18ad7a959e23cba8c11fcfac62f829b7f7ff1
+Section: Acreson-主题(Themes)
+Description: 一个比较普通的主题
+Author: frenchitouch
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: Fluo 主题
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.zt.vlian
 Version: 1.0
 Architecture: iphoneos-arm

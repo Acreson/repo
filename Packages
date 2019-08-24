@@ -4042,12 +4042,29 @@ Maintainer: mika
 Installed-Size: 952
 Depends: mobilesubstrate
 Filename: ./debs/acreson.zq.floatlyric_1.5.3-2+debug_iphoneos-arm.deb
-Size: 126676
-MD5sum: 810b5ae4ef571e46e5b525cda5a16c06
-SHA1: 64b33fb92da3effd5d8d8929c8238913a8e19cfd
-SHA256: 26013ebb40a6d95097efbb4d57adc29846062eebfde03618e069d93a49441fb7
+Size: 126748
+MD5sum: 70f9ee1294f16ccb2fa6d24370a6d85f
+SHA1: c8b892ad36e4660f6ee7f330f84551ab34cb49dc
+SHA256: ed91c14278e1ba5a3a2db2ef3010613486ac0370f788ac47f844e9146155dc0d
 Section: Acreson-增强(Enhance)
-Description: 歌词悬浮窗
+Description: 歌词悬浮窗，正版分流
+Author: mika
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: FloatLyric 歌词悬浮窗
+
+Package: acreson.zq.floatlyric
+Version: 1.5.4-40+debug
+Architecture: iphoneos-arm
+Maintainer: mika
+Installed-Size: 1048
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.floatlyric_1.5.4-40+debug_iphoneos-arm.deb
+Size: 156152
+MD5sum: 156499edfcff6fab716559ce06c714ed
+SHA1: 18be6738681b4d9e9dc7d59c838a0c6691a2f8c0
+SHA256: 675f65577b6fb352bf7030608a6d9a227dd2d9fc519f11c1e8988511f3ba7dd8
+Section: Acreson-增强(Enhance)
+Description: 歌词悬浮窗，正版分流
 Author: mika
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: FloatLyric 歌词悬浮窗

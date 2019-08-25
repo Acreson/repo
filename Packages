@@ -935,6 +935,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: No SourceErrors 屏蔽Cydia黄字
 Sponsor: Acreson
 
+Package: acreson.cj.selectionplus
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: Acreson  <342080124@qq.com>
+Installed-Size: 972
+Depends: mobilesubstrate, firmware (>= 10.3), ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debs/acreson.cj.selectionplus_9.9.9_iphoneos-arm.deb
+Size: 98132
+MD5sum: d0017ccd83e604e03d7f935dbf9784f6
+SHA1: d205f653cf783be9a908cc9803a224669f7044f8
+SHA256: 621657845d10654e783e702db2def3ff1647d0f2e5d366ce24896c3fac864c4c
+Section: Acreson-插件(Tweaks)
+Description: 改善你的长按菜单
+Author: Satvik <satvikdeveloper@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SelectionPlus 快捷菜单增强
+
 Package: acreson.cj.showtouch
 Version: 1.0.3-1
 Architecture: iphoneos-arm
@@ -4326,22 +4343,6 @@ Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers�
 Author: PoomSmart & vXBaKeRXv
 Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: Emoji-Facebook 工具版
-
-Package: cacreson.zq.DouTu
-Version: 0.1-3
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/cacreson.zq.doutu_0.1-3_iphoneos-arm.deb
-Size: 93864
-MD5sum: 4374714946749d8aa1159df4163c87d5
-SHA1: 443fce5776b68a48667ed36c06acae8e13b8d9f3
-SHA256: d58e28cd7ced496083749aaa7969e351c0d81c38121835638905a0fcfe8946b5
-Section: Acreson-增强(Enhance)
-Description: 老猫斗图助手分离出来了
-Author: Mao
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: 微信斗图助手
 
 Package: com.bingner.plutil
 Version: 0.1.0

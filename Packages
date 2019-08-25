@@ -3632,6 +3632,23 @@ Icon: file:///Applications/Cydia.app/Sections/Localization.png
 Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.xt.preferenceloaderfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.xt.preferenceloaderfix_1.0_iphoneos-arm.deb
+Size: 1772
+MD5sum: d3cda056b653408b32c4efcef7311c26
+SHA1: 556ef4e2f8b6e328db90a93b01fe2122f9e967ad
+SHA256: 78d94f39017ddcf92c868a716a58f8841d9e0a2c80ea453c9f18850f71c94651
+Section: Acreson-系统(System)
+Priority: standard
+Description: 装第三方设置显示插件PreferenceLoader导致快链失效，可以用此脚本进行修复，适合Electra/Chimera越狱，支持A12。最后提醒一句，最好装作者源的PreferenceLoader，因为二次打包，会破坏包内的快链路径，只有编译的原包才不会破坏。
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: Chimera/Electra JailBreak 修复快链
+
 Package: acreson.xyz
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4860,6 +4877,24 @@ Size: 6182892
 MD5sum: 004c51647756611c75c192b8af36220a
 SHA1: 315c5d8d7ccd92c6127d10fe17c6a441c08eea7a
 SHA256: 0a03cacb4f50933d95b55dbc4652a32e041c5399c94047e8b664bbf0707979dd
+Section: Acreson-安装包(Packages)
+Description: 一个包管理器支持IOS8-13
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: Zebra（beta）汉化优化
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
+
+Package: xyz.willy.zebra
+Version: 1.0~beta21-1+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 18224
+Depends: dpkg, uikittools
+Filename: ./debs/xyz.willy.zebra_1.0~beta21-1+debug_iphoneos-arm.deb
+Size: 6182654
+MD5sum: 8335f0a07951ca005918b3edf8e0b19f
+SHA1: 52224b4dff7c224876bd209d7e7aae772fc7ec12
+SHA256: 7ee22dd6914fcb9af19437957c37f9c76c1b7d9d9f28b48ee8ff0c41d22df33a
 Section: Acreson-安装包(Packages)
 Description: 一个包管理器支持IOS8-13
 Author: Wilson Styres & Acreson

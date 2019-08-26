@@ -1906,22 +1906,6 @@ Author: Domo
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: GBA4IOS 模拟器
 
-Package: acreson.gj.cydown
-Version: 6.9.7
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.gj.cydown_6.9.7_iphoneos-arm.deb
-Size: 692320
-MD5sum: a5e69885d98ecc0d2f11bf7b4a8bf423
-SHA1: b2fb94d9b783c0cda83fb9f46973ee8e0f424c04
-SHA256: f10b40762893fff64c6a539e675265e206ac20ae17282cab0bd2b9dbddbd4d46
-Section: Acreson-工具(Utilities)
-Description: 支持Chimera12.2-12.4专版
-Author: julioverne <julioverne@me.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: CyDown Cydia增强12.2+Chimera专版
-
 Package: acreson.gj.shshwallet
 Version: 1.0.1a
 Architecture: iphoneos-arm

@@ -851,6 +851,23 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: BannerMusic 通知音乐
 
+Package: acreson.cj.batchomaticd
+Version: 3.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 504
+Filename: ./debs/acreson.cj.batchomaticd_3.1-6+debug_iphoneos-arm.deb
+Size: 73780
+MD5sum: ae844e75a4c3a451c4aacd941dd64142
+SHA1: 11732662d50dc9d261c3bd13093e12da0152cf19
+SHA256: 7b94d47ffe75aedc08da46271c3c5082ce7d12a6e4e49fc68fd639b58b8cab36
+Section: Acreson-插件(Tweaks)
+Description: 批量安装所有插件，添加所有源，保存所有debs，调整首选项和主机文件的调整。在线或离线。也可以删除所有的调整，注销(Respring)和运行刷新图标缓存(Uicache)。实时节省！兼容iOS 11.0-12.4上的所有设备。与Cydia，Zebra，Sileo和Installer一起使用在Electra/UncOver/Unc0ver dark/Chimera上。可能也适用于较旧的iOS版本
+Author: Capt Inc <captinc37@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Batchomaticd DEB神器
+Sileodepiction: https://crazyc.top/ms/msxq/batchomaticd.json
+
 Package: acreson.cj.cameramode10
 Version: 2.0.2
 Architecture: iphoneos-arm

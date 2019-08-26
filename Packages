@@ -1488,6 +1488,21 @@ Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
 Name: emoji-Facebook 直装版
 Sponsor: Acreson
 
+Package: acreson.emojifacebookefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Filename: ./debs/acreson.emojifacebookefm_1.0_iphoneos-arm.deb
+Size: 53189104
+MD5sum: 83b83aa4087d9db904d8ef2d5b139e62
+SHA1: d720c4edfac5cfd7985dd07ddc2ffde0f537cc41
+SHA256: 57b39781acc16474f9fe372ac0c11e659328583ac3bfd3ff2fab8496587fa044
+Section: Acreson-美化(Beautify)
+Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
+Author: PoomSmart & vXBaKeRXv
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+Name: Emoji-Facebook 工具版
+
 Package: acreson.emojifontmanager
 Version: 0.0.6-1
 Architecture: iphoneos-arm
@@ -4345,21 +4360,6 @@ Description: 在某些应用程序中禁用微调注入(Substrate/Substitute)。
 Author: Nepeta
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: UnSub 屏蔽越狱+禁止注入
-
-Package: cacreson.emojifacebookefm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/cacreson.emojifacebookefm_1.0_iphoneos-arm.deb
-Size: 53188696
-MD5sum: d8406056590298c9f3b76d7303d3121f
-SHA1: d0278def624ecdd597149653443d72528f99129b
-SHA256: 92f460009b06aed2c6ca215932406821140e4afe5c6f639fd3777d0c80c3cedb
-Section: Acreson-美化(Beautify)
-Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
-Author: PoomSmart & vXBaKeRXv
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: Emoji-Facebook 工具版
 
 Package: com.bingner.plutil
 Version: 0.1.0

@@ -4489,10 +4489,10 @@ Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.4-2_iphoneos-arm.deb
-Size: 438504
-MD5sum: 1aa4e28a2751087e97b77e23b3eecb00
-SHA1: cb4839660fd9812da751f907dc2c8375c1a71cf0
-SHA256: c759f2bdb003cda27bccbbb974188df754f8f1193907d0060042dd87802b8daa
+Size: 743136
+MD5sum: 2c8e7c9b0685807064ec170fd9dba59e
+SHA1: ab88dcadc58f5a0db9cc5ef285a5eac7f34d1dc3
+SHA256: 0d131a5fc9ddd6abc17844c1cc97f0d6cdbc8233d7afd97209dadfef0382a873
 Section: Acreson-插件(Tweaks)
 Priority: optional
 Description: 允许你降级/升级iOS 11-12.2应用商店中的应用程序

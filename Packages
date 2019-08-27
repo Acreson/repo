@@ -1079,12 +1079,29 @@ Maintainer: Acreson
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/acreson.cj.xkfilza_0.0.1-26+debug_iphoneos-arm.deb
-Size: 3732
-MD5sum: 2cfcf18681cfc365a9b2600ae5d6d66d
-SHA1: b8cca7566b0c47b697e6bce0c709ea246107ba37
-SHA256: 8234899171d972b13334b5f30ba72c68c5d9c14d5885939340f18dc5eb65e22b
+Size: 3804
+MD5sum: 7c93db7ef44acddacb809ac2bac5a9f6
+SHA1: c1808e8f39a6c94483d9f71c878d41aca895421c
+SHA256: f03c0394c29911e9b5591eaff3cb0366cb7643645de8b9e2ab6acf8414dde0cc
 Section: Acreson-插件(Tweaks)
-Description: Filza Crack 完整破解装上之后Filza就是完整版了
+Description: 装上之后Filza就是完整版.支持Electra/Chimera/Unc0ver.亲测作者源Filza 64bit 3.7.0-18 Chimera136 系统12.47P正常
+Author: xia0z
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Filza Crack 完整破解
+
+Package: acreson.cj.xkfilza
+Version: 0.0.1-28+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.xkfilza_0.0.1-28+debug_iphoneos-arm.deb
+Size: 3828
+MD5sum: db8c6d135a389c9bc9427f764c25f0a9
+SHA1: 7acd175f0a85ba75b7e8f074bfaee639f5f61a80
+SHA256: 20f97cca52b9abdcf57efc7141a5cf4a140545ec4406535ddc5422cf68836b69
+Section: Acreson-插件(Tweaks)
+Description: 装上之后Filza就是完整版.支持Electra/Chimera/Unc0ver.亲测作者源Filza 64bit 3.7.0-18 Chimera136 系统12.47P正常
 Author: xia0z
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Filza Crack 完整破解

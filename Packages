@@ -1072,6 +1072,23 @@ Author: Shiar Ahmed <shiyar2002@icloud.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Weatherana 天气自定义
 
+Package: acreson.cj.xkfilza
+Version: 0.0.1-26+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.xkfilza_0.0.1-26+debug_iphoneos-arm.deb
+Size: 3732
+MD5sum: 2cfcf18681cfc365a9b2600ae5d6d66d
+SHA1: b8cca7566b0c47b697e6bce0c709ea246107ba37
+SHA256: 8234899171d972b13334b5f30ba72c68c5d9c14d5885939340f18dc5eb65e22b
+Section: Acreson-插件(Tweaks)
+Description: Filza Crack 完整破解装上之后Filza就是完整版了
+Author: xia0z
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Filza Crack 完整破解
+
 Package: acreson.cloudmusichook
 Version: 1.0-3+debug
 Architecture: iphoneos-arm

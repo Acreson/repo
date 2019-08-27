@@ -1922,6 +1922,24 @@ Author: Domo
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: GBA4IOS 模拟器
 
+Package: acreson.gj.cracktool4
+Version: 4.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/acreson.gj.cracktool4_4.0~beta2_iphoneos-arm.deb
+Size: 70532
+MD5sum: 7edef57ae5f2cfd9ec3729164b769c17
+SHA1: 159f98782ed0dcce8514e1c03fa9d4701367d3d4
+SHA256: fa772f22fd55c3fb1478f7a0946b6b50a0dda60301ca31e0819cc22315e1f506
+Section: Acreson-工具(Utilities)
+Homepage: http://twitter.com/ijulioverne
+Description: IOS12的破解注入工具
+Author: julioverne
+Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CrackTool4 (iOS 12) 破解工具
+
 Package: acreson.gj.cydown
 Version: 6.9.7
 Architecture: iphoneos-arm

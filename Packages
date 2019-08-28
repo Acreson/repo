@@ -1002,6 +1002,25 @@ Author: LonestarX <me@lonestarx.net>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: ShowTouch 触摸显示
 
+Package: acreson.cj.shuffle
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/acreson.cj.shuffle_1.0.4_iphoneos-arm.deb
+Size: 177504
+MD5sum: 2a1c7bf5c4da162481eb55ba6cba8f67
+SHA1: 347e780771e8ee95d5b3e26fbb2ed2e6af489723
+SHA256: fabccdce6f55646d71de316814af2c4922e56990cbf20fcc7221b025a0cd144d
+Section: Acreson-插件(Tweaks)
+Description: 插件 应用 系统设置归类
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: shuffle 设置归类
+
 Package: acreson.cj.silentrecorder
 Version: 1.4.1
 Architecture: iphoneos-arm
@@ -3012,26 +3031,6 @@ Description: 一个轻量级的通用越狱检测旁路。
 Author: jjolano
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Shadow 屏蔽越狱
-
-Package: acreson.shuffle
-Version: 0.8.0b
-Architecture: iphoneos-arm
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 472
-Depends: mobilesubstrate, com.creaturecoding.libcspreferences
-Conflicts: com.cpdigitaldarkroom.placeholder
-Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/acreson.shuffle_0.8.0b_iphoneos-arm.deb
-Size: 91180
-MD5sum: f2de329d2c3de11dd5f3ef5c23fda9be
-SHA1: 66a6773ffee61de2ceb710779982c0d1e0dfe0eb
-SHA256: a215f91f26a87a098fdfd485c3c9c36d38283a1ec0597c2c0f6fba9d7b7c9591
-Section: Acreson-插件(Tweaks)
-Description: 插件 应用 系统设置归类
-Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: shuffle 设置归类
 
 Package: acreson.sileo
 Version: 0.0.2

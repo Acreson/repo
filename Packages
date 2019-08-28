@@ -4461,6 +4461,22 @@ Name: V脸 ReSpring Logo
 Sileodepiction: https://crazyc.top/ms/msxq/v.json
 Sponsor: Acreson <http://crazyc.top>
 
+Package: acreson.zt.zhezhaozuhe1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.zt.zhezhaozuhe1_1.0_iphoneos-arm.deb
+Size: 3688720
+MD5sum: fd5851e6d9c388e4c89a5c7183025a5b
+SHA1: 741f54ede4a7876cc12a03aed5ec372ac0406cf4
+SHA256: 8b8a12d2fc5e834342cf6dcc8057e65699818eb12c184dc57b87e09b2bf86264
+Section: Acreson-主题(Themes)
+Description: 一组组合遮罩。30款遮罩 慢慢选
+Author: 佚名
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: 遮罩组合1
+Sponsor: Acreson <342080124@qq.com>
+
 Package: areson.unsub
 Version: 0.1.9
 Architecture: iphoneos-arm

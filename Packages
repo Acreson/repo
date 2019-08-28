@@ -3568,14 +3568,14 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Video Helper 视频助手
 
 Package: acreson.viola
-Version: 1.3
+Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
-Filename: ./debs/acreson.viola_1.3_iphoneos-arm.deb
-Size: 41004116
-MD5sum: 10072b6c25ca0f67feb5bf669dfcc42f
-SHA1: 9157a7784af58649da46e7f8768cf3c428dcef49
-SHA256: 1e52859834849d60c007fcf103492a983a11d5d96a3e52effee91c02e4b2d696
+Filename: ./debs/acreson.viola_1.7_iphoneos-arm.deb
+Size: 30141040
+MD5sum: fafeeb9ae04b641d1260b7c4afe17fa5
+SHA1: 314c9c22ed954fa3a11b76acfa1d9f19d17816cc
+SHA256: 3f5de2aaf10d006ec441711c3c681268599ba8e21d4cc75ba1e553aaae205bd6
 Section: Acreson-主题(Themes)
 Description: Viola 主题 ，个人正在使用
 Author: Acreson <342080124@qq.com>

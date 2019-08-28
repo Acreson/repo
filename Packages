@@ -1472,23 +1472,6 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 哆啦A梦 角标
 Sponsor: Acreson <http://crazyc.top>
 
-Package: acreson.dy
-Version: 1.0-11+debug
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 356
-Depends: mobilesubstrate
-Filename: ./debs/acreson.dy_1.0-11+debug_iphoneos-arm.deb
-Size: 39948
-MD5sum: a114980c081b08f4873b9114f017369f
-SHA1: e22dde9a7413bf505de6d6c14df93f9d9f32ae39
-SHA256: a73a89a6e5c5f509f30f565476e236543269de87a6e0f1501fd9733675e9d2b5
-Section: Acreson-增强(Enhance)
-Description: 部分强迫症功能，支持最新7.1(TF 7.2) 更新支持A12
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: Vibrato Helper 抖音小助手
-
 Package: acreson.emoji1
 Version: 1.1
 Architecture: iphoneos-arm
@@ -4322,6 +4305,23 @@ Author: Karo
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: SutuPLUS-苏兔PLUS WX美化增强工具
+
+Package: acreson.zq.vibratehelper
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.vibratehelper_1.1-1+debug_iphoneos-arm.deb
+Size: 39904
+MD5sum: 97b4e6804ecf6590bee6819f535f0f61
+SHA1: 44e9178951c0f826825f5cc311645e12f5f10df0
+SHA256: 250770840aeba053829b0b92f01f278f8c19b26bcff87067f008ffd5a1f27a56
+Section: Acreson-增强(Enhance)
+Description: 部分强迫症功能，支持最新7.8(TF 7.9)
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Vibrato Helper 抖音小助手
 
 Package: acreson.zq.videoshophack
 Version: 1.0.2

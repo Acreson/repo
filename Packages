@@ -4499,19 +4499,19 @@ Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: plutil
 
 Package: com.cokepokes.appstoreplusplus
-Version: 0.9.4-2
+Version: 0.9.7
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.4-2_iphoneos-arm.deb
-Size: 743136
-MD5sum: 2c8e7c9b0685807064ec170fd9dba59e
-SHA1: ab88dcadc58f5a0db9cc5ef285a5eac7f34d1dc3
-SHA256: 0d131a5fc9ddd6abc17844c1cc97f0d6cdbc8233d7afd97209dadfef0382a873
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.7_iphoneos-arm.deb
+Size: 741948
+MD5sum: e8d61d5ef12e3b43d828b22b19b1f80a
+SHA1: 97ca3cb3b401d0a15672612bd0d976d083169b9e
+SHA256: a9b8df8cfd1f8776f022ef887d04d0d27cfe821a7a54bbed9a2abab8cf2fd224
 Section: Acreson-插件(Tweaks)
 Priority: optional
-Description: 允许你降级/升级iOS 11-12.2应用商店中的应用程序
+Description: 允许你降级/升级iOS 11.0-12.4应用商店中的应用程序
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
@@ -4836,27 +4836,6 @@ Description: slower, but better, compression algorithm
 Icon: file:///Applications/Cydia.app/Sections/Archiving.png
 Name: LZMA Utils
 
-Package: org.ioshack.icontool
-Version: 1.9-7
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1712
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
-Conflicts: com.rpetrich.iconrenamer
-Filename: ./debs/org.ioshack.icontool_1.9-7_iphoneos-arm.deb
-Size: 253956
-MD5sum: 74714bbb30c7cec82cd03947c274711a
-SHA1: db30700137681bdb5f520cf6a043c15f3955b9de
-SHA256: 0923e88217f6c6170160e398f959146363b5835d95d997d413065422e836a3e9
-Section: Acreson-插件(Tweaks)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
-Description: app tools menu from jiggle mode
-Author: ioshack <wsdhr1982@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Icon Tool 快捷工具
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: org.thebigboss.repo.icons
 Version: 1.2
 Architecture: all
@@ -4894,42 +4873,6 @@ Name: Zebra（beta） 汉化
 Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
 
 Package: xyz.willy.zebra
-Version: 1.0~beta19-7+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 17856
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta19-7+debug_iphoneos-arm.deb
-Size: 6033294
-MD5sum: f2a545c4d31926a1029bbdfb547f9cde
-SHA1: 3fcec89fc3e2d64bce477fcc76726c5bf882a964
-SHA256: ded34eb775aa03fd21d041f1f05a32b9180253029edb0069ab5c3b61869a14c3
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-12
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta） 汉化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
-Version: 1.0~beta19-8+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 17840
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta19-8+debug_iphoneos-arm.deb
-Size: 6031900
-MD5sum: 2508785ceca6c3102bf24f3f71794478
-SHA1: da84eb349b9e5c294c9bfe3e85ff0ca906d2ffb2
-SHA256: 37c2e2b3c34e48f076f5ba9d2796aa3527e03781849c0cade02ffcf9bbfb34aa
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-12
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta） 汉化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
 Version: 1.0~beta20-10+debug
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres & Acreson
@@ -4940,96 +4883,6 @@ Size: 6183070
 MD5sum: d1316fc7e282974188454f16cb9921c5
 SHA1: 005e7ef272227cfa2f3bb9f56a82b45645100ddf
 SHA256: 09a3b1e12219856b9152be31d059cb7402fbf5e5f68f3778236d9b905ec10225
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-13
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta）汉化优化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
-Version: 1.0~beta20-4+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 18224
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta20-4+debug_iphoneos-arm.deb
-Size: 6182218
-MD5sum: 3f4425d42a5edde872498e075c8a08fe
-SHA1: ee8fea8da2385ad68c9c3258490e4ad054ae2cba
-SHA256: 121e158e2c9f3e92ab1de5128ec9d4092bc9ebc9d929e7331b3ac8ed178e0dcb
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-13
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta）汉化优化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
-Version: 1.0~beta20-5+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 18224
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta20-5+debug_iphoneos-arm.deb
-Size: 6182198
-MD5sum: d06edbd5fd8379ff6abe6c2ad62fc97f
-SHA1: ef9831fa17053393a19b07bd9709e98ebd909a30
-SHA256: 1b5022675c2d6653dcd2fb1425e15117cc6a58a967aa1b9610119baf922335e2
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-13
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta）汉化优化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
-Version: 1.0~beta20-9+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 18224
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta20-9+debug_iphoneos-arm.deb
-Size: 6182892
-MD5sum: 004c51647756611c75c192b8af36220a
-SHA1: 315c5d8d7ccd92c6127d10fe17c6a441c08eea7a
-SHA256: 0a03cacb4f50933d95b55dbc4652a32e041c5399c94047e8b664bbf0707979dd
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-13
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta）汉化优化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
-Version: 1.0~beta21-1+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 18224
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta21-1+debug_iphoneos-arm.deb
-Size: 6182654
-MD5sum: 8335f0a07951ca005918b3edf8e0b19f
-SHA1: 52224b4dff7c224876bd209d7e7aae772fc7ec12
-SHA256: 7ee22dd6914fcb9af19437957c37f9c76c1b7d9d9f28b48ee8ff0c41d22df33a
-Section: Acreson-安装包(Packages)
-Description: 一个包管理器支持IOS8-13
-Author: Wilson Styres & Acreson
-Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
-Name: Zebra（beta）汉化优化
-Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
-
-Package: xyz.willy.zebra
-Version: 1.0~beta21-2+debug
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres & Acreson
-Installed-Size: 18224
-Depends: dpkg, uikittools
-Filename: ./debs/xyz.willy.zebra_1.0~beta21-2+debug_iphoneos-arm.deb
-Size: 6182816
-MD5sum: be81d8b5a666d632f69651fd3939d7b0
-SHA1: 135898a8fb76a3d67b81be52522f90e8614c47ef
-SHA256: 6ffd1aa19dd578089312cbb2e80e5b5f9cc9ffd2b21be0d3d2a3d3661d0f6795
 Section: Acreson-安装包(Packages)
 Description: 一个包管理器支持IOS8-13
 Author: Wilson Styres & Acreson

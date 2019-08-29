@@ -479,22 +479,6 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-樱桃视频(内置破解)
 
-Package: acreson.app.zxfqsqcrack
-Version: 2.2.1
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 8.0)
-Filename: ./debs/acreson.app.zxfqsqcrack_2.2.1_iphoneos-arm.deb
-Size: 65521504
-MD5sum: d5467d14c54494c91ada5fbdd953e2bf
-SHA1: eb237fe5c32cfdd0fc9b6fbc2c697293609d39a1
-SHA256: cc41f524cc5d49dacdb8be0c5786f97e57aed932a84ac1e23459e1d7e4cebf9d
-Section: Acreson-软件(Applications)
-Description: 全网一手最新番茄社区，直装破解版无需担心掉证书！注意进去提示验证，请点击取消
-Author: Acreson <342080124@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-番茄社区(内置破解)
-
 Package: acreson.app.zzzfun
 Version: 2.0.5
 Architecture: iphoneos-arm

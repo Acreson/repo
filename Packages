@@ -920,6 +920,26 @@ Author: smokin1337
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: KillMyApps 锁后台
 
+Package: acreson.cj.littlexs
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: binksalex & Ryan Nair
+Installed-Size: 304
+Depends: mobilesubstrate
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.binksalex.fluidify, com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Filename: ./debs/acreson.cj.littlexs_2.4.2_iphoneos-arm.deb
+Size: 25280
+MD5sum: 80ca073f0da24fa285cf2ead891af9f6
+SHA1: 80d6fa20ea9ec5c95f28e5b564460d42cd1b4680
+SHA256: 639db01794d5d21983131a119bd4900815ee2bd7c74f605547aaac481a587d22
+Section: Acreson-插件(Tweaks)
+Description: LittleX在iOS 12中重新焕发了活力。内置汉化(妖刀)
+Author: binksalex & Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: LittleXS(IOS12) 手势增强CN
+
 Package: acreson.cj.nosileodepiction
 Version: 0.1.1
 Architecture: iphoneos-arm

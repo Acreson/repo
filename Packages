@@ -836,23 +836,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: BannerMusic 通知音乐
 
 Package: acreson.cj.batchomaticd
-Version: 3.1-6+debug
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 504
-Filename: ./debs/acreson.cj.batchomaticd_3.1-6+debug_iphoneos-arm.deb
-Size: 73780
-MD5sum: ae844e75a4c3a451c4aacd941dd64142
-SHA1: 11732662d50dc9d261c3bd13093e12da0152cf19
-SHA256: 7b94d47ffe75aedc08da46271c3c5082ce7d12a6e4e49fc68fd639b58b8cab36
-Section: Acreson-插件(Tweaks)
-Description: 批量安装所有插件，添加所有源，保存所有debs，调整首选项和主机文件的调整。在线或离线。也可以删除所有的调整，注销(Respring)和运行刷新图标缓存(Uicache)。实时节省！兼容iOS 11.0-12.4上的所有设备。与Cydia，Zebra，Sileo和Installer一起使用在Electra/UncOver/Unc0ver dark/Chimera上。可能也适用于较旧的iOS版本
-Author: Capt Inc <captinc37@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Batchomaticd DEB神器
-Sileodepiction: https://crazyc.top/ms/msxq/batchomaticd.json
-
-Package: acreson.cj.batchomaticd
 Version: 3.1-8+debug
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
@@ -1094,23 +1077,6 @@ Description: 根据您的喜好设置或更改天气信息。支持11.0+
 Author: Shiar Ahmed <shiyar2002@icloud.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Weatherana 天气自定义
-
-Package: acreson.cj.xkfilza
-Version: 0.0.1-26+debug
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/acreson.cj.xkfilza_0.0.1-26+debug_iphoneos-arm.deb
-Size: 3804
-MD5sum: 7c93db7ef44acddacb809ac2bac5a9f6
-SHA1: c1808e8f39a6c94483d9f71c878d41aca895421c
-SHA256: f03c0394c29911e9b5591eaff3cb0366cb7643645de8b9e2ab6acf8414dde0cc
-Section: Acreson-插件(Tweaks)
-Description: 装上之后Filza就是完整版.支持Electra/Chimera/Unc0ver.亲测作者源Filza 64bit 3.7.0-18 Chimera136 系统12.47P正常
-Author: xia0z
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Filza Crack 完整破解
 
 Package: acreson.cj.xkfilza
 Version: 0.0.1-28+debug
@@ -2010,6 +1976,25 @@ Description: SHSH Wallet备份shsh工具
 Author: KawaiiAurora
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: SHSH Wallet
+
+Package: acreson.gj.tsssaver
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/acreson.gj.tsssaver_1.1_iphoneos-arm.deb
+Size: 283352
+MD5sum: 807c60c121dda7883c74dfa7999e7c43
+SHA1: 15ea174542cdd126dd0a17b0a2a0d899a9eab62b
+SHA256: cc985a828adf77a0c310597913323d700f19ae92c7e9492cd2e6887e6bddfd6e
+Section: Acreson-工具(Utilities)
+Description: 原版修改，可以一键备份多个设备的shsh2，在官方网站上.
+Author: IArrays <support@iarrays.com>
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: TSS Saver 修改版
+Sileodepiction: http://crazyc.top/ms/msxq/tss.json
+Sponsor: IArrays
 
 Package: acreson.goodwifi
 Version: 0.0~beta4
@@ -4200,6 +4185,24 @@ Author: mika
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: FloatLyric 歌词悬浮窗
 
+Package: acreson.zq.hooktiktok
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: cjack
+Installed-Size: 250
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader
+Filename: ./debs/acreson.zq.hooktiktok_0.2_iphoneos-arm.deb
+Size: 33936
+MD5sum: 442f887b625ca216e8e71ccaa3e03107
+SHA1: 8b398173c2aecd94007616958a13f424d8d637f9
+SHA256: befd3282f8a78ed5f813eb2cc5276a16670784660235500863250028f1b94e6d
+Section: Acreson-增强(Enhance)
+Description: TikTok，实现国家或地区选择，无水印视频下载，取消某些视频限制下载。TikTok版本10.4.0，其他版本未知。
+Author: cjack
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: TikTok Hook助手
+Sponsor: cjack
+
 Package: acreson.zq.jdjuan
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -4266,6 +4269,23 @@ Description: 图片/视频助手！开启市面上主流修图/视频剪辑App�
 Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: PictureVideo Helper
+
+Package: acreson.zq.qqmusic
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: TouGBao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.zq.qqmusic_1.2_iphoneos-arm.deb
+Size: 39276
+MD5sum: cb318876acdec1096a41aa2a92a5cd64
+SHA1: 0259485a63a7e29b0001a22c393ebc9db68b31c6
+SHA256: a5abf87bc280d9cb1e175a1409f515083eb4aedf6c5a36a3677393ccf159895d
+Section: Acreson-增强(Enhance)
+Description: QQ音乐破解，支持付费专辑/无版权/VIP歌曲，感谢TouGBao制作。
+Author: TouGBao
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQMusic Hook增强
+Sponsor: TouGBao
 
 Package: acreson.zq.sutuplus
 Version: 2.6.5

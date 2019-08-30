@@ -2924,28 +2924,6 @@ Icon: file:///Applications/Cydia.app/Sections/Networking.png
 Name: 连个锤子-越狱联网一键修复
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: acreson.reprovision
-Version: 0.4.2
-Architecture: iphoneos-arm
-Maintainer: Matt Clarke <matt@incendo.ws>
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/acreson.reprovision_0.4.2_iphoneos-arm.deb
-Size: 9985160
-MD5sum: c5b00453b3c8bf0496b5f04d80236481
-SHA1: 66ca8930faafd984853e41fb9518699de6780ca2
-SHA256: 9e8c52da42f03881dbeeff418048df0bb1f795b73b9e83c3abee42500e5abb61
-Section: Acreson-工具(Utilities)
-Priority: optional
-Homepage: https://github.com/Matchstic/Extender-Installer
-Description: 重新为设备上的应用程序签名
-Author: Matt Clarke <matt@incendo.ws>
-Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
-Dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Name: ReProvision 签名工具
-
 Package: acreson.rupii
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4573,6 +4551,27 @@ Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CCVPN 快捷VPN开关
+
+Package: com.matchstic.reprovision
+Version: 0.4.3-6
+Architecture: iphoneos-arm
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Filename: ./debs/com.matchstic.reprovision_0.4.3-6_iphoneos-arm.deb
+Size: 10060884
+MD5sum: 7e79d5f67e4b51c61f76df2259448337
+SHA1: 71a55315c49c6ded15ea23fa4e2944ce0e3a5158
+SHA256: d4b87a5dce525369fd337b86add62c5cb9b135dd3369253bad543749a26d8664
+Section: Acreson-工具(Utilities)
+Homepage: https://github.com/Matchstic/Extender-Installer
+Description: ipa重签名工具
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision 签名工具
 
 Package: com.tigisoftware.appdatamanager
 Version: 1.5.0-12

@@ -1952,10 +1952,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Filename: ./debs/acreson.gj.cracktool4_4.0~beta3-6+debug_iphoneos-arm.deb
-Size: 154492
-MD5sum: 1cae8dd11842f96dc1103c8dfe98b412
-SHA1: 8dafcae022ef01a9a3431c0c21d0409b00740d3c
-SHA256: 6c351e687d47880e1c4ada663fd022e2abb76559faab77ee779e37059fa50061
+Size: 153340
+MD5sum: 5e6087d735a3e483af41803627338451
+SHA1: ee453665456b7301d4b0a66568e684ca1949db25
+SHA256: cd38655656c307e24faf478b90b1e3ec8b0d6f50f927fb505c6118515ea3eaaa
 Section: Acreson-工具(Utilities)
 Description: 只需轻轻一击，就可以进行破解
 Author: julioverne

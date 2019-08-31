@@ -807,10 +807,10 @@ Maintainer: Acreson
 Installed-Size: 1313
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/acreson.cj.apptools_1.5.1_iphoneos-arm.deb
-Size: 425692
-MD5sum: 1e5845e1dbc1e677d89f44a7c9e1d2e4
-SHA1: c0b17c34f4af2854b1932b89287a9e1356c91997
-SHA256: 113c2c8ddcbd00a9511f2934d3a936a3501fd2a5555444cee1a062aa838e1097
+Size: 425644
+MD5sum: 80c50e1d8db421c1b11df9dba18121cd
+SHA1: 96556a33f467dea449836d8be1b1b56618d24b97
+SHA256: e5a5d7d76062bf07ca8951923a8e56fa195c183f12981e647865489bb45a51ee
 Section: Acreson-插件(Tweaks)
 Description: App Tools是一款桌面快捷App和系统增强工具.请联系作者付费购买.
 Author: aReo
@@ -1963,6 +1963,24 @@ Author: julioverne
 Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CrackTool4 (iOS 12) 破解工具
+
+Package: acreson.gj.cracktool4
+Version: 4.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/acreson.gj.cracktool4_4.0~beta3_iphoneos-arm.deb
+Size: 149364
+MD5sum: a9474934167697368cdb9e3528e33dda
+SHA1: 1e65015e01aa26da1290b0c4449bf91699349213
+SHA256: c3844b8990816f29e9fad939acef85439dc216cdeab9cb2925fd8259498f03ee
+Section: Acreson-工具(Utilities)
+Description: 只需轻轻一击，就可以进行破解
+Author: julioverne
+Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CrackTool4(IOS12)破解工具
+Sileodepiction: https://crazyc.top/ms/msxq/ct4.json
 
 Package: acreson.gj.cydown
 Version: 6.9.7

@@ -800,6 +800,24 @@ Author: 180 & 小苹果
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AntiRevoke
 
+Package: acreson.cj.apptools
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 1313
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.cj.apptools_1.5.1_iphoneos-arm.deb
+Size: 425692
+MD5sum: 1e5845e1dbc1e677d89f44a7c9e1d2e4
+SHA1: c0b17c34f4af2854b1932b89287a9e1356c91997
+SHA256: 113c2c8ddcbd00a9511f2934d3a936a3501fd2a5555444cee1a062aa838e1097
+Section: Acreson-插件(Tweaks)
+Description: App Tools是一款桌面快捷App和系统增强工具.请联系作者付费购买.
+Author: aReo
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppTools 快捷工具CN
+Sileodepiction: https://crazyc.top/ms/msxq/apptools.json
+
 Package: acreson.cj.artsy
 Version: 2.0~Beta.8
 Architecture: iphoneos-arm

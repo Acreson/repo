@@ -903,6 +903,23 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Cydia3DTouch 12
 
+Package: acreson.cj.fingertouch12
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./debs/acreson.cj.fingertouch12_0.0.8_iphoneos-arm.deb
+Size: 19556
+MD5sum: 9137efa30c4381abc4ae27532c10ffad
+SHA1: cbc90e01e468f6beb63212e2ba7caea1fa8a67b1
+SHA256: ebbbd37f3e54b8f53e0ebf659ca57dbff0f29e05447dfae676128dc89a7ecadd
+Section: Acreson-插件(Tweaks)
+Description: FingerTouch12专用,内置汉化+优化
+Author: Michele Primavera
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: FingerTouch(IOS12) 指纹触控CN
+Sileodepiction: https://crazyc.top/ms/msxq/ft12.json
+
 Package: acreson.cj.killmyapps
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -4321,23 +4338,6 @@ Description: 图片/视频助手！开启市面上主流修图/视频剪辑App�
 Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: PictureVideo Helper
-
-Package: acreson.zq.qqmusic
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: TouGBao
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.zq.qqmusic_1.2_iphoneos-arm.deb
-Size: 39276
-MD5sum: cb318876acdec1096a41aa2a92a5cd64
-SHA1: 0259485a63a7e29b0001a22c393ebc9db68b31c6
-SHA256: a5abf87bc280d9cb1e175a1409f515083eb4aedf6c5a36a3677393ccf159895d
-Section: Acreson-增强(Enhance)
-Description: QQ音乐破解，支持付费专辑/无版权/VIP歌曲，感谢TouGBao制作。
-Author: TouGBao
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: QQMusic Hook增强
-Sponsor: TouGBao
 
 Package: acreson.zq.sutuplus
 Version: 2.6.5

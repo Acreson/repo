@@ -4668,17 +4668,17 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CCVPN 快捷VPN开关
 
 Package: com.matchstic.reprovision
-Version: 0.4.3-6
+Version: 0.4.4
 Architecture: iphoneos-arm
 Maintainer: Matt Clarke <matt@incendo.ws>
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer
 Provides: com.matchstic.Extender-Installer
-Filename: ./debs/com.matchstic.reprovision_0.4.3-6_iphoneos-arm.deb
-Size: 10060884
-MD5sum: 7e79d5f67e4b51c61f76df2259448337
-SHA1: 71a55315c49c6ded15ea23fa4e2944ce0e3a5158
-SHA256: d4b87a5dce525369fd337b86add62c5cb9b135dd3369253bad543749a26d8664
+Filename: ./debs/com.matchstic.reprovision_0.4.4_iphoneos-arm.deb
+Size: 10060476
+MD5sum: 1662501f9a29901bafb69a6717abe415
+SHA1: d4a567f8f64ab43b47d134f1fa19fa0cd0d9a6bc
+SHA256: d5c968d971da8e3b444ba0d0f220b3cdd0bd708586a1923882880500139310d9
 Section: Acreson-工具(Utilities)
 Homepage: https://github.com/Matchstic/Extender-Installer
 Description: ipa重签名工具

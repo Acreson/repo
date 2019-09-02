@@ -1497,6 +1497,28 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 哆啦A梦 角标
 Sponsor: Acreson <http://crazyc.top>
 
+Package: acreson.dw.locationfaker8
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1514
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+Filename: ./debs/acreson.dw.locationfaker8_2.3_iphoneos-arm.deb
+Size: 450768
+MD5sum: 9dd17a7bb159e26060803e110893cd80
+SHA1: 8c1d388484a4d5954cd7c7fe1266fabcda54c588
+SHA256: d4978c22756faad1411cf0024303eb3e37959454ba573b474b3d61c97e80b2af
+Section: Acreson-定位(Localization)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationfaker8Dp
+Description: LocationFaker虚拟定位，正版插件，国行手机机的修复网络权限后，可以搭配本源CT4进行破解.
+Author: Cunstuck <cunstuck@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationfaker8Dp
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: LocationFaker(8,9,10,11,12) 虚拟定位
+Sileodepiction: https://crazyc.top/ms/msxq/locationfaker.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.emoji1
 Version: 1.1
 Architecture: iphoneos-arm
@@ -1965,15 +1987,15 @@ Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: GBA4IOS 模拟器
 
 Package: acreson.gj.cracktool4
-Version: 4.0~beta4-2+debug
+Version: 4.0~beta5-9+debug
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debs/acreson.gj.cracktool4_4.0~beta4-2+debug_iphoneos-arm.deb
-Size: 142868
-MD5sum: 4ed70448a3a5a27fd1b105461bf64896
-SHA1: 914e9e2808063ca4b57c664addd701b9bfa67a0e
-SHA256: bbe4eceb85731d6f769ac07fb29d839ea8e95956eec54d50593d79c15372843e
+Filename: ./debs/acreson.gj.cracktool4_4.0~beta5-9+debug_iphoneos-arm.deb
+Size: 152384
+MD5sum: 46fb32397876e4d0fa3dd2ce92a4662a
+SHA1: 6825b41ef735e86c26b6a94cf8b46bb725874d38
+SHA256: 5a4d27a0cfecde9180589c3628eb757f9ce16775d9a822e1dcd28e1602d232b7
 Section: Acreson-工具(Utilities)
 Description: 只需轻轻一击，就可以进行破解
 Author: julioverne

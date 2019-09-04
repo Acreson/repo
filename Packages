@@ -1080,22 +1080,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Slices 3 应用多开
 
 Package: acreson.cj.sylph
-Version: 1.1~Beta.3
+Version: 1.2~Beta.1
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
 Installed-Size: 368
-Depends: mobilesubstrate, acreson.yl.utils (>= 0.0.2)
-Filename: ./debs/acreson.cj.sylph_1.1~Beta.3_iphoneos-arm.deb
-Size: 68940
-MD5sum: ce357e672b3f539db03698c1d698b681
-SHA1: 30c781c5f4e60f2c4a4f76cdcdf3870c57312e24
-SHA256: 254e48f9497159f5506e470f344b9cb8ddd4186d2ee4c36433d70dcceabc05a1
+Depends: mobilesubstrate, acreson.yl.utils (>= 0.0.4)
+Filename: ./debs/acreson.cj.sylph_1.2~Beta.1_iphoneos-arm.deb
+Size: 69944
+MD5sum: 164493d1f301c805102fd7d0ab0b50cf
+SHA1: 16859da1d1d59c316977d6b211cfc4ca38689843
+SHA256: 131f0d1ba7fa8ce6645fe65bbdfec1dfa79227b894d1c1c59e59821f803f477c
 Section: Acreson-插件(Tweaks)
 Description: 定制您的锁屏通知音乐播放器
 Author: Max Dausch <max.dausch@gmail.com>
 Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.sylph
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Sylph 定制LS播放器
+Name: Sylph 定制LS播放器CN
+Sileodepiction: https://crazyc.top/ms/msxq/sylph.json
 
 Package: acreson.cj.weatherana
 Version: 1.3
@@ -3805,15 +3806,15 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 氧气听书破解
 
 Package: acreson.yl.utils
-Version: 0.0.1
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 132
-Filename: ./debs/acreson.yl.utils_0.0.1_iphoneos-arm.deb
-Size: 11304
-MD5sum: 49263abd602b9a0b9ef2dd3253cd86e9
-SHA1: a87d7473fc173070616a28f38c675c793df989d9
-SHA256: 37c370222ad5e077477a4415349328437c95176b289c7eadeff87f620ba32648
+Installed-Size: 236
+Filename: ./debs/acreson.yl.utils_0.0.4_iphoneos-arm.deb
+Size: 13492
+MD5sum: 77ae02e51fd02cb5acd94f6337fccaea
+SHA1: 9a9e7bc89ff5b32fdbb4d6c2c890378b607d2007
+SHA256: 8bbf90f19db0dafead96064ceae7b40415a5369ce9e895ebb144a4081d5ccb0b
 Section: Acreson-依赖(Depends)
 Description: 一组用于我的调整的常用函数。更多的文档将很快发布。
 Tag: role::developer

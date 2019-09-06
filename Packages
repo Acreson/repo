@@ -2894,25 +2894,6 @@ Author: Henrik Rydgård
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: PPSSPP 模拟器
 
-Package: acreson.qq
-Version: 7.9.8
-Architecture: iphoneos-arm
-Maintainer: 小苹果™
-Installed-Size: 49.78
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.qq_7.9.8_iphoneos-arm.deb
-Size: 146796
-MD5sum: 37c57e73eab5a8a62a859278c812e1c3
-SHA1: 559933b988d0118fc36eefa98ca3bc08a21fce4f
-SHA256: 2febcaaa8d87f34ccd67288060b9575c2cc61bdcb6c332e3685e819b4f87ed2d
-Section: Acreson-增强(Enhance)
-Priority: optional
-Description: 功能：虚拟定位，抢红包，防撤回，虚拟机型(随意输入验证码点验证即可)设置右上角QQMAX
-Author: 小苹果™
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: QQ Helper QQ增强助手
-Sponsor: 小苹果™
-
 Package: acreson.qqanitirecallhook
 Version: 1.2
 Architecture: iphoneos-arm
@@ -4362,6 +4343,41 @@ Description: 图片/视频助手！开启市面上主流修图/视频剪辑App�
 Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: PictureVideo Helper
+
+Package: acreson.zq.qqhelper1
+Version: 8.0.8
+Architecture: iphoneos-arm
+Maintainer: 小苹果™
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.zq.qqhelper1_8.0.8_iphoneos-arm.deb
+Size: 146812
+MD5sum: ac31813e8a24867e57e7adf3be227149
+SHA1: d8802775b30e69a345085e1f29ed8137c07dfeaa
+SHA256: 218d7d8b2c22318406f8666a32b5369d061c2d1d65f6f7744a3109af44ab4bc5
+Section: Acreson-增强(Enhance)
+Description: QQ增强插件破解版，兼容最新版QQ。 功能:虚拟定位，抢红包，防撤回。方法：验证随便写,设置右上角QQMAX操作即可
+Author: 小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQ Helper 多功能加强【一】
+Sponsor: 小苹果™
+
+Package: acreson.zq.qqhelper2
+Version: 8.0.8
+Architecture: iphoneos-arm
+Maintainer: 小苹果™
+Installed-Size: 49.78
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.zq.qqhelper2_8.0.8_iphoneos-arm.deb
+Size: 136180
+MD5sum: 33e7c142c38a5a9beca58a93351eb876
+SHA1: 291a6af260234785eec05fd8d0ca4d3341d54b66
+SHA256: 0d5ac32a8048a045d396234c89c0ff5316cc044733b194171e005aa138202229
+Section: Acreson-增强(Enhance)
+Description: QQ增强插件破解版，兼容最新版QQ，据说本版本增加了防封咱也不知道，请关注公众号：旁门左道小一白。 功能:虚拟定位，抢红包，防撤回。方法：验证随便写,设置右上角QQMAX操作即可
+Author: 小苹果&旁门左道小一白
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQ Helper 多功能加强【二】
+Sponsor: 小苹果™
 
 Package: acreson.zq.sutuplus
 Version: 2.6.5

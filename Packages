@@ -3908,15 +3908,15 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 1Password Crack
 
 Package: acreson.zq.DouTu
-Version: 0.1-5
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.zq.doutu_0.1-5_iphoneos-arm.deb
-Size: 102940
-MD5sum: b8b87f09c783f279afc784b5a96e1922
-SHA1: afa93a94f2053d3ab09fb7bcad4a5feea8a3874a
-SHA256: f368e479dfe881078b2314c142d32bbe5241924ea35ae4593afb473e8a093114
+Filename: ./debs/acreson.zq.doutu_2.0_iphoneos-arm.deb
+Size: 142380
+MD5sum: 76dd0dab8d77fd9abfd65debf53c55ad
+SHA1: 0f81aef68c3baa3154877861c0727dd6a0eab25e
+SHA256: 508fdf436c9caacb888ad8ed39fe08cd51ee32b5fa047f3752773519856fbe74
 Section: Acreson-增强(Enhance)
 Description: 老猫斗图助手分离出来了
 Author: Mao

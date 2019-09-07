@@ -854,21 +854,21 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: BannerMusic 通知音乐
 
 Package: acreson.cj.batchomaticd
-Version: 3.1-8+debug
+Version: 3.2.1-11+debug
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 504
-Filename: ./debs/acreson.cj.batchomaticd_3.1-8+debug_iphoneos-arm.deb
-Size: 73820
-MD5sum: a4c88eff65e0ddf217d2a7abe8a3f6f3
-SHA1: 190366f8cfd2e8a628e40ac0dcc5939ccb201b18
-SHA256: fd71cfc7db5848b2f3da03fb7188cff235fa599a0f2e22c447001d6ec06946bb
+Installed-Size: 508
+Filename: ./debs/acreson.cj.batchomaticd_3.2.1-11+debug_iphoneos-arm.deb
+Size: 74396
+MD5sum: 34aaebdc25223f26091a12eb80764976
+SHA1: 2b79cc796c46de86b6df527910fef7ada876d54f
+SHA256: 7cd9afc8fd7832e9c886c1d8d3b60a958f50c7381770e24f845f8e0ab42c23f6
 Section: Acreson-插件(Tweaks)
 Description: 批量安装所有插件，添加所有源，保存所有debs，调整首选项和主机文件的调整。在线或离线。也可以删除所有的调整，注销(Respring)和运行刷新图标缓存(Uicache)。实时节省！兼容iOS 11.0-12.4上的所有设备。与Cydia，Zebra，Sileo和Installer一起使用在Electra/UncOver/Unc0ver dark/Chimera上。可能也适用于较旧的iOS版本
 Author: Capt Inc <captinc37@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Batchomaticd 多功能神器
-Sileodepiction: https://crazyc.top/ms/msxq/batchomaticd.json
+Name: Batchomatic 多功能CN
+Sileodepiction: https://crazyc.top/ms/msxq/batchomatic.json
 
 Package: acreson.cj.cameramode10
 Version: 2.0.2

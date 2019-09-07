@@ -1,0 +1,11 @@
+.theos/
+Supersling/.theos
+/packages/
+.DS_Store
+Build/
+Index/
+xcuserdata/
+repo/newpackages
+update.sh
+node_modules/
+vendor/

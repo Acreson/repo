@@ -1519,6 +1519,23 @@ Name: LocationFaker(8,9,10,11,12) 虚拟定位
 Sileodepiction: https://crazyc.top/ms/msxq/locationfaker.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.dw.relocatewzb
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 404
+Depends: firmware (>= 9.0)
+Filename: ./debs/acreson.dw.relocatewzb_0.1.1_iphoneos-arm.deb
+Size: 217516
+MD5sum: 18708db1e16e565e082ef8f8ae17846f
+SHA1: e5cb5d3f620906841d7739ab219e09c5e64def2c
+SHA256: 6b8d97abd3c05042e5c42f43d70ddcff464bcbec6d332e3cf85721d5d47b7788
+Section: Acreson-定位(Localization)
+Description: Application 虚拟定位完整版
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+Name: Relocate 虚拟定位完整版CN
+
 Package: acreson.emoji1
 Version: 1.1
 Architecture: iphoneos-arm
@@ -2910,23 +2927,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: RealCC 真实关闭蓝牙/WIFI
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: acreson.relocate
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Nepeta
-Installed-Size: 520
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
-Filename: ./debs/acreson.relocate_1.0_iphoneos-arm.deb
-Size: 216100
-MD5sum: 75de45cd81f1aa6d4ed80df1bba68dcb
-SHA1: 743cf44d3143169b06dd84ff42d16df3e4d4e540
-SHA256: ba121a3108abf8d6325c93141618a32004589838e10081b229e119b65ac606d3
-Section: Acreson-定位(Localization)
-Description: 免费的虚拟定位多样化设置
-Author: Nepeta
-Icon: file:///Applications/Cydia.app/Sections/Localization.png
-Name: Relocate 完整版
 
 Package: acreson.renet
 Version: 1.0

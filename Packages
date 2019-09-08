@@ -511,42 +511,6 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: Astral 主题
 Sponsor: Acreson <342080124@qq.com>
 
-Package: acreson.backgrounderaction11
-Version: 0.0.8
-Architecture: iphoneos-arm
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 12.3),libactivator (>= 1.9.13~beta2)
-Filename: ./debs/acreson.backgrounderaction11_0.0.8_iphoneos-arm.deb
-Size: 9524
-MD5sum: 07a65cb0b244c395c8e7388f38ddbc08
-SHA1: e6b9ad7cd221826079e4a9350981e04a146bb670
-SHA256: 1c0dd30f9e27bcef9edeaa8d303a5f37a543be82f6fae77a462498494301f59b
-Section: Acreson-插件(Tweaks)
-Description: *添加“切换背景模式”的行动，以激活。
-Author: akusio <akusio-report@neko2.net>
-Depiction: https://akusio.github.io/descriptions/backgrounderaction/index.html
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Backgrounder Action 真后台
-
-Package: acreson.backgrounderaction12
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 276
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/acreson.backgrounderaction12_0.1.0_iphoneos-arm.deb
-Size: 12740
-MD5sum: dd09a32accc81dce37f6dddbd2cba5a3
-SHA1: 1d3f763b51c62e121c0926976d9832be39a4e58a
-SHA256: c549ce3ef1900fc142a462c23b6c799bb58fdc8a7a2686b53422b538bbc8a42f
-Section: Acreson-插件(Tweaks)
-Description: 将“切换背景模式”动作添加到控制中心。
-Author: akusio <akusio-report@neko2.net>
-Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: BackgrounderAction for CCSupport 真后台组件
-
 Package: acreson.batterypercentx
 Version: 1.3.7-1
 Architecture: iphoneos-arm
@@ -958,6 +922,24 @@ Description: LittleX在iOS 12中重新焕发了活力。内置汉化(妖刀)
 Author: binksalex & Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: LittleXS(IOS12) 手势增强CN
+
+Package: acreson.cj.milkyway
+Version: 0.1.4beta
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 208
+Depends: mobilesubstrate, acreson.yl.backgrounderaction11 | acreson.yl.backgrounderaction12
+Filename: ./debs/acreson.cj.milkyway_0.1.4beta_iphoneos-arm.deb
+Size: 30680
+MD5sum: 5d0d2e9f048e058abba02147647f620a
+SHA1: 2ad9f97741e8097c53987e589ea895350141b21e
+SHA256: 5ac18f7fbc1a5f051cc7b3a339df7a56972d71de11fd3b8ff8e1627463fc7dbe
+Section: Acreson-插件(Tweaks)
+Description: IOS快捷分屏 支持11.0-12.4  后台卡片长按卡片即可
+Author: akusio <akusio-report@neko2.net>
+Depiction: http://akusio.github.io/descriptions/milkyway/index.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: MilkyWay 快捷分屏
 
 Package: acreson.cj.nosileodepiction
 Version: 0.1.1
@@ -2618,24 +2600,6 @@ Author: 带土&长生果子
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Mahua Crack 麻花播放器破解
 
-Package: acreson.milkyway
-Version: 0.1.4beta
-Architecture: iphoneos-arm
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 208
-Depends: mobilesubstrate, acreson.backgrounderaction11, acreson.backgrounderaction12
-Filename: ./debs/acreson.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 30652
-MD5sum: 7fba392c716c04a5c0854946453b862d
-SHA1: 4108fea364d8f98857b633ab5e14175fa7d1afdf
-SHA256: 6f302071eda92c64405ae07a7aeb49efbe08a80be11ca4f9729e19fa9104a29c
-Section: Acreson-插件(Tweaks)
-Description: IOS多任务分屏
-Author: akusio <akusio-report@neko2.net>
-Depiction: http://akusio.github.io/descriptions/milkyway/index.html
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: MilkyWay 快捷分屏
-
 Package: acreson.miui8
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3785,6 +3749,42 @@ Description: 氧气听书破解，去除所有广告
 Author: 长生果子
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 氧气听书破解
+
+Package: acreson.yl.backgrounderaction11
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 72
+Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
+Filename: ./debs/acreson.yl.backgrounderaction11_0.0.8_iphoneos-arm.deb
+Size: 9524
+MD5sum: 50d11c49bf7b37a479060704e6ec1687
+SHA1: 8f5eb3fd99a27a9076e2dfba2cc8bf4bfba5d904
+SHA256: 51fb9487a2bce35e4a67b4c41ec456078f53c9d23c84c73db8042cca02269dc9
+Section: Acreson-依赖(Depends)
+Description: *添加“切换背景模式”的行动，以激活。
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction/index.html
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: Backgrounder Action
+
+Package: acreson.yl.backgrounderaction12
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 276
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/acreson.yl.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Size: 12756
+MD5sum: e4e6a0e8ab189b7b5526fc2f6c50e8e6
+SHA1: 36cfbfbc584bba130989076af61dc41f71c0e617
+SHA256: d2b3f05dac2ba504d8284ff432066ed232a57d4458deb3f4b8076877fbe7665c
+Section: Acreson-依赖(Depends)
+Description: 将“切换背景模式”动作添加到ControlCenter。
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+Name: BackgrounderAction for CCSupport
 
 Package: acreson.yl.utils
 Version: 0.0.4

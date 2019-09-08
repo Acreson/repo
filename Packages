@@ -834,6 +834,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Batchomatic 多功能CN
 Sileodepiction: https://crazyc.top/ms/msxq/batchomatic.json
 
+Package: acreson.cj.batchomaticd
+Version: 3.2.1-14+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 508
+Filename: ./debs/acreson.cj.batchomaticd_3.2.1-14+debug_iphoneos-arm.deb
+Size: 79152
+MD5sum: 30aaa24c939447e5457e8356227c0b21
+SHA1: 336bd4733e16587e6e2478af9ff3e39d0252d600
+SHA256: b56b588deaa7473b8fa4ec608efca6ee7209be0b40c75a61e1ca7e255e4324a0
+Section: Acreson-插件(Tweaks)
+Description: 批量安装所有插件，添加所有源，保存所有debs，调整首选项和主机文件的调整。在线或离线。也可以删除所有的调整，注销(Respring)和运行刷新图标缓存(Uicache)。实时节省！兼容iOS 11.0-12.4上的所有设备。与Cydia，Zebra，Sileo和Installer一起使用在Electra/UncOver/Unc0ver dark/Chimera上。可能也适用于较旧的iOS版本
+Author: Capt Inc <captinc37@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Batchomatic 多功能CN
+Sileodepiction: https://crazyc.top/ms/msxq/batchomatic.json
+
 Package: acreson.cj.cameramode10
 Version: 2.0.2
 Architecture: iphoneos-arm

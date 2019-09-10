@@ -1520,18 +1520,18 @@ Sileodepiction: https://crazyc.top/ms/msxq/locationfaker.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.dw.relocatewzb
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: Nepeta
 Installed-Size: 404
-Depends: firmware (>= 9.0)
-Filename: ./debs/acreson.dw.relocatewzb_0.1.1_iphoneos-arm.deb
-Size: 217516
-MD5sum: 18708db1e16e565e082ef8f8ae17846f
-SHA1: e5cb5d3f620906841d7739ab219e09c5e64def2c
-SHA256: 6b8d97abd3c05042e5c42f43d70ddcff464bcbec6d332e3cf85721d5d47b7788
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 9.0), applist
+Filename: ./debs/acreson.dw.relocatewzb_0.1.2_iphoneos-arm.deb
+Size: 217544
+MD5sum: b12e25d02c15562843558bc19ef018f8
+SHA1: 7b2e00d9f0587abe8bb25a6145272a47dc4ae624
+SHA256: dc744b2bebc8ba451700f040bdcf9735970102d33715910b4e1e89492f600e85
 Section: Acreson-定位(Localization)
-Description: Application 虚拟定位完整版
+Description: Relocate 虚拟定位完整版CN
 Author: Nepeta
 Icon: file:///Applications/Cydia.app/Sections/Localization.png
 Name: Relocate 虚拟定位完整版CN

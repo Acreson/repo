@@ -997,15 +997,15 @@ Maintainer: Acreson  <342080124@qq.com>
 Installed-Size: 972
 Depends: mobilesubstrate, firmware (>= 10.3), ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
 Filename: ./debs/acreson.cj.selectionplus_9.9.9_iphoneos-arm.deb
-Size: 98132
-MD5sum: d0017ccd83e604e03d7f935dbf9784f6
-SHA1: d205f653cf783be9a908cc9803a224669f7044f8
-SHA256: 621657845d10654e783e702db2def3ff1647d0f2e5d366ce24896c3fac864c4c
+Size: 101460
+MD5sum: 3a154ba8933013cfed5a8470df6d8620
+SHA1: f4ef1dfaa3e355b58ce86cad76e332d0ec0d57b2
+SHA256: d882ea6c331cd9f6e61614af1017bdb5146bb85c40d4ea6fe59ea5665888a3b9
 Section: Acreson-插件(Tweaks)
 Description: 改善你的长按菜单
 Author: Satvik <satvikdeveloper@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: SelectionPlus 快捷菜单增强
+Name: SelectionPlus 快捷菜单增强CN
 
 Package: acreson.cj.showtouch
 Version: 1.0.3-1

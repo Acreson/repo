@@ -1,0 +1,10 @@
+Package: acreson.gj.cydown
+Version: 6.9.8
+Section: Acreson-工具(Utilities)
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Maintainer: Acreson
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: CyDown Cydia增强12.2+Chimera专版
+Author: julioverne <julioverne@me.com>
+Description: 支持Chimera12.2-12.4专版

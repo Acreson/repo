@@ -851,6 +851,24 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Batchomatic 多功能CN
 Sileodepiction: https://crazyc.top/ms/msxq/batchomatic.json
 
+Package: acreson.cj.batchomaticd
+Version: 3.2.1-15+debug
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 508
+Depends: firmware (>= 11.0), mobilesubstrate, gawk, coreutils
+Filename: ./debs/acreson.cj.batchomaticd_3.2.1-15+debug_iphoneos-arm.deb
+Size: 79192
+MD5sum: e9442985522bedc255aebb4283640d4b
+SHA1: cef7f9d811acf02357ebc6815f43aaa9e90e27fd
+SHA256: f95701fba502705de10cb6a77b800cd0425f2930faebd99dbbac69ba451be0a9
+Section: Acreson-插件(Tweaks)
+Description: 批量安装所有插件，添加所有源，保存所有debs，调整首选项和主机文件的调整。在线或离线。也可以删除所有的调整，注销(Respring)和运行刷新图标缓存(Uicache)。实时节省！兼容iOS 11.0-12.4上的所有设备。与Cydia，Zebra，Sileo和Installer一起使用在Electra/UncOver/Unc0ver dark/Chimera上。可能也适用于较旧的iOS版本
+Author: Capt Inc <captinc37@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Batchomatic 多功能CN
+Sileodepiction: https://crazyc.top/ms/msxq/batchomatic.json
+
 Package: acreson.cj.cameramode10
 Version: 2.0.2
 Architecture: iphoneos-arm
@@ -2004,19 +2022,19 @@ Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: GBA4IOS 模拟器
 
 Package: acreson.gj.cracktool4
-Version: 4.0~beta6-11+debug
+Version: 4.0~beta7-15+debug
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debs/acreson.gj.cracktool4_4.0~beta6-11+debug_iphoneos-arm.deb
-Size: 162800
-MD5sum: df48d519fbb21e80c199b2a5eb7c15f5
-SHA1: 15c5807e71643874b653a4b5b7a6285dd82010e6
-SHA256: f9018ebd6e112bc499ca63424f954b360665c2036d8923d0305916a4cbb81fe1
+Filename: ./debs/acreson.gj.cracktool4_4.0~beta7-15+debug_iphoneos-arm.deb
+Size: 167696
+MD5sum: 6c634c759faef12690c6462cc52762ed
+SHA1: eef12c7e89467e8446516ae1904cb1887fb76dc2
+SHA256: 799195a787c4309208ef4ca486565f4e5dbcba341b3783b7178afa0f0f8af2af
 Section: Acreson-工具(Utilities)
 Description: 只需轻轻一击，就可以进行破解
 Author: julioverne
-Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CrackTool4(IOS12)破解工具
 Sileodepiction: https://crazyc.top/ms/msxq/ct4.json
@@ -4681,20 +4699,20 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: iCleaner Pro 清理工具
 
 Package: com.julioverne.cydown
-Version: 6.9.7
+Version: 6.9.8
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
-Size: 1086224
-MD5sum: 4258068fde2f4a755a31d66cb2ea79a3
-SHA1: e8f3a71398fe8a07edab996c32ca83befb711b5b
-SHA256: 1802b3e5cca357a95f7e5a73b89ae34c903b9080543bafa323d9bd34eecda482
+Filename: ./debs/com.julioverne.cydown_6.9.8_iphoneos-arm.deb
+Size: 1083464
+MD5sum: 8849aa3332905f3c79b806403b80ae7a
+SHA1: abff78298dbf968003cf2ff0ba766a1cf4f1da00
+SHA256: 3a594ca801d1e3ffc1ff61a4e7d6bb44bf67050f5427adcd6bc916211b90b2b2
 Section: Acreson-工具(Utilities)
 Homepage: http://twitter.com/ijulioverne
-Description: Cydia Download Manager & Extra Features!
+Description: Cydia下载管理器和额外的功能!最新版
 Author: julioverne <julioverne@me.com>
-Depiction: http://julio.xarold.com/files-deb/cydown.html
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown Cydia增强
 

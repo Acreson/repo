@@ -1115,6 +1115,25 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Sylph 定制LS播放器CN
 Sileodepiction: https://crazyc.top/ms/msxq/sylph.json
 
+Package: acreson.cj.tinybanners
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Don
+Installed-Size: 660
+Depends: mobilesubstrate,preferenceloader,applist
+Filename: ./debs/acreson.cj.tinybanners_0.4_iphoneos-arm.deb
+Size: 119764
+MD5sum: d07d9561b204e2b18253b6eee0188fa7
+SHA1: 55aabe5cc8bc6d304d918a32183a2a424d4cbb01
+SHA256: 3a16ae926ea45319e7777323fde2e2e1ca4e4df97180fdd944dd02abb2e5e199
+Section: Acreson-插件(Tweaks)
+Description: iOS12通知横幅缩小
+Author: Don
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: TinyBanners(IOS12)迷你通知CN
+Sileodepiction: https://crazyc.top/ms/msxq/tinybanners.json
+Sponsor: Don
+
 Package: acreson.cj.weatherana
 Version: 1.3
 Architecture: iphoneos-arm

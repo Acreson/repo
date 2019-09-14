@@ -2041,15 +2041,15 @@ Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: GBA4IOS 模拟器
 
 Package: acreson.gj.cracktool4
-Version: 4.0~beta7-15+debug
+Version: 4.0~beta7-16+debug
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debs/acreson.gj.cracktool4_4.0~beta7-15+debug_iphoneos-arm.deb
-Size: 167696
-MD5sum: 6c634c759faef12690c6462cc52762ed
-SHA1: eef12c7e89467e8446516ae1904cb1887fb76dc2
-SHA256: 799195a787c4309208ef4ca486565f4e5dbcba341b3783b7178afa0f0f8af2af
+Filename: ./debs/acreson.gj.cracktool4_4.0~beta7-16+debug_iphoneos-arm.deb
+Size: 167564
+MD5sum: 9f8b185dc5ef541447d010146358242f
+SHA1: ece41739735df838c16fc1081b860ee37b920909
+SHA256: 74af1f0cb07eaabcc1fd9726898bcadefa4c6c2d6ac237cbb66364e52f083c46
 Section: Acreson-工具(Utilities)
 Description: 只需轻轻一击，就可以进行破解
 Author: julioverne

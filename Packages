@@ -1096,6 +1096,24 @@ Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Slices 3 应用多开
 
+Package: acreson.cj.sugarcane12
+Version: 1.0.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: manolz
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.sugarcane12_1.0.0-6+debug_iphoneos-arm.deb
+Size: 9372
+MD5sum: 0df8fee9f140331929f842f866c78e7f
+SHA1: 0f974d8a67ec5e55b88216249af8a71fb23c08d1
+SHA256: 9b72e0f8dd8bbeb19a60c8d5082ec91615df3bbbd3a5a48f0e687d05c7d7d321
+Section: Acreson-插件(Tweaks)
+Description: 在iOS 12的控制中心获取音量/亮度的百分比显示
+Author: manolz
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SugarCane12 控制中心音量亮度百分比
+Sileodepiction: https://crazyc.top/ms/msxq/sugarcane12.json
+
 Package: acreson.cj.sylph
 Version: 1.2~Beta.1
 Architecture: iphoneos-arm

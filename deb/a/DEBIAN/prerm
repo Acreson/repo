@@ -1,0 +1,14 @@
+#!/bin/bash
+
+model=`/Library/dpkg/info/com.michael.appleturboboost.uname -i`
+
+watchdog_orig_plist="/System/Library/Watchdog/ThermalMonitor.bundle/${model}.bundle/Info.plist.bak"
+watchdog_plist="/System/Library/Watchdog/ThermalMonitor.bundle/${model}.bundle/Info.plist"
+
+if [[ ! -f "${watchdog_orig_plist}" ]];then
+	echo "Error: Couldn't find the original WatchDog properties plist (${watchdog_orig_plist})"
+	exit 1
+fi
+
+mv "${watchdog_orig_plist}" "${watchdog_plist}"
+echo "Restored the backup file"

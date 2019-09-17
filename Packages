@@ -3630,22 +3630,6 @@ Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.videodownl
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VideoDownloaderCN 视频下载工具
 
-Package: acreson.videohelper
-Version: 2.2.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/acreson.videohelper_2.2.0_iphoneos-arm.deb
-Size: 130768
-MD5sum: ba1decc622405123c1e7a72a21933907
-SHA1: a5c44ae865d8364ea0110be85e8bbe0f14366c88
-SHA256: d93f0d952b359f2f24b589d6c4da9c494d0ea0184aec58f3995565cf8b2fe100
-Section: Acreson-插件(Tweaks)
-Description: 视频免广告多功能助手·Video Removal
-Author: iBreak <ibreak2019@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Video Helper 视频助手
-
 Package: acreson.viola
 Version: 1.7
 Architecture: iphoneos-arm
@@ -4558,6 +4542,38 @@ Description: 部分强迫症功能，支持最新7.8(TF 7.9)
 Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Vibrato Helper 抖音小助手
+
+Package: acreson.zq.videohelper
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/acreson.zq.videohelper_2.2.0_iphoneos-arm.deb
+Size: 130864
+MD5sum: 2d288e1c74e93e77fbfcfcd3f3fd6e0c
+SHA1: a15b72e88c4d63c261a2ae40f8ee447d15e1001f
+SHA256: baaa1eeeed2a35b8bdc666b0efcd1c70dc431c52861d5cc0f72316f7f99a5f88
+Section: Acreson-插件(Tweaks)
+Description: 视频免广告多功能助手·Video Removal
+Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Video Helper 视频助手
+
+Package: acreson.zq.videohelper
+Version: 3.0.0
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/acreson.zq.videohelper_3.0.0_iphoneos-arm.deb
+Size: 131504
+MD5sum: ca74426a8e63c3d528f280ad2acc161f
+SHA1: 1442c70ab02b2acae7d5b4aaada6177db80de690
+SHA256: 40b8525c0730f55099cdc1ee0ae0d3b5f49c7719282b7b9bb0e3be8054b5318e
+Section: Acreson-插件(Tweaks)
+Description: 视频免广告多功能助手·Video Removal
+Author: iBreak <ibreak2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Video Helper 视频助手
 
 Package: acreson.zq.videoshophack
 Version: 1.0.2

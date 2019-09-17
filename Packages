@@ -3810,6 +3810,40 @@ Icon: file:///Applications/Cydia.app/Sections/Localization.png
 Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: acreson.xt.appleturboboostch
+Version: 0.3.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), com.bingner.plutil
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/acreson.xt.appleturboboostch_0.3.0_iphoneos-arm.deb
+Size: 30120
+MD5sum: ed4278b817756dc8b47d0e5ebf8db9d9
+SHA1: ab71d8799bd67773efc59c98c7f8b17a74738131
+SHA256: bff8a060f35c1c34b533c6ad3437beac940e6d8d5dcd184ac13e768200f1375e
+Section: Acreson-系统(System)
+Description: 解除降频插件Chimera专用,安装完重启后生效
+Author: Halo_Michael <yc992147156@me.com>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: Apple Turbo Boost 解除降频(Chimera)
+
+Package: acreson.xt.appleturboboostun
+Version: 0.3.0
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), com.bingner.plutil
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/acreson.xt.appleturboboostun_0.3.0_iphoneos-arm.deb
+Size: 30120
+MD5sum: c8cc5dd02f7c3f06034a17cfdb12564b
+SHA1: 7ee96017ab6e12fe0d2fcda231e393c767378e91
+SHA256: 9e6c1cedfcf60cdb2ff54ab7941a0d720a5719076b1bcfe96a9a34014bbbf200
+Section: Acreson-系统(System)
+Description: 解除降频插件Unc0ver专用,安装完重启后生效
+Author: Halo_Michael <yc992147156@me.com>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: Apple Turbo Boost 解除降频(Unc0ver)
+
 Package: acreson.xt.preferenceloaderfix
 Version: 1.0
 Architecture: iphoneos-arm

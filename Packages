@@ -731,6 +731,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccdatamore
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CCDataMore 数据开关
 
+Package: acreson.cj.RespringAssistant
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: ./debs/acreson.cj.respringassistant_1.4.1_iphoneos-arm.deb
+Size: 2026068
+MD5sum: 0a05d2e5e664736cccb78317575420b9
+SHA1: 06c419b63c6e720a0d6cfffb7820ce41648ea0e0
+SHA256: de4a806a245b2f5833dc24912b2b0860a9f2a8d7f127a08761d0f703d2499c95
+Section: Acreson-插件(Tweaks)
+Homepage: http://tinyapps.cn
+Description: [快速注销+联网修复]Restart your SpringBoard&Refresh App Icons& Fix network[for iOS 5.1.1-12.4] 快速重启SpringBoard，注销设备；一键刷新桌面的应用图标；修复越狱后无法联网问题
+Author: Tinyapps.cn
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Respring Assistant(快速注销+联网修复) - Restart your SpringBoard QUICKLY, Refresh App
+
 Package: acreson.cj.SuDial
 Version: 0.1-3
 Architecture: iphoneos-arm
@@ -902,6 +919,27 @@ Description: 添加3D触摸手势到Cydia IOS 12 (unc0ver)。
 Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Cydia3DTouch 12
+
+Package: acreson.cj.fakepicture
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10412
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/acreson.cj.fakepicture_1.5.2_iphoneos-arm.deb
+Size: 3331036
+MD5sum: defa8a8a888ef2a2ee676ec30199c73e
+SHA1: 214e08f3b278c7de4ff4c1d1687377914a24d3ab
+SHA256: 7ba661c4592162feb2375acc16b42e8653f6f8b9586a002bac711b09fef2fa60
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakepictureDp
+Description: 虚拟拍照，能够替换应用请求摄像头拍照的图片，让应用得到任意你设置的照片。它是一个魔法相机，实现模拟照相机功能，从而保护你的个人相片隐私。Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera
+    Fake Picture is used for fake picture taking when Apps ask to take a picture from iPhone camera. So the app will get a replaced image which you set. It's a good way to protect your privacy.
+Author: Joe Bruce <joebruce1122@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakepictureDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: FakePicture(拍照替换)-taking pseudo selfie
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.cj.fingertouch12
 Version: 0.0.8

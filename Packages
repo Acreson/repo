@@ -4626,6 +4626,23 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: VUE Crack
 
+Package: acreson.zq.wechatremark
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: xia0
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.wechatremark_0.0.2-1+debug_iphoneos-arm.deb
+Size: 10728
+MD5sum: 722f6b34765bbe26d2e91332614386c9
+SHA1: 414dc9b883e9a81f4dbdf730dfcbff8820b648b0
+SHA256: d36918c10fa80de64bf71dd8fda531661deb8d125aa5e708e5a2ad7e3d0cec5a
+Section: Acreson-增强(Enhance)
+Description: 在好友聊天界面直接输入"备注 新的备注"或"标签 帮助"查看快速标签命令(注意中间有空格）
+Author: xia0
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: WeChat 微信快速备注好友
+
 Package: acreson.zq.wpsofficehack
 Version: 0.0.2
 Architecture: iphoneos-arm

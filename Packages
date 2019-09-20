@@ -1014,6 +1014,26 @@ Depiction: http://akusio.github.io/descriptions/milkyway/index.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: MilkyWay 快捷分屏
 
+Package: acreson.cj.nocallblur
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 101
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/acreson.cj.nocallblur_1.0.1_iphoneos-arm.deb
+Size: 3552
+MD5sum: bb05d951d877dcc7c4d5c8683cb8ae15
+SHA1: 6be86af4537bc050ddb51022ac73ce6af43234b9
+SHA256: b8f30b26a97534c74ee7a81d06a520f6744636b4550666409f0ba8bc4596f59c
+Section: Acreson-插件(Tweaks)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nocallblurDp
+Description: 去除通话背景模糊状态 。Remove the blur from the call background.
+Author: Tr1Fecta <tr1fecta@pm.me>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nocallblurDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: NoCallBlur 去除通话背景模糊
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: acreson.cj.nosileodepiction
 Version: 0.1.1
 Architecture: iphoneos-arm

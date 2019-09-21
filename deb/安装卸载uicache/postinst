@@ -7,6 +7,9 @@ echo "* 执行设置 APP 权限中..."
 chown root:wheel /Applications/music.tv.app/music.tv
 chmod +s /Applications/music.tv.app/music.tv
 
+
+
+
 echo "* Running set app permissions... Done."
 echo "* 执行设置 APP 权限中... 完成"
 

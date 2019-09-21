@@ -4583,6 +4583,24 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ Helper 多功能加强【二】
 Sponsor: 小苹果™
 
+Package: acreson.zq.qqhelper3
+Version: 8.1.6
+Architecture: iphoneos-arm
+Maintainer: 小苹果™
+Installed-Size: 49.78
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.zq.qqhelper3_8.1.6_iphoneos-arm.deb
+Size: 136280
+MD5sum: a22d4ab7a01490f92bb37aca8cc534f5
+SHA1: 3b9718e9884545a0eae02849e0a0de2e0fb5b710
+SHA256: 22a564cc855959e4dd3c0949f5d1a6258671c4f60d1dda2f6e18afd0a2134899
+Section: Acreson-增强(Enhance)
+Description: QQ增强插件破解版，验证随便写.功能:虚拟定位，抢红包，防撤回。方法：验证随便写,设置右上角QQPro操作即可 新增iPhone 11 Pro Max
+Author: 小苹果
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: QQ Helper 多功能加强【三】
+Sponsor: 小苹果™
+
 Package: acreson.zq.sutuplus
 Version: 2.6.5
 Architecture: iphoneos-arm

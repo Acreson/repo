@@ -2185,6 +2185,27 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CyDown Cydia增强12.2+Chimera专版
 
+Package: acreson.gj.ithemer
+Version: 1.0~beta2-2
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 1412
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Filename: ./debs/acreson.gj.ithemer_1.0~beta2-2_iphoneos-arm.deb
+Size: 110472
+MD5sum: 31fa675449e7797958862f6f09007436
+SHA1: 0c13e1e9d38807ca66b69e469d3704bfe048728f
+SHA256: d0ba57fd87d6fe1bc12db6d078e0e7239da6ce2ab7e0eafd9b302a1e4a732c6e
+Section: Acreson-工具(Utilities)
+Description: Chimera IOS12.2-12.4专用 已解决无限菊花问题，测试状态栏，桌面，遮罩，角标，蒙版正常，设置无效,其他后续更新
+Author: DODGraphics <dodgraphics.1010@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: iThemer 主题工具(Chimera)CN
+Sileodepiction: https://crazyc.top/ms/msxq/ithemer.json
+
 Package: acreson.gj.ithemerun
 Version: 1.0~beta2-1
 Architecture: iphoneos-arm
@@ -2205,27 +2226,6 @@ Author: DODGraphics <dodgraphics.1010@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: iThemer 主题工具(Unc0ver-A12)CN
 Sileodepiction: https://crazyc.top/ms/msxq/ithemerun.json
-
-Package: acreson.gj.ithemerun
-Version: 1.0~beta2-2
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 1412
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Filename: ./debs/acreson.gj.ithemerun_1.0~beta2-2_iphoneos-arm.deb
-Size: 110636
-MD5sum: 1f67f4284a2b74681c981865ac5b8b50
-SHA1: c9afb7928b8c019a3ba94828e40d39e1526a6653
-SHA256: dac1f7e3ac252f6bf7dc0228b017f5ee528b2b80b7b6fa81cbf6b19071ea6d19
-Section: Acreson-工具(Utilities)
-Description: Chimera IOS12.2-12.4专用 已解决无限菊花问题，测试状态栏，桌面，遮罩，角标，蒙版正常，设置无效,其他后续更新
-Author: DODGraphics <dodgraphics.1010@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: iThemer 主题工具(Chimera)CN
-Sileodepiction: https://crazyc.top/ms/msxq/ithemer.json
 
 Package: acreson.gj.shshwallet
 Version: 1.0.1a

@@ -922,6 +922,23 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Cydia3DTouch 12
 
+Package: acreson.cj.cylinder
+Version: 1.0.7~beta2
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+cylider@gmail.com>
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/acreson.cj.cylinder_1.0.7~beta2_iphoneos-arm.deb
+Size: 298952
+MD5sum: 7c07e3de62efdeaefb192c6219cc1dae
+SHA1: 108d9750c18922af81b75117cd6f7332edc67702
+SHA256: 5ac37a5c53f498d5b2330faca6965fee994c2dc0fdf7ef566027e3f19bf118e2
+Section: Acreson-插件(Tweaks)
+Homepage: https://github.com/rweichler/cylinder
+Description: Reed Weichler（rw​​eichler）所做的此插件，为A12（X）arm64e设备编译。对于A12 iOS 12.x设备，请添加以下存储库。https://rpetri.ch/repo/
+Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Cylinder 图标特效
+
 Package: acreson.cj.fakepicture
 Version: 1.5.2
 Architecture: iphoneos-arm
@@ -1519,27 +1536,6 @@ Description: 解锁功能：快速升级,启用皇冠模式
 Author: K_K
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Crowd City Cheats 拥挤城市 破解
-
-Package: acreson.cylinder
-Version: 1.0.7
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 899
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/acreson.cylinder_1.0.7_iphoneos-arm.deb
-Size: 255548
-MD5sum: c063ba495eba45946deabb239b14a9b2
-SHA1: c51cbe439ab603f4e0444fdfe4e6c6111acb548b
-SHA256: a499831df96be3523d1a77d97d292efd1de353e4c7e81f75264d2075c7ba90d2
-Section: Acreson-插件(Tweaks)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
-Description: 图标转动特效，测试编译中，仅限IOS11+安装
-Author: Reed Weichler <rweichler+cydia@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
-Dev: rweichler
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Cylinder 图标特效
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: acreson.datameter
 Version: 1.4-3
@@ -5610,6 +5606,24 @@ Size: 6117028
 MD5sum: 2adda508a60038b29d2007d05ebb7332
 SHA1: 8b31c485e69501071b92d6411a266fed412456c6
 SHA256: 56f286f4aa938d70058711546ac8111ba3c7e63c31a6c0958cb1e03ae82ff472
+Section: Acreson-安装包(Packages)
+Description: 一个包管理器支持IOS8-13
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: Zebra（beta）CN
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
+
+Package: xyz.willy.zebra
+Version: 1.0~beta22-5+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 18172
+Depends: dpkg, uikittools
+Filename: ./debs/xyz.willy.zebra_1.0~beta22-5+debug_iphoneos-arm.deb
+Size: 6117426
+MD5sum: d95ae90c51f695199bda7105561a3a51
+SHA1: e2c1881a1c0e5ebd7503af7a92c5550b1a2c6572
+SHA256: 3de0ffb395e51283dd4486c1be967a51a8541c9a41b38923b91dffdefafc8c54
 Section: Acreson-安装包(Packages)
 Description: 一个包管理器支持IOS8-13
 Author: Wilson Styres & Acreson

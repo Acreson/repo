@@ -978,22 +978,23 @@ Name: FingerTouch(IOS12) 指纹触控CN
 Sileodepiction: https://crazyc.top/ms/msxq/ft12.json
 
 Package: acreson.cj.killmyapps
-Version: 1.0.3
+Version: 1.0.6
 Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 916
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1012
 Pre-Depends: com.spark.libsparkapplist
 Depends: mobilesubstrate
-Filename: ./debs/acreson.cj.killmyapps_1.0.3_iphoneos-arm.deb
-Size: 328276
-MD5sum: dde4e5df61daa6c583325d21b463fbb4
-SHA1: b3d7f4d2fd1d8db2c28f900bb3bdab8142efea02
-SHA256: e658ab2b5133eb3f31c9fc97b9d7a77bae9ca899741f55c03e9a59c3bd898c27
+Filename: ./debs/acreson.cj.killmyapps_1.0.6_iphoneos-arm.deb
+Size: 338164
+MD5sum: b2bd526cc1da65349353625a76edf89d
+SHA1: 6193cacc461751bfe6822ac822a3f504814f60d5
+SHA256: be64aacf0b5f3df1bc7f859f14de84465c8cb089f5151b549225357cff4be95c
 Section: Acreson-插件(Tweaks)
-Description: 锁定后台应用不被杀。
-Author: smokin1337
+Description: 防止app被杀死,更新支持12.4
+Author: smokin1337 <smokin1337@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: KillMyApps 锁后台
+Name: KillMyApps 锁后台CN
+Sileodepiction: https://crazyc.top/ms/msxq/killmyapps.json
 
 Package: acreson.cj.littlexs
 Version: 2.4.2

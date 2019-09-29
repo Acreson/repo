@@ -2131,15 +2131,15 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Respring Assistant(快速注销+联网修复) - Restart your SpringBoard QUICKLY, Refresh App
 
 Package: acreson.gj.cracktool4
-Version: 4.0~beta7-16+debug
+Version: 4.0~beta8-7+debug
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debs/acreson.gj.cracktool4_4.0~beta7-16+debug_iphoneos-arm.deb
-Size: 356448
-MD5sum: 0ff35144a2da786401807de1d47d5baa
-SHA1: 6dcd949c9c8435ee23005a0eccef82aa6e9ee8f5
-SHA256: 756d37d822043d869fb4dce3c903c3afaaa2d366b0db4b2baae4c4de4da5d3ed
+Filename: ./debs/acreson.gj.cracktool4_4.0~beta8-7+debug_iphoneos-arm.deb
+Size: 356392
+MD5sum: e8c351cc9cfd2b78a0d8e8b84b7cc2e8
+SHA1: 482b753b247afd4a80cfcab229cda6446b49671a
+SHA256: 84c57a2c8b54e4c0fe032dc9fa581b6c863f40d8a1ef344669c759917ee51f96
 Section: Acreson-工具(Utilities)
 Description: 只需轻轻一击，就可以进行破解
 Author: julioverne

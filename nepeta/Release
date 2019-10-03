@@ -1,0 +1,9 @@
+Origin: Acrespn-Nepeta(Mirror)
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Codename: ominousness
+Description: Nepeta's repo for mostly FOSS software. Supports Cydia and Zebra. (MIRROR) 镜像源
+
+

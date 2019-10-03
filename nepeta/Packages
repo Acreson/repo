@@ -3019,7 +3019,7 @@ Maintainer: Nepeta
 Installed-Size: 624
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
 Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: ./debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
+Filename: ./debs/me.nepeta.unsub_0.1.8.1_iphoneos-arm.deb
 Size: 41206
 MD5sum: 7231014fd36383bc396dea91412b004e
 SHA1: b2a6a5b4b0c94edb180b2f6514abee94c5059165
@@ -3027,5 +3027,23 @@ SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
 Section: Tweaks
 Description: Disable tweak injection (Substrate/Substitute) in certain apps.
 Author: Nepeta
+Name: UnSub
+
+Package: me.nepeta.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
+Size: 41336
+MD5sum: 10f63cde0f6cc74fa33e5d5a35551aa1
+SHA1: 8373f36f5878a858c3dec01ebc8fe23215a6f838
+SHA256: 07076e07e2965f3bda32a9907bb4940c7756a7eed9cfbf2523dc4c56955a4e27
+Section: Tweaks
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Author: Nepeta
+Depiction: https://crazyc.top/nepeta/depiction/me.nepeta.unsub.9
 Name: UnSub
 

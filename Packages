@@ -4969,6 +4969,24 @@ Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cy
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown Cydia增强
 
+Package: com.julioverne.cydown
+Version: 7.0.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.cydown_7.0.0_iphoneos-arm.deb
+Size: 2111300
+MD5sum: 9928172c9c27c54585e2d5202b557f6c
+SHA1: 8c676efbefb67b3e401257b0989c906155070512
+SHA256: a4183a449cc6faf9b36ff4e80be7ddd357488a7cf843ed1c1ef1ad56300f5113
+Section: Acreson-工具(Utilities)
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia下载管理器和额外的功能!最新版 支持a12
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown Cydia增强
+
 Package: com.kingpuffdaddi.control-center.ccvpn
 Version: 1.0.2
 Architecture: iphoneos-arm

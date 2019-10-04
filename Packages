@@ -2198,6 +2198,22 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CyDown Cydia增强12.2+Chimera专版
 
+Package: acreson.gj.cydown
+Version: 7.0.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/acreson.gj.cydown_7.0.0_iphoneos-arm.deb
+Size: 2110776
+MD5sum: 56bf7cfb196488c8f8417b94654e3f52
+SHA1: b0b01b068788759427c94f088612d18600e324a9
+SHA256: cf4c64e18d997b1370899a2cc89f5e88ac5108ec7ecf673f758256b77705318b
+Section: Acreson-工具(Utilities)
+Description: 支持Chimera12.2-12.4专版,具体使用方法:Chimera用户直接安装本版本即可。
+Author: julioverne <julioverne@me.com>
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CyDown Cydia增强(Chimera)
+
 Package: acreson.gj.ithemer
 Version: 1.0~beta2-2
 Architecture: iphoneos-arm

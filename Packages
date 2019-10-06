@@ -1227,6 +1227,26 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Sylph 定制LS播放器CN
 Sileodepiction: https://crazyc.top/ms/msxq/sylph.json
 
+Package: acreson.cj.systeminfo
+Version: 2.2.2-4+debug
+Architecture: iphoneos-arm
+Maintainer: ARX8x
+Installed-Size: 1832
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.systeminfo_2.2.2-4+debug_iphoneos-arm.deb
+Size: 317404
+MD5sum: f00e2792f5155f7a871cb700b5b0cfde
+SHA1: e63ebaec6c643f42457348be82cc93c066c24cb6
+SHA256: e5df122b0990d6179410b1aa4d9d964d2506da4ca2499dc8aa061c162361b6a9
+Section: Acreson-插件(Tweaks)
+Description: 系统信息在设置app >通用>左右，等部分。设置开机nonce，保存shsh，电池信息等
+Author: ARX8x
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: System Info 查看信息
+Tags: settings, specs, system data
+Targets: {"Settings App":["About View"]}
+
 Package: acreson.cj.tinybanners
 Version: 0.4
 Architecture: iphoneos-arm
@@ -3497,26 +3517,6 @@ Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: SwipeForMore Cydia智能滑动增强
 
-Package: acreson.systeminfo
-Version: 2.2.1-10+debug
-Architecture: iphoneos-arm
-Maintainer: ARX8x
-Installed-Size: 1816
-Depends: mobilesubstrate
-Filename: ./debs/acreson.systeminfo_2.2.1-10+debug_iphoneos-arm.deb
-Size: 291232
-MD5sum: acd29d7cdd5e85f6d22b25a652460628
-SHA1: 52d452c1b6b155b52e54b4f1bf5a5083009b5d3c
-SHA256: 334ac591628feef97753f93551e75d682716613f24b505880b9704f469dbd93d
-Section: Acreson-插件(Tweaks)
-Description: 系统信息在设置app >通用>左右，等部分。设置开机nonce，保存shsh，电池信息等
-Author: ARX8x
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: System Info 查看信息
-Tags: settings, specs, system data
-Targets: {"Settings App":["About View"]}
-
 Package: acreson.tetherme8
 Version: 1.2.4
 Architecture: iphoneos-arm
@@ -3534,22 +3534,6 @@ Section: Acreson-网络(Networking)
 Description: 动态支持iOS8+设备的本地连接。这应该在任何载体上工作，而不需要定制捆绑包或首选项。
 Icon: file:///Applications/Cydia.app/Sections/Networking.png
 Name: TetherMe for iOS8+  热点强化
-
-Package: acreson.tgunblockx
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: Jianan Tian <690836844@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/acreson.tgunblockx_1.1.1_iphoneos-arm.deb
-Size: 2772
-MD5sum: 9324eb16f90357fea3058d8fa3e61d7b
-SHA1: 841401e19d3f972cadf86776ceb47ef2b521d494
-SHA256: df001f968d7e19a390d91b5f15e4ff6883dd9b848015028c91c46dcb42c54d7f
-Section: Acreson-增强(Enhance)
-Description: 突破电报封锁群，看群内消息，非常好用，直接安装生效，无需设置，适用于Telegram (5.0+)
-Author: Jianan Tian <690836844@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: TGUnblock X. TG解锁
 
 Package: acreson.thunderhelper
 Version: 1.4.0
@@ -4633,6 +4617,22 @@ Author: 小苹果
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: QQ Helper 多功能加强【三】
 Sponsor: 小苹果™
+
+Package: acreson.zq.removerestrictions
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zq.removerestrictions_0.0.1_iphoneos-arm.deb
+Size: 2784
+MD5sum: f3e6410c09a834aca0eee63025a78660
+SHA1: f0c217e97a0e76057d30fee820f95bd439ffbcd4
+SHA256: dcb617db65e3232c9d3211b087ce66595fadc06e8b8d3670436b8bda25c8addb
+Section: Acreson-增强(Enhance)
+Description: 解锁封禁群，无需设置，安装生效。适用于中国区/美区(Telegram、TelegramX)
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: TG/TGX Remove Restrictions TG/TGX完美解锁
 
 Package: acreson.zq.sutuplus
 Version: 2.6.5

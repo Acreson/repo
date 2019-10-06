@@ -4619,17 +4619,17 @@ Name: QQ Helper 多功能加强【三】
 Sponsor: 小苹果™
 
 Package: acreson.zq.removerestrictions
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
 Depends: mobilesubstrate
-Filename: ./debs/acreson.zq.removerestrictions_0.0.1_iphoneos-arm.deb
-Size: 2784
-MD5sum: f3e6410c09a834aca0eee63025a78660
-SHA1: f0c217e97a0e76057d30fee820f95bd439ffbcd4
-SHA256: dcb617db65e3232c9d3211b087ce66595fadc06e8b8d3670436b8bda25c8addb
+Filename: ./debs/acreson.zq.removerestrictions_0.0.2_iphoneos-arm.deb
+Size: 2828
+MD5sum: 5b671b91c6406b12bc77afda1f47c576
+SHA1: 690118f2a644239d21a080c0c6aa0782bc865ae8
+SHA256: 8871d7aa07ad57d239eefd5f62b576f7f7292c0915fa816cee86fa4d7aecee3a
 Section: Acreson-增强(Enhance)
-Description: 解锁封禁群，无需设置，安装生效。适用于中国区/美区(Telegram、TelegramX)
+Description: 解锁封禁群，无需设置，安装生效。适用于中国区/美区(Telegram、TelegramX) 支持Chinmera/Unc0ver A12 12.4 测试全部工作
 Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: TG/TGX Remove Restrictions TG/TGX完美解锁

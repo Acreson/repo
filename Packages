@@ -600,23 +600,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: BlockSIMAlert 去SIM提示
 
 Package: acreson.boxy3
-Version: 3.4.2
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, com.chpwn.iconsupport
-Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm
-Filename: ./debs/acreson.boxy3_3.4.2_iphoneos-arm.deb
-Size: 2581156
-MD5sum: 527cb3d046abb499e8faac0e24b3a13b
-SHA1: 0d647de1d76265c89deda804803a59b90096dfec
-SHA256: 7669ff90f32cfacbd8e7f29f9e35e107bc7c049a7f0fcd55ac24acabf90e9871
-Section: Acreson-插件(Tweaks)
-Description: 桌面布局自定义,大小，间距
-Author: William Vabrinskas
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Boxy 3 桌面布局自定义
-
-Package: acreson.boxy3
 Version: 3.6.1
 Architecture: iphoneos-arm
 Maintainer: Acreson
@@ -4637,17 +4620,17 @@ Name: QQ Helper 多功能加强【三】
 Sponsor: 小苹果™
 
 Package: acreson.zq.removerestrictions
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
 Depends: mobilesubstrate
-Filename: ./debs/acreson.zq.removerestrictions_0.0.2_iphoneos-arm.deb
-Size: 2828
-MD5sum: 5b671b91c6406b12bc77afda1f47c576
-SHA1: 690118f2a644239d21a080c0c6aa0782bc865ae8
-SHA256: 8871d7aa07ad57d239eefd5f62b576f7f7292c0915fa816cee86fa4d7aecee3a
+Filename: ./debs/acreson.zq.removerestrictions_0.0.3_iphoneos-arm.deb
+Size: 2872
+MD5sum: e47ddada776da684d2ba3294b7c2893a
+SHA1: bdd97ef0f40f46606856664863472c6c9eb44232
+SHA256: 2320a07f254ee2d190438cc9d5f6f710cf4152a1f7da653c640da5f2ffd8f6c3
 Section: Acreson-增强(Enhance)
-Description: 解锁封禁群，无需设置，安装生效。适用于中国区/美区(Telegram、TelegramX) 支持Chinmera/Unc0ver A12 12.4 测试全部工作
+Description: 解锁封禁群，无需设置，安装生效。适用于中国区/美区(Telegram版本4.5-5.1、TelegramX版本全部)更新支持Telegram X企业测试版 支持Chinmera/Unc0ver A12 12.4 测试全部工作
 Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: TG/TGX Remove Restrictions TG/TGX完美解锁

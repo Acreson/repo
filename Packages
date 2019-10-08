@@ -1104,21 +1104,23 @@ Name: No SourceErrors 屏蔽Cydia黄字
 Sponsor: Acreson
 
 Package: acreson.cj.picobanners2
-Version: 0.0.1b2
+Version: 0.0.2b5
 Architecture: iphoneos-arm
-Maintainer: Michele Primavera <support@dreamcode.it>
-Installed-Size: 108
-Depends: mobilesubstrate
-Filename: ./debs/acreson.cj.picobanners2_0.0.1b2_iphoneos-arm.deb
-Size: 19560
-MD5sum: 0be36f249d16cb77d35329dc7c9ddc31
-SHA1: 1928ccd572123507ebe39d8fadc86d95d4c6e051
-SHA256: 327af7dd15f535d07a0c247a7242252d39309a979e267ba59003561eaf06cdd9
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 252
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: netskao.nanobanners, me.nepeta.nanobanners, it.dreamcode.picobanners2
+Filename: ./debs/acreson.cj.picobanners2_0.0.2b5_iphoneos-arm.deb
+Size: 43720
+MD5sum: df1f86870bb606605e8115ea31f82b66
+SHA1: 2f4512936160e2018d67c6e7b34a6ca87a86fade
+SHA256: 63aaf1a66c73490560f3f972526f5f9e28f977590f6b5fd8335b45bff7e3f52b
 Section: Acreson-插件(Tweaks)
-Description: IOS11的迷你通知
-Author: Michele Primavera <support@dreamcode.it>
+Description: 缩小通知
+Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: PicoBanners 2 迷你通知(IOS11)
+Name: PicoBanners 2 缩小通知
+Sponsor: Acreson <342080124@qq.com>
 
 Package: acreson.cj.selectionplus
 Version: 9.9.9

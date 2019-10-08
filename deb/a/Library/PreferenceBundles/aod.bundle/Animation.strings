@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bubble Amount</key>
+	<string>气泡数量</string>
+	<key>Bubble Color</key>
+	<string>气泡颜色</string>
+	<key>Changing bubble amount may help saving resource consumption</key>
+	<string>更改气泡数量可能有助于节省电量消耗。</string>
+	<key>Charging Animation</key>
+	<string>充电动画</string>
+	<key>Show Animation</key>
+	<string>显示动画</string>
+	<key>Use Randomized Color</key>
+	<string>使用随机颜色</string>
+</dict>
+</plist>

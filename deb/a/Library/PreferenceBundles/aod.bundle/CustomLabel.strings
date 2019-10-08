@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Custom Label</key>
+	<string>标签设置</string>
+	<key>Enter here...</key>
+	<string>输入...</string>
+	<key>Font Size</key>
+	<string>字体大小</string>
+	<key>Label Position (X)</key>
+	<string>标签位置(X轴)</string>
+	<key>Label Position (Y)</key>
+	<string>标签位置(Y轴)</string>
+	<key>Save</key>
+	<string>保存</string>
+	<key>Show</key>
+	<string>显示</string>
+</dict>
+</plist>

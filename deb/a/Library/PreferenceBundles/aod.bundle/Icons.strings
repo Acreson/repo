@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Allow Putting the Same Icon</key>
+	<string>允许放置相同的图标</string>
+	<key>Change Icon Size</key>
+	<string>更改图标大小</string>
+	<key>Change space between icons</key>
+	<string>更改图标之间的间距</string>
+	<key>Grayscale Icon</key>
+	<string>灰度图标</string>
+	<key>Icon Fade Animation</key>
+	<string>图标淡入淡出动画</string>
+	<key>Icons</key>
+	<string>图标设置</string>
+	<key>Max Icon Per Rows</key>
+	<string>每行放置图标的最大数量</string>
+	<key>Show Notification Icons</key>
+	<string>显示通知图标</string>
+	<key>Tap Icon to Show Notification</key>
+	<string>点击显示通知</string>
+</dict>
+</plist>

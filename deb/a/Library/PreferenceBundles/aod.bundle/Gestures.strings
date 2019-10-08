@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Double</key>
+	<string>双击</string>
+	<key>Gestures</key>
+	<string>手势设置</string>
+	<key>Single</key>
+	<string>单击</string>
+	<key>Swipe Left to Camera</key>
+	<string>向左滑动到相机</string>
+	<key>Swipe Right to Flashlight</key>
+	<string>向右滑动到手电筒</string>
+	<key>Tap to unlock</key>
+	<string>点按即可解锁</string>
+</dict>
+</plist>

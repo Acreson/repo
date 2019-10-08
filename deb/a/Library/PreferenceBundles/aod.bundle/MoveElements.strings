@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Centralize Components</key>
+	<string>聚合组件</string>
+	<key>Label Position (X)</key>
+	<string>标签位置(X轴)</string>
+	<key>Label Position (Y)</key>
+	<string>标签位置(Y轴)</string>
+	<key>Move Elements</key>
+	<string>移动元素</string>
+	<key>Move Labels</key>
+	<string>移动标签</string>
+	<key>Move Notification View</key>
+	<string>移动通知视图</string>
+</dict>
+</plist>

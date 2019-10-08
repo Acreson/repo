@@ -1,0 +1,23 @@
+{
+    "Music" = "音楽";
+    "Show Now Playing Label" = "再生情報を表示";
+
+    "Default Text:" = "デフォルトテキスト:";
+    "Save" = "保存";
+
+    "Font Size" = "フォントサイズ";
+    "Label Position (Y)" = "ラベル位置 (Y)";
+
+    "Artwork" = "アートワーク";
+    "Show Artwork" = "アートワークを表示";
+    "Artwork Size" = "アートワークのサイズ";
+    "Artwork Position (X)" = "アートワーク位置 (X)";
+    "Artwork Position (Y)" = "アートワーク位置 (Y)";
+
+    "Media Controls" = "コントローラー";
+    "Show Media Controls" = "コントローラーを表示";
+    "Hide if no now playing apps" = "再生中のアプリがない場合非表示";
+    "Linear Style" = "線形アイコンを使用";
+    "Size" = "サイズ";
+    "Space Between Buttons" = "ボタン間の空白を調整";
+}

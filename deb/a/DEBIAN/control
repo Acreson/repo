@@ -1,0 +1,11 @@
+Package: acreson.cj.aod
+Name: AOD 多功能息屏CN
+Version: 3.3
+Section: Acreson-插件(Tweaks)
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, preferenceloader, com.spark.libsparkapplist
+Author: Soh Satoh
+Maintainer: Soh Satoh
+Description: 很酷的息屏插件
+SileoDepiction:https://crazyc.top/ms/msxq/aod.json

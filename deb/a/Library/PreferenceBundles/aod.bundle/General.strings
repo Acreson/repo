@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Brightness</key>
+	<string>亮度</string>
+	<key>Brightness While Charging</key>
+	<string>充电时亮度</string>
+	<key>Default font: AppleSDGothicNeo-Light</key>
+	<string>默认字体: AppleSDGothicNeo-Light</string>
+	<key>Disable Pixel Shift</key>
+	<string>禁用像素移位</string>
+	<key>Disable while DND</key>
+	<string>勿扰模式时禁用</string>
+	<key>Disable while Face Down</key>
+	<string>屏幕朝下时禁用</string>
+	<key>Disable while charging</key>
+	<string>设备充电时禁用</string>
+	<key>Disabling pixel shift may cause burn-in.</key>
+	<string>禁用像素偏移可能会导致屏幕老化。</string>
+	<key>Dismiss Timer</key>
+	<string>关闭计时器</string>
+	<key>Dismiss Timer (While Charging)</key>
+	<string>关闭计时器(充电时)</string>
+	<key>Dismiss in Pocket</key>
+	<string>口袋模式时禁用</string>
+	<key>Dismiss when fully charged</key>
+	<string>充满电时禁用</string>
+	<key>Enable LPM while showing</key>
+	<string>显示时启用省电模式</string>
+	<key>Enable only while charging</key>
+	<string>仅在充电时启用</string>
+	<key>Font</key>
+	<string>字体</string>
+	<key>Hide When Low Battery</key>
+	<string>电量不足时隐藏</string>
+	<key>Label Color</key>
+	<string>标签颜色</string>
+	<key>Options</key>
+	<string>选项</string>
+	<key>Others</key>
+	<string>其他</string>
+	<key>Reshow when taken out from pocket</key>
+	<string>从口袋中取出时重新显示</string>
+	<key>Select Font</key>
+	<string>选择字体</string>
+	<key>Set Brightness</key>
+	<string>设置亮度</string>
+	<key>Show Statusbar</key>
+	<string>显示状态栏</string>
+</dict>
+</plist>

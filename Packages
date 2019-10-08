@@ -3725,23 +3725,6 @@ Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.videodownl
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VideoDownloaderCN 视频下载工具
 
-Package: acreson.viola
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Filename: ./debs/acreson.viola_1.7_iphoneos-arm.deb
-Size: 30141040
-MD5sum: fafeeb9ae04b641d1260b7c4afe17fa5
-SHA1: 314c9c22ed954fa3a11b76acfa1d9f19d17816cc
-SHA256: 3f5de2aaf10d006ec441711c3c681268599ba8e21d4cc75ba1e553aaae205bd6
-Section: Acreson-主题(Themes)
-Description: Viola 主题 ，个人正在使用
-Author: Acreson <342080124@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Themes.png
-Name: Viola 主题
-Sileodepiction: https://crazyc.top/ms/msxq/viola.json
-Sponsor: Acreson <http://crazyc.top>
-
 Package: acreson.wechathelper
 Version: 1.4.1
 Architecture: iphoneos-arm
@@ -4841,6 +4824,23 @@ Author: frenchitouch
 Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: Fluo 主题
 Sponsor: Acreson <342080124@qq.com>
+
+Package: acreson.zt.viola
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.zt.viola_1.8.2_iphoneos-arm.deb
+Size: 33013604
+MD5sum: 1db44c2f442eea711153160738da961d
+SHA1: 2521ef0cd8738c265baba3df19c3d5ee11e6dbb1
+SHA256: 6456f497b04a4ff7cff73c2f844225f93f7a5cb9cd823fcb98c3838625dfdd02
+Section: Acreson-主题(Themes)
+Description: Viola 主题 ，个人正在使用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+Name: Viola 主题
+Sileodepiction: https://crazyc.top/ms/msxq/viola.json
+Sponsor: Acreson <http://crazyc.top>
 
 Package: acreson.zt.vlian
 Version: 1.0

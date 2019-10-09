@@ -2092,32 +2092,32 @@ Maintainer: Acreson
 Installed-Size: 3592
 Depends: mobilesubstrate
 Filename: ./debs/acreson.game.arc_1.2.3.4_iphoneos-arm.deb
-Size: 759308
-MD5sum: 29bbb10d3e498b8c1a630ecf2a9a35e5
-SHA1: 792b25e9134b96d47e81fc9e17c364ceada243d3
-SHA256: 4f1951eb8473e0a4670b134058c4a7053a6005723857892c2bd953d99b7a1215
+Size: 759272
+MD5sum: c30ce9971301691083fc2d758ad9c239
+SHA1: ec471c3e12365c4634d5418b3ec61b36e9c5dd48
+SHA256: af409ebf55d042e86fea130c69dd4f4a04737f36211c6909c478ca755091b218
 Section: Acreson-游戏(Games)
-Description: 解锁功能：无敌锁血，怪物不动，怪物不攻击。  下载推荐香港区《弓箭传说》即可，插件账号《acreson2019》插件通用密码《acreson123456.》
+Description: 解锁功能：无敌锁血，怪物不动，怪物不攻击，上帝模式。  下载推荐香港区《弓箭传说》即可，插件账号《acreson2019》插件通用密码《acreson123456.》
 Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Archero Cheats 弓箭传说国际服破解
 
-Package: acreson.game.joker
-Version: 0.13.6-1+debug
+Package: acreson.game.ARC
+Version: 1.2.3.5
 Architecture: iphoneos-arm
 Maintainer: Acreson
-Installed-Size: 604
+Installed-Size: 3592
 Depends: mobilesubstrate
-Filename: ./debs/acreson.game.joker_0.13.6-1+debug_iphoneos-arm.deb
-Size: 110780
-MD5sum: 7f0715b3e034eaec2c10f964d79a040a
-SHA1: 6284e9e807c264e147ae82bfccbaf35cfd665b83
-SHA256: 0871f8781ef5679b910f6640310c7ea61a1e9e72f6c9cbc1c01ef7f8654712a3
+Filename: ./debs/acreson.game.arc_1.2.3.5_iphoneos-arm.deb
+Size: 759272
+MD5sum: f12092a943733c2c5b54112bf8bfbdee
+SHA1: e1aa211021f15dc24eb009670113a8e9e0e4566d
+SHA256: 40daec4e42fe52c57b325bf851ee7518bf8c14a5d71ae6cb018b2844666183a5
 Section: Acreson-游戏(Games)
-Description: 解锁功能:没有草，没有回收，没有传播，汽车尺寸，快速移动，高跳，汽车车视图，隐藏车.账号验证已去掉，打开的时候稍微多等5s 就可以设置了
-Author: kgfunn&7mo0dd9
+Description: 解锁功能：无敌锁血，怪物不动，怪物不攻击，上帝模式。  下载推荐香港区《弓箭传说》即可，插件账号《acreson2019》插件通用密码《acreson123456.》
+Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: Pubg mobile Hack 刺激战场国际服破解
+Name: Archero Cheats 弓箭传说国际服破解
 
 Package: acreson.game.joker
 Version: 0.14.0-1+debug
@@ -2222,38 +2222,6 @@ Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cr
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CrackTool4(IOS12)破解工具
 Sileodepiction: https://crazyc.top/ms/msxq/ct4.json
-
-Package: acreson.gj.cydown
-Version: 6.9.7
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.gj.cydown_6.9.7_iphoneos-arm.deb
-Size: 688108
-MD5sum: 79888fd13c266d366d7092d292acfb64
-SHA1: 3cb3e29825345a2f2e91565b5576efc8ea6a7681
-SHA256: 1ffada8e56a8769f7d0f0f87866ee117f57bff845e3b9a0c003c51577154704a
-Section: Acreson-工具(Utilities)
-Description: 支持Chimera12.2-12.4专版
-Author: julioverne <julioverne@me.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: CyDown Cydia增强12.2+Chimera专版
-
-Package: acreson.gj.cydown
-Version: 6.9.8
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.gj.cydown_6.9.8_iphoneos-arm.deb
-Size: 688340
-MD5sum: 378add39f84c5cdee166d56832a76bc7
-SHA1: 9ca04cf29da28e7d31a7e83a914d8a7550eefafd
-SHA256: 242d127cc9ece402f97859e2559ca4ff64ee4fde352dbe791cd88fa757233b66
-Section: Acreson-工具(Utilities)
-Description: 支持Chimera12.2-12.4专版,具体使用方法:安装本插件之前先安装一次cydown cydia增强原版，然后卸载掉，卸载之后再安装本版本即可。
-Author: julioverne <julioverne@me.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: CyDown Cydia增强12.2+Chimera专版
 
 Package: acreson.gj.cydown
 Version: 7.0.0

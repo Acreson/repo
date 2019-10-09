@@ -2085,6 +2085,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: FingerTouch 指纹触控
 Sponsor: Ccydia <admin@ccydia.com>
 
+Package: acreson.game.ARC
+Version: 1.2.3.4
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 3592
+Depends: mobilesubstrate
+Filename: ./debs/acreson.game.arc_1.2.3.4_iphoneos-arm.deb
+Size: 759308
+MD5sum: 29bbb10d3e498b8c1a630ecf2a9a35e5
+SHA1: 792b25e9134b96d47e81fc9e17c364ceada243d3
+SHA256: 4f1951eb8473e0a4670b134058c4a7053a6005723857892c2bd953d99b7a1215
+Section: Acreson-游戏(Games)
+Description: 解锁功能：无敌锁血，怪物不动，怪物不攻击。  下载推荐香港区《弓箭传说》即可，插件账号《acreson2019》插件通用密码《acreson123456.》
+Author: DanYal
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+Name: Archero Cheats 弓箭传说国际服破解
+
 Package: acreson.game.joker
 Version: 0.13.6-1+debug
 Architecture: iphoneos-arm

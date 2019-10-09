@@ -4097,6 +4097,24 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 1Password Crack
 
+Package: acreson.zq.AlipayForestb
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 9412
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs/acreson.zq.alipayforestb_1.0.0_iphoneos-arm.deb
+Size: 4178972
+MD5sum: c216cd3080806a7f0bca73d2b2d5287a
+SHA1: e7def90f2efe99540e37969ceda142adb1300d8c
+SHA256: 5024a875857020fd7d80c9b17478047920398f8f71a24c3500f2d77ddf17678f
+Section: Acreson-增强(Enhance)
+Description: 支付宝-蚂蚁森林、小鸡喂食等一系列辅助功能
+Author: alipayb
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+Name: Alipay 支付宝B-蚂蚁森林
+Sponsor: Acreson
+
 Package: acreson.zq.DouTu
 Version: 2.0
 Architecture: iphoneos-arm

@@ -417,22 +417,6 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-Panda
 
-Package: acreson.app.qqaqzx
-Version: 6.9.17
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 8.0)
-Filename: ./debs/acreson.app.qqaqzx_6.9.17_iphoneos-arm.deb
-Size: 8489680
-MD5sum: 39ca274a50283b3cab50b6e15260a72d
-SHA1: b44c31e2252654365bad06489b4523a3f324f441
-SHA256: 1d90b618fee4b11f12089d53a897d846396fb4216332332c1ac7506c8dce5efd
-Section: Acreson-软件(Applications)
-Description: QQ安全中心共存版，已砸壳转deb
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-QQ安全中心
-
 Package: acreson.app.shupro
 Version: 1.0.2
 Architecture: iphoneos-arm

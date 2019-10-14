@@ -337,6 +337,23 @@ Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-Bika CG
 
+Package: acreson.app.hgvip
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: 1
+Depends: firmware (>= 9.0)
+Filename: ./debs/acreson.app.hgvip_1.2.0_iphoneos-arm.deb
+Size: 46268824
+MD5sum: 8cea787f3e5e8bae92b01bad05c18354
+SHA1: 8ca812f894c8868ab962c7f6a6c19b48b5020ae0
+SHA256: 6c80ab3b7351ff93fe09180c6a1eedb86e93b836c95c2757de61e317c9b13dd9
+Section: Acreson-软件(Applications)
+Description: 黄瓜视频VIP版
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-黄瓜视频VIP
+Sponsor: Acreson
+
 Package: acreson.app.iosthunder
 Version: 5.32
 Architecture: iphoneos-arm

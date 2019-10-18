@@ -337,33 +337,16 @@ Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-Bika CG
 
-Package: acreson.app.hgvip
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: 1
-Depends: firmware (>= 9.0)
-Filename: ./debs/acreson.app.hgvip_1.2.0_iphoneos-arm.deb
-Size: 46268824
-MD5sum: 8cea787f3e5e8bae92b01bad05c18354
-SHA1: 8ca812f894c8868ab962c7f6a6c19b48b5020ae0
-SHA256: 6c80ab3b7351ff93fe09180c6a1eedb86e93b836c95c2757de61e317c9b13dd9
-Section: Acreson-软件(Applications)
-Description: 黄瓜视频VIP版
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-黄瓜视频VIP
-Sponsor: Acreson
-
 Package: acreson.app.iosthunder
 Version: 5.32
 Architecture: iphoneos-arm
 Maintainer: Acreson
 Depends: firmware (>= 9.0)
 Filename: ./debs/acreson.app.iosthunder_5.32_iphoneos-arm.deb
-Size: 51351196
-MD5sum: 8997b708a4424c95c35a8a18fa45b774
-SHA1: 37f71c728393468f78dba3772d667b7fb484a4f2
-SHA256: 8c16e73de5910b3b67108e99f17a5b432a7c3e13a770c516305276bf5186bbe4
+Size: 64855112
+MD5sum: c5efc4d9ef2e31d18e244844a90c8a93
+SHA1: 782e92d3cbe771d8e6a7863650d8d8b40d616e4b
+SHA256: 221c22ab76abddcbcb2378e257aa1a038f36ebd336f7d441ef4151a941cab338
 Section: Acreson-软件(Applications)
 Description: 迅雷Beta5.32版本可配合源插件Thunder Helper进行加速下载
 Author: Acreson
@@ -418,32 +401,16 @@ Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-南瓜电影(内置破解)
 
-Package: acreson.app.panda
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 8.0)
-Filename: ./debs/acreson.app.panda_1.1.0_iphoneos-arm.deb
-Size: 21948908
-MD5sum: 8c65f46887708638742dd4b08b703a21
-SHA1: fab733ad17199a008738655f1b76939ea1495a73
-SHA256: 71ae09c95751b18895ea8b217237250a27ba9f8a7aa65024dae5ec39a80c357f
-Section: Acreson-软件(Applications)
-Description: 熊猫助手免费版，已砸壳转deb，去企业证书验证
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-Panda
-
 Package: acreson.app.shupro
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Acreson
 Depends: firmware (>= 9.3)
 Filename: ./debs/acreson.app.shupro_1.0.2_iphoneos-arm.deb
-Size: 6470140
-MD5sum: 64c133b86ce398bdfe9c1290d6c239bd
-SHA1: 684b61581f56977cb9f6cf52f2a8d82231c386bb
-SHA256: e11950e2395b3e950da12dc8d476ff746a407a90554f0de42776ea5dad8b5980
+Size: 8941472
+MD5sum: 0e748b2691014dcfd0797ea84db8f19d
+SHA1: cab0ab0b2a26684069c32a3491a97bbf8a2f4751
+SHA256: 3fde70d56449b97786b14d33bad0171ca9aa90f4d2e631d755d096bb39ca85ab
 Section: Acreson-软件(Applications)
 Description: Shu可安装ipa版本
 Author: Chen Qi
@@ -755,10 +722,10 @@ Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/acreson.cj.sudial_0.1-3_iphoneos-arm.deb
-Size: 240304
-MD5sum: 531534ab52fd60016ff40dcbd1b9260d
-SHA1: b3975f8b222fbd7d663f844057ec027a9a527c11
-SHA256: dd84f59aa45ac2b6f5db1338c1d527cd2d50f550f4e069caedd48e2c425d8221
+Size: 355778
+MD5sum: b9782ea3598d12c74213caab2be96442
+SHA1: 121762c112f0bbc2f437426a6a00a56d8eac98fb
+SHA256: 6046523f42b3bb37045d549ef2d4eb2085af21fba072d76376c783cfa000eac9
 Section: Acreson-插件(Tweaks)
 Description: 电话的T9拨号助手
 Author: Mao
@@ -912,10 +879,10 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocket
 Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Filename: ./debs/acreson.cj.bazzi2_2.0.7.1_iphoneos-arm.deb
-Size: 64736
-MD5sum: 0ed361c517b821e04cf820c075e2ed36
-SHA1: 27e6f1f929c094d392f3992f7d4b95c5f3394da7
-SHA256: 75415647da521e3596ad1c759d491f5d16f1c0283be7d3980dd04969423d134c
+Size: 87156
+MD5sum: 68fe3eb25ea77c9bf87d464bcf9ce03b
+SHA1: a87eaafbba63bf3e162364c518b560bec549eb16
+SHA256: 5a44db66bdf56b689520568a01812739841d235011d99d23f28a3fcdeb0dbe48
 Section: Acreson-插件(Tweaks)
 Description: x以上设备定制电池CN
 Author: Blake Boxberger
@@ -1439,57 +1406,6 @@ Author: iTweakiOS
 Icon: file:///Applications/Cydia.app/Sections/Networking.png
 Name: CommCenter Patch 去验证
 
-Package: acreson.conditionalwifi2
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: iOS Creatix
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/acreson.conditionalwifi2_1.0.0_iphoneos-arm.deb
-Size: 18320
-MD5sum: f30ac1c83fb32cc9c3ce52b45f7e4d26
-SHA1: c4101b24732a53b770f70636c49a4e4fca897483
-SHA256: 39265fed01c002e9340d5c9b2a9a2932c9188661ec283d1ad4d368c89a070ed7
-Section: Acreson-网络(Networking)
-Description: 限制某些应用程序访问iOS 11上的wifi
-Author: iOS Creatix
-Depiction: https://mrmadtw.github.io/repo/depiction/conditionalwifi3/index.html
-Icon: file:///Applications/Cydia.app/Sections/Networking.png
-Name: ConditionalWiFi2 IOS10网络权限
-
-Package: acreson.conditionalwifi3
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: iOS Creatix
-Depends: mobilesubstrate
-Filename: ./debs/acreson.conditionalwifi3_1.0.0_iphoneos-arm.deb
-Size: 9104
-MD5sum: e99276b2c7a32231a5925ce616a3f2e5
-SHA1: 31705313d57230957708a98d7c73762f3306bdc2
-SHA256: 8486223de2567700d034a68252aaf48b8a8273182dc0cbee69b6a01d5b28af73
-Section: Acreson-网络(Networking)
-Description: 限制某些应用程序访问iOS 11上的wifi
-Author: iOS Creatix
-Depiction: https://mrmadtw.github.io/repo/depiction/conditionalwifi3/index.html
-Icon: file:///Applications/Cydia.app/Sections/Networking.png
-Name: ConditionalWiFi3 IOS11网络权限
-
-Package: acreson.conditionalwifi4
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: ATWiiks
-Installed-Size: 128
-Depends: mobilesubstrate
-Filename: ./debs/acreson.conditionalwifi4_1.0.0_iphoneos-arm.deb
-Size: 9140
-MD5sum: 718999527cc9c763c5621e1f9809eea2
-SHA1: d7ce2d0a96f0e6c4d8a232dfc445f8fbab4cc7a0
-SHA256: c3c7cbcf24abac7a9cfebd3890b8d8fc8de75ce21dc91dc308e0eb45ad30b7c4
-Section: Acreson-网络(Networking)
-Description: 限制某些应用程序访问iOS 12上的wifi
-Author: ATWiiks
-Icon: file:///Applications/Cydia.app/Sections/Networking.png
-Name: ConditionalWiFi4 IOS12网络权限
-
 Package: acreson.counterattack1
 Version: 1.2.16-1
 Architecture: iphoneos-arm
@@ -1720,251 +1636,6 @@ Description: Relocate 虚拟定位完整版CN
 Author: Nepeta
 Icon: file:///Applications/Cydia.app/Sections/Localization.png
 Name: Relocate 虚拟定位完整版CN
-
-Package: acreson.emoji1
-Version: 1.1
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: Acreson
-Filename: ./debs/acreson.emoji1_1.1_iphoneos-arm.deb
-Size: 41149352
-MD5sum: d013444f15469f1bf5391498841bf27c
-SHA1: 81b8042e45565978058f83f3ce1f2221c5c3fba0
-SHA256: b59fecf985d331f032e935151fe0f2c80671900f6bf698b740125fe7349385e4
-Section: Acreson-美化(Beautify)
-Description: 美化版emoji直装版，不是工具版，安装自动备份，卸载自动还原。切记不可根工具同步使用。
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: emoji-美化1 直装版
-Sponsor: Acreson
-
-Package: acreson.emojiandroidp
-Version: 1.1
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: Acreson
-Filename: ./debs/acreson.emojiandroidp_1.1_iphoneos-arm.deb
-Size: 40919484
-MD5sum: 9f34a0b8895f9740db77bf687e4ad7c1
-SHA1: 8bd438b60e36e6a5e468a280b2e35e24d158a319
-SHA256: be2709e9cb0ff38a6cd3c08e774220a18443d2faaa219b23afc69873c51f2dc3
-Section: Acreson-美化(Beautify)
-Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: emoji-Android-P 直装版
-Sponsor: Acreson
-
-Package: acreson.emojiandroidpfontefm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/acreson.emojiandroidpfontefm_1.0_iphoneos-arm.deb
-Size: 40921612
-MD5sum: 87a25443c156fbd58b912c67e0c45cee
-SHA1: c666e3934a82037a1de82a782848eba475cb39b7
-SHA256: 48e299c42100f54c683253cbdf5982f525572693cbac73a698394445170aedc0
-Section: Acreson-美化(Beautify)
-Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
-Author: PoomSmart & vXBaKeRXv
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: Emoji-Android P 工具版
-
-Package: acreson.emojifacebook
-Version: 1.1
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: Acreson
-Filename: ./debs/acreson.emojifacebook_1.1_iphoneos-arm.deb
-Size: 53189732
-MD5sum: 5f34aa1565c03c77e41ff4af0b88b3d5
-SHA1: ecac756a799184f846e2f87084a22e12a0683cf4
-SHA256: c37a4a6a4588cb502d88003dcec6133851897635e5353af2c21d5ec0976b0cec
-Section: Acreson-美化(Beautify)
-Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: emoji-Facebook 直装版
-Sponsor: Acreson
-
-Package: acreson.emojifacebookefm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/acreson.emojifacebookefm_1.0_iphoneos-arm.deb
-Size: 53189104
-MD5sum: 83b83aa4087d9db904d8ef2d5b139e62
-SHA1: d720c4edfac5cfd7985dd07ddc2ffde0f537cc41
-SHA256: 57b39781acc16474f9fe372ac0c11e659328583ac3bfd3ff2fab8496587fa044
-Section: Acreson-美化(Beautify)
-Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
-Author: PoomSmart & vXBaKeRXv
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: Emoji-Facebook 工具版
-
-Package: acreson.emojifontmanager
-Version: 0.0.6-1
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 332
-Depends: mobilesubstrate, preferenceloader, acreson.emojilibrary, firmware (>= 6.0), ws.hbang.common (>= 1.11.3)
-Filename: ./debs/acreson.emojifontmanager_0.0.6-1_iphoneos-arm.deb
-Size: 40212
-MD5sum: 942b4bcd2aa73de1934c9a4842fb0e35
-SHA1: dafa71238ac31df3ceadaeb3bab1a3d073446bca
-SHA256: e6062baded8470818ddb32ba79a46d85e54447e5d68a3e364cb7fdc42ce96031
-Section: Acreson-插件(Tweaks)
-Description: Emoji字体覆盖和管理。emoji表情路径：/Library/Themes/EmojiFontManager
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/emojifontmanager.html
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: EmojiFontManager emoji表情切换工具
-
-Package: acreson.emojilibrary
-Version: 1.0.18.2
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 536
-Filename: ./debs/acreson.emojilibrary_1.0.18.2_iphoneos-arm.deb
-Size: 48404
-MD5sum: 1507dab41cffe3ae7ee31c68a6c05c2d
-SHA1: 77d2be070c1bb9130540d43ff055d691dc039aad
-SHA256: 35577021ba83e3007d83293c0bf7cc95e8b212966d84b392cf4c6f30b64102a1
-Section: Acreson-依赖(Depends)
-Description: emoji表情主要加载库.
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
-Icon: file:///Applications/Cydia.app/Sections/Addons.png
-Name: EmojiLibrary 表情加载库
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
-
-Package: acreson.emojione2019
-Version: 1.1
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: Acreson
-Filename: ./debs/acreson.emojione2019_1.1_iphoneos-arm.deb
-Size: 41149136
-MD5sum: acc9555c8e2cb51ef13f9fe17155c09f
-SHA1: 90ecdeaaadc938b1a0607d780eaddae010ed2623
-SHA256: 17bdc83b7c81681d60e48d17995beb740b94c657ac4b9f29681fb5e04240a93f
-Section: Acreson-美化(Beautify)
-Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: emoji-One2019 直装版
-Sponsor: Acreson
-
-Package: acreson.emojione2019efm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/acreson.emojione2019efm_1.0_iphoneos-arm.deb
-Size: 41147628
-MD5sum: aaf848a5d393434d7135bb18474fc42b
-SHA1: ccfd70f3e1fa96684547e023ab67dd531d4e57c5
-SHA256: c2b1c907187bb2ef44605c29edc652dfc6dcaf51d16ce6908bef354c43cbee64
-Section: Acreson-美化(Beautify)
-Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
-Author: PoomSmart & vXBaKeRXv
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: Emoji-One 2019 工具版
-
-Package: acreson.emojionedecal2019
-Version: 1.1
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: Acreson
-Filename: ./debs/acreson.emojionedecal2019_1.1_iphoneos-arm.deb
-Size: 51281244
-MD5sum: c8e3b717d793ead0c033d3aec1a58a0a
-SHA1: 19d0908f779df661599843742b5cd3d4e07e5f4f
-SHA256: 1f05a5f642791755cbe645ffd7afd5909d5f5526eb90fcd0864ceebeed2ab65f
-Section: Acreson-美化(Beautify)
-Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: emoji-One Decal 2019 直装版
-Sponsor: Acreson
-
-Package: acreson.emojionedecal2019efm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/acreson.emojionedecal2019efm_1.0_iphoneos-arm.deb
-Size: 51279564
-MD5sum: a8236f6c09db318a04fafd3adf3c514c
-SHA1: c05c953ad6c6337a2906e1cbb944305708de470d
-SHA256: ade67f34b7e0c626ebe360fbc4d49285e8662ff630df4ec46777b3fb31c991e3
-Section: Acreson-美化(Beautify)
-Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
-Author: PoomSmart & vXBaKeRXv
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: Emoji-One Decal 2019 工具版
-
-Package: acreson.emojisamsung
-Version: 1.1
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: Acreson
-Filename: ./debs/acreson.emojisamsung_1.1_iphoneos-arm.deb
-Size: 50964288
-MD5sum: f15dcb3add9ca8cf44853cbb6ab06c06
-SHA1: 9e9da785042f5d16008f9507a48108d0c6e863db
-SHA256: 648808de20a405f9a3efbd1b8fc683d3a268d7f94ae6b6a4f8e75efea8d4480d
-Section: Acreson-美化(Beautify)
-Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: emoji-Samsung 直装版
-Sponsor: Acreson
-
-Package: acreson.emojisamsungefm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/acreson.emojisamsungefm_1.0_iphoneos-arm.deb
-Size: 50962628
-MD5sum: a0e1534719a7cc18126420ba070cd110
-SHA1: 0ce2e5a307eb85c7804f76c2759f29328f9abb02
-SHA256: 3c6b35fb19c606cfe0710937449f128da489c163ee269db165674034540086b3
-Section: Acreson-美化(Beautify)
-Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
-Author: PoomSmart & vXBaKeRXv
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: Emoji-Samsung 工具版
-
-Package: acreson.emojitwitter
-Version: 1.1
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: Acreson
-Filename: ./debs/acreson.emojitwitter_1.1_iphoneos-arm.deb
-Size: 33732392
-MD5sum: 185c5bdb38d7fd9f66816bc588dc27cc
-SHA1: 29a6f0e85b2999078dfcc44c8dd592cf654a58f2
-SHA256: c62eba509379aeba76ee41acb5e4e56711ba18cec335d9ca6f131377056ed16f
-Section: Acreson-美化(Beautify)
-Description: 美化版emoji直装版，不是工具版，安装的时候会备份系统自带的，卸载后即可恢复，切记不可在已安装状态下随意安装本源其他emoji美化。切记不可根工具同步使用。
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: emoji-Twitter 直装版
-Sponsor: Acreson
-
-Package: acreson.emojitwitterfontefm
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart & vXBaKeRXv
-Filename: ./debs/acreson.emojitwitterfontefm_1.0_iphoneos-arm.deb
-Size: 33730560
-MD5sum: dad89dac8df53a737ee6de82ace33f16
-SHA1: b21770f6f2e3eff82c0901cfd51177c0238b967a
-SHA256: bb5a73ff6c59adb14ae5b062a32fa3a7db5671f0f5b29541bbd3d8575486ae58
-Section: Acreson-美化(Beautify)
-Description: emoji美化版-工具版本，需要搭配本源EmojiFontManagers工具，去设置中切换使用，切勿根本源直装版同时安装。
-Author: PoomSmart & vXBaKeRXv
-Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
-Name: Emoji-Twitter 工具版
 
 Package: acreson.ext3nder-installer
 Version: 021a
@@ -2211,10 +1882,10 @@ Architecture: iphoneos-arm
 Maintainer: Tinyapps.cn
 Depends: firmware (>= 5.1.1), mobilesubstrate
 Filename: ./debs/acreson.gj.respringassistant_1.4.1_iphoneos-arm.deb
-Size: 2026488
-MD5sum: 8e46c1a096592dadae1d8546c6d4e0af
-SHA1: 198d43af7357e7123020e1ed0c9beffcc0b93fcc
-SHA256: a51d26d04012bde1da1b201cf99fc2f42feb2524064b6e4cbe05ec93391082be
+Size: 2890362
+MD5sum: 43d5a3229ae94e001c12a66c9beeea99
+SHA1: bb2db9613be7800ece36e0b253df3d27fb6d71a4
+SHA256: a9711daa4fd6ffd388da4d5cef43a936d49d6e3ca17d3cc203a594e507e74df6
 Section: Acreson-工具(Utilities)
 Homepage: http://tinyapps.cn
 Description: [快速注销+联网修复]Restart your SpringBoard&Refresh App Icons& Fix network[for iOS 5.1.1-12.4] 快速重启SpringBoard，注销设备；一键刷新桌面的应用图标；修复越狱后无法联网问题
@@ -3280,23 +2951,6 @@ Author: jjolano
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Shadow 屏蔽越狱
 
-Package: acreson.sileo
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 236
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/acreson.sileo_0.0.2_iphoneos-arm.deb
-Size: 18688
-MD5sum: b81e62120f838503d7b3b28dfa51a782
-SHA1: f7400e0331947325bd1d6cd3a4fbd29ba6b878ff
-SHA256: 3eb7462ecbc0289499d622ac1945add3e6ac975ad5aef90bdda797ced0121344
-Section: Acreson-插件(Tweaks)
-Description: Sileo增强。所有付费变已付，去广告，去横幅
-Author: @3bod_syr & CrazyMind90
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Sileo 神器
-
 Package: acreson.sixguns
 Version: 3.0.4-9+debug
 Architecture: iphoneos-arm
@@ -3864,6 +3518,57 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswo
 Dev: malcolmhall
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: WiFi Passwords WIFI密码查看器
+
+Package: acreson.wl.conditionalwifi2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/acreson.wl.conditionalwifi2_2.0_iphoneos-arm.deb
+Size: 18332
+MD5sum: 095ddb593ea041157e31e27c640f8809
+SHA1: f02df61fd2cfdfb9133855b0f5e60e3b753165c3
+SHA256: 9531e0346f0511da5b9204dd890164da3cf581a9a7b280f1ae285d2967510dc7
+Section: Acreson-网络(Networking)
+Description: 限制某些应用程序访问iOS 11上的wifi
+Author: iOS Creatix
+Depiction: https://mrmadtw.github.io/repo/depiction/conditionalwifi3/index.html
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Name: ConditionalWiFi2 IOS10网络权限
+
+Package: acreson.wl.conditionalwifi3
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Depends: mobilesubstrate
+Filename: ./debs/acreson.wl.conditionalwifi3_2.0.0_iphoneos-arm.deb
+Size: 12692
+MD5sum: 4ca8119b4877e6b2f802e558d127a46e
+SHA1: ffd50aaf74dd1de99f449911291549737b7349b6
+SHA256: ebe43d7205acaec38ceec165a445a112a958364ccf0e24821f7a7e9c1364cb09
+Section: Acreson-网络(Networking)
+Description: 限制某些应用程序访问iOS 11上的wifi
+Author: iOS Creatix
+Depiction: https://mrmadtw.github.io/repo/depiction/conditionalwifi3/index.html
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Name: ConditionalWiFi3 IOS11网络权限
+
+Package: acreson.wl.conditionalwifi4
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./debs/acreson.wl.conditionalwifi4_2.0.0_iphoneos-arm.deb
+Size: 12848
+MD5sum: 338577a6aca77de4295d1c01fe0fbbf6
+SHA1: 2f14b43555f5b315cde17b325b4fa2b768306dea
+SHA256: e7c9c961ec9f71c0f45b42bf15dbadd2875da0e94350bbb5425054d12802eeff
+Section: Acreson-网络(Networking)
+Description: 限制某些应用程序访问iOS 12上的wifi
+Author: ATWiiks
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+Name: ConditionalWiFi4 IOS12网络权限
 
 Package: acreson.xgpsfree
 Version: 2.3.1
@@ -4946,24 +4651,6 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 遮罩组合1
 Sponsor: Acreson <342080124@qq.com>
 
-Package: areson.unsub
-Version: 0.1.9
-Architecture: iphoneos-arm
-Maintainer: Nepeta
-Installed-Size: 624
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
-Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: ./debs/areson.unsub_0.1.9_iphoneos-arm.deb
-Size: 41280
-MD5sum: 12660e02f6bd1d1f9e7978e11ec5a9bb
-SHA1: 2388fea9df76f3015675626ea7e5c54ff9033817
-SHA256: 1cf0956325aa2a205efd79354e2020ed7b63b73dfa7c6f32f73ea2d92f2912c8
-Section: Acreson-插件(Tweaks)
-Description: 在某些应用程序中禁用微调注入(Substrate/Substitute)。
-Author: Nepeta
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: UnSub 屏蔽越狱+禁止注入
-
 Package: com.bingner.plutil
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -5296,52 +4983,6 @@ Description: iGameGuardian是iOS 8.x/9.x/10.2/11.0-11.3.1的一种修改器.
 Author: Aqua Wu <igameguardian@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: iGameGuardian 修改器
-
-Package: idv.aqua.igg12
-Version: 12.0.4
-Architecture: iphoneos-arm
-Maintainer: Aqua Wu <igameguardian@gmail.com>
-Installed-Size: 1372
-Depends: firmware (>= 8.0)
-Filename: ./debs/idv.aqua.igg12_12.0.4_iphoneos-arm.deb
-Size: 363052
-MD5sum: d4fa2a96faea8c35e6e0633e37aa12dc
-SHA1: f8f714e684371f6d5e5760f1120a0a2e1b3e2904
-SHA256: 6ff71f268cdf0ebca43e96de8a47073f3491f498665c9e7255aaf122423097ef
-Section: Acreson-修改器(Modifiers)
-Priority: optional
-Homepage: https://igg-server.herokuapp.com/
-Description: iGameGuardian是iOS 8到12的内存编辑器。
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
-Author: Aqua Wu <igameguardian@gmail.com>
-Depiction: https://igg-server.herokuapp.com/
-Dev: aqua
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: iGG 12 Stable   IGG12稳定版
-Sponsor: Aqua Wu <igameguardian@gmail.com>
-
-Package: idv.aqua.igg12.speed
-Version: 12.0.4
-Architecture: iphoneos-arm
-Maintainer: Aqua Wu <igameguardian@gmail.com>
-Installed-Size: 1372
-Depends: firmware (>= 8.0)
-Filename: ./debs/idv.aqua.igg12.speed_12.0.4_iphoneos-arm.deb
-Size: 363408
-MD5sum: a3dea6c4ea38dd553af429882d7fa799
-SHA1: 0c43b8ee79eb2886cf1c7f7ef641984ab160452c
-SHA256: e37b0b191f3bb86532663d114405719298286a84377932430f930f2a9a7f92c5
-Section: Acreson-修改器(Modifiers)
-Priority: optional
-Homepage: https://igg-server.herokuapp.com/
-Description: iGameGuardian是iOS 8到12的内存编辑器。
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
-Author: Aqua Wu <igameguardian@gmail.com>
-Depiction: https://igg-server.herokuapp.com/
-Dev: aqua
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: iGG 12 Speed   IGG12速度版
-Sponsor: Aqua Wu <igameguardian@gmail.com>
 
 Package: lz4
 Version: 1.7.5-1
@@ -5678,6 +5319,24 @@ Size: 7561700
 MD5sum: 815715e4fd53d2906465d6166a2f2dc6
 SHA1: 0b170175cf1e33b09d2a8e35082125def8a63fde
 SHA256: e20ea790fc19b6e4fe0eb41c25d639545783fec0a95a0fdebec2003bcd703193
+Section: Acreson-安装包(Packages)
+Description: 一个包管理器支持IOS8-13
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: Zebra（beta）CN
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
+
+Package: xyz.willy.zebra
+Version: 1.0~beta23-5+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 23152
+Depends: dpkg, uikittools
+Filename: ./debs/xyz.willy.zebra_1.0~beta23-5+debug_iphoneos-arm.deb
+Size: 7561038
+MD5sum: 9b74ddddb3cf593787f2b74f010c7c3b
+SHA1: 1cdfa79e76c3e9c11ba9fbe36af11af2b18ec843
+SHA256: 431b630e1ebfa8f21b54b1de5e8575b485a16a39ad3841e724188e77406cd58d
 Section: Acreson-安装包(Packages)
 Description: 一个包管理器支持IOS8-13
 Author: Wilson Styres & Acreson

@@ -1125,21 +1125,21 @@ Name: PicoBanners 2 缩小通知
 Sponsor: Acreson <342080124@qq.com>
 
 Package: acreson.cj.selectionplus
-Version: 9.9.9
+Version: 1.0.6.4
 Architecture: iphoneos-arm
 Maintainer: Acreson  <342080124@qq.com>
 Installed-Size: 972
 Depends: mobilesubstrate, firmware (>= 10.3), ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
-Filename: ./debs/acreson.cj.selectionplus_9.9.9_iphoneos-arm.deb
-Size: 101460
-MD5sum: 3a154ba8933013cfed5a8470df6d8620
-SHA1: f4ef1dfaa3e355b58ce86cad76e332d0ec0d57b2
-SHA256: d882ea6c331cd9f6e61614af1017bdb5146bb85c40d4ea6fe59ea5665888a3b9
+Filename: ./debs/acreson.cj.selectionplus_1.0.6.4_iphoneos-arm.deb
+Size: 171372
+MD5sum: 46d66acb1a67bfce47629bb5b944f978
+SHA1: 9dd492cf9662bef5c18810c686ebd77956a8384b
+SHA256: 728ff1af3b924c75174f6fdc0202daa4ac89277e2d82e44c26c95800dd94f8ee
 Section: Acreson-插件(Tweaks)
 Description: 改善你的长按菜单
 Author: Satvik <satvikdeveloper@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: SelectionPlus 快捷菜单增强CN
+Name: SelectionPlus 快捷菜单增强 CN
 
 Package: acreson.cj.showtouch
 Version: 1.0.3-1

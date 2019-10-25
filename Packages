@@ -732,6 +732,23 @@ Author: Mao
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: SuDial - T9拨号
 
+Package: acreson.cj.alipayforestun
+Version: 0.3.3-9
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.alipayforestun_0.3.3-9_iphoneos-arm.deb
+Size: 6252688
+MD5sum: ece961392a759c16601e8994b7ab792e
+SHA1: de2acbead552d30e30c6fe7ba6fce227644d15af
+SHA256: 83e8a8d68b4e37104aba6b9ff86710f260463184924370ac856aac068ad82677
+Section: Acreson-增强(Enhance)
+Description: 蚂蚁森林能量，小鸡收割机，你懂的。
+Author: 支付宝B
+Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
+Name: 支付宝B-Chimera/Unc0ver
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.cj.antirevoke
 Version: 1.1
 Architecture: iphoneos-arm
@@ -4608,10 +4625,10 @@ Version: 1.8.2
 Architecture: iphoneos-arm
 Maintainer: Acreson <342080124@qq.com>
 Filename: ./debs/acreson.zt.viola_1.8.2_iphoneos-arm.deb
-Size: 33013604
-MD5sum: 1db44c2f442eea711153160738da961d
-SHA1: 2521ef0cd8738c265baba3df19c3d5ee11e6dbb1
-SHA256: 6456f497b04a4ff7cff73c2f844225f93f7a5cb9cd823fcb98c3838625dfdd02
+Size: 35611380
+MD5sum: b9bd757b7479a2225efd669043f4c7a3
+SHA1: abc73568ad68ec30e30ee6d9af0c14259d15f1c6
+SHA256: abdd6bce88040cd07bbe1a872ad253b2ecbc09b7ed35716ff1c5b9be2a4b8798
 Section: Acreson-主题(Themes)
 Description: Viola 主题 ，个人正在使用
 Author: Acreson <342080124@qq.com>

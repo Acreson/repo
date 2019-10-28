@@ -1,37 +1,19 @@
 Package: Flex3beta
-Version: 1:3~Beta73
-Architecture: iphoneos-arm
-Maintainer: John Coates
-Depends: mobilesubstrate, org.swift.libswift, firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/flex3beta_3~Beta73_iphoneos-arm.deb
-Size: 10077104
-MD5sum: a1136d86b37e65c46085365497e319e3
-SHA1: 56e97a086a20f25471448cc53e735d410de287ad
-SHA256: 41f9c35766650a23bbb0b8704715d84bcff6c1b0fb681d013f21f48dac1df67a
-Section: Acreson-工具(Utilities)
-Description: 开发您自己的调整，并在Flex社区云上共享它们,9.0-12.4，完美兼容a12
-Author: John Coates
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: Flex 3 Beta 补丁汇聚地
-Recommended: com.rpetrich.rocketbootstrap
-
-Package: Flex3beta
-Version: 1:3~Beta77
+Version: 1:3~Beta86
 Architecture: iphoneos-arm
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/flex3beta_3~Beta77_iphoneos-arm.deb
-Size: 10222080
-MD5sum: adc3f1397965ceff45c3b9b4b6ddb9e0
-SHA1: 917837ce416db3f8ac817e5144874e409a9e087e
-SHA256: 1c2d3a0520f11336e7e6e3b2b51e12bf88ea0cf6dac10f42f4e69d6f3fbbe01e
+Filename: ./debs/flex3beta_3~Beta86_iphoneos-arm.deb
+Size: 10267992
+MD5sum: eebf456ea27cac2e7c9b27cb2fd46a5b
+SHA1: b01bb44f33b5f627f071b3918912cf506f5bdfe7
+SHA256: 290c67de5875bbe7aed4f71b8c6110d73da986c39c6861b67fa2b8f439c9dd3c
 Section: Acreson-工具(Utilities)
-Description: 开发您自己的调整，并在Flex社区云上共享它们,9.0-12.4，完美兼容a12
+Description: 开发强大的补丁
 Author: John Coates
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Flex 3 Beta 补丁汇聚地
 Recommended: com.rpetrich.rocketbootstrap
 
@@ -188,39 +170,6 @@ Description: 解锁功能：透视（墙壁后面的敌人全部看得见）
 Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: War Robots Crack 机甲战队 破解
-
-Package: acreson.WeChatHookPro
-Version: 0.3-5
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.wechathookpro_0.3-5_iphoneos-arm.deb
-Size: 1373712
-MD5sum: 96e1ac60221e59f9852f77c31a8607ac
-SHA1: cca0fb7a51694e7ce35f86140b6277f7025f948f
-SHA256: 3160087382cbc90357cdbbdd357992c5d3b628115ba66702e36cf5cad9b27e77
-Section: Acreson-增强(Enhance)
-Priority: optional
-Description: 老猫微信助手
-Author: Mao
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: WeChatHookPro 微信助手
-
-Package: acreson.YouQuan
-Version: 1.0-3
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.youquan_1.0-3_iphoneos-arm.deb
-Size: 60748
-MD5sum: 516bd4bc96b192e2d6c7b29a03ba735d
-SHA1: ce914bdd02ba0c793ecc3196159071f361ba370c
-SHA256: 1c31b5e76c919b99a1da818337f3efb10d717ed98cdd5b4521e120a8594b2fb9
-Section: Acreson-增强(Enhance)
-Description: 淘宝购买页面添加领卷，价格历史等，开关在淘宝里面
-Author: Mao
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: 淘宝优惠券
 
 Package: acreson.ace
 Version: 4.9.3
@@ -1407,23 +1356,6 @@ Author: Domo
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CocoaTop 64Bit 进程查看器
 
-Package: acreson.colorizeios
-Version: 0.0.1-49+debug
-Architecture: iphoneos-arm
-Maintainer: XCXiao
-Installed-Size: 576
-Depends: mobilesubstrate
-Filename: ./debs/acreson.colorizeios_0.0.1-49+debug_iphoneos-arm.deb
-Size: 81984
-MD5sum: e653a5ebc60f9e4dfa70983529042fb2
-SHA1: 906a17307453ece2ad6251bdc9c0e9cc5b81446f
-SHA256: 7754824c7a87e27b201beab5ccd648eed25a866de1d62b0cc772ca4c2c6ee814
-Section: Acreson-插件(Tweaks)
-Description: 所有开关彩色随机变化,不支持a12
-Author: XCXiao
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: ColorizeiOS 彩色开关
-
 Package: acreson.commcenterpatch
 Version: 3.1
 Architecture: iphoneos-arm
@@ -1832,10 +1764,10 @@ Maintainer: Acreson
 Installed-Size: 3592
 Depends: mobilesubstrate
 Filename: ./debs/acreson.game.arc_1.2.3.5_iphoneos-arm.deb
-Size: 759272
-MD5sum: f12092a943733c2c5b54112bf8bfbdee
-SHA1: e1aa211021f15dc24eb009670113a8e9e0e4566d
-SHA256: 40daec4e42fe52c57b325bf851ee7518bf8c14a5d71ae6cb018b2844666183a5
+Size: 1042208
+MD5sum: 4519ab45f044ad4a6919445f2a2c78a1
+SHA1: b6d9642a5a58a5123fdd5690ad623e2639a44781
+SHA256: c867531a2d1bc07977f147bb0e1b8013503a7b9f59f84cb6596ed4b77c1f0283
 Section: Acreson-游戏(Games)
 Description: 解锁功能：无敌锁血，怪物不动，怪物不攻击，上帝模式。  下载推荐香港区《弓箭传说》即可，插件账号《acreson2019》插件通用密码《acreson123456.》
 Author: DanYal
@@ -2267,56 +2199,6 @@ Author: sugi
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Instagram Tools Instagram工具箱
 Sileodepiction: https://sugiuta.github.io/descriptions/instagramtoolsxii/instagramtoolsxii.json
-
-Package: acreson.ioshelper11
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 12.0), preferenceloader
-Filename: ./debs/acreson.ioshelper11_1.0_iphoneos-arm.deb
-Size: 131016
-MD5sum: 6d981cbb332c35771ca9b19a89d95c68
-SHA1: d811b3daa36ec0bf72eb0f842acd79482d5c8a8f
-SHA256: 5431081e0193feb7c3199a6df64c141ff47db95d7c21ea80db6bda3fa3e7ce13
-Section: Acreson-插件(Tweaks)
-Description: IOS系统多功能定义助手
-Author: iBreak
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: iOS Helper 11 系统助手
-
-Package: acreson.ioshelper12
-Version: 1.4.2
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 568
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.ioshelper12_1.4.2_iphoneos-arm.deb
-Size: 99388
-MD5sum: fc9afde8c6f652af2759df3ff7c399b9
-SHA1: 4257399cacfd4bde904b683ee97957b5845ebb1f
-SHA256: 794b2ea2fe56564fe6c93238515e5e0507ff542d3a8955d8a7666b38711b2582
-Section: Acreson-插件(Tweaks)
-Description: IOS 系统多功能定义助手
-Author: iBreak
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: iOS Helper 12 系统助手
-
-Package: acreson.ioshelper12
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 980
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.ioshelper12_2.0_iphoneos-arm.deb
-Size: 139564
-MD5sum: 876318c8a7712c87353cc1421bd01c2c
-SHA1: 0569d5c75d30d89efb762a8afd65ef916d99bf6c
-SHA256: 012727b9442b489d34cb5149b4360d7ae48b81dead10f91214ef413c8d937c2f
-Section: Acreson-插件(Tweaks)
-Description: IOS 系统多功能定义助手
-Author: iBreak
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: iOS Helper 12 系统助手
 
 Package: acreson.jbhook
 Version: 1.0
@@ -3451,70 +3333,6 @@ Depiction: https://kkyuen.github.io/repo/depictions/?p=com.kinkenyuen.videodownl
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VideoDownloaderCN 视频下载工具
 
-Package: acreson.wechathelper
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/acreson.wechathelper_1.4.1_iphoneos-arm.deb
-Size: 55300
-MD5sum: e5449e60f0fc25852320ff53831eb9e6
-SHA1: a8f61acbb54e52d9eeeee4afa5146b6f83baba25
-SHA256: 8d7d5a4d2fd3fca20f07f24eb5e7a96b2c6afdf3bbde42b4673f4824e084c7f5
-Section: Acreson-增强(Enhance)
-Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
-Author: iBreak <ibreak2019@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: WeChat Helper 微信助手
-
-Package: acreson.wechathelper
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/acreson.wechathelper_2.0_iphoneos-arm.deb
-Size: 72960
-MD5sum: d3aa3a7febb476255463e72db76cad58
-SHA1: e61043c100e761e11468aea3d7560c216df5b8ed
-SHA256: 4fe117ec31709e3a8c943cdd347c604654504895377ec4280f45340d626680d7
-Section: Acreson-增强(Enhance)
-Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
-Author: iBreak <ibreak2019@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: WeChat Helper 微信助手
-
-Package: acreson.wechathelper
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/acreson.wechathelper_2.1.1_iphoneos-arm.deb
-Size: 71244
-MD5sum: ac1f0dd72b928f85186556db9d88e505
-SHA1: 0b03c386d2574ad807394ff2287e0c149570454e
-SHA256: 36d264739ae309ef916e6af11300e8075d6551e47f7308ca31138bcacdc35e69
-Section: Acreson-增强(Enhance)
-Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
-Author: iBreak <ibreak2019@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: WeChat Helper 微信助手
-
-Package: acreson.wechathelper
-Version: 2.2.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/acreson.wechathelper_2.2.0_iphoneos-arm.deb
-Size: 75376
-MD5sum: 2cbc0819c4fc068e9ff219adbafb2bd9
-SHA1: 4ec734de1f9514a740e0da60c0fe4f9d2ea252bf
-SHA256: 4ffc5a31e585db1a1e35247eca56a887879bd2ad222ee369c2bfda13c4fd9940
-Section: Acreson-增强(Enhance)
-Description: 微信多功能定义助手・Wechat Multifunctional Definition Assistant
-Author: iBreak <ibreak2019@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: WeChat Helper 微信助手
-
 Package: acreson.wechatredenvelop
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -3533,26 +3351,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatrede
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: WeChat 微信自动抢红包插件
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: acreson.wifipasswords
-Version: 11.0.2
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 4112
-Depends: firmware (>= 6.0)
-Filename: ./debs/acreson.wifipasswords_11.0.2_iphoneos-arm.deb
-Size: 851756
-MD5sum: b95c5967e11f2fb1789fffdbb322303b
-SHA1: eeef81737b622e02ca1774a532426386f137d1a2
-SHA256: 1cb96b4d5f877b58dfcaf13d58ea7d7e04c6452acdea24beabdc6abe57caae15
-Section: Acreson-工具(Utilities)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
-Description: 显示以前输入的wifi密码。这个应用程序会显示你输入的所有WiFi密码。如果你忘记了密码，需要连接另一个设备，或者告诉朋友咖啡店的密码，而不用再问那个尴尬的问题，这非常方便。按住密码键将其复制到剪贴板。要求iOS 6.0或更高版本。
-Author: Malcolm Hall <indiekiduk@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordsData
-Dev: malcolmhall
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: WiFi Passwords WIFI密码查看器
 
 Package: acreson.wl.conditionalwifi2
 Version: 2.0
@@ -3648,57 +3446,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xgpsproDp
 Icon: file:///Applications/Cydia.app/Sections/Localization.png
 Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: acreson.xt.appleturboboostch
-Version: 0.3.1
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0), com.bingner.plutil
-Conflicts: com.michael.appleilluminator
-Filename: ./debs/acreson.xt.appleturboboostch_0.3.1_iphoneos-arm.deb
-Size: 30168
-MD5sum: e6fc13dd11a4ca84d5b2fdec410b1122
-SHA1: c9a3eae19af71a8bf1f2f1517a160e2356cafa41
-SHA256: 86d520681d71d9a49bab72157e73a83fb6306b8ce49b7bb4443f9b857fddf311
-Section: Acreson-系统(System)
-Description: 解除降频插件Chimera专用,安装完重启后生效
-Author: Halo_Michael <yc992147156@me.com>
-Icon: file:///Applications/Cydia.app/Sections/System.png
-Name: Apple Turbo Boost 解除降频(Chimera)
-
-Package: acreson.xt.appleturboboostun
-Version: 0.3.1
-Architecture: iphoneos-arm
-Maintainer: Halo_Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0), com.bingner.plutil
-Conflicts: com.michael.appleilluminator
-Filename: ./debs/acreson.xt.appleturboboostun_0.3.1_iphoneos-arm.deb
-Size: 30148
-MD5sum: e6f1f58689ffd6178c8eb8c87bf0a99a
-SHA1: 9ed7f339b3a8ef156150fdec0970ce03b37917ff
-SHA256: 63626ac2bea4ef3824038b1df09071fe6d4888f52ce807013e35007c195b0ebc
-Section: Acreson-系统(System)
-Description: 解除降频插件Unc0ver专用,安装完重启后生效
-Author: Halo_Michael <yc992147156@me.com>
-Icon: file:///Applications/Cydia.app/Sections/System.png
-Name: Apple Turbo Boost 解除降频(Unc0ver)
-
-Package: acreson.xt.preferenceloaderfix
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.xt.preferenceloaderfix_1.0_iphoneos-arm.deb
-Size: 1772
-MD5sum: d3cda056b653408b32c4efcef7311c26
-SHA1: 556ef4e2f8b6e328db90a93b01fe2122f9e967ad
-SHA256: 78d94f39017ddcf92c868a716a58f8841d9e0a2c80ea453c9f18850f71c94651
-Section: Acreson-系统(System)
-Priority: standard
-Description: 装第三方设置显示插件PreferenceLoader导致快链失效，可以用此脚本进行修复，适合Electra/Chimera越狱，支持A12。最后提醒一句，最好装作者源的PreferenceLoader，因为二次打包，会破坏包内的快链路径，只有编译的原包才不会破坏。
-Author: Acreson <342080124@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/System.png
-Name: Chimera/Electra JailBreak 修复快链
 
 Package: acreson.xyz
 Version: 1.0
@@ -4157,23 +3904,6 @@ Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Facetune2 Crack
 
-Package: acreson.zq.fkwechatzan
-Version: 0.0.1-8+debug
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 228
-Depends: mobilesubstrate
-Filename: ./debs/acreson.zq.fkwechatzan_0.0.1-8+debug_iphoneos-arm.deb
-Size: 34292
-MD5sum: 3cc087340772882132a84424916738d4
-SHA1: 6a267608415377d51576e2c88a9e92bb98061415
-SHA256: ee219a9d99e388b2ba0ac1042664c3c997b27fa5c82fb515f894f4dcd7486903
-Section: Acreson-增强(Enhance)
-Description: 微信集赞，评论插件，随意设置点赞数量和评论。集赞换礼品终结杀手！多人测试6.7.4以下闪退，建议7.0+
-Author: xia0
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: WeChatZan 集赞评论助手
-
 Package: acreson.zq.floatlyric
 Version: 1.5.3-2+debug
 Architecture: iphoneos-arm
@@ -4277,23 +4007,6 @@ Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: TikTok Hook助手
 Sponsor: cjack
 
-Package: acreson.zq.jdjuan
-Version: 0.1-1
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.zq.jdjuan_0.1-1_iphoneos-arm.deb
-Size: 26688
-MD5sum: 04ae407529a70d283876f25573341561
-SHA1: 62e45e929051a7462a6280c2eec39c852a953104
-SHA256: b6c4892b1223281da5408496a98f9e853bec40fe8882b4c434d96a1c9857f103
-Section: Acreson-增强(Enhance)
-Priority: optional
-Description: 京东优惠卷安装无设置项直接生效
-Author: Mao
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: 京东优惠券
-
 Package: acreson.zq.jooxpremium
 Version: 4.0.7
 Architecture: iphoneos-arm
@@ -4344,59 +4057,6 @@ Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: PictureVideo Helper
 
-Package: acreson.zq.qqhelper1
-Version: 8.0.8
-Architecture: iphoneos-arm
-Maintainer: 小苹果™
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.zq.qqhelper1_8.0.8_iphoneos-arm.deb
-Size: 146812
-MD5sum: ac31813e8a24867e57e7adf3be227149
-SHA1: d8802775b30e69a345085e1f29ed8137c07dfeaa
-SHA256: 218d7d8b2c22318406f8666a32b5369d061c2d1d65f6f7744a3109af44ab4bc5
-Section: Acreson-增强(Enhance)
-Description: QQ增强插件破解版，兼容最新版QQ。 功能:虚拟定位，抢红包，防撤回。方法：验证随便写,设置右上角QQMAX操作即可
-Author: 小苹果™
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: QQ Helper 多功能加强【一】
-Sponsor: 小苹果™
-
-Package: acreson.zq.qqhelper2
-Version: 8.0.8
-Architecture: iphoneos-arm
-Maintainer: 小苹果™
-Installed-Size: 49.78
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.zq.qqhelper2_8.0.8_iphoneos-arm.deb
-Size: 136180
-MD5sum: 33e7c142c38a5a9beca58a93351eb876
-SHA1: 291a6af260234785eec05fd8d0ca4d3341d54b66
-SHA256: 0d5ac32a8048a045d396234c89c0ff5316cc044733b194171e005aa138202229
-Section: Acreson-增强(Enhance)
-Description: QQ增强插件破解版，兼容最新版QQ，据说本版本增加了防封咱也不知道，请关注公众号：旁门左道小一白。 功能:虚拟定位，抢红包，防撤回。方法：验证随便写,设置右上角QQMAX操作即可
-Author: 小苹果&旁门左道小一白
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: QQ Helper 多功能加强【二】
-Sponsor: 小苹果™
-
-Package: acreson.zq.qqhelper3
-Version: 8.1.6
-Architecture: iphoneos-arm
-Maintainer: 小苹果™
-Installed-Size: 49.78
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.zq.qqhelper3_8.1.6_iphoneos-arm.deb
-Size: 136280
-MD5sum: a22d4ab7a01490f92bb37aca8cc534f5
-SHA1: 3b9718e9884545a0eae02849e0a0de2e0fb5b710
-SHA256: 22a564cc855959e4dd3c0949f5d1a6258671c4f60d1dda2f6e18afd0a2134899
-Section: Acreson-增强(Enhance)
-Description: QQ增强插件破解版，验证随便写.功能:虚拟定位，抢红包，防撤回。方法：验证随便写,设置右上角QQPro操作即可 新增iPhone 11 Pro Max
-Author: 小苹果
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: QQ Helper 多功能加强【三】
-Sponsor: 小苹果™
-
 Package: acreson.zq.removerestrictions
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -4412,26 +4072,6 @@ Description: 解锁封禁群，无需设置，安装生效。适用于中国区/
 Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: TG/TGX Remove Restrictions TG/TGX完美解锁
-
-Package: acreson.zq.sutuplus
-Version: 2.6.5
-Architecture: iphoneos-arm
-Maintainer: Carby
-Installed-Size: 780
-Depends: mobilesubstrate
-Filename: ./debs/acreson.zq.sutuplus_2.6.5_iphoneos-arm.deb
-Size: 229992
-MD5sum: fef1db83c2cbc7af68598649bc1df4e4
-SHA1: 59c0416c95a4c1232321007d8cdd8f7d1d9170d4
-SHA256: 9e0073d9cf569c70b28fe5afdba966271f355d5355f92e3d84d73d7863a7bb9d
-Section: Acreson-增强(Enhance)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
-Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
-Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12
-Author: Karo
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: SutuPLUS-苏兔PLUS WX美化增强工具
 
 Package: acreson.zq.vibratehelper
 Version: 1.1-1+debug
@@ -4449,38 +4089,6 @@ Description: 部分强迫症功能，支持最新7.8(TF 7.9)
 Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: Vibrato Helper 抖音小助手
-
-Package: acreson.zq.videohelper
-Version: 2.2.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/acreson.zq.videohelper_2.2.0_iphoneos-arm.deb
-Size: 130864
-MD5sum: 2d288e1c74e93e77fbfcfcd3f3fd6e0c
-SHA1: a15b72e88c4d63c261a2ae40f8ee447d15e1001f
-SHA256: baaa1eeeed2a35b8bdc666b0efcd1c70dc431c52861d5cc0f72316f7f99a5f88
-Section: Acreson-插件(Tweaks)
-Description: 视频免广告多功能助手·Video Removal
-Author: iBreak <ibreak2019@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Video Helper 视频助手
-
-Package: acreson.zq.videohelper
-Version: 3.0.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/acreson.zq.videohelper_3.0.0_iphoneos-arm.deb
-Size: 131504
-MD5sum: ca74426a8e63c3d528f280ad2acc161f
-SHA1: 1442c70ab02b2acae7d5b4aaada6177db80de690
-SHA256: 40b8525c0730f55099cdc1ee0ae0d3b5f49c7719282b7b9bb0e3be8054b5318e
-Section: Acreson-插件(Tweaks)
-Description: 视频免广告多功能助手·Video Removal
-Author: iBreak <ibreak2019@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Video Helper 视频助手
 
 Package: acreson.zq.videoshophack
 Version: 1.0.2
@@ -4686,26 +4294,6 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 遮罩组合1
 Sponsor: Acreson <342080124@qq.com>
 
-Package: com.bingner.plutil
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: Samuel Bingner
-Installed-Size: 256
-Depends: firmware (>=2.0)
-Conflicts: com.ericasadun.utilities
-Filename: ./debs/com.bingner.plutil_0.1.0_iphoneos-arm.deb
-Size: 48408
-MD5sum: b913ee9e10461f94b28f4a96b7436880
-SHA1: bf281df09de1eda888482c6074d833c8448608e8
-SHA256: 6f51270a8ccc6f6f0a1d25ebe7d144c900343e69ecf7e38d9bf140127547b5dc
-Section: Acreson-依赖(Depends)
-Multi-Arch: foreign
-Description: plutil as from erica sadun
-Tag: role::hacker
-Author: Samuel Bingner
-Icon: file:///Applications/Cydia.app/Sections/Addons.png
-Name: plutil
-
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.7
 Architecture: iphoneos-arm
@@ -4838,6 +4426,25 @@ Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
 Dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision 签名工具
+
+Package: com.spark.snowboard
+Version: 1.2.26~Beta1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 3056
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.2.26~Beta1_iphoneos-arm.deb
+Size: 2705128
+MD5sum: 336e409e7b7326d5a303f27d62c079a6
+SHA1: 96d14c44b249a7f2bb3ad7b546a5f087de1da1d9
+SHA256: 4d3ea7c825e39655c16f2dc44467abec3108a83bc64d389a52cb3bc82ff90b34
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
 
 Package: com.tigisoftware.appdatamanager
 Version: 1.5.0-12

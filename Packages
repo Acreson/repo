@@ -103,23 +103,6 @@ Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Honkai Impact 3rd Cheats 崩坏3 破解
 
-Package: acreson.LocalIAPStore
-Version: 1.5-2
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.localiapstore_1.5-2_iphoneos-arm.deb
-Size: 42376
-MD5sum: a4af269767a606c283feee71994bd4f8
-SHA1: ba2caaecc7116b6595e7a83175929a5f9a9fa854
-SHA256: 281674f5ffb413ba31ca8023c8ab7372f23cdf1aa0cb31c7775fb4fc7d607eba
-Section: Acreson-插件(Tweaks)
-Description: 内购破解支持A12设备
-Author: anondev
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: LocalIAPStore 内购破解
-Sponsor: CrazyHipHop <342080124@qq.com>
-
 Package: acreson.NFSMostWantedFreeHack
 Version: 1.1.0
 Architecture: iphoneos-arm

@@ -1,3 +1,19 @@
+Package: 1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: acreson
+Depends: mobilesubstrate
+Filename: ./debs/1_1.0_iphoneos-arm.deb
+Size: 644
+MD5sum: cfc7eafeb3a7007afe102e883b1f5d5b
+SHA1: 3dfa10883aee0d983285abf8ee7ad61e90b58bf4
+SHA256: 39f69ac311ce17713fece8920dc6e78fb45e3d61150d8465c3b5d57c7a2ff6a7
+Section: System
+Priority: optional
+Description: 此包提示包，误装
+Author: Acreson
+Name: 国外源,请添加国内源https://sileo.xyz
+
 Package: Flex3beta
 Version: 1:3~Beta86
 Architecture: iphoneos-arm
@@ -715,6 +731,43 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AOD 多功能息屏CN
 Sileodepiction: https://crazyc.top/ms/msxq/aod.json
 
+Package: acreson.cj.appstoreplusplus
+Version: 0.9.7
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/acreson.cj.appstoreplusplus_0.9.7_iphoneos-arm.deb
+Size: 1316636
+MD5sum: d9c3c9025a8107581912f74b44b9dcd4
+SHA1: 570a27439bfac2c7811ffc9986d4ec7e9ea0e93e
+SHA256: 9c4d162880eeb7a2f1e2c6e58048057524fde305da134b39627045c56cddbef3
+Section: Acreson-插件(Tweaks)
+Priority: optional
+Description: 允许你降级/升级iOS 11.0-12.4应用商店中的应用程序
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppStore++ 应用降级
+
+Package: acreson.cj.appstoreplusplusa12
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/acreson.cj.appstoreplusplusa12_0.9.5_iphoneos-arm.deb
+Size: 1660436
+MD5sum: b14224ac8d9d1b80573d160a1e73776f
+SHA1: b2477b2cd04f90abaf00c82f5915e33d2fbb4452
+SHA256: f486be6f8578ddd3d297fa522a3e346939ec205ebc42190dc26161cc691e81a6
+Section: Acreson-插件(Tweaks)
+Description: App Store应用降级旧版本，本版本支持12.4系统A12越狱
+Author: CokePokes
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AppStore++降级工具-A12
+Sponsor: Acreson
+
 Package: acreson.cj.apptools
 Version: 1.5.1
 Architecture: iphoneos-arm
@@ -1236,6 +1289,26 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: TinyBanners(IOS12)迷你通知CN
 Sileodepiction: https://crazyc.top/ms/msxq/tinybanners.json
 Sponsor: Don
+
+Package: acreson.cj.uaupdatetools
+Version: 1.0r-102
+Architecture: iphoneos-arm
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./debs/acreson.cj.uaupdatetools_1.0r-102_iphoneos-arm.deb
+Size: 850260
+MD5sum: 4351a9a77a2bb4e157c5e7fc9326e2d6
+SHA1: 52131421e3b4bf7546e59c423d7c13679320d833
+SHA256: ec6988dd89a06e792a70496e5987d13eff00a3bdab2bda0726b803208a1a3105
+Section: Acreson-插件(Tweaks)
+Priority: optional
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Description: 将iOS应用程序降级到以前的任何版本!不需要AppSync ! ! !
+Author: UnlimApps Inc.
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: App Admin 应用降级
 
 Package: acreson.cj.weatherana
 Version: 1.3
@@ -3177,6 +3250,26 @@ Author: 土拨鼠
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 抖音 Crack
 
+Package: acreson.tool.sbfull
+Version: 1.2.27~Beta1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 3056
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/acreson.tool.sbfull_1.2.27~Beta1_iphoneos-arm.deb
+Size: 2713144
+MD5sum: 1aeaa8da1b8b9c30aaf367cfb45d46a6
+SHA1: 29fc1e72033c2650d724e565081debe6a36ad326
+SHA256: ab0075e9652d06dd764fbb6892ab520660db490648561ab7e4170d93f9705470
+Section: Acreson-工具(Utilities)
+Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Acreson-工具(Unilities).png
+Name: 「SnowBoard」主题平台完整版 CN
+Sponsor: Acreson <342080124@qq.com>
+
 Package: acreson.topalkaline
 Version: 1.5
 Architecture: iphoneos-arm
@@ -4277,25 +4370,6 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 遮罩组合1
 Sponsor: Acreson <342080124@qq.com>
 
-Package: com.cokepokes.appstoreplusplus
-Version: 0.9.7
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.7_iphoneos-arm.deb
-Size: 741948
-MD5sum: e8d61d5ef12e3b43d828b22b19b1f80a
-SHA1: 97ca3cb3b401d0a15672612bd0d976d083169b9e
-SHA256: a9b8df8cfd1f8776f022ef887d04d0d27cfe821a7a54bbed9a2abab8cf2fd224
-Section: Acreson-插件(Tweaks)
-Priority: optional
-Description: 允许你降级/升级iOS 11.0-12.4应用商店中的应用程序
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: AppStore++ 应用降级
-
 Package: com.exile90.icleanerpro
 Version: 7.7.5
 Architecture: iphoneos-arm
@@ -4480,26 +4554,6 @@ Description: iPhone, iPad, iPod Touch的文件管理器。支持iOS 7 +。这个
 Author: TIGI Software
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Filza File Manager 64bit 文件管理器
-
-Package: com.unlimapps.uaupdatetools
-Version: 1.0r-102
-Architecture: iphoneos-arm
-Maintainer: UnlimApps Inc.
-Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: it.marcocristalli.asupdatehider
-Filename: ./debs/com.unlimapps.uaupdatetools_1.0r-102_iphoneos-arm.deb
-Size: 544544
-MD5sum: d88f4f4e40739d766bd569b1f887498d
-SHA1: c5994bc63c861ed6f13e41ddbd6803e9cb08c71a
-SHA256: 87adfab764f736540bdc006921c1c246aac9fff8e0d73d952ad20fa18188a902
-Section: Acreson-插件(Tweaks)
-Priority: optional
-Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
-Description: 将iOS应用程序降级到以前的任何版本!不需要AppSync ! ! !
-Author: UnlimApps Inc.
-Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: App Admin 应用降级
 
 Package: cydia-dark
 Version: 1.9.3~chimera4
@@ -4998,6 +5052,24 @@ Size: 7561268
 MD5sum: e70db38c766c38fca899754abc37eebe
 SHA1: 5ff526bfe383614edb8a946ce84c7f9433720653
 SHA256: b522b9b476ae2866238c78fd71b4f41ec895eb463c9ca8496505d5f7c2c06dc7
+Section: Acreson-安装包(Packages)
+Description: 一个包管理器支持IOS8-13
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: Zebra（beta）CN
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
+
+Package: xyz.willy.zebra
+Version: 1.0~beta24-2+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 23152
+Depends: dpkg, uikittools
+Filename: ./debs/xyz.willy.zebra_1.0~beta24-2+debug_iphoneos-arm.deb
+Size: 7561240
+MD5sum: de460f0ff63f9e09a3464024b3e72a67
+SHA1: faf5e9740fbc320f699df67f73b9d6003e8de2d3
+SHA256: fe2b33313f45f26e377ebb53ce92d982ccd2f7884e47115f6105ce59947a7e48
 Section: Acreson-安装包(Packages)
 Description: 一个包管理器支持IOS8-13
 Author: Wilson Styres & Acreson

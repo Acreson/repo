@@ -1934,6 +1934,24 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CrackTool4(IOS12)破解工具
 Sileodepiction: https://crazyc.top/ms/msxq/ct4.json
 
+Package: acreson.gj.cracktool4
+Version: 4.0~beta9-7+debug
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/acreson.gj.cracktool4_4.0~beta9-7+debug_iphoneos-arm.deb
+Size: 377920
+MD5sum: 91181013f998804652d0ccf84fc46d8a
+SHA1: 4cf3fcfc1f90ec5e936a13680ae22d57ab363765
+SHA256: 000f878db501cbd8ccdf1c4a3dd96a45c33f36606fc533a23302c4904b0a229e
+Section: Acreson-工具(Utilities)
+Description: 只需轻轻一击，就可以进行破解
+Author: julioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: CrackTool4(IOS12)破解工具 CN
+Sileodepiction: https://crazyc.top/ms/msxq/ct4.json
+
 Package: acreson.gj.cydown
 Version: 7.0.0
 Architecture: iphoneos-arm

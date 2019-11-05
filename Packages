@@ -1232,25 +1232,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: SugarCane12 控制中心音量亮度百分比
 Sileodepiction: https://crazyc.top/ms/msxq/sugarcane12.json
 
-Package: acreson.cj.sylph
-Version: 1.2~Beta.1
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 368
-Depends: mobilesubstrate, acreson.yl.utils (>= 0.0.4)
-Filename: ./debs/acreson.cj.sylph_1.2~Beta.1_iphoneos-arm.deb
-Size: 69944
-MD5sum: 164493d1f301c805102fd7d0ab0b50cf
-SHA1: 16859da1d1d59c316977d6b211cfc4ca38689843
-SHA256: 131f0d1ba7fa8ce6645fe65bbdfec1dfa79227b894d1c1c59e59821f803f477c
-Section: Acreson-插件(Tweaks)
-Description: 定制您的锁屏通知音乐播放器
-Author: Max Dausch <max.dausch@gmail.com>
-Depiction: http://repo.daus.ch/depictions/?p=ch.mdaus.sylph
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: Sylph 定制LS播放器CN
-Sileodepiction: https://crazyc.top/ms/msxq/sylph.json
-
 Package: acreson.cj.systeminfo
 Version: 2.2.2-4+debug
 Architecture: iphoneos-arm
@@ -3608,23 +3589,6 @@ Author: akusio <akusio-report@neko2.net>
 Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
 Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: BackgrounderAction for CCSupport
-
-Package: acreson.yl.utils
-Version: 0.0.4
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 236
-Filename: ./debs/acreson.yl.utils_0.0.4_iphoneos-arm.deb
-Size: 13492
-MD5sum: 77ae02e51fd02cb5acd94f6337fccaea
-SHA1: 9a9e7bc89ff5b32fdbb4d6c2c890378b607d2007
-SHA256: 8bbf90f19db0dafead96064ceae7b40415a5369ce9e895ebb144a4081d5ccb0b
-Section: Acreson-依赖(Depends)
-Description: 一组用于我的调整的常用函数。更多的文档将很快发布。
-Tag: role::developer
-Author: Maxwell Dausch <max.dausch@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Addons.png
-Name: MDausch Utils
 
 Package: acreson.youtubetools
 Version: 3.0-1

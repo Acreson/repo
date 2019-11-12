@@ -14,25 +14,6 @@ Description: 此包提示包，误装
 Author: Acreson
 Name: 国外源,请添加国内源https://sileo.xyz
 
-Package: Flex3beta
-Version: 1:3~Beta86
-Architecture: iphoneos-arm
-Maintainer: John Coates
-Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
-Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debs/flex3beta_3~Beta86_iphoneos-arm.deb
-Size: 10267992
-MD5sum: eebf456ea27cac2e7c9b27cb2fd46a5b
-SHA1: b01bb44f33b5f627f071b3918912cf506f5bdfe7
-SHA256: 290c67de5875bbe7aed4f71b8c6110d73da986c39c6861b67fa2b8f439c9dd3c
-Section: Acreson-工具(Utilities)
-Description: 开发强大的补丁
-Author: John Coates
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: Flex 3 Beta 补丁汇聚地
-Recommended: com.rpetrich.rocketbootstrap
-
 Package: acreson.Alipay-AntForest
 Version: 0.4.1
 Architecture: iphoneos-arm
@@ -237,70 +218,6 @@ Author: yuosaf01 & 3bod_syr
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: AddSource Cydia快捷加源
 
-Package: acreson.app.395
-Version: 1.1.5-9
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/acreson.app.395_1.1.5-9_iphoneos-arm.deb
-Size: 11095600
-MD5sum: 9cf4f2d9f8f60ee242e31abb842cdcea
-SHA1: bdd921dac4c6ed41f1ca1e51e669bd1fe2c15ec6
-SHA256: a769c279fa069273699d65d4496df5ed9fa5775511d27d080e1caff33864c8a3
-Section: Acreson-软件(Applications)
-Description: 开车app
-Author: CokePokes
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-iNutt
-
-Package: acreson.app.amjpj
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 8.0)
-Filename: ./debs/acreson.app.amjpj_1.2_iphoneos-arm.deb
-Size: 3125920
-MD5sum: e83ce6db8959d93aafb8112eae03e38a
-SHA1: 6f34ac2ed60baa0d59cfbbecaa3f735a631f05f4
-SHA256: 414dbb95698c9e7d94445249f4073d76e2212d05f5a0b789e0d2a16c43382650
-Section: Acreson-软件(Applications)
-Description: 爱美剧破解版，去缓存限制，去广告
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-爱美剧(内置破解)
-
-Package: acreson.app.bikagg
-Version: 2.1.1.6
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 9.2)
-Filename: ./debs/acreson.app.bikagg_2.1.1.6_iphoneos-arm.deb
-Size: 14098188
-MD5sum: c927e9a59057a50bdb5fce2bf87a957c
-SHA1: f18b4fc8efe8538f99c376314993b66e323177bb
-SHA256: c96d5f8281a18e49ce18b0749f77374ebec61d7e89fd3f000728cf92c2aa8731
-Section: Acreson-软件(Applications)
-Description: 哔卡哔卡～18R+漫画软件
-Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-Bika CG
-
-Package: acreson.app.iosthunder
-Version: 5.32
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 9.0)
-Filename: ./debs/acreson.app.iosthunder_5.32_iphoneos-arm.deb
-Size: 64855112
-MD5sum: c5efc4d9ef2e31d18e244844a90c8a93
-SHA1: 782e92d3cbe771d8e6a7863650d8d8b40d616e4b
-SHA256: 221c22ab76abddcbcb2378e257aa1a038f36ebd336f7d441ef4151a941cab338
-Section: Acreson-软件(Applications)
-Description: 迅雷Beta5.32版本可配合源插件Thunder Helper进行加速下载
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-迅雷532
-
 Package: acreson.app.kdxs
 Version: 1.3.0
 Architecture: iphoneos-arm
@@ -348,22 +265,6 @@ Description: 南瓜电影破解版，低调使用，会员账号来源于群友�
 Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-南瓜电影(内置破解)
-
-Package: acreson.app.shupro
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 9.3)
-Filename: ./debs/acreson.app.shupro_1.0.2_iphoneos-arm.deb
-Size: 8941472
-MD5sum: 0e748b2691014dcfd0797ea84db8f19d
-SHA1: cab0ab0b2a26684069c32a3491a97bbf8a2f4751
-SHA256: 3fde70d56449b97786b14d33bad0171ca9aa90f4d2e631d755d096bb39ca85ab
-Section: Acreson-软件(Applications)
-Description: Shu可安装ipa版本
-Author: Chen Qi
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-Shu Pro
 
 Package: acreson.app.signed
 Version: 1.9.3
@@ -1125,25 +1026,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: No SourceErrors 屏蔽Cydia黄字
 Sponsor: Acreson
 
-Package: acreson.cj.picobanners2
-Version: 0.0.2b5
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 252
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: netskao.nanobanners, me.nepeta.nanobanners, it.dreamcode.picobanners2
-Filename: ./debs/acreson.cj.picobanners2_0.0.2b5_iphoneos-arm.deb
-Size: 43720
-MD5sum: df1f86870bb606605e8115ea31f82b66
-SHA1: 2f4512936160e2018d67c6e7b34a6ca87a86fade
-SHA256: 63aaf1a66c73490560f3f972526f5f9e28f977590f6b5fd8335b45bff7e3f52b
-Section: Acreson-插件(Tweaks)
-Description: 缩小通知
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: PicoBanners 2 缩小通知
-Sponsor: Acreson <342080124@qq.com>
-
 Package: acreson.cj.selectionplus
 Version: 1.0.6.4
 Architecture: iphoneos-arm
@@ -1177,25 +1059,6 @@ Description: 触摸显示点，适合录屏教学(已汉化)
 Author: LonestarX <me@lonestarx.net>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: ShowTouch 触摸显示
-
-Package: acreson.cj.shuffle
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate, com.creaturecoding.libcspreferences
-Conflicts: com.cpdigitaldarkroom.placeholder
-Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/acreson.cj.shuffle_1.0.4_iphoneos-arm.deb
-Size: 177504
-MD5sum: 2a1c7bf5c4da162481eb55ba6cba8f67
-SHA1: 347e780771e8ee95d5b3e26fbb2ed2e6af489723
-SHA256: fabccdce6f55646d71de316814af2c4922e56990cbf20fcc7221b025a0cd144d
-Section: Acreson-插件(Tweaks)
-Description: 插件 应用 系统设置归类
-Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://creaturesurvive.github.io/repo/cydia/shuffle/depiction/
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: shuffle 设置归类
 
 Package: acreson.cj.silentrecorder
 Version: 1.4.1
@@ -1395,22 +1258,6 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: 八门神器3.4
 Sponsor: Acreson
 
-Package: acreson.cocoatop64
-Version: 2.0.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: Domo
-Installed-Size: 742
-Filename: ./debs/acreson.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
-Size: 151796
-MD5sum: f20be17fc3a7dc9ad92dbe322a59782c
-SHA1: 1fefd33d9f537305e2c6615820203923d4eb7a9c
-SHA256: 92b7e494bd7ba57913be487dec0bd6e8038912aab6f755ab4621a4ce972c5ecd
-Section: Acreson-工具(Utilities)
-Description: 用于iOS GUI的流程查看器(64位)
-Author: Domo
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: CocoaTop 64Bit 进程查看器
-
 Package: acreson.commcenterpatch
 Version: 3.1
 Architecture: iphoneos-arm
@@ -1548,25 +1395,6 @@ Description: 解锁功能：快速升级,启用皇冠模式
 Author: K_K
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Crowd City Cheats 拥挤城市 破解
-
-Package: acreson.datameter
-Version: 1.4-3
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1212
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./debs/acreson.datameter_1.4-3_iphoneos-arm.deb
-Size: 243792
-MD5sum: 4ddf8eee0c2b98d4a2d77cf8a68b3bbf
-SHA1: 63c2f90418f6a502fba6972c184e0faf1f0b6880
-SHA256: 19282b6eb37cd044370345d03c8b9ed38041f5faeb214fd874503a6186977850
-Section: Acreson-插件(Tweaks)
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
-Description: iOS 7-12通知中心的数据计量器
-Author: Minuit <minuits@163.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: DataMeter 流量助手
 
 Package: acreson.ddzqzs
 Version: 1.0-5+debug
@@ -1829,59 +1657,6 @@ Author: DanYal
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Archero Cheats 弓箭传说国际服破解
 
-Package: acreson.game.joker
-Version: 0.14.0-1+debug
-Architecture: iphoneos-arm
-Installed-Size: 604
-Depends: mobilesubstrate
-Filename: ./debs/acreson.game.joker_0.14.0-1+debug_iphoneos-arm.deb
-Size: 111360
-MD5sum: df2bea30febabc0335e1cc9ea80325fe
-SHA1: 330b471384035d4c475772d45ce99e7db7b9c9d2
-SHA256: 6ca9c4c6c22de6071336c20aea3473bb1f9d865fef8bff05499929f2ae870bc0
-Section: Acreson-游戏(Games)
-Description: Pubg Hacker mod menu made by @kgfunn & ‫‪@7mo0dd9‬
-Author: kgfunn&7mo0dd9
-Depiction: https://joker2gun.github.io/depictions/?p=com.pubghacker22.joker
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: Pubg Hack 刺激战场国际服 v0.14
-
-Package: acreson.game.pmobile013
-Version: 0.13.1
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 3228
-Depends: mobilesubstrate
-Filename: ./debs/acreson.game.pmobile013_0.13.1_iphoneos-arm.deb
-Size: 1884048
-MD5sum: a5cf20814536a9b7026d10356340dd97
-SHA1: a0b2047f7963a01d1c81b1464091bf55c5e3d182
-SHA256: bcf9dcb5e8b63daf4f7eb54197e33ddc76d2b1beeaaaeb07db9215c707bf14df
-Section: Acreson-游戏(Games)
-Homepage: https://iosgods.com
-Description: 解锁功能:除草无后  设置中修改。 通用账号:《acreson2019》 通用密码：《acreson123456》
-Author: S14T3R & DiDA
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: PUBG MOBILE Crack 刺激战场国际服
-
-Package: acreson.game.pmobile0133
-Version: 0.13.0
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 3228
-Depends: mobilesubstrate
-Filename: ./debs/acreson.game.pmobile0133_0.13.0_iphoneos-arm.deb
-Size: 716172
-MD5sum: 8cbee8eac776ced31b9353e570cb38a7
-SHA1: 1ca50eacb90244024ca4027ae3dc4fe94e3ea77f
-SHA256: b56568106d20a746d198bc2509650c41ecca713a4cc72d9fd072de38eb616016
-Section: Acreson-游戏(Games)
-Homepage: https://iosgods.com
-Description: 解锁功能:多功能你懂的
-Author: S14T3R & DiDA
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: PUBG MOBILE Crack 刺激战场国际服破解
-
 Package: acreson.gba4ios
 Version: 2.1.6
 Architecture: iphoneos-arm
@@ -1897,23 +1672,6 @@ Description: GBA4IOS 模拟器
 Author: Domo
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: GBA4IOS 模拟器
-
-Package: acreson.gj.RespringAssistant
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: Tinyapps.cn
-Depends: firmware (>= 5.1.1), mobilesubstrate
-Filename: ./debs/acreson.gj.respringassistant_1.4.1_iphoneos-arm.deb
-Size: 2890362
-MD5sum: 43d5a3229ae94e001c12a66c9beeea99
-SHA1: bb2db9613be7800ece36e0b253df3d27fb6d71a4
-SHA256: a9711daa4fd6ffd388da4d5cef43a936d49d6e3ca17d3cc203a594e507e74df6
-Section: Acreson-工具(Utilities)
-Homepage: http://tinyapps.cn
-Description: [快速注销+联网修复]Restart your SpringBoard&Refresh App Icons& Fix network[for iOS 5.1.1-12.4] 快速重启SpringBoard，注销设备；一键刷新桌面的应用图标；修复越狱后无法联网问题
-Author: Tinyapps.cn
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: Respring Assistant(快速注销+联网修复) - Restart your SpringBoard QUICKLY, Refresh App
 
 Package: acreson.gj.cracktool4
 Version: 4.0~beta9-3+debug
@@ -1952,22 +1710,6 @@ Name: CrackTool4(IOS12)破解工具 CN
 Sileodepiction: https://crazyc.top/ms/msxq/ct4.json
 
 Package: acreson.gj.cydown
-Version: 7.0.0
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.gj.cydown_7.0.0_iphoneos-arm.deb
-Size: 2110776
-MD5sum: 56bf7cfb196488c8f8417b94654e3f52
-SHA1: b0b01b068788759427c94f088612d18600e324a9
-SHA256: cf4c64e18d997b1370899a2cc89f5e88ac5108ec7ecf673f758256b77705318b
-Section: Acreson-工具(Utilities)
-Description: 支持Chimera12.2-12.4专版,具体使用方法:Chimera用户直接安装本版本即可。
-Author: julioverne <julioverne@me.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: CyDown Cydia增强(Chimera)
-
-Package: acreson.gj.cydown
 Version: 7.0.1
 Architecture: iphoneos-arm
 Maintainer: Acreson
@@ -1983,48 +1725,6 @@ Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: CyDown Cydia增强(Chimera)
 
-Package: acreson.gj.ithemer
-Version: 1.0~beta2-2
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 1412
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Filename: ./debs/acreson.gj.ithemer_1.0~beta2-2_iphoneos-arm.deb
-Size: 110472
-MD5sum: 31fa675449e7797958862f6f09007436
-SHA1: 0c13e1e9d38807ca66b69e469d3704bfe048728f
-SHA256: d0ba57fd87d6fe1bc12db6d078e0e7239da6ce2ab7e0eafd9b302a1e4a732c6e
-Section: Acreson-工具(Utilities)
-Description: Chimera IOS12.2-12.4专用 已解决无限菊花问题，测试状态栏，桌面，遮罩，角标，蒙版正常，设置无效,其他后续更新
-Author: DODGraphics <dodgraphics.1010@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: iThemer 主题工具(Chimera)CN
-Sileodepiction: https://crazyc.top/ms/msxq/ithemer.json
-
-Package: acreson.gj.ithemerun
-Version: 1.0~beta2-1
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Installed-Size: 1412
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Filename: ./debs/acreson.gj.ithemerun_1.0~beta2-1_iphoneos-arm.deb
-Size: 110456
-MD5sum: fbaa8059e4064ea225148207912fbc49
-SHA1: 6270a524336a9c081bfbdd9320eabcbbb7fc4533
-SHA256: 7f53915eea724bed25c35ec68ef2223adbe993d947670fa791b84dd11f7a86a2
-Section: Acreson-工具(Utilities)
-Description: Unc0ver-A12 IOS12.2-12.4专用 已解决无限菊花问题，测试状态栏，桌面，遮罩，角标，蒙版正常，设置无效,其他后续更新
-Author: DODGraphics <dodgraphics.1010@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: iThemer 主题工具(Unc0ver-A12)CN
-Sileodepiction: https://crazyc.top/ms/msxq/ithemerun.json
-
 Package: acreson.gj.shshwallet
 Version: 1.0.1a
 Architecture: iphoneos-arm
@@ -2039,25 +1739,6 @@ Description: SHSH Wallet备份shsh工具
 Author: KawaiiAurora
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: SHSH Wallet
-
-Package: acreson.gj.tsssaver
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Acreson <342080124@qq.com>
-Pre-Depends: firmware (>=8.0)
-Depends: mobilesubstrate, net.limneos.libbulletin
-Filename: ./debs/acreson.gj.tsssaver_1.1_iphoneos-arm.deb
-Size: 283352
-MD5sum: 807c60c121dda7883c74dfa7999e7c43
-SHA1: 15ea174542cdd126dd0a17b0a2a0d899a9eab62b
-SHA256: cc985a828adf77a0c310597913323d700f19ae92c7e9492cd2e6887e6bddfd6e
-Section: Acreson-工具(Utilities)
-Description: 原版修改，可以一键备份多个设备的shsh2，在官方网站上.
-Author: IArrays <support@iarrays.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: TSS Saver 修改版
-Sileodepiction: http://crazyc.top/ms/msxq/tss.json
-Sponsor: IArrays
 
 Package: acreson.goodwifi
 Version: 0.0~beta4
@@ -3027,26 +2708,6 @@ Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: SnapBack 快照管理器
 Sileodepiction: https://midnightchips.me/sileo/snapback.json
 
-Package: acreson.snowboardfull
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: Spark&CrazyHipHop
-Installed-Size: 12345
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/acreson.snowboardfull_1.3_iphoneos-arm.deb
-Size: 1597584
-MD5sum: b60a9f2a36350a90cb7cc386c4c6b616
-SHA1: dc8ec51197e9c429ba41145d2d44b29d67f3d454
-SHA256: 7e6c106c24826587cfb1dd4958530a175eb82fdaef0ad7ea384fb8efa8609520
-Section: Acreson-工具(Utilities)
-Description: SnowBoard (App) 完整版
-Author: Spark & Dennis D. Bednarz
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: SnowBoard  (App) 完整版
-
 Package: acreson.so2
 Version: 0.10.11-17
 Architecture: iphoneos-arm
@@ -3217,23 +2878,6 @@ Description: 动态支持iOS8+设备的本地连接。这应该在任何载体�
 Icon: file:///Applications/Cydia.app/Sections/Networking.png
 Name: TetherMe for iOS8+  热点强化
 
-Package: acreson.thunderhelper
-Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 404
-Depends: mobilesubstrate
-Filename: ./debs/acreson.thunderhelper_1.4.0_iphoneos-arm.deb
-Size: 53800
-MD5sum: 362ae507054952d210a2141c02444d33
-SHA1: 485ac7689628d9435395f399ac133896afae68d5
-SHA256: ab1870e6ebb4bbe0767edd9240ee80c2778873883f4735730669cc4112593cbf
-Section: Acreson-增强(Enhance)
-Description: 会员功能应有尽有.
-Author: iBreak
-Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
-Name: Thunder Helper 迅雷助手
-
 Package: acreson.tiantang
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3266,26 +2910,6 @@ Description: ⚠️此版本只支持最新版抖音！！！禁用双击(抖音
 Author: 土拨鼠
 Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
 Name: 抖音 Crack
-
-Package: acreson.tool.sbfull
-Version: 1.2.27~Beta1
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 3056
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/acreson.tool.sbfull_1.2.27~Beta1_iphoneos-arm.deb
-Size: 2713144
-MD5sum: 1aeaa8da1b8b9c30aaf367cfb45d46a6
-SHA1: 29fc1e72033c2650d724e565081debe6a36ad326
-SHA256: ab0075e9652d06dd764fbb6892ab520660db490648561ab7e4170d93f9705470
-Section: Acreson-工具(Utilities)
-Author: Spark & Dennis D. Bednarz
-Icon: file:///Applications/Cydia.app/Sections/Acreson-工具(Unilities).png
-Name: 「SnowBoard」主题平台完整版 CN
-Sponsor: Acreson <342080124@qq.com>
 
 Package: acreson.topalkaline
 Version: 1.5
@@ -4370,62 +3994,6 @@ Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 遮罩组合1
 Sponsor: Acreson <342080124@qq.com>
 
-Package: com.exile90.icleanerpro
-Version: 7.7.5
-Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.exile90.icleanerpro_7.7.5_iphoneos-arm.deb
-Size: 5379940
-MD5sum: bb12001b479aa8d1becbaa49eed17a56
-SHA1: 3078e8a846c2f28ae1363b2537af111eace46174
-SHA256: 9edbc0494b1308fec5154fa5cbfe34d333e68abb4de50520f5ddacf8e1646d39
-Section: Acreson-工具(Utilities)
-Homepage: http://ib-soft.net/icleaner
-Description: 第一个真正的iOS系统清洁和优化
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: iCleaner Pro 清理工具
-
-Package: com.julioverne.cydown
-Version: 6.9.8
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.cydown_6.9.8_iphoneos-arm.deb
-Size: 1083464
-MD5sum: 8849aa3332905f3c79b806403b80ae7a
-SHA1: abff78298dbf968003cf2ff0ba766a1cf4f1da00
-SHA256: 3a594ca801d1e3ffc1ff61a4e7d6bb44bf67050f5427adcd6bc916211b90b2b2
-Section: Acreson-工具(Utilities)
-Homepage: http://twitter.com/ijulioverne
-Description: Cydia下载管理器和额外的功能!最新版
-Author: julioverne <julioverne@me.com>
-Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown Cydia增强
-
-Package: com.julioverne.cydown
-Version: 7.0.0
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.cydown_7.0.0_iphoneos-arm.deb
-Size: 2111300
-MD5sum: 9928172c9c27c54585e2d5202b557f6c
-SHA1: 8c676efbefb67b3e401257b0989c906155070512
-SHA256: a4183a449cc6faf9b36ff4e80be7ddd357488a7cf843ed1c1ef1ad56300f5113
-Section: Acreson-工具(Utilities)
-Homepage: http://twitter.com/ijulioverne
-Description: Cydia下载管理器和额外的功能!最新版 支持a12
-Author: julioverne <julioverne@me.com>
-Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown Cydia增强
-
 Package: com.julioverne.cydown
 Version: 7.0.1
 Architecture: iphoneos-arm
@@ -4462,121 +4030,6 @@ Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CCVPN 快捷VPN开关
-
-Package: com.matchstic.reprovision
-Version: 0.4.4
-Architecture: iphoneos-arm
-Maintainer: Matt Clarke <matt@incendo.ws>
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/com.matchstic.reprovision_0.4.4_iphoneos-arm.deb
-Size: 10060476
-MD5sum: 1662501f9a29901bafb69a6717abe415
-SHA1: d4a567f8f64ab43b47d134f1fa19fa0cd0d9a6bc
-SHA256: d5c968d971da8e3b444ba0d0f220b3cdd0bd708586a1923882880500139310d9
-Section: Acreson-工具(Utilities)
-Homepage: https://github.com/Matchstic/Extender-Installer
-Description: ipa重签名工具
-Author: Matt Clarke <matt@incendo.ws>
-Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
-Dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Name: ReProvision 签名工具
-
-Package: com.spark.snowboard
-Version: 1.2.26~Beta1
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 3056
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.spark.snowboard_1.2.26~Beta1_iphoneos-arm.deb
-Size: 2705128
-MD5sum: 336e409e7b7326d5a303f27d62c079a6
-SHA1: 96d14c44b249a7f2bb3ad7b546a5f087de1da1d9
-SHA256: 4d3ea7c825e39655c16f2dc44467abec3108a83bc64d389a52cb3bc82ff90b34
-Section: Tweaks
-Description: Snowboard theming engine
-Author: Spark & Dennis D. Bednarz
-Name: SnowBoard
-
-Package: com.tigisoftware.appdatamanager
-Version: 1.5.0-12
-Architecture: iphoneos-arm
-Maintainer: TIGI Software
-Installed-Size: 8928
-Filename: ./debs/com.tigisoftware.appdatamanager_1.5.0-12_iphoneos-arm.deb
-Size: 2452480
-MD5sum: 6b5b0466fbd22fad4662ef993da190ba
-SHA1: 6752f53d51bb48aad0b59c8453f7f7a1aa7752d2
-SHA256: a46fc858784aec75cfb21b071bb3d72894ddf0320915169999ccedcef878ec74
-Section: Acreson-工具(Utilities)
-Description: 该工具为已安装的应用程序提供擦除、备份和恢复软件数据的方法
-Author: TIGI Software
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: Apps Manager 软件备份管理器
-
-Package: com.tigisoftware.filza
-Version: 3.7.0-18
-Architecture: iphoneos-arm
-Maintainer: TIGI Software
-Installed-Size: 29668
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.tigisoftware.filza_3.7.0-18_iphoneos-arm.deb
-Size: 9879908
-MD5sum: f4da01ccf25dd32f89a692232cffbbe2
-SHA1: 65a9bfce9ce51bdc10d387fca17d6526c3c02be0
-SHA256: 9d47fc73a970fb04efaa5a71a49456897adfef26e9c01bdb8c0ea2b375b978da
-Section: Acreson-工具(Utilities)
-Description: iPhone, iPad, iPod Touch的文件管理器。支持iOS 7 +
-Author: TIGI Software
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: Filza File Manager 文件管理器
-
-Package: com.tigisoftware.filza64bit
-Version: 3.7.0-18
-Architecture: iphoneos-arm
-Maintainer: TIGI Software
-Installed-Size: 20132
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza
-Filename: ./debs/com.tigisoftware.filza64bit_3.7.0-18_iphoneos-arm.deb
-Size: 6724484
-MD5sum: 7d89334a9334acbe4c8987139f452af1
-SHA1: 5c27fbbc830d65bf6892dee97739913eb1430426
-SHA256: fa222ccdd9ae2eb126631a9fbcb2ec2fed912615e02fe457e933cf8ed2883184
-Section: Acreson-工具(Utilities)
-Description: iPhone, iPad, iPod Touch的文件管理器。支持iOS 7 +。这个特殊版本只支持64位设备
-Author: TIGI Software
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: Filza File Manager 64bit 文件管理器
-
-Package: cydia-dark
-Version: 1.9.3~chimera4
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Installed-Size: 8920
-Pre-Depends: debianutils, dpkg (>= 1.14.25-8), firmware (>=5.0)
-Depends: apt7-lib | libapt, apt7-key | apt-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 2.0.0), lzma, cydia
-Conflicts: bigboss, com.sosiphone.addcydia, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd, cydia-uni, cydia-gui
-Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd, cydia-gui
-Filename: ./debs/cydia-dark_1.9.3~chimera4_iphoneos-arm.deb
-Size: 1290044
-MD5sum: 234b1ba33a0b8bc214f66987c3f38d64
-SHA1: 2b7b79cd2f0b98c79bc9123fd676688353b2f13d
-SHA256: c2a87262d7140c8cd9b0c62d64e80ba7b4432df8f5ad3a217fe927ca40f421b6
-Section: Acreson-安装包(Packages)
-Priority: optional
-Description: graphical iPhone front-end for APT
-Tag: purpose::uikit, role::enduser
-Author: Diatrus <me@diatr.us>
-Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
-Name: Chimera/Electra专用Cydia
 
 Package: cydia-dark
 Version: 1.9.3~chimera5
@@ -4645,23 +4098,6 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Icon: file:///Applications/Cydia.app/Sections/Addons.png
 Name: Cydia Translations
-
-Package: idv.aqua.iGameGuardian
-Version: 8.3
-Architecture: iphoneos-arm
-Maintainer: Aqua Wu <igameguardian@gmail.com>
-Installed-Size: 15000
-Filename: ./debs/idv.aqua.igameguardian_8.3_iphoneos-arm.deb
-Size: 341080
-MD5sum: 385427b785c9b28924d6172b51bc0c2b
-SHA1: 87d1c0e5e2954286a24dea7b07f52f74d04b74be
-SHA256: 031309626f71f092cb527f68b5b7dfd1707f80067d0eaba3904f4ecbd85375b8
-Section: Acreson-修改器(Modifiers)
-Priority: optional
-Description: iGameGuardian是iOS 8.x/9.x/10.2/11.0-11.3.1的一种修改器.
-Author: Aqua Wu <igameguardian@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: iGameGuardian 修改器
 
 Package: lz4
 Version: 1.7.5-1

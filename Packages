@@ -83,23 +83,6 @@ Author: 0xS14T3R & DiDA
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: Asphalt 9 Crack 狂野飙车9 破解
 
-Package: acreson.HI3GL
-Version: 3.1.2
-Architecture: iphoneos-arm
-Maintainer: iOSGods.com
-Installed-Size: 3228
-Depends: mobilesubstrate
-Filename: ./debs/acreson.hi3gl_3.1.2_iphoneos-arm.deb
-Size: 720836
-MD5sum: 0345e04f3234506b84e41af98aedfc1f
-SHA1: 38aaff70e8ccb0582127a3563d8f24435bb8a330
-SHA256: 9bba9371ed827aaaac368a83974bdb38ae8b423784c0759d349eef4877209e59
-Section: Acreson-游戏(Games)
-Description: 解锁功能：超高伤害,超高HP，没有技能CD  hack:High Damage- High HP- Inf.Skills- No Skills CoolDown.  下载方式:AppStore美区搜索:Honkai Impact 3rd
-Author: DanYal
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: Honkai Impact 3rd Cheats 崩坏3 破解
-
 Package: acreson.NFSMostWantedFreeHack
 Version: 1.1.0
 Architecture: iphoneos-arm
@@ -167,23 +150,6 @@ Description: 解锁功能: 1，无后座。2，火力倍数（开大会被踢出
 Author: Crimson
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: MC5 Hack 现代战争5破解
-
-Package: acreson.ace233
-Version: 0.13.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 196
-Depends: mobilesubstrate
-Filename: ./debs/acreson.ace233_0.13.0-1+debug_iphoneos-arm.deb
-Size: 37020
-MD5sum: b76281c1b28fbd86da0119edfa4566f6
-SHA1: febbf0079f3641fffdb3e8d6ffc14b58c5210e24
-SHA256: a39edecb9f3e034a1758465f715083d9fd83d7f5734a37c2fab1cf165a0c655e
-Section: Acreson-游戏(Games)
-Description: 解锁功能:无后座，无扩散
-Author: Crimson
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: Pubg Mobile 0.13.0 Hack 刺激战场国际服破解
 
 Package: acreson.acrebel
 Version: 2.4.2
@@ -1816,22 +1782,6 @@ Icon: file:///Applications/Cydia.app/Sections/Localization.png
 Name: GPS Master(GPS定位大师)-Fake Navigation,Location Spoofer
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: acreson.hackpubgxs-xr-xsmaxs
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: ahmedmakls <makhl.2266@yahoo.com>
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/acreson.hackpubgxs-xr-xsmaxs_1.2_iphoneos-arm.deb
-Size: 878760
-MD5sum: d4c4b3b23897b7d6eb6ff39c390ea217
-SHA1: 51b4f36f38226943003fc7705bcbd7039da578f6
-SHA256: 1bd1de35b403c924f618d468056ddb67a42aa77ea1f81e9aa0b203c83afa64f0
-Section: Acreson-游戏(Games)
-Description: 233(XS-Xr-XSmaxs)
-Author: ahmedmakls <makhl.2266@yahoo.com>
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: HACK PUBG XS-XR-XSmax 刺激国际服XS-XR-XSMAX
-
 Package: acreson.hidebarx
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -2062,23 +2012,6 @@ Description: 解锁功能:1.上帝模式(不掉血）2.敌人0防御3.敌人低�
 Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: King's Raid Crack 王之逆袭 破解
-
-Package: acreson.krpubg
-Version: 0.13.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: X204
-Installed-Size: 1172
-Depends: mobilesubstrate
-Filename: ./debs/acreson.krpubg_0.13.0-1+debug_iphoneos-arm.deb
-Size: 378000
-MD5sum: 6376b1afa7bc9231f163d87751c0af56
-SHA1: 5160c7a313c5ce54260305031a7be87554f8dc08
-SHA256: 44dac949c2c22fd50e664b9a5b0ce2f934658acc52c441535855c31c6947996e
-Section: Acreson-游戏(Games)
-Description: 神奇的菜单自己测
-Author: X204
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: PUBG MOBILE Mod Menu 刺激战场日韩服修改菜单
 
 Package: acreson.kuwoyinyue
 Version: 6.0

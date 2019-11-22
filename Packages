@@ -4,15 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: acreson
 Depends: mobilesubstrate
 Filename: ./debs/1_1.0_iphoneos-arm.deb
-Size: 644
-MD5sum: cfc7eafeb3a7007afe102e883b1f5d5b
-SHA1: 3dfa10883aee0d983285abf8ee7ad61e90b58bf4
-SHA256: 39f69ac311ce17713fece8920dc6e78fb45e3d61150d8465c3b5d57c7a2ff6a7
+Size: 772
+MD5sum: 6c671f3b330c45d877e0ec73093c3d6b
+SHA1: 2dfd6dff37598124ad9ed339eba45489ed8ff968
+SHA256: 80b4ab0f752a558bd2a56281a84651ea59604f57e06ebf22268c8d1eaa5fa7fb
 Section: System
 Priority: optional
 Description: 此包提示包，误装
 Author: Acreson
-Name: 国外源,请添加国内源https://sileo.xyz
+Name: 国外源,请添加国内源https://repo.sileo.xyz
 
 Package: acreson.Alipay-AntForest
 Version: 0.4.1

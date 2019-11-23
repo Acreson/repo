@@ -190,63 +190,15 @@ Architecture: iphoneos-arm
 Maintainer: Acreson
 Depends: firmware (>= 8.0)
 Filename: ./debs/acreson.app.kdxs_1.3.0_iphoneos-arm.deb
-Size: 5041500
-MD5sum: c38056d962fe134cc3e9b9266829903e
-SHA1: c16cd4df381f226c4910aab36c47620f720a5157
-SHA256: 8c4d24a3abc4d24bb252cb33447c41da35f2d9080ece732fee07e19fd085cd63
+Size: 5655196
+MD5sum: 8b8a72e7299ad65b490502c8645a0bf2
+SHA1: 7e3d2bfc221d1f8e63771bef10d068685050250a
+SHA256: 83104985ddacfa6365cdd0148af9be4cbc7c621b730361672165e68ea4f4ade0
 Section: Acreson-软件(Applications)
 Description: 快读小说全本免费看，可换源，无广告！
 Author: Netskao
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-快读小说
-
-Package: acreson.app.newt66y
-Version: 2.3.2
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 9.0)
-Filename: ./debs/acreson.app.newt66y_2.3.2_iphoneos-arm.deb
-Size: 7527768
-MD5sum: 03e6a5efee4d310dc80753e61ad69a5a
-SHA1: 0b595f1ccb8d4655122b274dc70a51bf8413b3bb
-SHA256: 27d9303049ea864078436bc1fea033494d7f59f5b9ca618cdd286a8b0ed7256d
-Section: Acreson-软件(Applications)
-Description: 1024你懂的
-Author: T66y
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-1024
-
-Package: acreson.app.ngdy
-Version: 4.7.3
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 8.0)
-Filename: ./debs/acreson.app.ngdy_4.7.3_iphoneos-arm.deb
-Size: 39061000
-MD5sum: e1751a8c25a0b9545b3312ac2147b470
-SHA1: 447945eb746c383ba02d301b97bb511ce9247dcf
-SHA256: 9df1bed6e714ffacf8816bfc66c9ccb2e4ce8543fe17547aed33a6f59a894d9d
-Section: Acreson-软件(Applications)
-Description: 南瓜电影破解版，低调使用，会员账号来源于群友提供
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-南瓜电影(内置破解)
-
-Package: acreson.app.signed
-Version: 1.9.3
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 8.0)
-Filename: ./debs/acreson.app.signed_1.9.3_iphoneos-arm.deb
-Size: 8386820
-MD5sum: 4deec55223dbad46306cc031271edddf
-SHA1: a4c23ecdd97eb85ff957ece06fbf90bcda72e45d
-SHA256: 4d023db3c6e9dd4f687fa4175cfafc912cf478b1e2f56df4bd13d5fc7d525af3
-Section: Acreson-软件(Applications)
-Description: QQ一键签到、会员签到、协议签到、群签到、游戏签到等，已砸壳转deb。无视企业证书被封情况
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-我爱网
 
 Package: acreson.app.ttys
 Version: 1.3
@@ -254,47 +206,15 @@ Architecture: iphoneos-arm
 Maintainer: Acreson
 Depends: firmware (>= 9.0)
 Filename: ./debs/acreson.app.ttys_1.3_iphoneos-arm.deb
-Size: 8499632
-MD5sum: bcef7e3c8721b52840eebb9ea82e3557
-SHA1: aedff6f4eef25ec45d7aa1219a2924e76ae6dd15
-SHA256: 3bfe281d2d4f20324ffcd3c9c831249bc76b8dbaf61da65265c742e2cc04539b
+Size: 10480064
+MD5sum: 42a4308cee2963a1cc17c2f850d3a3bb
+SHA1: 7772d3941a4842629608ded903a6005a5998c924
+SHA256: bfd5968b5293bc6d36acf125d3a00f52fe477d3cfdcbda237a924c5a334e569c
 Section: Acreson-软件(Applications)
 Description: 天堂影视，电影-电视剧-动漫影视！资源一般，已去视频开头广告，启动广告
 Author: Acreson
 Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
 Name: APP-天堂影视(去广告)
-
-Package: acreson.app.yinyuetai
-Version: 1.3.6
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Installed-Size: 742
-Filename: ./debs/acreson.app.yinyuetai_1.3.6_iphoneos-arm.deb
-Size: 1110576
-MD5sum: a912948da6167487d4eda71be7f3f0b7
-SHA1: 5df653b8ae444c7799a8ff9b6f0b8d12c07a3e90
-SHA256: ee869fdf1d89ceff440dada131a9ff610ae7d18a319f0a738666556816b94007
-Section: Acreson-软件(Applications)
-Description: 《音悦台》appstore68元的app,已砸壳转deb
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-音悦台
-
-Package: acreson.app.ytspcrack
-Version: 8.8.8
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 10.0)
-Filename: ./debs/acreson.app.ytspcrack_8.8.8_iphoneos-arm.deb
-Size: 42670452
-MD5sum: da959585617b79e956562530e1cedb35
-SHA1: 9e090b12a7b0d7b4649d0e8772491905e8e74cdd
-SHA256: 979b89e7f9ccb8d547a764e6ed5e292e59ac5f1eca644b40fa95fddb9802c35f
-Section: Acreson-软件(Applications)
-Description: 樱桃视频，直装破解版无需担心掉证书！
-Author: Acreson
-Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
-Name: APP-樱桃视频(内置破解)
 
 Package: acreson.app.zzzfun
 Version: 2.0.5
@@ -302,10 +222,10 @@ Architecture: iphoneos-arm
 Maintainer: Acreson
 Depends: firmware (>= 8.0)
 Filename: ./debs/acreson.app.zzzfun_2.0.5_iphoneos-arm.deb
-Size: 10109936
-MD5sum: 5b5b9ac1f701ee7d20629903da9ddf28
-SHA1: d41fcf437696cce151c61edd8e0c96152de2bc45
-SHA256: 8a152a19eaee58e9ac7e7a5f1c0f6d5a6e7b3fa80866d2ae4521c1dcb6443136
+Size: 12410700
+MD5sum: e39f7a8d0e8c0e86dd6fd39cfcf8d709
+SHA1: b3e6d88930fd1991440bd799c1319ab2987d5989
+SHA256: 706ded3fda0776337edb09ca67cdd80e56dd438952814532ea9ee8cdbc8feb38
 Section: Acreson-软件(Applications)
 Description: 看正规番剧的应用
 Author: Acreson <342080124@qq.com>

@@ -3713,6 +3713,25 @@ Name: Zebra（beta）CN
 Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
 
 Package: xyz.willy.zebra
+Version: 1.0~beta29-1+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 48608
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Conflicts: com.samgisaninja.tweakcompatible-zebra (<= 1.1.3)
+Filename: ./debs/xyz.willy.zebra_1.0~beta29-1+debug_iphoneos-arm.deb
+Size: 14908844
+MD5sum: ee2302367284f5b5ec364699cf63964e
+SHA1: f85e293527c13db891964d5a98eef7527ceb6209
+SHA256: c4ed59752b15db10e8e858b9decb7dc2fea47c0c0fdde59623aa708546fb0871
+Section: Acreson-安装包(Packages)
+Description: 一个包管理器支持IOS9-13
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: Zebra（beta）CN
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
+
+Package: xyz.willy.zebra
 Version: 1.0~beta3
 Architecture: iphoneos-arm
 Maintainer: Wilson Styres <wilson@styres.me>
@@ -3729,6 +3748,25 @@ Tag: purpose::x
 Author: Wilson Styres <wilson@styres.me>
 Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
 Name: Zebra (BETA)
+
+Package: xyz.willy.zebra
+Version: 1.0~beta31-1+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 48608
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Conflicts: com.samgisaninja.tweakcompatible-zebra (<= 1.1.3)
+Filename: ./debs/xyz.willy.zebra_1.0~beta31-1+debug_iphoneos-arm.deb
+Size: 14908946
+MD5sum: 173f4d950b32c783c2b8c7661cea785b
+SHA1: 10b75d855f589f8087268ffdf6c2eb01c444a0dd
+SHA256: d1ee47f3f6087b4eb381421196a957323f1072271b8a8c3771a5da02ab18cf78
+Section: Acreson-安装包(Packages)
+Description: 一个包管理器支持IOS9-13
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: Zebra（beta）CN
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
 
 Package: xyz.willy.zebra
 Version: 1.0~beta4

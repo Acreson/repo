@@ -215,24 +215,6 @@ Depiction: https://level3tjg.github.io/depictions/?p=com.level3tjg.bfdecrypt
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: bfdecrypt 全自动DUMP
 
-Package: acreson.blocksimalert
-Version: 1.0.0-3
-Architecture: iphoneos-arm
-Maintainer: Ken
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/acreson.blocksimalert_1.0.0-3_iphoneos-arm.deb
-Size: 2904
-MD5sum: 4a24a9b3b16ea054cb5a78c29ec9bd0b
-SHA1: a7fc4dff0835af10723bbc9529e0fa6afd89a736
-SHA256: e1e2950f6e2b60486fe330b0817159e159e6b90f382b63c99d5b1b2aa8c1d1a3
-Section: Acreson-插件(Tweaks)
-Description: 去掉无SIM警报
-Author: Ken
-Depiction: https://kkyuen.github.io/repo/depictions/?p=com.ken.blocksimalert
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: BlockSIMAlert 去SIM提示
-
 Package: acreson.boxy3
 Version: 3.6.1
 Architecture: iphoneos-arm
@@ -1690,24 +1672,6 @@ Description: 解锁功能:1.上帝模式(不掉血）2.敌人0防御3.敌人低�
 Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Games.png
 Name: King's Raid Crack 王之逆袭 破解
-
-Package: acreson.kuwoyinyue
-Version: 6.0
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/acreson.kuwoyinyue_6.0_iphoneos-arm.deb
-Size: 24252
-MD5sum: 3c12891451f67bc70210cbccc4b3548f
-SHA1: 635a94bd53caf50fe52336ec3dd605d6c4eda674
-SHA256: 5fa15e747b7c40e28937446f3096f62296610e0c5d45ed98cb42c1f24c29bac8
-Section: Acreson-插件(Tweaks)
-Priority: optional
-Description: 酷我音乐全新全功能破解版，破解年费豪华会员所有特权，点亮年费付费音乐图标，允许试听下载任意付费专辑下架灰色SQ品质音乐，精简移除部分功能，移除海外ip限制，完美去除启动广告，个性皮肤随意用，6.0版更新支持全部无版权灰色歌曲直接在线下载试听，无版本限制，支持所有版本。更多破解软件，关注公众号：一只小果子。
-Author: 带土
-Dev: 长生果子
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: 酷我音乐最新全破解
 
 Package: acreson.linetoolsxii
 Version: 0.1.1-1+debug

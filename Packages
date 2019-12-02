@@ -503,57 +503,6 @@ Author: Shiar Ahmed <shiyar2002@icloud.com>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Weatherana 天气自定义
 
-Package: acreson.cnGamePlayer
-Version: 3.4
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Pre-Depends: firmware (>= 6.0), mobilesubstrate, firmware (<= 10.3.3)
-Conflicts: com.haoerloveyou.GamePlayer
-Replaces: com.haoerloveyou.GamePlayer
-Filename: ./debs/acreson.cngameplayer_3.4_iphoneos-arm.deb
-Size: 1027432
-MD5sum: 1a46c63e53eb18054ff29735d7f6512f
-SHA1: 8faa6edccb8f11e3cb6098b36dd46c246d521bb7
-SHA256: b904198e1ed7fd248de851984a2c5e53ccb8c0ef8cdf5aa31b8291dde438d537
-Section: Acreson-修改器(Modifiers)
-Priority: optional
-Author: Maocai Luo
-Icon: file:///Applications/Cydia.app/Sections/Utilities.png
-Name: 八门神器3.4
-Sponsor: Acreson
-
-Package: acreson.commcenterpatch
-Version: 3.1
-Architecture: iphoneos-arm
-Maintainer: Acreson
-Pre-Depends: firmware (>= 7.0)
-Depends: mobilesubstrate
-Filename: ./debs/acreson.commcenterpatch_3.1_iphoneos-arm.deb
-Size: 6624
-MD5sum: 25fb977bf3dc12f4228b11f5598197c6
-SHA1: a86e8968a097ea2e9dccc42a0c4cdd2b08889ac6
-SHA256: 6872a0cca7d9fa86dbebd96d61bbc0214f02d0ff42136b32d151fa3ff2228660
-Section: Acreson-网络(Networking)
-Description: 去运营商签名验证(移动联通电信)
-Author: iTweakiOS
-Icon: file:///Applications/Cydia.app/Sections/Networking.png
-Name: CommCenter Patch 去验证
-
-Package: acreson.counterattack1
-Version: 1.2.16-1
-Architecture: iphoneos-arm
-Maintainer: nkod <nkodder@gmail.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/acreson.counterattack1_1.2.16-1_iphoneos-arm.deb
-Size: 20840
-MD5sum: f69f6fbb384a3157d57e068a8e201393
-SHA1: 47ccbc872cec8dd55c96d329a628d398d44aca34
-SHA256: 58edb0f6845c193ce6c3f81ca482cc29d32280556237d5a25131864e5129134e
-Section: Acreson-游戏(Games)
-Description: 解锁功能:无后座，无需重装子弹，雷达透视 登陆通用账户：acreson2019 密码：acreson123456。 游戏美区Appstore下载搜索《Counter Attack Multiplayer FPS》
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: Counter Attack Hack 反击逆袭破解
-
 Package: acreson.cracktool2
 Version: 2.3~beta9
 Architecture: iphoneos-arm
@@ -740,23 +689,6 @@ Author: Acreson <342080124@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/Themes.png
 Name: 小骷髅 角标
 Sponsor: Acreson <http://crazyc.top>
-
-Package: acreson.smashhit
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iOSGods.com
-Installed-Size: 3228
-Depends: mobilesubstrate
-Filename: ./debs/acreson.smashhit_1.0_iphoneos-arm.deb
-Size: 1269300
-MD5sum: 4678e60f6fe0ad5af5dab7d3ed0aea7d
-SHA1: 4d5029e34150493c3f7030584344f451bb45545b
-SHA256: a812be943ee5259ee116967af2f37a7527881887aed7836418c540f7bdb304a8
-Section: Acreson-游戏(Games)
-Description: 解锁功能:- 无限球，内购
-Author: Battousai & DiDA
-Icon: file:///Applications/Cydia.app/Sections/Games.png
-Name: Smash Hit Crack 某种破球 破解
 
 Package: acreson.smoke
 Version: 1.1

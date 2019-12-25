@@ -126,26 +126,6 @@ Name: APR-util
 
 Package: apt
 Version: 1.8.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1784
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libapt (>= 1.8.2), apt-key, berkeleydb
-Conflicts: apt7 (<<1:0), apt1.4 (<<1:0), apt1.8
-Replaces: apt1.8, apt1.4
-Provides: apt1.8 (=1.8.2)
-Filename: ./debs/apt_1.8.2-1_appletvos-arm64.deb
-Size: 147102
-MD5sum: e70c33326bfb339a8e979023d34920c3
-SHA1: db0886673e6662851b7ebdc267f46003b607bce1
-SHA256: ad55877529de36dcfd99c6977093f1f247ddce834689f73f602d5d93c32b23b7
-Section: Packaging
-Priority: standard
-Description: the advanced packaging tool from Debian
-Name: APT
-
-Package: apt
-Version: 1.8.2-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1784
@@ -164,27 +144,6 @@ Section: Packaging
 Priority: standard
 Description: the advanced packaging tool from Debian
 Name: APT
-
-Package: apt
-Version: 1.8.2-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1688
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libapt (>= 1.8.2), apt-key, berkeleydb
-Conflicts: apt7 (<<1:0), apt1.4, apt1.8
-Breaks: cydia (<< 1.1.32~b19)
-Replaces: apt1.8, apt1.4
-Provides: apt1.8 (=1.8.2)
-Filename: ./debs/apt_1.8.2-1_watchos-arm.deb
-Size: 150558
-MD5sum: b3ac8fb6fa6c2e66e63145f4eb3275b6
-SHA1: c5131ed40666d0e23df80fafafbc19ff89f94b19
-SHA256: 37848e745b2fb6cf195ea6efe908fdd0e8c846db1e49074ff12bccd2573ea18d
-Section: Packaging
-Priority: standard
-Description: the advanced packaging tool from Debian
-Name: APT Command-Line Package Manager
 
 Package: apt
 Version: 1.8.2-2
@@ -341,26 +300,6 @@ Description: repository encryption key management tool
 Name: APT (apt-key)
 
 Package: apt-key
-Version: 1.4.9-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 64
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: coreutils, libapt
-Conflicts: apt7-key (<<1:0)
-Breaks: apt7-key (<<1:0)
-Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-4), apt7-key
-Filename: ./debs/apt-key_1.4.9-1_watchos-arm.deb
-Size: 8406
-MD5sum: af6f4977372513afdd59e8962c35f676
-SHA1: 51c95e32dcc83d827e0f4c110731ab317a7f4e5a
-SHA256: efb707962de3655877a8df52ff90df26491f615adae13d0f4da06a7d0dc94934
-Section: Packaging
-Priority: standard
-Description: repository encryption key management tool
-Name: APT (apt-key)
-
-Package: apt-key
 Version: 1.4.9-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -375,26 +314,6 @@ Size: 8404
 MD5sum: fb556613b51f801be5295ee35ff02ecc
 SHA1: ee61c68de53b9525e7da3f912ccd705f88b23f3d
 SHA256: b192d296bed789051bfd5f3e8b52aba3e9ebb025db4bd0e9a889b83aa1590362
-Section: Packaging
-Priority: standard
-Description: repository encryption key management tool
-Name: APT (apt-key)
-
-Package: apt-key
-Version: 1.8.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 64
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: coreutils, libapt
-Conflicts: apt7-key (<<1:0)
-Breaks: apt7-key (<<1:0)
-Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-4), apt7-key
-Filename: ./debs/apt-key_1.8.2-1_appletvos-arm64.deb
-Size: 8734
-MD5sum: 785f98bea4852ce4e7609a7d5b92b0c6
-SHA1: ca578d21522a2f7dd447d2752a15f327a582078f
-SHA256: 066307b435d246e98f9416bf68cec0659bdee765c89baefa5bc639ad8b74d23f
 Section: Packaging
 Priority: standard
 Description: repository encryption key management tool
@@ -428,10 +347,10 @@ Installed-Size: 48
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libapt-pkg-perl
 Filename: ./debs/apt-rdepends_1.3.0-1_iphoneos-arm.deb
-Size: 6348
-MD5sum: 068146788694c1baf5588afceb3d8dcf
-SHA1: d1157a58b756abb5dab02a45d4b24f29593aa69f
-SHA256: 858167f632c6297b0529de6ea46ac63fb6655e2febf7c27148bfa7b1172844ba
+Size: 6344
+MD5sum: 5327f0f128301fd8327718912717fbad
+SHA1: e6a62a43938b35de5225c1218ec1afed5917afe9
+SHA256: ae19878cb198743f66ec454284fff3b577e428f019ea6e076b162edec2f72d67
 Section: Scripting
 Priority: optional
 Description: a Perl script that hooks into APT and recursively finds dependencies.
@@ -554,22 +473,6 @@ Size: 604
 MD5sum: 86ffb0e8e237830d35de073ac4b5b027
 SHA1: eaaf1153f126fbe975d17e7259a97cfaab14a2a5
 SHA256: 8d15fd2c51fdadf9b184c12afe30834fb9058943de00210f30c68aaf86b08f20
-Section: Packaging
-Priority: standard
-Description: the advanced packaging tool from Debian
-Name: APT 0.7 Transitional
-
-Package: apt7
-Version: 1:0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: apt
-Filename: ./debs/apt7_1-0-1_appletvos-arm64.deb
-Size: 844
-MD5sum: 2375508f092a282f4441a8897fb0210a
-SHA1: 1ee9f58b4c2721fc708b4a49bcf09acbcd03fa01
-SHA256: 5268cf2abf95673e1db99f909eb9ae4c660a1e1a37394cd6b65406e0a7c70e17
 Section: Packaging
 Priority: standard
 Description: the advanced packaging tool from Debian
@@ -879,23 +782,6 @@ Name: Axel
 
 Package: base
 Version: 1-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 8
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/base_1-1_appletvos-arm64.deb
-Size: 1626
-MD5sum: b811802e51d17712c3877653145cdc9c
-SHA1: 7d0dd630c31a2f8223c573a7051a6df2c67c49a3
-SHA256: d0438fc1358997f905a7e4c7b9068b6def8cd47e14c5da20484659cb029c1e5d
-Section: System
-Priority: required
-Description: underlying system directory structure
-Name: Base Structure
-
-Package: base
-Version: 1-1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -909,23 +795,6 @@ SHA256: beee98635f8e8e7446d17d55b9e70223d177f3ed807c875a0ade40f4476186cd
 Section: System
 Priority: required
 Multi-Arch: foreign
-Description: underlying system directory structure
-Name: Base Structure
-
-Package: base
-Version: 1-1
-Architecture: watchos-arm
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 8
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/base_1-1_watchos-arm.deb
-Size: 1624
-MD5sum: 508da110fa433b9a3751651b2fc12969
-SHA1: 115b551033fee7c8194457de35747d77baf64185
-SHA256: 3e74d8711364813d397c85f2d8f8ccb5eb617da9834850136152408197b25e1a
-Section: System
-Priority: required
 Description: underlying system directory structure
 Name: Base Structure
 
@@ -983,24 +852,6 @@ Name: Bourne-Again SHell
 
 Package: bash
 Version: 5.0.3-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 5368
-Pre-Depends: readline (>= 8.0)
-Depends: grep, ncurses, readline, sed, cy+model.iphone | libmissing
-Filename: ./debs/bash_5.0.3-1_appletvos-arm64.deb
-Size: 480460
-MD5sum: 4344da37e42ef8a2098fb1850bac0cbd
-SHA1: d4cc556b34c5d66d424c3ab39df03bd72acac843
-SHA256: 264b4092600524bc775daf475fa37643e5244ecd8dcd2362c30b10264410c9ba
-Section: Terminal_Support
-Priority: required
-Homepage: http://www.gnu.org/software/bash/
-Description: the best shell ever written by Brian Fox
-Name: Bourne-Again SHell
-
-Package: bash
-Version: 5.0.3-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 5368
@@ -1010,24 +861,6 @@ Size: 473052
 MD5sum: 2838dac251dea0af41b12cdb3b02fc48
 SHA1: 5020138fb621b6f4d5649acbc62a6f73cee3a34d
 SHA256: 61fab9e0c0dc0f9ca9046d75a3795dbd255e89e2ea9df6091c4f6063fefaf9cd
-Section: Terminal_Support
-Priority: required
-Homepage: http://www.gnu.org/software/bash/
-Description: the best shell ever written by Brian Fox
-Name: Bourne-Again SHell
-
-Package: bash
-Version: 5.0.3-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 5096
-Pre-Depends: readline (>= 8.0)
-Depends: grep, ncurses, readline, sed
-Filename: ./debs/bash_5.0.3-1_watchos-arm.deb
-Size: 485100
-MD5sum: a5cc2bae2103c4f1b2274e40ff06f34d
-SHA1: d12d844787a539880e02e0a36a1071fd776a9e55
-SHA256: d7d2978f34998758c091893e7628216c3f09e269d6de4f5d5c9183a7a2ef2b29
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -1121,23 +954,6 @@ Name: Berkeley DB
 
 Package: berkeleydb
 Version: 6.2.32-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 5168
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/berkeleydb_6.2.32-1_appletvos-arm64.deb
-Size: 652776
-MD5sum: fbf00d0293416e8ece2bc5a4f9102709
-SHA1: dfa235aa5d4fda9028431baa47b607ecc344ad34
-SHA256: ce47f36338055e694f8c30ad35c5b5dd71e45838bd87be4ab72ad4420d7de639
-Section: Data_Storage
-Priority: standard
-Homepage: http://www.oracle.com/technology/products/berkeley-db/index.html
-Description: Oracle's embeddable database engine
-Name: Berkeley DB
-
-Package: berkeleydb
-Version: 6.2.32-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 5520
@@ -1147,23 +963,6 @@ Size: 690482
 MD5sum: 14e0d10e443029d9b5c7451aacf7e54a
 SHA1: d1be52abda12fca14eeb9dd58dd01cdd0a15204b
 SHA256: 3d7298c6d493bd5e338ead1dcf8b1e3ca8e339d8b02e074ea040cb9b326a30b2
-Section: Data_Storage
-Priority: standard
-Homepage: http://www.oracle.com/technology/products/berkeley-db/index.html
-Description: Oracle's embeddable database engine
-Name: Berkeley DB
-
-Package: berkeleydb
-Version: 6.2.32-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4528
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/berkeleydb_6.2.32-1_watchos-arm.deb
-Size: 704148
-MD5sum: ecb57c2e9bb32aaa298d1e5d5d40ff20
-SHA1: 174c4e66f3bb93b5cbf380fd742a2b3fd1eaaad7
-SHA256: 9dd0264003553bfb1212bd16d89de555a6b4a5a2ace3d54f621c3a81e23042c7
 Section: Data_Storage
 Priority: standard
 Homepage: http://www.oracle.com/technology/products/berkeley-db/index.html
@@ -1311,21 +1110,6 @@ Description: compression that's slightly better than gzip
 
 Package: bzip2
 Version: 1.0.6-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 408
-Filename: ./debs/bzip2_1.0.6-1_appletvos-arm64.deb
-Size: 55612
-MD5sum: ad9d48b53492929e63a37aa1668b7aa8
-SHA1: 42cb03de8b9d58d3a4716e076ce5a9c3fdba2a62
-SHA256: 3d8221a7a646adc43c80d7363c82633bd28ca86d8a283ad86349fe322ef8dd4e
-Section: Archiving
-Priority: important
-Homepage: http://www.bzip.org/
-Description: compression that's slightly better than gzip
-
-Package: bzip2
-Version: 1.0.6-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 408
@@ -1334,21 +1118,6 @@ Size: 53070
 MD5sum: fb8ad9bad8b3bd8c1f3c1fad3cd50901
 SHA1: af8b99bde02484cc33b54770ba570dc03533d094
 SHA256: fced8ef4f004deccb7724c5ddb2703604aa09f39c6f7bf707270c3dcef13e78a
-Section: Archiving
-Priority: important
-Homepage: http://www.bzip.org/
-Description: compression that's slightly better than gzip
-
-Package: bzip2
-Version: 1.0.6-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 328
-Filename: ./debs/bzip2_1.0.6-1_watchos-arm.deb
-Size: 48892
-MD5sum: 852dd04addeed4bba85687e9ec529759
-SHA1: 1a482b1705c4f2af752c2656f66b2f81b63c63ec
-SHA256: cee052112b00a9a3e0cb662fd7bbddcf903998ef9b6df0260fb7addc21cdf9ec
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
@@ -1394,31 +1163,6 @@ Description: CA certs for curl, wget, git.
 Tag: purpose::console, role::hacker
 Name: CA Certs
 
-Package: ca-certificates
-Version: 20191031-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 464
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 2.0)
-Filename: ./debs/ca-certificates_20191031-1_appletvos-arm64.deb
-Size: 120686
-MD5sum: 1eec6a72cef5ae16a36a03ec2fe95dea
-SHA1: b1d30b3702e2aaa1d8f930438f4eaf2e29bb24ba
-SHA256: a5317c64ac1547203e988b11ecabfdb8747a5bc6c00923bb355d21724cf715f3
-Section: Security
-Priority: important
-Description: Common CA certificates
- Contains the certificate authorities shipped with Mozilla's browser to
- allow SSL-based applications to check for the authenticity of SSL
- connections.
- .
- Please note that Elucubratus can neither confirm nor deny whether the
- certificate authorities whose certificates are included in this package
- have in any way been audited for trustworthiness or RFC 3647
- compliance.  Full responsibility to assess them belongs to the local
- system administrator.
-
 Package: clang
 Version: 10.0.0~svn-20191106+dcaf932-1
 Architecture: iphoneos-arm
@@ -1437,24 +1181,6 @@ Priority: optional
 Homepage: https://www.llvm.org/
 Description: C, C++ and Objective-C compiler
 
-Package: clang
-Version: 10.0.0~svn-20191106+dcaf932-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 48
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: clang-10, libc++-dev
-Provides: c++-compiler, c-compiler, objc-compiler
-Filename: ./debs/clang_10.0.0~svn-20191106+dcaf932-2_appletvos-arm64.deb
-Size: 1086
-MD5sum: 39d7d6b660088bd7540f75b9d2878263
-SHA1: fd045b4fc19fdd0a98b1b75afa9ca9e5a9ae2bf2
-SHA256: 04ab9df5e36cc3a910a90fc0116c6528002dbaaec6d5659d7c32ed68aa0ed8ad
-Section: Development
-Priority: optional
-Homepage: https://www.llvm.org/
-Description: C, C++ and Objective-C compiler
-
 Package: clang-10
 Version: 10.0.0~svn-20191106+dcaf932-1
 Architecture: iphoneos-arm
@@ -1467,23 +1193,6 @@ Size: 43866
 MD5sum: 4c5ac1b56636f99fd03f8a7a675b94c2
 SHA1: 1012a275f8119753d91cb0868a532375983f723f
 SHA256: 03d0519fa1fcadca8375d6a44a11eb7d23aa69e6fbeac9d5cacf6297c0fcdeca
-Section: Development
-Priority: optional
-Homepage: https://www.llvm.org/
-Description: C, C++ and Objective-C compiler
-
-Package: clang-10
-Version: 10.0.0~svn-20191106+dcaf932-4
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 472
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libllvm10, libclang-cpp10, ld64, libclang-common-10-dev
-Filename: ./debs/clang-10_10.0.0~svn-20191106+dcaf932-4_appletvos-arm64.deb
-Size: 43914
-MD5sum: e2209c009f7cb8cfdc5a56e7fb098897
-SHA1: eb6490e2c8cca88fdcf3f4b43c3541f80a330564
-SHA256: 78cd2cd54cd66cfa6cf5cbfbe35f1e0dd102971adf200463aa31a44a0b35489e
 Section: Development
 Priority: optional
 Homepage: https://www.llvm.org/
@@ -1628,23 +1337,6 @@ Size: 10698
 MD5sum: 6b412783a9d98082235f3f4f5fa1b729
 SHA1: c1da33727b6708ce04fe0fd6148938b84be426ab
 SHA256: 968f11d7d96b6f6fb11c75d6e26c30b7cebd1e9c76dcc3e00571485a2ad19c43
-Section: System
-Description: A Tool for APFS Snapshot Management
-Tag: role::hacker
-Author: Sam Bingner <snappy@bingner.com>
-Name: Snappy
-
-Package: com.bingner.snappy
-Version: 1.3.0
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 160
-Depends: firmware (>= 10.3)
-Filename: ./debs/com.bingner.snappy_1.3.0_appletvos-arm64.deb
-Size: 9070
-MD5sum: 457acf802c58ba230fbe35f1f930b80d
-SHA1: 964f86013a991375405a3c5700fc36077dbe07a3
-SHA256: 6e8f2e72e0e180dfe87e270c5a1afbd7dfe838d566da0bed68f1a9e3f6d34bd4
 Section: System
 Description: A Tool for APFS Snapshot Management
 Tag: role::hacker
@@ -2155,26 +1847,6 @@ Name: Core Utilities
 
 Package: coreutils
 Version: 8.31-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 17632
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash, coreutils-bin (>= 7.4-5), profile.d
-Replaces: netatalk (<= 2.0.3-6)
-Provides: md5sum, sha1sum
-Filename: ./debs/coreutils_8.31-1_appletvos-arm64.deb
-Size: 717330
-MD5sum: 10116a78b35c732c057a02c432288f74
-SHA1: a958c213538f26f5e647b09c69189f2e220fe7fc
-SHA256: 10cba5a6b1d5c584a3e7ca9b6d44d7c8bf4e114aea2a793bd36f542774624726
-Section: Utilities
-Priority: standard
-Homepage: http://www.gnu.org/software/coreutils/
-Description: core set of Unix shell utilities from GNU
-Name: Core Utilities
-
-Package: coreutils
-Version: 8.31-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 17592
@@ -2187,26 +1859,6 @@ Size: 714854
 MD5sum: 0997053fd8ff60f0fd67e43d49bd7706
 SHA1: 569f47b27e54674873a606a7c85f9e5414a96457
 SHA256: 37a125683866d6afa27979f39ccad3d1e2b187c33f09a9cc291c9e9b1f14a006
-Section: Utilities
-Priority: standard
-Homepage: http://www.gnu.org/software/coreutils/
-Description: core set of Unix shell utilities from GNU
-Name: Core Utilities
-
-Package: coreutils
-Version: 8.31-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 16128
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash, coreutils-bin, profile.d
-Replaces: netatalk (<= 2.0.3-6)
-Provides: md5sum, sha1sum
-Filename: ./debs/coreutils_8.31-1_watchos-arm.deb
-Size: 773540
-MD5sum: 9f56173f50413c2b1bd5093c1cbf1207
-SHA1: b0debf1491b1eb366840ca29827efe5af8e82ec5
-SHA256: 1c6a6af05a0aa2b3013dd9063cf49521f64f88137f9442b17555c360c6044e53
 Section: Utilities
 Priority: standard
 Homepage: http://www.gnu.org/software/coreutils/
@@ -2253,25 +1905,6 @@ Name: Core Utilities (/bin)
 
 Package: coreutils-bin
 Version: 8.31-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 7344
-Replaces: shell-cmds (<< 118-5), coreutils (<= 7.2-9)
-Provides: dirname, kill, mktemp, su
-Filename: ./debs/coreutils-bin_8.31-1_appletvos-arm64.deb
-Size: 736278
-MD5sum: f612f3b0e19d78973d213e325ecfad2a
-SHA1: 12614bf6763d6dcdabe051f8aa53c57ba3bff24d
-SHA256: 286915329f544a94d91546bf62a243b1c7832bca9b8b6b11603cc6f77c7f3843
-Section: Utilities
-Priority: required
-Homepage: http://www.gnu.org/software/coreutils/
-Description: just the /bin folder from GNU coreutils
-Name: Core Utilities (/bin)
-
-Package: coreutils-bin
-Version: 8.31-1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -2283,25 +1916,6 @@ Size: 679670
 MD5sum: d3597ea74d7a45a9383cf20b9ff30c3e
 SHA1: 7133ed7adeba9ad2ad099ee135fd517cb6c88e18
 SHA256: b4625d37d45684317766ec4c101dc37d6a750851defeb0a175c9d9f3be7f9728
-Section: Utilities
-Priority: required
-Homepage: http://www.gnu.org/software/coreutils/
-Description: just the /bin folder from GNU coreutils
-Name: Core Utilities (/bin)
-
-Package: coreutils-bin
-Version: 8.31-1
-Architecture: watchos-arm
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 6608
-Replaces: shell-cmds (<< 118-5), coreutils (<= 7.2-9)
-Provides: dirname, kill, mktemp, su
-Filename: ./debs/coreutils-bin_8.31-1_watchos-arm.deb
-Size: 680454
-MD5sum: 7e86b7c5aa9306477d09d000f66b3cc9
-SHA1: f2a5b110688d63fb8cefc603cc4e95f404f62793
-SHA256: ffeb23fdbc8c6a12ceb9ad0d2879e893e1e6789f78b4327b08fc224fd635d523
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
@@ -2363,14 +1977,14 @@ Package: curl
 Version: 7.61.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1576
+Installed-Size: 1904
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libnghttp2, libssh2, openssl
 Filename: ./debs/curl_7.61.0-1_iphoneos-arm.deb
-Size: 317980
-MD5sum: 42565b1c48b796f96711d600748b2ed2
-SHA1: b632718b872d624dea088088b9598e5bb1bcb88e
-SHA256: 10a534770a7107f60433dceed18d6a66f793d36a18b06287ab610b5398f5ecb7
+Size: 319260
+MD5sum: cd90e64610af8bb28eb86748da621b53
+SHA1: e285decf022eb088bb03b27476d462f9e971aeb9
+SHA256: 0c94fc058e1f567a402c432fa3af4425247776ecaa0faf459f6f1929f0028a23
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
@@ -2381,32 +1995,14 @@ Package: curl
 Version: 7.62.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1672
+Installed-Size: 1936
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libnghttp2, libssh2, libssl1.0
 Filename: ./debs/curl_7.62.0-1_iphoneos-arm.deb
-Size: 329396
-MD5sum: e990e3694a998b90ea9be85ebcbedd6c
-SHA1: ef21add70820d2ff5339ba400fdc5b321359cfe5
-SHA256: bf2d39ce626fb70502c2b510adb1436d0ec05d9473536e9db6d39959b7178677
-Section: Networking
-Priority: standard
-Homepage: http://curl.haxx.se/
-Description: flexible multi-protocol file transfers
-Name: cURL
-
-Package: curl
-Version: 7.65.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1904
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libnghttp2-14, libssh2, libssl1.0
-Filename: ./debs/curl_7.65.0-1_appletvos-arm64.deb
-Size: 322202
-MD5sum: 93161e06ea5290e39b17e0862b3ab3a7
-SHA1: a07317d55f2f1d9ebc2c67346ee720262560a374
-SHA256: 2e0d3bdb5b5654729de568d49294b5326b526f5ef95e6fe8f08b63e0dd82bae4
+Size: 332182
+MD5sum: 3990699d0ccb1f8ef03cc9a691492d75
+SHA1: c856c6bf4aa61444469b1c6add77a192f7da1ff8
+SHA256: 3bc3788c9aa2b78ce8fbc50f8281e59de7eccddd359f9d913ab4a2c8a8323657
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
@@ -2425,24 +2021,6 @@ Size: 322348
 MD5sum: 5b755c7b00631efaa87b157048f29b66
 SHA1: 1f3b280ea398194680c63fe884ef0c1774053d66
 SHA256: 5e89a61fc6cb427cff1d34e5ce2edfbb129ab086dcc5471b2ddf7c329dceaaac
-Section: Networking
-Priority: standard
-Homepage: http://curl.haxx.se/
-Description: flexible multi-protocol file transfers
-Name: cURL
-
-Package: curl
-Version: 7.65.0-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1736
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libnghttp2-14, libssh2, libssl1.0
-Filename: ./debs/curl_7.65.0-1_watchos-arm.deb
-Size: 332412
-MD5sum: 351bc4c9a83d61dfb82d950a1dfede51
-SHA1: 660013153fdca5d93c9feb06b13c2b60c56ec892
-SHA256: 94f6100e0630d80f6efdd4b36796df81a3bd76020efca50b5c99be6f2f7e342e
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
@@ -2480,30 +2058,6 @@ SHA256: 927403611dc9f1cb66127493618dfbe4df966081aa451e9571ba5d4e0fc4a18f
 Section: Development
 Priority: optional
 Description: C++ library for ncurses (terminal) UIs
-
-Package: cydia
-Version: 1.1.31+12.g9e0be49
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Installed-Size: 10280
-Pre-Depends: debianutils, dpkg (>= 1.14.25-8), xz, firmware (>=5.0)
-Depends: apt7-lib, apt7-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4)
-Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
-Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
-Provides: bigbossbetarepo, cydia-sources
-Filename: ./debs/cydia_1.1.31+12.g9e0be49_iphoneos-arm.deb
-Size: 1716896
-MD5sum: bed5c0cddd8ea71803258653d4314652
-SHA1: 76e926bc8cf60d6032f15fb2b1f8273b3a630b2b
-SHA256: b7d8960f28824c55c337332f185998222d4bd741c1e883dab6e3024c73db50b5
-Section: Packaging
-Priority: required
-Description: graphical iPhone front-end for APT
-Tag: purpose::uikit, cydia::essential, role::enduser
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/cydia/
-Icon: file:///Applications/Cydia.app/Icon-60.png
-Name: Cydia Installer
 
 Package: cydia
 Version: 1.1.32~b1
@@ -2629,17 +2183,17 @@ Package: cydia
 Version: 1.1.32~b2
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Installed-Size: 13072
+Installed-Size: 7504
 Pre-Depends: debianutils, dpkg (>= 1.14.25-8), xz, firmware (>=5.0)
 Depends: apt7-lib, apt7-key, cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.18), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.4)
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Provides: bigbossbetarepo, cydia-sources
 Filename: ./debs/cydia_1.1.32~b2_iphoneos-arm.deb
-Size: 1829372
-MD5sum: 967cb34fbb38e0d7d65f9002408006e4
-SHA1: 78fc4979763a2b6bd2f6e130b24f8ca3d090a443
-SHA256: 495c56926cc8ba3d3f002f8731e6b2f3faf7e3d0cd610b07137dfce38dbe0395
+Size: 1239116
+MD5sum: 8bfec3944737d471deee476ecaff045c
+SHA1: 34ba2f2fe7709f3a568ea2443b4e0e94caf27285
+SHA256: 4c3bc7829e1a30a4af3239a680576986f300d5896ef32984fb81fc68eaa3af5a
 Section: Packaging
 Priority: required
 Description: graphical iPhone front-end for APT
@@ -2866,28 +2420,6 @@ Icon: file:///Applications/Cydia.app/Icon-60.png
 Name: Cydia Installer
 
 Package: cydia-lproj
-Version: 1.1.31+12.g9e0be49
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Installed-Size: 712
-Depends: cydia
-Conflicts: org.thebigboss.russiancydia
-Replaces: cydia, org.thebigboss.russiancydia
-Provides: org.thebigboss.russiancydia
-Filename: ./debs/cydia-lproj_1.1.31+12.g9e0be49_iphoneos-arm.deb
-Size: 66764
-MD5sum: 0fb1698ea934982f8dfc47f13b55c985
-SHA1: fbb255cc4e4b31635ed65333b3aab10a5d9a6c96
-SHA256: c2b109ba5f6ab797207d0526a3fb1a13bbc7e6374344ced18f23626edac7bce0
-Section: Packaging
-Priority: required
-Description: languages and translations for Cydia
-Tag: purpose::uikit, cydia::essential, role::enduser
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/cydia-lproj/
-Name: Cydia Translations
-
-Package: cydia-lproj
 Version: 1.1.32~b1
 Architecture: iphoneos-arm
 Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
@@ -2901,28 +2433,6 @@ Size: 66782
 MD5sum: fa449ef13b409ace0ef8c670ad99acb0
 SHA1: 4cef1d2cf7608f3a55d7b17dd97da9c7f8f36176
 SHA256: e4010365acffffbae0d246f1c3c3163492bb36be90709cfcf5764573729f023a
-Section: Packaging
-Priority: required
-Description: languages and translations for Cydia
-Tag: purpose::uikit, cydia::essential, role::enduser
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/cydia-lproj/
-Name: Cydia Translations
-
-Package: cydia-lproj
-Version: 1.1.32~b2
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Installed-Size: 712
-Depends: cydia
-Conflicts: org.thebigboss.russiancydia
-Replaces: cydia, org.thebigboss.russiancydia
-Provides: org.thebigboss.russiancydia
-Filename: ./debs/cydia-lproj_1.1.32~b2_iphoneos-arm.deb
-Size: 66764
-MD5sum: 8a8557720e98153bde0f1fb9200ad326
-SHA1: 2814556da689e3a02be00c60b1b46870fed3175e
-SHA256: 53050d2d8cdf387e2410827b5f120704754871b7e6732880d3dec3a56656f621
 Section: Packaging
 Priority: required
 Description: languages and translations for Cydia
@@ -2949,22 +2459,6 @@ Description: startupfiletool, sw_vers
 Name: Darwin Tools
 
 Package: darwintools
-Version: 1-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 216
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/darwintools_1-1_watchos-arm.deb
-Size: 5598
-MD5sum: 52dc8f9ac59a1856728ec844bf10f73b
-SHA1: 022086ba5211bad6af97fbc1da7b8681cc189425
-SHA256: d375ac97de577c0786e56ee24f442030188464ce2cce08bee7b82aacba2d8b1d
-Section: Administration
-Priority: required
-Description: startupfiletool, sw_vers
-Name: Darwin Tools
-
-Package: darwintools
 Version: 1-6
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -2978,24 +2472,6 @@ SHA256: 6b696e5135d3a25878d74420a132c56744439b55ae023fd55ce434191c60dbae
 Section: Administration
 Priority: required
 Description: startupfiletool, sw_vers
-Name: Darwin Tools
-
-Package: darwintools
-Version: 1.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 248
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: dpkg (>= 1.18.25-9), system-cmds, uikittools
-Filename: ./debs/darwintools_1.1-1_appletvos-arm64.deb
-Size: 7638
-MD5sum: 513976dff7f38537448c1c383f7af73e
-SHA1: dc15948613ca9eb173bee2d5122211bb7f967710
-SHA256: 81e4fc7585ff876a16b84c9f63b5704dd8bd1169303d60dbfcd58116d3183caf
-Section: Administration
-Priority: required
-Description: startupfiletool, sw_vers
-Tag: purpose::console
 Name: Darwin Tools
 
 Package: darwintools
@@ -3035,22 +2511,6 @@ Name: Debian Utilities
 
 Package: debugserver
 Version: 0.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 24
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: jailbreak-resources (<= 1.0~b26)
-Filename: ./debs/debugserver_0.1-1_appletvos-arm64.deb
-Size: 1310
-MD5sum: 30d60f3ab8544d3cb150ba869a96d6e7
-SHA1: 6db2c8d6332abdd20244874deb362fae0be88a33
-SHA256: f1a414b4932429b4e9c271c10676d9a3478a6cc10dc097b6c85b7c9912705b4f
-Section: Development
-Priority: optional
-Description: Wrapper to make debugserver unsandboxed
-
-Package: debugserver
-Version: 0.1-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 24
@@ -3082,38 +2542,6 @@ Section: Development
 Priority: optional
 Homepage: https://www.llvm.org/
 Description: Next generation, high-performance debugger (debugserver)
-
-Package: debugserver-10
-Version: 10.0.0~svn-20191106+dcaf932-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 9648
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libLLVM10, libclang-cpp10
-Filename: ./debs/debugserver-10_10.0.0~svn-20191106+dcaf932-2_appletvos-arm64.deb
-Size: 187986
-MD5sum: 4c4b8cc6ed326397dcfb8cbce7fdef7f
-SHA1: 9778fbf32220b833a146760d029159d1d9007308
-SHA256: 9c43e0b848a4eae184cb9ba89e4819b17be57c9898a376995f1951219526cf29
-Section: Development
-Priority: optional
-Homepage: https://www.llvm.org/
-Description: Next generation, high-performance debugger (debugserver)
-
-Package: developer-cmds
-Version: 48-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 784
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/developer-cmds_48-1_appletvos-arm64.deb
-Size: 65212
-MD5sum: b8305ea930a417b3e3b02702e2685fce
-SHA1: 20a7f10cb4bd772688b21a00cc25b0f861d239d4
-SHA256: 0f8cb4bd46a9ab64eff87a4b0f66073d28bf6b5b33f1716a6a19beba76088dba
-Section: Development
-Priority: important
-Description: ctags, error, hexdump, rpcgen, unifdef
 
 Package: developer-cmds
 Version: 48-1
@@ -3167,22 +2595,6 @@ Description: client for accessing online dictionaries
 
 Package: diffutils
 Version: 3.6-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 968
-Filename: ./debs/diffutils_3.6-1_appletvos-arm64.deb
-Size: 150890
-MD5sum: 07807f5d9cc0725a12f34571759d5baa
-SHA1: bd91ac07dc04a146cade89180a5a195907fed9c4
-SHA256: 7267786e8056d053beffdcdcdd5a421409be69c8a1d98c24a46d09bdb357ef1d
-Section: Development
-Priority: important
-Homepage: http://www.gnu.org/software/diffutils/
-Description: compare two files for differences
-Name: Diff Utilities
-
-Package: diffutils
-Version: 3.6-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 960
@@ -3194,22 +2606,6 @@ SHA256: 46fdcd64f07c4b0f23a82d52c84cc7e221cd55b6ce254bb43df48595ce8ee54e
 Section: Development
 Priority: important
 Multi-Arch: foreign
-Homepage: http://www.gnu.org/software/diffutils/
-Description: compare two files for differences
-Name: Diff Utilities
-
-Package: diffutils
-Version: 3.6-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 864
-Filename: ./debs/diffutils_3.6-1_watchos-arm.deb
-Size: 154444
-MD5sum: b2361a117b988c3b1b364e815ab298f7
-SHA1: 8f6c0fa22db62d16b7cfe9ec16b78f5656567be8
-SHA256: 4e838f53a750bdf3b943079598bee7a00313a181d02c0a753260f7f1167972e5
-Section: Development
-Priority: important
 Homepage: http://www.gnu.org/software/diffutils/
 Description: compare two files for differences
 Name: Diff Utilities
@@ -3450,25 +2846,6 @@ Name: Debian Packager
 
 Package: dpkg
 Version: 1.19.7-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4920
-Pre-Depends: tar (>= 1.23)
-Depends: bash, bzip2, coreutils-bin (>= 8.31), diffutils, file (>= 5.35), findutils, gzip, ldid (>= 2:2.1.1), lzma, ncurses, tar, xz
-Filename: ./debs/dpkg_1.19.7-1_appletvos-arm64.deb
-Size: 586278
-MD5sum: bd6433bdd3d4afadf0b730b22373d4ee
-SHA1: 265d6e758e6de54b17d3adb6802bfb1467a2f4c4
-SHA256: 91786d36e46c696dac2a80588cef4e34d155fee928cec54538658cedb6cbdaf0
-Section: Packaging
-Priority: required
-Homepage: http://wiki.debian.org/Teams/Dpkg
-Description: package maintainance tools from Debian
-Name: Debian Packager
-
-Package: dpkg
-Version: 1.19.7-1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -3486,43 +2863,6 @@ Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: package maintainance tools from Debian
 Name: Debian Packager
 
-Package: dpkg
-Version: 1.19.7-1
-Architecture: watchos-arm
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 5464
-Pre-Depends: tar (>= 1.23)
-Depends: bash, bzip2, coreutils-bin, diffutils, file, findutils, gzip, ldid, lzma, ncurses, tar, xz
-Filename: ./debs/dpkg_1.19.7-1_watchos-arm.deb
-Size: 668440
-MD5sum: 1d910d3f34ecdc635d0ddb14240bbe23
-SHA1: 19d654b7cfe82d779d584f71afe144051269b969
-SHA256: 965b9918cbcb240987fbef9558b4b54f461696abb10123267a15b1cd6b34c008
-Section: Packaging
-Priority: required
-Homepage: http://wiki.debian.org/Teams/Dpkg
-Description: package maintainance tools from Debian
-Name: Debian Packager
-
-Package: dpkg-perl
-Version: 1.18.25-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1848
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: dpkg, perl
-Filename: ./debs/dpkg-perl_1.18.25-1_iphoneos-arm.deb
-Size: 148828
-MD5sum: 03803c5aa59eb255787253f76b3cb3a3
-SHA1: bd075c31c8e7750f795ae5f4336de53e8c3a7385
-SHA256: 5a9ce390181eb3827069cdd566ba2749d4fbf91d2c5da53477db65b3689db425
-Section: Packaging
-Priority: optional
-Homepage: http://wiki.debian.org/Teams/Dpkg
-Description: perl-based package maintainance tools from Debian
-Name: Debian Packager (Perl)
-
 Package: dpkg-perl
 Version: 1.18.25-2
 Architecture: iphoneos-arm
@@ -3535,24 +2875,6 @@ Size: 148844
 MD5sum: bc01757416a0a507dd32cf613381f670
 SHA1: e5d0e17821857525b26d934df2010ffcc5b0789d
 SHA256: 554202cb6245e87b0685b16d7e3980599ca29c8089fe844d8e10990a84f025b1
-Section: Packaging
-Priority: optional
-Homepage: http://wiki.debian.org/Teams/Dpkg
-Description: perl-based package maintainance tools from Debian
-Name: Debian Packager (Perl)
-
-Package: dpkg-perl
-Version: 1.19.7-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1976
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: dpkg, perl
-Filename: ./debs/dpkg-perl_1.19.7-1_appletvos-arm64.deb
-Size: 155486
-MD5sum: ce274ecc63b5ac7fd23b41eac2d979be
-SHA1: 3bf9d277d38377ba113dba7ae5574b837742b65a
-SHA256: a659dc17ed74317c8eb20e83b068c0904ec59866554840225f42ef8d0890801c
 Section: Packaging
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
@@ -3652,33 +2974,18 @@ Name: Essential
 
 Package: expat
 Version: 2.2.5-1
-Architecture: appletvos-arm64
+Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 624
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/expat_2.2.5-1_appletvos-arm64.deb
-Size: 67670
-MD5sum: adb652559cb9187782dca527c60e2ab5
-SHA1: 5e7d2eb8a5ae41b4d666c851dd84b15865dbe311
-SHA256: 5d46e2d3adfb0eea77694d31a0bb6308d0bb9b01938fc83a68d20576feb7fea9
-Section: Development
-Priority: standard
-Description: stream-oriented XML parser written in C
-Name: XML Parser Toolkit
-
-Package: expat
-Version: 2.2.5-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 512
-Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/expat_2.2.5-1_iphoneos-arm.deb
-Size: 64924
-MD5sum: ce7b70e3a6687274ba212b193a58b5d5
-SHA1: 496c6437e6fd07483a727e3d21ebad6948967a22
-SHA256: f126f1d3be6f5abec90505d1372ce23e52acb113a27240689a5c51973992b1d3
+Size: 66922
+MD5sum: 57c44104876d363c27177d3f38bd8ec3
+SHA1: 8a67a2edd50ecab78ff55cae3eff76ed49ee3e3f
+SHA256: 76ea736fa770a728a0c7b2e2dc345fd2a6ec57bb86732562240d0fd137fe833b
 Section: Development
 Priority: standard
+Multi-Arch: foreign
 Description: stream-oriented XML parser written in C
 Name: XML Parser Toolkit
 
@@ -3720,14 +3027,14 @@ Package: fakeroot
 Version: 1.20.2-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 232
+Installed-Size: 336
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: shell-cmds (>= 118-8)
 Filename: ./debs/fakeroot_1.20.2-1_iphoneos-arm.deb
-Size: 20772
-MD5sum: 1c7f8acd92b960395923a9da88c68a67
-SHA1: ae0494111e6c5d290b7b53f86cab2cc0384db3bd
-SHA256: 79886974ddac20e46279e7dd3ed7c70cf59a96ce706f80db9d5f116240c8ebb1
+Size: 21924
+MD5sum: ee803df1258ae763f44c0d33cb559f62
+SHA1: 4d8fc39eda72e0886497eff656a589fca413763d
+SHA256: 70772afce4f5e097a7650c1f40fba634d500bc4a60e400621135ca3d6f99a990
 Section: Development
 Priority: important
 Description: tool for simulating superuser privileges
@@ -3797,36 +3104,6 @@ Multi-Arch: foreign
 Description: guesses the type of a file from contents
 
 Package: file
-Version: 5.35-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 11000
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/file_5.35-1_appletvos-arm64.deb
-Size: 261972
-MD5sum: 4adabe3bfe04c463a2fd06477ebb8db4
-SHA1: f86ecf29c649a5c445d4e52ec12f3363e62bfaa9
-SHA256: 82c4dbad26a56932b5b4b2a885431e398e31e7d66c8de41b829ab6075c27d7e4
-Section: Utilities
-Priority: important
-Description: guesses the type of a file from contents
-
-Package: file
-Version: 5.35-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 10952
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/file_5.35-1_watchos-arm.deb
-Size: 263566
-MD5sum: 9b38c830e5ab5250df8eadff378c6faa
-SHA1: 91e5f90eb10db240dc2c7e0650c2352e6da634b2
-SHA256: d09c783129299e0bed486b7abc7a54a5bcca15a3797f294040e4262cea77f5ee
-Section: Utilities
-Priority: important
-Description: guesses the type of a file from contents
-
-Package: file
 Version: 5.35-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -3840,21 +3117,6 @@ SHA256: b0baa663034a746e0c36239de9ffab1d06bdf411b3c5573731e89aca96b8cc08
 Section: Utilities
 Priority: important
 Description: guesses the type of a file from contents
-
-Package: file-cmds
-Version: 220.7-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 800
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/file-cmds_220.7-1_appletvos-arm64.deb
-Size: 64200
-MD5sum: 2f2852df0c4d4d8a073d7ac7f42c8b9f
-SHA1: 98329ac5646e8c35f916a8be2776d37a8819b83e
-SHA256: 2d49ad00644619e07b95ae1bb6f84e0a333ae338b0c5c2691f4260e967e3572f
-Section: Utilities
-Priority: important
-Description: chflags, compress, ipcrm, ipcs, pax
 
 Package: file-cmds
 Version: 220.7-1
@@ -3873,23 +3135,6 @@ Description: chflags, compress, ipcrm, ipcs, pax
 
 Package: findutils
 Version: 4.6.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1632
-Depends: bash, sed
-Filename: ./debs/findutils_4.6.0-1_appletvos-arm64.deb
-Size: 227566
-MD5sum: 9d22af5ec265ec01301631fdfe0fbee1
-SHA1: 254c0d0204c42d467ffe16d9a4342430627fc8b8
-SHA256: 740e32a5ec5dcbafb242113398a873cee5cc32cb1dcbc6e0da5e2c4a90a14b1b
-Section: Utilities
-Priority: important
-Homepage: http://www.gnu.org/software/findutils/
-Description: indexes and searches filesystems
-Name: Find Utilities
-
-Package: findutils
-Version: 4.6.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1592
@@ -3902,23 +3147,6 @@ SHA256: 79de09867e02b1ac2418467941fae71613d289cf260bcfa299bec6882b40b5cc
 Section: Utilities
 Priority: important
 Multi-Arch: foreign
-Homepage: http://www.gnu.org/software/findutils/
-Description: indexes and searches filesystems
-Name: Find Utilities
-
-Package: findutils
-Version: 4.6.0-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1464
-Depends: bash, sed
-Filename: ./debs/findutils_4.6.0-1_watchos-arm.deb
-Size: 231794
-MD5sum: 26d1d918cd4dfd89e82bbe4d1474d362
-SHA1: c31c96dab49fee4c5c461260fd7551ef2469a566
-SHA256: 64043ccec8430490439db7892cee2cd3a6f85e0b1ef82fa5b7449c70093e4aa0
-Section: Utilities
-Priority: important
 Homepage: http://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
 Name: Find Utilities
@@ -3942,24 +3170,6 @@ Name: Find Utilities
 
 Package: firmware-sbin
 Version: 0-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner
-Installed-Size: 36
-Pre-Depends: dpkg (>= 1.14.25-8), firmware (>= 9.0)
-Replaces: system-cmds (<= 433.4-11), diskdev-cmds (<= 421.7-3)
-Filename: ./debs/firmware-sbin_0-1_appletvos-arm64.deb
-Size: 2034
-MD5sum: efa383da8d47f1e33fbb4ac74f21e2df
-SHA1: 68099817ebad109c4c3d7d80cbd80cf46f054bc9
-SHA256: a8bb1e39ed23ee7446b77dd40d65a32f11346b656de9d3e4991378141b5f81ab
-Section: System
-Priority: required
-Description: represents Elucubratus / AppleTVOS conflicts
-Name: AppleTVOS Firmware (/sbin)
-
-Package: firmware-sbin
-Version: 0-1
 Architecture: all
 Essential: yes
 Maintainer: Sam Bingner
@@ -3976,39 +3186,6 @@ Priority: required
 Multi-Arch: foreign
 Description: represents Telesphoreo / iPhoneOS conflicts
 Name: iPhone Firmware (/sbin)
-
-Package: firmware-sbin
-Version: 0-1
-Architecture: watchos-arm
-Essential: yes
-Maintainer: Sam Bingner
-Pre-Depends: dpkg (>= 1.14.25-8), firmware (>= 4.0)
-Filename: ./debs/firmware-sbin_0-1_watchos-arm.deb
-Size: 2142
-MD5sum: 927a920c0a87eecab335a583a0e26910
-SHA1: 3c326e5a809d2c3a3bbe82504ee910d16641d388
-SHA256: 605bea6f240370d35596a56d2f4b37ec1136a6f68a9e3cafc65a55c9412ba6ab
-Section: System
-Priority: required
-Description: represents Elucubratus / iPhoneOS conflicts
-Name: iWatch Firmware (/sbin)
-
-Package: firmware-sbin
-Version: 1-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 64
-Pre-Depends: dpkg (>= 1.14.25-8), firmware (>= 10), dpkg (>= 1.18.25)
-Depends: system-cmds, coreutils, bash
-Filename: ./debs/firmware-sbin_1-1_appletvos-arm64.deb
-Size: 3922
-MD5sum: 1c39239e9445da2c8f0f70ec19588397
-SHA1: 6740a9290bfc9f789ef05b8bdd8e67952afa10af
-SHA256: 761db6ecbdd07568284dafef5e274abe8a7fa76d8e411a4dce053b373dbf8e11
-Section: System
-Priority: required
-Description: represents Elucubratus / iOS conflicts
 
 Package: flac
 Version: 1.3.2-1
@@ -4047,23 +3224,6 @@ Name: Flex
 
 Package: gawk
 Version: 4.2.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 3024
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/gawk_4.2.1-1_appletvos-arm64.deb
-Size: 268194
-MD5sum: cfdb6a976e88fa134eb1eae2e02a82ef
-SHA1: 91fef795a58b5eb5082462baea253b8cc9191fb6
-SHA256: 38f7d22f6c7298d21803716fd4f1304be162c6335bae1ba7e06902af3a21f784
-Section: Utilities
-Priority: important
-Homepage: http://www.gnu.org/software/gawk/
-Description: GNU's heavy-weight implementation of awk
-Name: Gawk
-
-Package: gawk
-Version: 4.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 2952
@@ -4098,41 +3258,6 @@ Multi-Arch: foreign
 Description: LGPL cryptographic algorithm library
 Name: GNU Cryptography
 
-Package: gcrypt
-Version: 1.8.3-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1968
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgpg-error
-Filename: ./debs/gcrypt_1.8.3-1_watchos-arm.deb
-Size: 391632
-MD5sum: 8130bf4b70cdb8a4e4a803112d863a2f
-SHA1: b454d6b6c36a624172aff802234b3e85b84cd0fb
-SHA256: d15ae4dd1398548e9f90b901d65f21ad90cbecf6a17116b205f323ae56855b6b
-Section: Security
-Priority: optional
-Description: LGPL cryptographic algorithm library
-Tag: purpose::library
-Name: GNU Cryptography
-
-Package: gettext
-Version: 0.19.8-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 7648
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses
-Filename: ./debs/gettext_0.19.8-1_appletvos-arm64.deb
-Size: 781242
-MD5sum: 56a43e3771c198040472933728d0d2e1
-SHA1: 45459e5ecdcadfbf551e0dba2753034eacb0b369
-SHA256: 4c88143ec7cb3acb6fb1609907038aa81948cba85d1d832842ea604b788319b6
-Section: System
-Priority: optional
-Homepage: http://www.gnu.org/software/gettext/
-Description: internationalization helper for strings
-
 Package: gettext
 Version: 0.19.8-1
 Architecture: iphoneos-arm
@@ -4150,35 +3275,18 @@ Priority: optional
 Homepage: http://www.gnu.org/software/gettext/
 Description: internationalization helper for strings
 
-Package: gettext
-Version: 0.19.8-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 7024
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses
-Filename: ./debs/gettext_0.19.8-1_watchos-arm.deb
-Size: 791134
-MD5sum: 7479fe34b3f792e9af7827536601be56
-SHA1: 8f19db02bf4da6bc6c1be1dce5503beeaf78b335
-SHA256: ddcfc36c76b3211c8525514a23019289e6bb6aa87f006f07180b597a6da275cd
-Section: System
-Priority: optional
-Homepage: http://www.gnu.org/software/gettext/
-Description: internationalization helper for strings
-
 Package: git
 Version: 2.18.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 44288
+Installed-Size: 53344
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: curl, expat, openssl
 Filename: ./debs/git_2.18.0-1_iphoneos-arm.deb
-Size: 2677310
-MD5sum: 780bfd9d564fc815d31e11f4bb4bb4be
-SHA1: a175f4fb68901c1d0fbc4112810d27e2731bd552
-SHA256: e865b49d0f5c02815225a89f6bb262f9cde1face185c773b6dfc14af881a9b84
+Size: 2674764
+MD5sum: 981eb45ed3f2a292fc2b9ab4ada4826c
+SHA1: f74567aad1e4aa8f5736fbafdb293281620d613f
+SHA256: 83a59aadb49a81616d8d59ca23fd196973ac13550d3f8f6cdba8cd6860a4259d
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
@@ -4188,14 +3296,14 @@ Package: git
 Version: 2.20.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 46608
+Installed-Size: 55432
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: curl, expat (>= 2.2), libssl1.0
+Depends: curl, expat, libssl1.0
 Filename: ./debs/git_2.20.0-1_iphoneos-arm.deb
-Size: 2999886
-MD5sum: d691ccce50e5f30d055d1c08164cafc0
-SHA1: 6ddb86a41511eb1fd508825385cd68876c867d7e
-SHA256: 40ef3868ab69696e870919253bf4cc92d3922903b9bd5cdf11539dd2bf1b1b82
+Size: 3040194
+MD5sum: 5b53985552b7446fdf539d7dc40d6898
+SHA1: 84c795182683305fda24f5ceabee19a8e0ef30fa
+SHA256: 4b1074978cf7ed944055f25fa599f1641ec6eb3afcb9f4570c24bf5620e838b7
 Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
@@ -4245,46 +3353,6 @@ Size: 1179366
 MD5sum: 4fc0c47d593badfefe04bceb8ea55733
 SHA1: 6752d13b3607b56f59e20b21c6dd2dda56d09530
 SHA256: 199af24f64ae0caf061763caac518221768935e9d4a7973570315fb2e3931c42
-Section: Security
-Priority: required
-Description: GNU privacy guard - a free PGP replacement
-Name: GnuPG
-
-Package: gnupg
-Version: 2.2.11-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 9784
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: gcrypt, gnutls, libassuan, libksba, npth
-Conflicts: gnupg2
-Replaces: gnupg2
-Provides: gnupg2
-Filename: ./debs/gnupg_2.2.11-1_watchos-arm.deb
-Size: 1240804
-MD5sum: 45550f508a7869407bf45501b60e82fe
-SHA1: b7a5e27057483fec8364622c5e6dd569510c8536
-SHA256: 335bf2f3cb50a4ad3ec00f739348b227f3166c2b00a850ec931df514bb87c57b
-Section: Security
-Priority: required
-Description: GNU privacy guard - a free PGP replacement
-Name: GnuPG
-
-Package: gnupg
-Version: 2.2.11-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 11336
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: gnutls, libassuan, libgcrypt20, libksba, libnpth0, libgpg-error (>= 1.32), gettext, readline (>= 8.0)
-Conflicts: gnupg2
-Replaces: gnupg2
-Provides: gnupg2
-Filename: ./debs/gnupg_2.2.11-2_appletvos-arm64.deb
-Size: 1190642
-MD5sum: 4226d1230d0727cad3b71f878f2f4c65
-SHA1: f57a4c1beaa0c0dba46e824de0b0e1664efdcb9b
-SHA256: a64ff612bb6a15dc64095a0ff9858bbf8c97fdf1bf3eade89c0b1770d5b2bee9
 Section: Security
 Priority: required
 Description: GNU privacy guard - a free PGP replacement
@@ -4346,24 +3414,6 @@ Name: GnuPG 2
 
 Package: gnutls
 Version: 3.5.19-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 7664
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: gcrypt, gettext, libgmp10, libidn2, libunistring, nettle, p11-kit, readline
-Filename: ./debs/gnutls_3.5.19-1_appletvos-arm64.deb
-Size: 794292
-MD5sum: 69116ad39dede1ca686a56b8947c6900
-SHA1: 2613058a8adfca4c512856c1ddcb306365d738a6
-SHA256: cf42affe08530cf0183b2d2d214fd48c13906d785484f44af8cc125ed75412d0
-Section: Security
-Priority: optional
-Homepage: http://www.gnu.org/software/gnutls/
-Description: free sofware alternative to OpenSSL
-Name: GnuTLS
-
-Package: gnutls
-Version: 3.5.19-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 7584
@@ -4379,40 +3429,6 @@ Priority: optional
 Homepage: http://www.gnu.org/software/gnutls/
 Description: free sofware alternative to OpenSSL
 Name: GnuTLS
-
-Package: gnutls
-Version: 3.5.19-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 6600
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: gcrypt, gettext, libgmp10, libidn2, libunistring, nettle, p11-kit, readline
-Filename: ./debs/gnutls_3.5.19-1_watchos-arm.deb
-Size: 851190
-MD5sum: 12467ebb6bd4954ba3a486859d329da1
-SHA1: 87ab7005a23219ede70eaa25c2d4ea9fafb2ccfb
-SHA256: a1a8e318a9f787113818dd097f248ba6a295e01fb74237da468f2beed0bee425
-Section: Security
-Priority: optional
-Homepage: http://www.gnu.org/software/gnutls/
-Description: free sofware alternative to OpenSSL
-Name: GnuTLS
-
-Package: grep
-Version: 3.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 528
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/grep_3.1-1_appletvos-arm64.deb
-Size: 95542
-MD5sum: f964626aa836a72c04afc9502776a8f1
-SHA1: 543fcc53980ab7fb9238cb303d6d884f67572eb0
-SHA256: 485079cba65399a6fef0173e0b7cad03d1d55316b0c152d284d986820f9fc1d3
-Section: Utilities
-Priority: important
-Homepage: http://www.gnu.org/software/grep/
-Description: searches files for regular expressions
 
 Package: grep
 Version: 3.1-1
@@ -4431,37 +3447,6 @@ Multi-Arch: foreign
 Homepage: http://www.gnu.org/software/grep/
 Description: searches files for regular expressions
 
-Package: grep
-Version: 3.1-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 464
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/grep_3.1-1_watchos-arm.deb
-Size: 102298
-MD5sum: 4bbbe25ded85658a315a261f7bfed007
-SHA1: a52085ae6b827217ffac37f5ce57d801c75e514e
-SHA256: a9357feae900376ec62782b927d0a5fd045715ce61795f55fdc4f20648caa5e7
-Section: Utilities
-Priority: important
-Homepage: http://www.gnu.org/software/grep/
-Description: searches files for regular expressions
-
-Package: gzip
-Version: 1.9-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 496
-Filename: ./debs/gzip_1.9-1_appletvos-arm64.deb
-Size: 74404
-MD5sum: f67b1b0a98262aa17143aff2d1e34933
-SHA1: 3ebf3a924f8bc759ebab0915b2c8d37a3563c86f
-SHA256: 677d65a8d6cf516a808e6980a4e3e4c18ca45de2c1946e10c830d55f4cc7d47e
-Section: Archiving
-Priority: required
-Homepage: http://www.gzip.org/
-Description: the standard Unix compression algorithm
-
 Package: gzip
 Version: 1.9-1
 Architecture: iphoneos-arm
@@ -4475,21 +3460,6 @@ SHA256: cf8f55c4ec6cee4c97519460f913a571dff12156709b3f43156ea32f56e31bd6
 Section: Archiving
 Priority: required
 Multi-Arch: foreign
-Homepage: http://www.gzip.org/
-Description: the standard Unix compression algorithm
-
-Package: gzip
-Version: 1.9-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 464
-Filename: ./debs/gzip_1.9-1_watchos-arm.deb
-Size: 74348
-MD5sum: 8f0a0fc52bcc46575a4d85dfdb41fcd6
-SHA1: 51cebb487516d900a9f2240e53d09cb7086157b0
-SHA256: 01d68c7dc0420071b6618f09f63e75924e11db9e08959646c3481650c7c64540
-Section: Archiving
-Priority: required
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
 
@@ -4509,22 +3479,6 @@ Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/help2man/
 Description: Automatic manpage generator
-
-Package: htop
-Version: 2.2.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 336
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses (>= 6.1), ncurses (>= 6.1)
-Filename: ./debs/htop_2.2.0-1_appletvos-arm64.deb
-Size: 49882
-MD5sum: cc4ed9d585b8334e903cbbe3b2f2d288
-SHA1: 9b19bc5987537c962baaa54572bfc56ebc2e8455
-SHA256: d10a66d87a1b34cf28cebd9cc57da68cfaa5aed211daf5a9281e9666d99ae51b
-Section: Administration
-Priority: important
-Description: An interactive process viewer for Unix systems.
 
 Package: htop
 Version: 2.2.0-1
@@ -4592,25 +3546,6 @@ Section: Development
 Priority: standard
 Homepage: http://www.gnu.org/software/indent/
 Description: automatically prettifies a C program
-
-Package: inetutils
-Version: 1.9.4-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4096
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, readline
-Replaces: coreutils (<< 7.2-6)
-Provides: hostname, ping, telnet
-Filename: ./debs/inetutils_1.9.4-1_appletvos-arm64.deb
-Size: 274350
-MD5sum: 5245a620cc712e42c774f558218db7d7
-SHA1: 4025de58a9d833e1136558bef31cb8d660e62989
-SHA256: 428a34a7e6d01f42c2c6e80ef83bbb3781c1b45717355995f23e1e0274daade5
-Section: Networking
-Priority: standard
-Homepage: http://www.gnu.org/software/inetutils/
-Description: ftp, inetd, ping, rlogin, telnet, tftp
 
 Package: inetutils
 Version: 1.9.4-1
@@ -5010,22 +3945,6 @@ Description: Displays offsets and maybe other things
 
 Package: jbctl
 Version: 0.2.3-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 120
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: jailbreak-resources (<= 1.0~b26)
-Filename: ./debs/jbctl_0.2.3-1_appletvos-arm64.deb
-Size: 7730
-MD5sum: c5ad3d9e33c7d15dbad8bfda3804131f
-SHA1: c0fa9cb3dfa91f061bab2af9a7981439f609c44d
-SHA256: bfb52dc38ada940b759ab44dd14a331f57a7a959a944d1188626944b19741ecf
-Section: System
-Priority: optional
-Description: Displays offsets and maybe other things
-
-Package: jbctl
-Version: 0.2.3-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 120
@@ -5086,24 +4005,6 @@ Size: 35644
 MD5sum: 729cfaf9c7b6557675aaa86d2812f4f1
 SHA1: 30cb3f478b041f1d3373d508f5985c59c738f3a8
 SHA256: baac5ec2164ba0a57b7dd308ad351db06b7a98469ba8ecc44ce481135a7a6f00
-Section: System
-Priority: required
-Description: Tells launchd what to do
-Name: Launch Daemon Controller
-
-Package: launchctl
-Version: 23-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 352
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: jailbreak-resources (<= 1.0~b26)
-Filename: ./debs/launchctl_23-1_appletvos-arm64.deb
-Size: 35838
-MD5sum: ea63ff6d58ee34a5df29e9184ba17000
-SHA1: 51e83e3006bd6af6146a80be5a18f1acc7aec3ac
-SHA256: dd17c1547cf5513c25ff68d155c205d281d5336fe2818f6059d299b71136230d
 Section: System
 Priority: required
 Description: Tells launchd what to do
@@ -5180,25 +4081,6 @@ Description: 64bit iOS linker
 
 Package: ld64
 Version: 450.3-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 24832
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ldid, xar, liblto10, libtapi10
-Conflicts: org.coolstar.ld64
-Replaces: org.coolstar.ld64
-Provides: org.coolstar.ld64
-Filename: ./debs/ld64_450.3-1_appletvos-arm64.deb
-Size: 1403616
-MD5sum: 9397feb039bae329878a4d718639c428
-SHA1: 0880aca99a9931f1d83663e8e24e3e6ceff9dc75
-SHA256: 4deede23e948c7e6c828436ad255f453a2903bda57b8190bf683b33b83229ab8
-Section: Development
-Priority: optional
-Description: 64bit iOS linker
-
-Package: ld64
-Version: 450.3-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 24832
@@ -5244,24 +4126,6 @@ Size: 16772
 MD5sum: c579d8988fe64f42712dc8ec6b1da22e
 SHA1: 313cb7b52afa1714079cffd0db6d05e4118ab39a
 SHA256: 2d70bf19f448e05a97ec885a45cb0d18abe187af3e79381f86c9d26d95adcb18
-Section: Development
-Priority: optional
-Description: pseudo-codesign Mach-O files
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Name: Link Identity Editor
-
-Package: ldid
-Version: 2.0.1-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1208
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libplist, libssl1.0
-Filename: ./debs/ldid_2.0.1-2_appletvos-arm64.deb
-Size: 47364
-MD5sum: 6f3a2b140ef204681b4cb2ba8acbf82a
-SHA1: a0ccdc52ca0991c675a0dfd76537c7672344802d
-SHA256: 7a20121283d7ee8f581424ac440ed2a77aca9397db676eb9c9aa29a46d24be9b
 Section: Development
 Priority: optional
 Description: pseudo-codesign Mach-O files
@@ -5316,24 +4180,6 @@ Size: 46082
 MD5sum: e2521690cbd7ca74e8e9f1b4653a83bd
 SHA1: 3b8983c7e05bf11f5413c3d24870f2165ef930a7
 SHA256: 8bf34f427fa69ec82476164837b3d05a6e26f824862df148c83811828a59fb05
-Section: Development
-Priority: optional
-Description: pseudo-codesign Mach-O files
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Name: Link Identity Editor
-
-Package: ldid
-Version: 2:2.0.1-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1112
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libplist, libssl1.0
-Filename: ./debs/ldid_2-2.0.1-1_watchos-arm.deb
-Size: 48068
-MD5sum: 79d13a2dc9880a20363ec0e07eef9f3a
-SHA1: 7498de89961deb9a47d7ae5f78ae6b58b6e085ef
-SHA256: 119155b58b62761ccb7d386b90815d97f171390bbc29e3ee0a25a79f67a3529d
 Section: Development
 Priority: optional
 Description: pseudo-codesign Mach-O files
@@ -5418,24 +4264,6 @@ Name: Link Identity Editor
 
 Package: ldid
 Version: 2:2.1.2+24497ae-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 464
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libplist (>= 2.0.0), libssl1.0, dpkg (>= 1.18.25-9)
-Filename: ./debs/ldid_2-2.1.2+24497ae-1_appletvos-arm64.deb
-Size: 51640
-MD5sum: 21aae03f8852ba0f3bbb69bd8e7b8428
-SHA1: deeea02e2a0ab2b397804534720e0b28a97f66bf
-SHA256: 9637d2941546d76303ed3c0eec9c9178dbe911c5533d5ae5b83a9432f67714a3
-Section: Development
-Priority: optional
-Description: pseudo-codesign Mach-O files
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Name: Link Identity Editor
-
-Package: ldid
-Version: 2:2.1.2+24497ae-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 464
@@ -5451,24 +4279,6 @@ Priority: optional
 Description: pseudo-codesign Mach-O files
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Name: Link Identity Editor
-
-Package: less
-Version: 530-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 656
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses
-Replaces: system-cmds (<= 433.4-11)
-Provides: more
-Filename: ./debs/less_530-1_appletvos-arm64.deb
-Size: 73954
-MD5sum: 74a4eeb9ced8cc3ee7771977e7664c2a
-SHA1: 2debe4aab990fddae761f06ca691f90f3c3c6fcc
-SHA256: c4dc58a0a569c9d8e15a2dc6f7becb231f25e49e728c21c858f29d87b8ad04df
-Section: Utilities
-Priority: important
-Description: provides less information than more does
 
 Package: less
 Version: 530-1
@@ -5663,26 +4473,6 @@ Name: APT Strict (lib)
 
 Package: libapt
 Version: 1.8.2-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 3552
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bzip2, dpkg (>= 1.14.25-9), gnupg, gzip, lz4, lzma, xz, libapt-pkg5.0 (>= 1.8.2), gnutls
-Conflicts: apt7-lib (<<1:0), apt7 (<<1:0), apt7-key (<<1:0), com.mc.xz
-Breaks: cydia (<< 1.1.10), aptitude (<< 0.4.11.11-6), apt7-lib (<< 1:0)
-Filename: ./debs/libapt_1.8.2-1_appletvos-arm64.deb
-Size: 294760
-MD5sum: 433256060ff704a0a1192af430ef41d2
-SHA1: e2f8fd05c5c2dfb523825c156cab36ac0e360d50
-SHA256: 1834a82714f0527028477b202400576e86511249b9537a8d8d44fb0c10c7c118
-Section: Packaging
-Priority: required
-Description: the advanced packaging library from Debian
-Name: APT (lib)
-
-Package: libapt
-Version: 1.8.2-1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -5696,26 +4486,6 @@ Size: 292762
 MD5sum: 38b88b4f1cab561a9a7d29de26443dc2
 SHA1: 24ff922e09c4844bb8e60252948ddfabab797d27
 SHA256: 7d2b61e35ff8ce0ce72a37279900bd9c600e1928cffe23c28881065010792d08
-Section: Packaging
-Priority: required
-Description: the advanced packaging library from Debian
-Name: APT Strict (lib)
-
-Package: libapt
-Version: 1.8.2-1
-Architecture: watchos-arm
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 3384
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bzip2, dpkg, gnupg, gzip, lz4, lzma, xz, libapt-pkg5.0 (>= 1.8.2), gnutls
-Conflicts: apt7-lib (<<1:0), apt7 (<<1:0), apt7-key (<<1:0), com.mc.xz
-Breaks: cydia (<< 1.1.10), aptitude (<< 0.4.11.11-6), apt7-lib (<< 1:0)
-Filename: ./debs/libapt_1.8.2-1_watchos-arm.deb
-Size: 302674
-MD5sum: 49b212562397a8e40a04fe5e7dd0eee3
-SHA1: c7cf7e6ee72109bacecd1dd84fdc8ddd0bad0df4
-SHA256: 8c2b5687ade68ae60e6d185b58990d6e2b2a0be0cb4966f2744f142d9628058b
 Section: Packaging
 Priority: required
 Description: the advanced packaging library from Debian
@@ -5811,49 +4581,17 @@ Description: development files for APT's libapt-pkg and libapt-inst
 Name: APT Development (libapt-pkg-dev)
 
 Package: libapt-pkg-perl
-Version: 0.1.25-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 488
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: apt7-lib, perl
-Filename: ./debs/libapt-pkg-perl_0.1.25-1_iphoneos-arm.deb
-Size: 45668
-MD5sum: c9abe91fc11524e766a0c096fca1dff3
-SHA1: 4b2401d8acca482dfebba21db1ffc79c3d5b799f
-SHA256: 3955384590c19aabe6300280ee5e4c64747e8e3a590a01baca16649bbed82373
-Section: Scripting
-Priority: optional
-Description: Perl interface to libapt-pkg
-
-Package: libapt-pkg-perl
 Version: 0.1.34-1
-Architecture: appletvos-arm64
+Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 696
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libapt-pkg5.0, perl
-Filename: ./debs/libapt-pkg-perl_0.1.34-1_appletvos-arm64.deb
-Size: 50564
-MD5sum: 0deb15cea9ea7273b742ce5a84103972
-SHA1: cfd758cc02abe73c340def25853dc95033563ae0
-SHA256: aaf554188a868a933f7a6e3070c15fbc40aebdd7c22b5c6d8358f3788e95201c
-Section: Scripting
-Priority: optional
-Description: Perl interface to libapt-pkg
-
-Package: libapt-pkg-perl
-Version: 0.1.34-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 560
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libapt-pkg5.0, perl
 Filename: ./debs/libapt-pkg-perl_0.1.34-1_iphoneos-arm.deb
-Size: 57650
-MD5sum: 5c10c8471c1c7bcc49ddb6b16942726b
-SHA1: 3755c8e29f04df9c320d72c95b1302e844c7c081
-SHA256: e5a54a7d25018c0bc856cd3756a4b96a9060a170b8b27e52229e130ec0290b19
+Size: 56270
+MD5sum: 60b26c1a4edff128be1b6d3f47f90840
+SHA1: 95dcdf716dc19d7067797600f48e1a7c7b34825d
+SHA256: bd1e516495062c1dcfe9d7a1f59f7ec5fec9224898f6b92f48a63d2958d9ae5c
 Section: Scripting
 Priority: optional
 Description: Perl interface to libapt-pkg
@@ -5861,17 +4599,17 @@ Description: Perl interface to libapt-pkg
 Package: libapt-pkg5.0
 Version: 1.4.8-1
 Architecture: iphoneos-arm
-Essential: yes
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 6448
+Installed-Size: 7744
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: bzip2, lz4, lzma, xz
+Conflicts: apt7-lib (<<1:0)
 Provides: libapt-pkg (=1.4.8)
 Filename: ./debs/libapt-pkg5.0_1.4.8-1_iphoneos-arm.deb
-Size: 1023082
-MD5sum: 57b968d4495da9186c033d14ec25706e
-SHA1: 36b37b7e60189b92eb0dfadf4cc0eaba03a332bb
-SHA256: 7e2bbff3e6a41f8b714d932e631dc3245f269c68c61d14d76a5a661012743bf7
+Size: 984806
+MD5sum: 3cd8be49b6a90a0e03b3bb290fefb4d1
+SHA1: 476a8d030125b889dba67c189dce598530cb02b7
+SHA256: 8ab23f6b4ef7ecd90ff400f59f5c73419050dcd5779bd69cd9ed2d17b4716f5b
 Section: Packaging
 Priority: required
 Description: the advanced packaging library from Debian
@@ -5954,44 +4692,6 @@ Description: the advanced packaging library from Debian
 Name: APT 1.4 Strict (libapt-pkg)
 
 Package: libapt-pkg5.0
-Version: 1.4.9-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 3096
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bzip2, lz4, lzma, xz
-Conflicts: apt7-lib (<<1:0), com.mc.xz (<<5.2.4-7)
-Provides: libapt-pkg (=1.4.8)
-Filename: ./debs/libapt-pkg5.0_1.4.9-2_iphoneos-arm.deb
-Size: 602460
-MD5sum: cee2b6aa3ad40488ba2caedaf23ee6e3
-SHA1: 705c9e3a4a92adcd2ac48c2369ff69f75fd12d6f
-SHA256: 917c479349db9576db8fcadc936f9c2e27c752d904f71f5c733dd118f5ed9fb2
-Section: Packaging
-Priority: required
-Description: the advanced packaging library from Debian
-Name: APT 1.4 Strict (libapt-pkg)
-
-Package: libapt-pkg5.0
-Version: 1.8.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 3416
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bzip2, lz4, lzma, xz
-Conflicts: apt7-lib (<<1:0), com.mc.xz (<<5.2.4-7)
-Provides: libapt-pkg (=1.8.2)
-Filename: ./debs/libapt-pkg5.0_1.8.2-1_appletvos-arm64.deb
-Size: 535268
-MD5sum: 474e2390c5e113207b6ffb6d213bcc82
-SHA1: 3b8ac2012f6ab9ceefbd8846bed8c53229054f50
-SHA256: ee6246e32f669404f413a6a4f94452cddd6bcf7f98225525ca55e2165f728773
-Section: Packaging
-Priority: required
-Description: the advanced packaging library from Debian
-Name: APT (libapt-pkg)
-
-Package: libapt-pkg5.0
 Version: 1.8.2-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -6005,25 +4705,6 @@ Size: 535296
 MD5sum: f3e55f8dd45353f4e24b7de8e9b1a29b
 SHA1: 1d3e0f6903ba9a437c1640929effde171ea22d12
 SHA256: 6265ffa8ef38b9ad132b2a5b8c501e07c7a66e473c6e8600f51620f88bfceb53
-Section: Packaging
-Priority: required
-Description: the advanced packaging library from Debian
-Name: APT (libapt-pkg)
-
-Package: libapt-pkg5.0
-Version: 1.8.2-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2816
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bzip2, lz4, lzma, xz
-Conflicts: apt7-lib (<<1:0), com.mc.xz (<<5.2.4-7)
-Provides: libapt-pkg (=1.8.2)
-Filename: ./debs/libapt-pkg5.0_1.8.2-1_watchos-arm.deb
-Size: 558108
-MD5sum: fbee85471600909a13a46f8e5689424f
-SHA1: bdee67f08fbc23a7fe2a50dd277a646b202af26c
-SHA256: b27fd7aa09461423d5b939ef24fb3078f3b6945e9d8ee886a487ff9686d872cc
 Section: Packaging
 Priority: required
 Description: the advanced packaging library from Debian
@@ -6064,23 +4745,6 @@ Name: ARM Floating Point
 
 Package: libassuan
 Version: 2.5.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 336
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgpg-error, libnpth0
-Filename: ./debs/libassuan_2.5.1-1_appletvos-arm64.deb
-Size: 36244
-MD5sum: f383b92ff6cdc6aa27a2419401b8ede5
-SHA1: 33159111deafa48412fc6ccd75d433f4cfc8bf1a
-SHA256: 872ac50b9b849a12ca241809db4de463017a8bdc68dcf0f31f5d633d1ad4ea6e
-Section: Development
-Priority: optional
-Description: GnuPG's inter-process communication
-Name: Assuan
-
-Package: libassuan
-Version: 2.5.1-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 344
@@ -6094,23 +4758,6 @@ SHA256: 48cf563cbc9c6c1156a552ae185c830077ab7499197770c928986ecefcfdf5aa
 Section: Development
 Priority: optional
 Multi-Arch: foreign
-Description: GnuPG's inter-process communication
-Name: Assuan
-
-Package: libassuan
-Version: 2.5.1-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 320
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgpg-error, npth
-Filename: ./debs/libassuan_2.5.1-1_watchos-arm.deb
-Size: 36740
-MD5sum: 056b58158f6aeb3eaae5ae44d4bf8a52
-SHA1: a2c23b739093eeb40a429c40a1158d8934bc9437
-SHA256: 96e69dde49f1903fc4a9262c9dd951145f1baad9f795f3778dd04094b1929257
-Section: Development
-Priority: optional
 Description: GnuPG's inter-process communication
 Name: Assuan
 
@@ -6275,22 +4922,6 @@ Description: FFmpeg library with functions for simplifying programming
 
 Package: libc++-10-dev
 Version: 10.0.0~svn-20191106+dcaf932-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 9840
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libllvm10
-Filename: ./debs/libc++-10-dev_10.0.0~svn-20191106+dcaf932-1_appletvos-arm64.deb
-Size: 406432
-MD5sum: d9a4caf2824cdee8d4d187940cfca27a
-SHA1: e5a739fddcb5bda3c6e4426fa8df5db562c7ec85
-SHA256: b0df9603296847ec8d268aec322cdb3a2530d7670381b49edd65c5f708413c45
-Section: Development
-Priority: optional
-Description: LLVM C++ Standard library (development files)
-
-Package: libc++-10-dev
-Version: 10.0.0~svn-20191106+dcaf932-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 9840
@@ -6301,22 +4932,6 @@ Size: 406356
 MD5sum: 54d0c49936c49df886d1ac64579f409f
 SHA1: 9500016b5634f1bbb59749053679a91f8ee7eef6
 SHA256: 507aa429d33d0fd7523ebd10a5d09dcdc78f90d6c3eb3454bc38b3d54c304b4f
-Section: Development
-Priority: optional
-Description: LLVM C++ Standard library (development files)
-
-Package: libc++-dev
-Version: 10.0.0~svn-20191106+dcaf932-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 16
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libc++-10-dev
-Filename: ./debs/libc++-dev_10.0.0~svn-20191106+dcaf932-1_appletvos-arm64.deb
-Size: 716
-MD5sum: c6363e2672e60152b2409ff2daac6189
-SHA1: dec7ffb69ad88e3ee84ef789f03e774aa9104bdf
-SHA256: c3908216f02d0413d235b3bcfced906aea30ad13774de26d10bb45f55b9e5a8b
 Section: Development
 Priority: optional
 Description: LLVM C++ Standard library (development files)
@@ -6352,22 +4967,6 @@ Section: Development
 Priority: optional
 Homepage: https://c-ares.haxx.se/
 Description: Asynchronous DNS library (Development)
-
-Package: libc-ares2
-Version: 1.15.0-1
-Architecture: appletvos-arm64
-Maintainer: Mac C. <MCApollo@protonmail.com>
-Installed-Size: 232
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libc-ares2_1.15.0-1_appletvos-arm64.deb
-Size: 26230
-MD5sum: 9221dbbadfbbcf505c626e3fc9ba775b
-SHA1: 6e1dcc9a3ebff2c4983da165fe54da21eac7aa6d
-SHA256: 7e359744726b8e9639dfc15c8d5b71ce6375898e4e46480ba3c90172d1443301
-Section: Development
-Priority: optional
-Homepage: https://c-ares.haxx.se/
-Description: Asynchronous DNS library
 
 Package: libc-ares2
 Version: 1.15.0-1
@@ -6433,38 +5032,6 @@ Section: Development
 Priority: optional
 Description: Clang library - Common development package
 
-Package: libclang-common-10-dev
-Version: 10.0.0~svn-20191106+dcaf932-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 14032
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libllvm10
-Filename: ./debs/libclang-common-10-dev_10.0.0~svn-20191106+dcaf932-2_appletvos-arm64.deb
-Size: 370514
-MD5sum: c2b0e916ae7e6574202e3f68bb98a52f
-SHA1: b9ffeea398b0434bb40d64c98204092b2ddccf9a
-SHA256: fbeb4755c01396313f77de17394783b36cb30a0667c216291d6e00008e840a72
-Section: Development
-Priority: optional
-Description: Clang library - Common development package
-
-Package: libclang-cpp10
-Version: 10.0.0~svn-20191106+dcaf932-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 79008
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libllvm10
-Filename: ./debs/libclang-cpp10_10.0.0~svn-20191106+dcaf932-1_appletvos-arm64.deb
-Size: 8383238
-MD5sum: 203977ae9a32bd02e259f69b18812e9f
-SHA1: 1ca15f723b938203e5dc8ba7f7238328900dc0b2
-SHA256: eba6bc4e16ff01718b0aea997e3704fe8e0d5db3cc6978f6c8a3ac344942f8bf
-Section: Development
-Priority: optional
-Description: Modular compiler and toolchain technologies, runtime library
-
 Package: libclang-cpp10
 Version: 10.0.0~svn-20191106+dcaf932-1
 Architecture: iphoneos-arm
@@ -6480,38 +5047,6 @@ SHA256: e171855e2616c6515166cacd90c9dd4860ec061cd3dddac1986c544223334466
 Section: Development
 Priority: optional
 Description: Modular compiler and toolchain technologies, runtime library
-
-Package: libcompress-raw-lzma-perl
-Version: 2.074-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 264
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: perl, xz
-Filename: ./debs/libcompress-raw-lzma-perl_2.074-1_iphoneos-arm.deb
-Size: 22702
-MD5sum: f8e5f62b189974230a9b6cd30e0366c6
-SHA1: 8a322bbf98790681910869b2a4ebfebe438db928
-SHA256: 2ea61cda2e48b90fbc24f97a0f4a0fb462190be76804348e5e3c45b6fb1905e8
-Section: Scripting
-Priority: optional
-Description: Compress::Raw::Lzma provides a low-level Perl interface for reading and writing of lzma and xz files/buffers.
-
-Package: libcompress-raw-lzma-perl
-Version: 2.082-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 336
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: perl, xz
-Filename: ./debs/libcompress-raw-lzma-perl_2.082-1_appletvos-arm64.deb
-Size: 23872
-MD5sum: 6c1e5f3f4d8cf28e9073d96de67bd896
-SHA1: c8a68f0e2eefe2d37f6e9958c379647aff3eb808
-SHA256: fe9c0aac58f3eef4229dd145f960eced68515fcf69b6fbc1ac535b0e1dd17b33
-Section: Scripting
-Priority: optional
-Description: Compress::Raw::Lzma provides a low-level Perl interface for reading and writing of lzma and xz files/buffers.
 
 Package: libcompress-raw-lzma-perl
 Version: 2.082-1
@@ -6547,52 +5082,19 @@ Description: backend library for dictionary servers
 
 Package: libevent
 Version: 2.1.8-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2824
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.0
-Filename: ./debs/libevent_2.1.8-1_appletvos-arm64.deb
-Size: 227740
-MD5sum: 7e71470de3c762246f4d3cd09d965c4f
-SHA1: 307085af649d92a7cf2787be5cf9521f140dac96
-SHA256: 85e3c7a568439f60330b7265e8885ee69d0836056462451bd66db484a5e50908
-Section: Development
-Priority: optional
-Homepage: http://libevent.org/
-Description: provides a mechanism to execute a callback function when a specific event occurs on a file descriptor or after a timeout has been reached
-
-Package: libevent
-Version: 2.1.8-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2280
+Installed-Size: 2840
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
 Filename: ./debs/libevent_2.1.8-1_iphoneos-arm.deb
-Size: 215118
-MD5sum: 6c03c97f4e080778675cab0aa14bef0f
-SHA1: 41429a44ac5eb93d875d887e99c3a14d8b9d35b3
-SHA256: 34a6f2b9a450dbe361aced8c748d4283e88e7950504d3062fe74efead4f340ea
+Size: 218136
+MD5sum: 1a96f7ca3c9cb08637afa291dbe2aaba
+SHA1: 7ebf8a202b9e6dac7c5b5fe6469cada819ae7f7a
+SHA256: 58bcb9d8d289e91334ad45bd8fb3d39c70f79dbccb19384fa00d212ec2c6025d
 Section: Development
 Priority: optional
-Homepage: http://libevent.org/
-Description: provides a mechanism to execute a callback function when a specific event occurs on a file descriptor or after a timeout has been reached
-
-Package: libevent
-Version: 2.1.8-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2576
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.0
-Filename: ./debs/libevent_2.1.8-1_watchos-arm.deb
-Size: 236142
-MD5sum: 506703f7e1203ba83ebb647e000996b8
-SHA1: bd3612de63a9a30475f44a5219e850d0d4783d85
-SHA256: 8c0253a7e7b177045b3fea9dd260e936879b18bcb46edea7ef1e62a7f8f8fc6c
-Section: Development
-Priority: optional
+Multi-Arch: foreign
 Homepage: http://libevent.org/
 Description: provides a mechanism to execute a callback function when a specific event occurs on a file descriptor or after a timeout has been reached
 
@@ -6600,14 +5102,14 @@ Package: libevent
 Version: 2.1.8-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2288
+Installed-Size: 2808
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.0
 Filename: ./debs/libevent_2.1.8-2_iphoneos-arm.deb
-Size: 219426
-MD5sum: 31bb299dbf6b017bdab4de58f33bd2c1
-SHA1: c0d5b902b752c262be8808585f1e709e9235fba3
-SHA256: 8f769c9505915186b4452d1c38fab836e71f2d38b4ebcafd3771a9f70db5ca79
+Size: 222904
+MD5sum: f625e5fd7c58e50fb7b5cd33a53cf536
+SHA1: 6de41fdd8969f8b8a39d104b8aed667672b87a69
+SHA256: 6a8e309049a3375cbad4d613d28552ca615db2eb92e78b3b300e35c7eff4b6c3
 Section: Development
 Priority: optional
 Homepage: http://libevent.org/
@@ -6646,21 +5148,6 @@ Priority: optional
 Multi-Arch: foreign
 Description: standalone library of the Fraunhofer FDK AAC code from Android
 Name: FDK-AAC
-
-Package: libffi
-Version: 3.2.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 240
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libffi_3.2.1-1_appletvos-arm64.deb
-Size: 18328
-MD5sum: 21ec796c76174f72b7588bae115467bf
-SHA1: e838d63b34e1757d0fb0f90c01de6a44e440de79
-SHA256: 9fa6688b8d127e0c39ffeafab9013054e28ba83a24cec8183cc9dc2d2e9b1b41
-Section: Development
-Priority: optional
-Description: dynamic generation of function calls
 
 Package: libffi
 Version: 3.2.1-1
@@ -6727,42 +5214,6 @@ Priority: optional
 Description: A library allowing to download single files from a remote zip archive
 Name: Fragment Zip Library
 
-Package: libgcrypt20
-Version: 1.8.3-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1640
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgpg-error
-Conflicts: gcrypt, libgcrypt
-Replaces: gcrypt, libgcrypt
-Provides: gcrypt, libgcrypt
-Filename: ./debs/libgcrypt20_1.8.3-1_appletvos-arm64.deb
-Size: 320782
-MD5sum: 9e840070ecb81f28295a8add241d915b
-SHA1: 493d0714e00c8aa48e475f8124a090e134253b4b
-SHA256: fdea6428cb15588c3843284c5f54ebbd02ff7aaba49e997618c9a5c2c762307a
-Section: Security
-Priority: optional
-Description: LGPL Crypto library - runtime library
-
-Package: libgcrypt20-dev
-Version: 1.8.3-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 504
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgpg-error
-Conflicts: gcrypt, libgcrypt
-Filename: ./debs/libgcrypt20-dev_1.8.3-1_appletvos-arm64.deb
-Size: 32922
-MD5sum: b7f75b896de6d11d39fb67b5c5ee1c43
-SHA1: 2a3c906378dd9bcc141f2a2e1f1f4334833802b1
-SHA256: 7f15647a832660289433cb7459def7ee62ab32552950b0d3dbbe3fd4f23b40a1
-Section: Security
-Priority: optional
-Description: LGPL Crypto library - development files
-
 Package: libgdbm
 Version: 1.18.1-1
 Architecture: iphoneos-arm
@@ -6796,23 +5247,6 @@ Description: A library used by fragmentzip or something
 
 Package: libgmp10
 Version: 6.1.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1176
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libgmp10_6.1.2-1_appletvos-arm64.deb
-Size: 213096
-MD5sum: 7c98e18abb0fd5ba33d55faec5c7e359
-SHA1: 63b203b523889685848d1ae5c8026166155b6136
-SHA256: 9558f86e19345ef7e8db74fecc810da0077dfe86d04494807e170457e9e21b20
-Section: Security
-Priority: optional
-Homepage: https://gmplib.org/
-Description: GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. There is no practical limit to the precision except the ones implied by the available memory in the machine GMP runs on. GMP has a rich set of functions, and the functions have a regular interface.
-Name: GNU Multiple Precision Arithmetic Library
-
-Package: libgmp10
-Version: 6.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1048
@@ -6829,40 +5263,6 @@ Homepage: https://gmplib.org/
 Description: GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. There is no practical limit to the precision except the ones implied by the available memory in the machine GMP runs on. GMP has a rich set of functions, and the functions have a regular interface.
 Name: GNU Multiple Precision Arithmetic Library
 
-Package: libgmp10
-Version: 6.1.2-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 968
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libgmp10_6.1.2-1_watchos-arm.deb
-Size: 214480
-MD5sum: c02007adff3e8c350fd0a5e229097c65
-SHA1: 83d5c77cf4465f478be2b3d3c1d725a9914afc3d
-SHA256: 7e0124dcdf0b19e17428661e345c78e3f4ec0192d38bc36a8cef85fabf815e0f
-Section: Security
-Priority: optional
-Homepage: https://gmplib.org/
-Description: GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. There is no practical limit to the precision except the ones implied by the available memory in the machine GMP runs on. GMP has a rich set of functions, and the functions have a regular interface.
-Name: GNU Multiple Precision Arithmetic Library
-
-Package: libgpg-error
-Version: 1.32-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1064
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: readline
-Filename: ./debs/libgpg-error_1.32-1_appletvos-arm64.deb
-Size: 90018
-MD5sum: 13b671501531b751eeeadc3fcfa1be72
-SHA1: 4b8e8cd2e183d80e9fa13b8df3133abea05d8c21
-SHA256: 8276d9fb5a7c7e35d2de1b4a37c3ae3af58cb01542e900adfab8f8d20973687e
-Section: Security
-Priority: optional
-Description: GnuPG's error management library
-Name: GnuPG Errors
-
 Package: libgpg-error
 Version: 1.32-1
 Architecture: iphoneos-arm
@@ -6878,23 +5278,6 @@ SHA256: 84a00bcf0aabd044c22e532eb1e42f6fc1486b8f251e24f843cfebf0a22a41b1
 Section: Security
 Priority: optional
 Multi-Arch: foreign
-Description: GnuPG's error management library
-Name: GnuPG Errors
-
-Package: libgpg-error
-Version: 1.32-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1016
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: readline
-Filename: ./debs/libgpg-error_1.32-1_watchos-arm.deb
-Size: 90154
-MD5sum: 46faf9d770c52e0a881d729ab93ab924
-SHA1: 4b233ab5bdaabc59127af867984de02165a02882
-SHA256: 0d728277414ae703f1ec8e15fb6c1ca7354c88df556974616b5fbedd23c7617a
-Section: Security
-Priority: optional
 Description: GnuPG's error management library
 Name: GnuPG Errors
 
@@ -6915,22 +5298,6 @@ Description: ID3 tag manipulation library
 
 Package: libidn2
 Version: 6.1.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 992
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libidn2_6.1.2-1_appletvos-arm64.deb
-Size: 111652
-MD5sum: 89b8f0229face1592718078be2573f34
-SHA1: ac3f640dcdb6040dd23a84c44995721645e33574
-SHA256: 9a2f8b2f324462d0109bc4585bc8253daee0a570ec002a506c1dc72036ad7b7b
-Section: Security
-Priority: optional
-Homepage: https://www.gnu.org/software/libidn/#libidn2
-Description: Libidn2 is an implementation of the IDNA2008 + TR46 specifications
-
-Package: libidn2
-Version: 6.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 984
@@ -6945,54 +5312,6 @@ Priority: optional
 Multi-Arch: foreign
 Homepage: https://www.gnu.org/software/libidn/#libidn2
 Description: Libidn2 is an implementation of the IDNA2008 + TR46 specifications
-
-Package: libidn2
-Version: 6.1.2-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 976
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libidn2_6.1.2-1_watchos-arm.deb
-Size: 111258
-MD5sum: 458fcb89f9303c7cb107c7ec84f25e5e
-SHA1: 8b44e97acd73a8ed46422ef2a37c3bf572161cec
-SHA256: ffd438dc6ca41a8aed223cd173a61ede013598e4ef4b22f22384fa49f2956e19
-Section: Security
-Priority: optional
-Homepage: https://www.gnu.org/software/libidn/#libidn2
-Description: Libidn2 is an implementation of the IDNA2008 + TR46 specifications
-
-Package: libio-compress-lzma-perl
-Version: 2.074-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 240
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libcompress-raw-lzma-perl, perl
-Filename: ./debs/libio-compress-lzma-perl_2.074-1_iphoneos-arm.deb
-Size: 12454
-MD5sum: de05f41f5acb2bba43a08053e98834d2
-SHA1: 9ec8d9d62b720624bbd2a6326f6c3170d1071bd3
-SHA256: 713be6ad96d4847398ae9ed27585efbc8409af2aa21df95e0576a2b9b7cfeeed
-Section: Scripting
-Priority: optional
-Description: modules for reading and writing lzma/xz files/buffers
-
-Package: libio-compress-lzma-perl
-Version: 2.081-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 240
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libcompress-raw-lzma-perl, perl
-Filename: ./debs/libio-compress-lzma-perl_2.081-1_appletvos-arm64.deb
-Size: 12466
-MD5sum: e5708f1d348f94ac3b04127900f78435
-SHA1: 010165d079c5e30935f959c59ac6f30a3c159159
-SHA256: 84cdb902fd248939c584241127ac36a1195654b3fb029a786021167d9b54d1d0
-Section: Scripting
-Priority: optional
-Description: modules for reading and writing lzma/xz files/buffers
 
 Package: libio-compress-lzma-perl
 Version: 2.081-1
@@ -7044,23 +5363,6 @@ Description: JPEG image codec
 
 Package: libksba
 Version: 1.3.5-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 592
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgpg-error
-Filename: ./debs/libksba_1.3.5-1_appletvos-arm64.deb
-Size: 84156
-MD5sum: 9a441787641038be26331f760f8d5863
-SHA1: 4a09a054ff879ca938bb92fd44308dcff49002ce
-SHA256: 991b25914e41a5ab32b989151343f9dec02f4a951dcc91c580747afe83d089ae
-Section: Security
-Priority: optional
-Description: GnuPG's certification management library
-Name: KSBA
-
-Package: libksba
-Version: 1.3.5-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 600
@@ -7076,40 +5378,6 @@ Priority: optional
 Multi-Arch: foreign
 Description: GnuPG's certification management library
 Name: KSBA
-
-Package: libksba
-Version: 1.3.5-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 512
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgpg-error
-Filename: ./debs/libksba_1.3.5-1_watchos-arm.deb
-Size: 85844
-MD5sum: 33fce239848fbfec76b47efe221536c3
-SHA1: 970791ffd2af5be0ed767039fac9cb0f75869038
-SHA256: f1b01a06d241d56623045e99a3b81b412f22a790c815769a92132947ce3270c9
-Section: Security
-Priority: optional
-Description: GnuPG's certification management library
-Name: KSBA
-
-Package: liblldb-10
-Version: 10.0.0~svn-20191106+dcaf932-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 31352
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libLLVM10, libclang-cpp10, xz, python
-Filename: ./debs/liblldb-10_10.0.0~svn-20191106+dcaf932-1_appletvos-arm64.deb
-Size: 3388850
-MD5sum: aa8f50593c3af595578034e146e837a2
-SHA1: 03902fd5686fe2ca5685551afb84dc6b7f01956d
-SHA256: 8570101c3bbadf13367adb6fda99a92c226abd2a786945a660f073610ada4a9b
-Section: Development
-Priority: optional
-Homepage: https://www.llvm.org/
-Description: Next generation, high-performance debugger, library
 
 Package: liblldb-10
 Version: 10.0.0~svn-20191106+dcaf932-1
@@ -7130,22 +5398,6 @@ Description: Next generation, high-performance debugger, library
 
 Package: libllvm10
 Version: 10.0.0~svn-20191106+dcaf932-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 138632
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses (>= 6.0)
-Filename: ./debs/libllvm10_10.0.0~svn-20191106+dcaf932-1_appletvos-arm64.deb
-Size: 14372176
-MD5sum: 31269028864e749b261ec564a0fc917a
-SHA1: aa5e9c204551fd86f538a8708a1c89d1160acd8f
-SHA256: e0681f6b88abce7b5304cfb74640ce8d30fbe654b236f2b9b7aeb78d6add9027
-Section: Development
-Priority: optional
-Description: Modular compiler and toolchain technologies, runtime library
-
-Package: libllvm10
-Version: 10.0.0~svn-20191106+dcaf932-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 138632
@@ -7156,22 +5408,6 @@ Size: 14374146
 MD5sum: e18ae97a62a47352b23910b0183624c7
 SHA1: 4fa84b2bf9b949231933f930818cb65207e344aa
 SHA256: 3685652aec283005be56e1e52e79e23e540e24063f7c9ee4ab2219f5ec156c2b
-Section: Development
-Priority: optional
-Description: Modular compiler and toolchain technologies, runtime library
-
-Package: liblto10
-Version: 10.0.0~svn-20191106+dcaf932-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 376
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libllvm10
-Filename: ./debs/liblto10_10.0.0~svn-20191106+dcaf932-1_appletvos-arm64.deb
-Size: 32284
-MD5sum: 666b84ccc3cc61cda4b66dffb8e79be3
-SHA1: 578aefa758381ffcfe195fdc8041c02b4a3f9797
-SHA256: 284a2b39848db4e9b711303044bbc705c69a6894b0647c48c9e07e10032b0eba
 Section: Development
 Priority: optional
 Description: Modular compiler and toolchain technologies, runtime library
@@ -7241,36 +5477,6 @@ Homepage: http://www.underbit.com/products/mad/
 Description: (supposedly) a high-quality MPEG audio decorder
 Name: MAD
 
-Package: libmissing
-Version: 0.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 152
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libmissing_0.1-1_appletvos-arm64.deb
-Size: 2918
-MD5sum: 34a90b049332c9ee2c89130fc0d27e8f
-SHA1: 62676a34b3b5376381460010e84e895fd13b1063
-SHA256: 3be8abf99fc6ad8e9533c329b9c0393a39010151930dbe68e35918f0a575d135
-Section: Development
-Priority: required
-Description: Missing functions
-
-Package: libmissing
-Version: 0.1-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 152
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libmissing_0.1-1_watchos-arm.deb
-Size: 2840
-MD5sum: cf4d2defbff4382338223b5db9fb1c7e
-SHA1: a42c4abadf7ef9b3b1c171c1550f0648ae202ba7
-SHA256: d66e3f84e6e2e99afe2308b6011b46f2fabd9333af61f70e7e23041a0ded1252
-Section: Development
-Priority: required
-Description: Missing functions
-
 Package: libmp3lame-dev
 Version: 3.100-1
 Architecture: iphoneos-arm
@@ -7304,21 +5510,6 @@ Description: MP3 encoding library
 
 Package: libmsgpack-dev
 Version: 3.2.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 14576
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libmsgpack-dev_3.2.0-1_appletvos-arm64.deb
-Size: 210432
-MD5sum: 25e802c21d7d8bd74cb10708fed9ccea
-SHA1: 0583a68340132d0db11e7dd6f822c0e9da47caff
-SHA256: 8859b7ef92b3a4c3f105560a097c67c464d4ebe0371a966064ca9d4414fe3640
-Section: Development
-Priority: optional
-Description: binary-based efficient object serialization library (development files)
-
-Package: libmsgpack-dev
-Version: 3.2.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 14576
@@ -7331,21 +5522,6 @@ SHA256: 7f692543c24ea5178ebd9ac4e5e8328df74a449526ff96d2452c2e4074f0c2f3
 Section: Development
 Priority: optional
 Description: binary-based efficient object serialization library (development files)
-
-Package: libmsgpackc2
-Version: 3.2.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 160
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libmsgpackc2_3.2.0-1_appletvos-arm64.deb
-Size: 11850
-MD5sum: c987e198504029edfef741efcb32a1eb
-SHA1: 05ac16129612abf5a3454a319199f4ef9769026b
-SHA256: 9e129699eebd4c145726ee7596fe36f84e5189b932880097d3a463c17c0c13d9
-Section: Development
-Priority: optional
-Description: binary-based efficient object serialization library
 
 Package: libmsgpackc2
 Version: 3.2.0-1
@@ -7366,16 +5542,17 @@ Package: libnghttp2
 Version: 1.32.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 696
+Installed-Size: 816
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libevent, openssl
 Filename: ./debs/libnghttp2_1.32.0-1_iphoneos-arm.deb
-Size: 79764
-MD5sum: 81f0fb4e9a27ec69f649e0f7493d8ad9
-SHA1: f3ba70e2e08ea4cab2087c0fc8debc1c43f933c4
-SHA256: 62f2dadad4828b88813f2fb1fe4b76ad8e87a2920aed9d6516755b3765239d46
+Size: 81768
+MD5sum: 55d592f3141d310094acb78abe2c8df4
+SHA1: d3eb282b583d09966113c882d6720c0ae68fc509
+SHA256: e69e3a29f4ae6cd4f37d0f6193e36a0fe180496ebbf960b532b7b1d2e8877b0c
 Section: Development
 Priority: standard
+Multi-Arch: foreign
 Homepage: https://nghttp2.org/
 Description: an implementation of HTTP/2 and its header compression algorithm HPACK in C.
 
@@ -7383,17 +5560,14 @@ Package: libnghttp2
 Version: 1.32.0-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 704
+Installed-Size: 808
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libevent, libssl1.0
-Conflicts: nghttp2
-Replaces: nghttp2
-Provides: nghttp2
 Filename: ./debs/libnghttp2_1.32.0-2_iphoneos-arm.deb
-Size: 80912
-MD5sum: 2032bc5418b8ff0ea7ad794cd14ff466
-SHA1: ec1d6f5d23cce4ac5ca031307ece7882bc1a6899
-SHA256: f704831705c910d607cc8539b8b333f10c3568b9909970afb6c77babe228fbee
+Size: 82788
+MD5sum: 94ecf9a27196c96ee001401f368be77d
+SHA1: 8d786aefd8e737ede20d8614ec19cd686616b65d
+SHA256: 35b13d75e77a56d20284246e38ce05011c4aa0f01a5eb031ccecdfc637fd2044
 Section: Development
 Priority: standard
 Homepage: https://nghttp2.org/
@@ -7421,25 +5595,6 @@ Description: an implementation of HTTP/2 and its header compression algorithm HP
 
 Package: libnghttp2-14
 Version: 1.38.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 400
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: nghttp2, libnghttp2
-Replaces: nghttp2, libnghttp2
-Provides: nghttp2, libnghttp2
-Filename: ./debs/libnghttp2-14_1.38.0-1_appletvos-arm64.deb
-Size: 53532
-MD5sum: 0c03501b084111d5c495afc69589e8db
-SHA1: 0b1cc509bf81be56457841c7bce343102f5cade7
-SHA256: 9017b3413ddb748d4065ddf1637367e94c47e06ebe665ebfb89e3f70722c7bff
-Section: Development
-Priority: standard
-Homepage: https://nghttp2.org/
-Description: library implementing HTTP/2 protocol (shared library)
-
-Package: libnghttp2-14
-Version: 1.38.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 400
@@ -7457,42 +5612,6 @@ Priority: standard
 Homepage: https://nghttp2.org/
 Description: library implementing HTTP/2 protocol (shared library)
 
-Package: libnghttp2-14
-Version: 1.38.0-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 360
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: nghttp2, libnghttp2
-Replaces: nghttp2, libnghttp2
-Provides: nghttp2, libnghttp2
-Filename: ./debs/libnghttp2-14_1.38.0-1_watchos-arm.deb
-Size: 54578
-MD5sum: df1b04021bedfe22d9c6f56624ffe342
-SHA1: 99eab4ed91471c368c9a903c0413955b24c303a6
-SHA256: 6657fd315615a63b99e4adaa58ffa1612c9847c8d999d07b9ac79810405134fc
-Section: Development
-Priority: standard
-Homepage: https://nghttp2.org/
-Description: library implementing HTTP/2 protocol (shared library)
-
-Package: libnghttp2-dev
-Version: 1.38.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 400
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libnghttp2-14
-Filename: ./debs/libnghttp2-dev_1.38.0-1_appletvos-arm64.deb
-Size: 31650
-MD5sum: 25e02e0c6b4a0b3b43fc48302d06593a
-SHA1: f9af138f3001494a3241713dff5b60af1e3568b6
-SHA256: 585eb71a4a9980481c58b602ef70a9fcebcc24bf612737b674083da83979fa8f
-Section: Development
-Priority: standard
-Homepage: https://nghttp2.org/
-Description: library implementing HTTP/2 protocol (development files)
-
 Package: libnghttp2-dev
 Version: 1.38.0-1
 Architecture: iphoneos-arm
@@ -7509,42 +5628,6 @@ Section: Development
 Priority: standard
 Homepage: https://nghttp2.org/
 Description: library implementing HTTP/2 protocol (development files)
-
-Package: libnghttp2-dev
-Version: 1.38.0-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 400
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libnghttp2-14
-Filename: ./debs/libnghttp2-dev_1.38.0-1_watchos-arm.deb
-Size: 31670
-MD5sum: a9550dc5b78c98c116ea6752bb8f68e9
-SHA1: 0ad8a93f967d91e5ff3abf33e3b79934ec54edca
-SHA256: b88b396f60b510ed8cd0e305bb2693a9af37d002e8eb3cedbd7f741dd5fece84
-Section: Development
-Priority: standard
-Homepage: https://nghttp2.org/
-Description: library implementing HTTP/2 protocol (development files)
-
-Package: libnpth0
-Version: 1.6-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 176
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: gnupth, npth, libnpth
-Replaces: npth, libnpth
-Provides: npth, libnpth
-Filename: ./debs/libnpth0_1.6-1_appletvos-arm64.deb
-Size: 12034
-MD5sum: bc77e05ffff75e3b0628f34d20cbb025
-SHA1: df6236f899190dafb537c84b74fd9d3f42ec46cb
-SHA256: 970ffb27f95b6d82a143b2d0b2125504d2772b011357116500520f4146d8f426
-Section: Development
-Priority: optional
-Description: portable threading library used by X
-Name: New GNU Portable Threads
 
 Package: libogg-dev
 Version: 1.3.3-1
@@ -7663,24 +5746,6 @@ Description: low-level network capture library (development)
 
 Package: libpcap1
 Version: 1.9.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 696
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: libpcap
-Replaces: libpcap
-Provides: libpcap
-Filename: ./debs/libpcap1_1.9.0-1_appletvos-arm64.deb
-Size: 87524
-MD5sum: 4f8399ce3a46efc0598004d40792397b
-SHA1: cde506306dfffe3f4cb73cfa5b8c582bf413976d
-SHA256: 5e171345f9b47c70f4d89515c4dc3c610bf789630700801816fe57035efaaf0d
-Section: Networking
-Priority: standard
-Description: low-level network capture library
-
-Package: libpcap1
-Version: 1.9.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 688
@@ -7715,21 +5780,6 @@ Description: Library for manipulating pipelines of subprocesses
 
 Package: libplist
 Version: 2.0.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 744
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libplist_2.0.0-1_appletvos-arm64.deb
-Size: 44952
-MD5sum: 8cc754f5169feb3a9ae7242dd72f8a36
-SHA1: dd29bdac9de7b7820802ed0b8ade6592762b79db
-SHA256: 56be0775fd4bcaa8b8b69b8959023324904513417b00d07934871ed490ca2f91
-Section: Networking
-Priority: standard
-Description: plist library
-
-Package: libplist
-Version: 2.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 736
@@ -7739,21 +5789,6 @@ Size: 43088
 MD5sum: 14dbb3fbe14791b3cdb4e66cb293896b
 SHA1: 35172e5ef23d834e895f915c3e7113935cfa83d7
 SHA256: 8bc4aa531de0913b96bd14f7fce455003a2d30bda686a29b93a5e7d124c7a585
-Section: Networking
-Priority: standard
-Description: plist library
-
-Package: libplist
-Version: 2.0.0-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 680
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libplist_2.0.0-1_watchos-arm.deb
-Size: 46722
-MD5sum: eccce666f54c79005994b85d84deba7c
-SHA1: ee18f7e98e31f66fd46f2ffae5f19ef193e0f144
-SHA256: b00d77919a62e69d2314373b39a814b7334d809397a69df6d234882efd2fbca1
 Section: Networking
 Priority: standard
 Description: plist library
@@ -7969,22 +6004,6 @@ Description: callback framework for C++
 
 Package: libssh-4
 Version: 0.9.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1112
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1
-Filename: ./debs/libssh-4_0.9.1-1_appletvos-arm64.deb
-Size: 155092
-MD5sum: 35cbc0f0033f379626f07f1dd8456e6b
-SHA1: 20314f3a7e79d9b6bf751571c9550997d2960170
-SHA256: ec224e16957d78b0c72a72b0a4dc15f450001d334e40fd985c92aacad700c213
-Section: Development
-Priority: optional
-Description: tiny C SSH library (OpenSSL flavor)
-
-Package: libssh-4
-Version: 0.9.1-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1112
@@ -7998,21 +6017,6 @@ SHA256: 953a90962d6001c83b9bd694cfb0d78cecbbb6cbd07efadf4984243e59e4fb41
 Section: Development
 Priority: optional
 Description: tiny C SSH library (OpenSSL flavor)
-
-Package: libssh-dev
-Version: 0.9.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 360
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libssh-dev_0.9.1-1_appletvos-arm64.deb
-Size: 27830
-MD5sum: b3cc27040b8894c4cd8160e4d5f28d27
-SHA1: 7a334df920ef63c398a64d5551b5d1d5ff15de3f
-SHA256: 9d43a0495bff4ee7a7dd5450275c34fba383e26f4eec063d52e6e9a9ab94d593
-Section: Development
-Priority: optional
-Description: tiny C SSH library - Development files (OpenSSL flavor)
 
 Package: libssh-dev
 Version: 0.9.1-1
@@ -8031,52 +6035,19 @@ Description: tiny C SSH library - Development files (OpenSSL flavor)
 
 Package: libssh2
 Version: 1.8.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 608
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.0
-Filename: ./debs/libssh2_1.8.0-1_appletvos-arm64.deb
-Size: 77340
-MD5sum: ecb86936c1b2d5778cc84b13eb213344
-SHA1: 5a5fbc237d4a9f077b56c00779bf851d2723aafb
-SHA256: a9d1363ebaf32b16f0fd76eb22e29466078cc8da0709c9446137d1931cd1a031
-Section: Development
-Priority: optional
-Homepage: https://www.libssh2.org/
-Description: a client-side C library implementing the SSH2 protocol
-
-Package: libssh2
-Version: 1.8.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 480
+Installed-Size: 616
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
 Filename: ./debs/libssh2_1.8.0-1_iphoneos-arm.deb
-Size: 72128
-MD5sum: c786824b3cbca073e3e2d26a35d0ea6b
-SHA1: 11a1147b58247ed7b8f1edebf135880993e04ec0
-SHA256: 6ddac2e4addde59c8abefdda16f9b650ea8489b44abf103467336b70b2033a4a
+Size: 75980
+MD5sum: 2739228bdf48a5bed92aa79f42b8b6f5
+SHA1: e7e3afdd0dcea916b2fadbcbaa34a5fb0f71afb7
+SHA256: 4d07222d773c02c9d61ca08e23750b0f0236128dd5797936e53e02971562a6e4
 Section: Development
 Priority: optional
-Homepage: https://www.libssh2.org/
-Description: a client-side C library implementing the SSH2 protocol
-
-Package: libssh2
-Version: 1.8.0-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 560
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.0
-Filename: ./debs/libssh2_1.8.0-1_watchos-arm.deb
-Size: 78804
-MD5sum: 4e6dc2dd79f773e77c91c7f81029f814
-SHA1: 993405867823cf295583f561d84c9daf4c11fa67
-SHA256: 79b18d0f4c7c0ccef7ba5cba53ccc2f47550f74dc490495d4530967f9e0f15f9
-Section: Development
-Priority: optional
+Multi-Arch: foreign
 Homepage: https://www.libssh2.org/
 Description: a client-side C library implementing the SSH2 protocol
 
@@ -8084,14 +6055,14 @@ Package: libssh2
 Version: 1.8.0-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 488
+Installed-Size: 608
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.0
 Filename: ./debs/libssh2_1.8.0-2_iphoneos-arm.deb
-Size: 73296
-MD5sum: 3ef4d0fe650e26530e3b231e44039435
-SHA1: 6d36b637086e3cf97606113a7b07061897b1699d
-SHA256: 7f469e5586af8906f51bb32a8f252d4af58f8b6b69b340460d16c5d1914515cc
+Size: 77038
+MD5sum: 71bff4c1e2d48e991ffbc0d3845e8ff0
+SHA1: ee49bd64503c2fde7e8a88a8b7090fb24a563f07
+SHA256: cb79579dbad1522fc3960bd52f0e7e541d88b48e795aa8e2c69c345bbe2399e3
 Section: Development
 Priority: optional
 Homepage: https://www.libssh2.org/
@@ -8122,10 +6093,10 @@ Installed-Size: 3760
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.0 (>= 1.0.2r)
 Filename: ./debs/libssl-dev_1.0.2r-1_iphoneos-arm.deb
-Size: 219620
-MD5sum: fcc4d8c5298a0a30bd448a1adad790fb
-SHA1: fecc8ab4c1a0fdaa3ca70a9ece46e67d28ba774b
-SHA256: 24626f0533d6fc8c9be845411edb15c9bcf9faa75d2c34966c76adbe8456d9e8
+Size: 219618
+MD5sum: 1af285615890cad37b9e55b387465755
+SHA1: f24332404da028c2437e38d86e78f700a387a296
+SHA256: 523877ff07b72bda73be6c46c82385b7b0205755a0966ad201d274fdd02f7e01
 Section: Security
 Priority: standard
 Description: OpenSSL Libraries for version 1.0 (development)
@@ -8169,32 +6140,15 @@ Package: libssl1.0
 Version: 1.0.2q-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4544
+Installed-Size: 6088
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ca-certificates
 Conflicts: openssl (<<1.0.2q)
 Filename: ./debs/libssl1.0_1.0.2q-1_iphoneos-arm.deb
-Size: 736942
-MD5sum: 92900d48152907798de22ba1352455ee
-SHA1: 76a7f61cbf27a86533eb4c9873da1a7132518294
-SHA256: 484e6eb6ef970c9d64f9ef730d30abed371a369d707de701624fcc38f936cd7c
-Section: Security
-Priority: standard
-Description: OpenSSL Libraries for version 1.0
-Name: OpenSSL 1.0 Libraries
-
-Package: libssl1.0
-Version: 1.0.2q-2
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4544
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ca-certificates
-Filename: ./debs/libssl1.0_1.0.2q-2_iphoneos-arm.deb
-Size: 736952
-MD5sum: 09d96e91bfac88385c5cae84c1c13db9
-SHA1: b590875793b105e507ac944228ff9c75bb6e0709
-SHA256: eb8ebe60eade0ca4aa4a74a1ba0facfc4f365846212ebd31cacc59315b10fb2b
+Size: 745222
+MD5sum: 4c9f8d15b643f4a3a41499c4712cc253
+SHA1: 924def381994b6f6f66ea457553e1602bda36192
+SHA256: 0d9f84b0a9e0fe54ddae72bc3da54a916021c0aa0ee446ee9a1823e475d34d22
 Section: Security
 Priority: standard
 Description: OpenSSL Libraries for version 1.0
@@ -8204,33 +6158,15 @@ Package: libssl1.0
 Version: 1.0.2r-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4520
+Installed-Size: 6056
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ca-certificates
 Conflicts: openssl (<<1.0.2q)
 Filename: ./debs/libssl1.0_1.0.2r-1_iphoneos-arm.deb
-Size: 725450
-MD5sum: fc13667f7a67bf8a4076e1570bc50f4f
-SHA1: 8940f56a8bf79cb97509de482c8f19b22f77d3db
-SHA256: 896b8eb8c7a6d497532a5baa12b77af6f05839f01665a79a70435542ca3a7868
-Section: Security
-Priority: standard
-Description: OpenSSL Libraries for version 1.0
-Name: OpenSSL 1.0 Libraries
-
-Package: libssl1.0
-Version: 1.0.2s-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 6408
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ca-certificates
-Conflicts: openssl (<<1.0.2q)
-Filename: ./debs/libssl1.0_1.0.2s-1_appletvos-arm64.deb
-Size: 814912
-MD5sum: e1d88883eaf748dc00b06ee55056c8ce
-SHA1: 9707b671aa56b87ff56ccf181833fe04b444ced5
-SHA256: f6824eb2910374b93479f14b73fddb195ab28a351c5fc345106873d3895e0b86
+Size: 724458
+MD5sum: 922126a1fe157bbc48ad8e603d558e44
+SHA1: c05d67eab802433c11c0994da622365f006bf346
+SHA256: 521c23255fc14800494f045382fe75b783b1447237954c2baa7c8dff57c6b0b0
 Section: Security
 Priority: standard
 Description: OpenSSL Libraries for version 1.0
@@ -8249,42 +6185,6 @@ Size: 815306
 MD5sum: 77db2446c032e43eee9924a6bbcb39ae
 SHA1: 6b5afd03d23983153e9b4d875e0b047006cbaba2
 SHA256: 11f061046fc87942d6b6f954d60db03548202766497410ec8397ff2a8c94c8ad
-Section: Security
-Priority: standard
-Description: OpenSSL Libraries for version 1.0
-Name: OpenSSL 1.0 Libraries
-
-Package: libssl1.0
-Version: 1.0.2s-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4912
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ca-certificates
-Conflicts: openssl (<<1.0.2q)
-Filename: ./debs/libssl1.0_1.0.2s-1_watchos-arm.deb
-Size: 790770
-MD5sum: de3b8b4e38f1eebc635db5d903c52018
-SHA1: e1445302628f9a93e81494f851bdb1b26e2b5862
-SHA256: a05db6f9dfb134a613ccd3976707b9aa51dc83d5bd84de25bd7ccc5430d02abc
-Section: Security
-Priority: standard
-Description: OpenSSL Libraries for version 1.0
-Name: OpenSSL 1.0 Libraries
-
-Package: libssl1.0
-Version: 1.0.2s-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 6424
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ca-certificates
-Conflicts: openssl (<<1.0.2q)
-Filename: ./debs/libssl1.0_1.0.2s-2_appletvos-arm64.deb
-Size: 815846
-MD5sum: 09f6ba2577f6db0d2d331b9a94ec50bd
-SHA1: 1858af1c37bc0f24b19cb2a16d32fd12b42b64c0
-SHA256: 41cabe530551888ac9e8512c8417c336a221410867b17f94e08cd46ef07e7953
 Section: Security
 Priority: standard
 Description: OpenSSL Libraries for version 1.0
@@ -8309,23 +6209,6 @@ Name: OpenSSL 1.1 Libraries
 
 Package: libssl1.1.1
 Version: 1.1.1c-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 6568
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ca-certificates
-Filename: ./debs/libssl1.1.1_1.1.1c-1_appletvos-arm64.deb
-Size: 1176084
-MD5sum: 643bd2010dd4e5a9a18ea009b68664a2
-SHA1: 60a177770b8f7ee0e2282a27a89202d6e3b8bcf0
-SHA256: 4e53c5e16555a02683cf539c72545297eef9238fb8cbc39dd7578c1adacd51eb
-Section: Security
-Priority: standard
-Description: OpenSSL Libraries for version 1.1.1
-Name: OpenSSL 1.1.1 Libraries
-
-Package: libssl1.1.1
-Version: 1.1.1c-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 6600
@@ -8336,23 +6219,6 @@ Size: 1176232
 MD5sum: d197f45cc07fa9b1ca44e2f0d480634f
 SHA1: 934cda457c55006be2b162fc09b5a42749684d11
 SHA256: 186e1c8395b0e5d51ca605aa62bd36d83ebc03225656f060b008f6e1f073b3d2
-Section: Security
-Priority: standard
-Description: OpenSSL Libraries for version 1.1.1
-Name: OpenSSL 1.1.1 Libraries
-
-Package: libssl1.1.1
-Version: 1.1.1d-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 6624
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ca-certificates
-Filename: ./debs/libssl1.1.1_1.1.1d-2_appletvos-arm64.deb
-Size: 1178866
-MD5sum: 0378926aeaec1b7f6739a5a8d7325698
-SHA1: 96c9395c165c466a605dd3632f357468d97a109d
-SHA256: c239c50e826d9e2399619c11e24cd06c72ff83df5212dacdb3d4064a6913f7ff
 Section: Security
 Priority: standard
 Description: OpenSSL Libraries for version 1.1.1
@@ -8441,22 +6307,6 @@ Description: FFmpeg library for image scaling and various conversions
 
 Package: libtapi
 Version: 10-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 16
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libtapi10
-Filename: ./debs/libtapi_10-1_appletvos-arm64.deb
-Size: 700
-MD5sum: 0cbd117910d153fec3ba20538fd0265b
-SHA1: 593dd8be18dcdde030e9db0100ca6a09bed9c37c
-SHA256: 2386c72d9a3309aaa87a016fc4c84b7458378a196b47fbfbe06671535449ce96
-Section: Development
-Priority: optional
-Description: Text-based Application Programming Interface (library)
-
-Package: libtapi
-Version: 10-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 16
@@ -8503,22 +6353,6 @@ Description: a text file format for describing the contents of a shared library 
 
 Package: libtapi10
 Version: 10.0.0~svn-20191106+dcaf932-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 480
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libllvm10, libclang-cpp10
-Filename: ./debs/libtapi10_10.0.0~svn-20191106+dcaf932-1_appletvos-arm64.deb
-Size: 53140
-MD5sum: e28269bc83e3f5f5cf11cc8d97a4923a
-SHA1: 0d7698b70ef034e38b4d46f2b394460bb645e973
-SHA256: b9d856ccd4a56c2a12f0c423daa04e4409ea55de029bca03de424120662ae2bf
-Section: Development
-Priority: optional
-Description: Text-based Application Programming Interface (library)
-
-Package: libtapi10
-Version: 10.0.0~svn-20191106+dcaf932-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 480
@@ -8532,22 +6366,6 @@ SHA256: a0abc66c27abd6c653b75c66a1f959b67e577e9674fc834cb8beaa092c366087
 Section: Development
 Priority: optional
 Description: Text-based Application Programming Interface (library)
-
-Package: libtasn1
-Version: 4.13-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 640
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libtasn1_4.13-1_appletvos-arm64.deb
-Size: 46636
-MD5sum: 009cae259260d7cf51d853b6274c23b8
-SHA1: c3fe981b346f298cf4659f50a78c566e0324ce41
-SHA256: 569fa3d125194c653ea07e3ed58aec8ad88be23cceef113336eb8f9817e3ef6c
-Section: Security
-Priority: optional
-Homepage: https://www.gnu.org/software/libtasn1
-Description: Libtasn1 is the ASN.1 library used by GnuTLS, p11-kit and some other packages
 
 Package: libtasn1
 Version: 4.13-1
@@ -8566,38 +6384,6 @@ Multi-Arch: foreign
 Homepage: https://www.gnu.org/software/libtasn1
 Description: Libtasn1 is the ASN.1 library used by GnuTLS, p11-kit and some other packages
 
-Package: libtasn1
-Version: 4.13-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 592
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libtasn1_4.13-1_watchos-arm.deb
-Size: 47270
-MD5sum: 3bbc3a9e68dc3cf5caba8518370e3e2c
-SHA1: a18148b04c19953207d880d2a218be7a1c1bb8de
-SHA256: 168cf5785f2d3d42f4e0ebdc3158cce848ed76e120a0de8deef71747d49e13d6
-Section: Security
-Priority: optional
-Homepage: https://www.gnu.org/software/libtasn1
-Description: Libtasn1 is the ASN.1 library used by GnuTLS, p11-kit and some other packages
-
-Package: libterm-readline-perl-perl
-Version: 1.0303-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 296
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: perl, xz
-Filename: ./debs/libterm-readline-perl-perl_1.0303-1_appletvos-arm64.deb
-Size: 38182
-MD5sum: dd91c59c565fb9acd0bf1d93d5673192
-SHA1: 4b85da3654d42884995e7c28505bcd8fd8d595d4
-SHA256: bff685d5c704ac1fa8281f4c4b3ae3de0472936b718cc74cf753caf90b2d7718
-Section: Scripting
-Priority: optional
-Description: Perl implementation of Readline libraries
-
 Package: libterm-readline-perl-perl
 Version: 1.0303-1
 Architecture: iphoneos-arm
@@ -8606,10 +6392,10 @@ Installed-Size: 296
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: perl, xz
 Filename: ./debs/libterm-readline-perl-perl_1.0303-1_iphoneos-arm.deb
-Size: 38160
-MD5sum: b48cadf28c3cf039e98ac3be92dcbc20
-SHA1: df0e0a3c99e68564162fe97f08aa680f951d35e6
-SHA256: c02d2d5a6ae34f6241731f3646c0a65a0448a7942dfa12ee237f5a76962bf1a0
+Size: 38158
+MD5sum: a70ab317452e04cce2a5ec4325a898b7
+SHA1: b147eeb0f4c35d206ea6b9b31b2563a8518a52bb
+SHA256: a259525406203b3774fc2821db94f406fb7908dcee7cb5d97e951a91c653f95b
 Section: Scripting
 Priority: optional
 Description: Perl implementation of Readline libraries
@@ -8665,22 +6451,6 @@ Description: Generic library support script
 
 Package: libunistring
 Version: 0.9.10-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 3712
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libunistring_0.9.10-1_appletvos-arm64.deb
-Size: 415948
-MD5sum: b093bd42090d7b7436768d45b8259fc0
-SHA1: a8719871204508bced99b323dbb5a93c035f68f7
-SHA256: 1c75f4289b4676bfc179f31bfe8b3f3d5a3ac96027c8d5ef0e162fe53e80b0d5
-Section: Security
-Priority: optional
-Homepage: https://www.gnu.org/software/libunistring/
-Description: Unicode string library for C
-
-Package: libunistring
-Version: 0.9.10-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 3696
@@ -8693,22 +6463,6 @@ SHA256: 5b8906e122328213a1e5a84fb51c7aced61a500957732e4e7cd8337afa6f4465
 Section: Security
 Priority: optional
 Multi-Arch: foreign
-Homepage: https://www.gnu.org/software/libunistring/
-Description: Unicode string library for C
-
-Package: libunistring
-Version: 0.9.10-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 3560
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libunistring_0.9.10-1_watchos-arm.deb
-Size: 432952
-MD5sum: db490b3a6a8a3dd132b3e12babf95196
-SHA1: f162160d7acee2391e805a6ef25abdc21b3f39c0
-SHA256: 970a7569aba9a4ec6e8227f9729ce1d2c3453c27b21b8aa05efa69595f026821
-Section: Security
-Priority: optional
 Homepage: https://www.gnu.org/software/libunistring/
 Description: Unicode string library for C
 
@@ -8927,24 +6681,6 @@ Description: Xapian is an Open Source Search Engine Library
 
 Package: libxml2
 Version: 2.6.32-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1344
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libxml2_2.6.32-1_appletvos-arm64.deb
-Size: 89520
-MD5sum: 66d7ebe0f535b6d5be140d2a7cf312ef
-SHA1: 3665e6413ec6c9569bed9771114573ad226e7345
-SHA256: f8efa6d2a3773b08ea9831441340fa0628bc84dec71566ad5349c767f9b088d8
-Section: Development
-Priority: standard
-Homepage: http://xmlsoft.org/
-Description: very popular XML parser from Gnome
-Depiction: http://cydia.saurik.com/info/libxml2/
-Name: libxml2
-
-Package: libxml2
-Version: 2.6.32-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1336
@@ -9028,21 +6764,6 @@ Description: High-performance, high-quality MPEG-4 video library
 
 Package: libzip
 Version: 1.5.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 784
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libzip_1.5.1-1_appletvos-arm64.deb
-Size: 62008
-MD5sum: 1ccaaed5e25d9658fe2ede49c401e636
-SHA1: 1b3b49915f140e2292e1f9e297182b7af15ff4a7
-SHA256: cdbe74abbaee14cd6e820143f9113a6ade69461bdc49f03a5a51ea07b52fea6b
-Section: Development
-Priority: optional
-Description: a C library for reading, creating, and modifying zip archives.
-
-Package: libzip
-Version: 1.5.1-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 784
@@ -9090,22 +6811,6 @@ Description: console web browser with mouse support
 
 Package: lldb
 Version: 10-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 48
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: lldb-10
-Filename: ./debs/lldb_10-1_appletvos-arm64.deb
-Size: 762
-MD5sum: 184bfb77eee0feb125f300a2dcff7ebf
-SHA1: 6bcdf9fe451885d48b8793dd8fc2c5d191967d81
-SHA256: 75c3b1b15a556c82693ff6777a3d6a111ca2eae3315f1ac666a42d9ad97db6b5
-Section: Development
-Priority: optional
-Description: Next generation, high-performance debugger
-
-Package: lldb
-Version: 10-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 48
@@ -9118,23 +6823,6 @@ SHA1: cb21923ccd2a3c01e96e385844104c445fc37d68
 SHA256: 8b37e8a9f454ebf3e7aa68017bbfece56231e50157cba47acf06b6a22f957a13
 Section: Development
 Priority: optional
-Description: Next generation, high-performance debugger
-
-Package: lldb-10
-Version: 10.0.0~svn-20191106+dcaf932-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 5560
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: liblldb-10, debugserver-10
-Filename: ./debs/lldb-10_10.0.0~svn-20191106+dcaf932-1_appletvos-arm64.deb
-Size: 640034
-MD5sum: 0a88afae665bb2825d996717a81fd32b
-SHA1: 59d678fc3122af4a8dd079d8c4c1b402c06d5bc7
-SHA256: bb75606c8339e016a19f4ce7079d9c507d8d762c2ee06e781dcbd73a5bdbca84
-Section: Development
-Priority: optional
-Homepage: https://www.llvm.org/
 Description: Next generation, high-performance debugger
 
 Package: lldb-10
@@ -9249,51 +6937,18 @@ Description: Simple, extensible, embeddable programming language
 
 Package: lz4
 Version: 1.7.5-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1040
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/lz4_1.7.5-1_appletvos-arm64.deb
-Size: 83454
-MD5sum: b46112f756e6db799f4315cccf3feabf
-SHA1: f677f1bfca7cf5d5a3a769d8a97f26ec735f203c
-SHA256: 5df8d42081ad34a4fbdca4a2872dd79adacb4fe3bfcbdfef804e887d3fab8d76
-Section: Archiving
-Priority: important
-Homepage: http://tukaani.org/lzma/
-Description: Extremely Fast Compression algorithm
-Name: LZ4
-
-Package: lz4
-Version: 1.7.5-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 840
+Installed-Size: 1032
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/lz4_1.7.5-1_iphoneos-arm.deb
-Size: 81132
-MD5sum: 13d1923c7f33f51e329cd2944b5d5890
-SHA1: ea1314003d028118ccc360f751adc0df32db8475
-SHA256: e72bfe758ad83dad679ca9e057753ea37528dc83a88943d7c8c1c5571a7059ce
+Size: 81542
+MD5sum: d759359750ad4261f2497a41c89c181c
+SHA1: 6b3d4e2608c70d95aecc4aa3d8cfc4ffd5574628
+SHA256: bc008c32bdce85ac65106d787ca538551e5eb56ce61b842919fa866bda40c976
 Section: Archiving
 Priority: important
-Homepage: http://tukaani.org/lzma/
-Description: Extremely Fast Compression algorithm
-Name: LZ4
-
-Package: lz4
-Version: 1.7.5-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 808
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/lz4_1.7.5-1_watchos-arm.deb
-Size: 80290
-MD5sum: 4a654c13f820a0ad268c7de7917c42e7
-SHA1: ec7d05102a50d7910fabb89791ee6f89f91d21ab
-SHA256: 41a419150231f69e386c6d212d6d3184febbecb4b35c7f4b03252d424cbd1ceb
-Section: Archiving
-Priority: important
+Multi-Arch: foreign
 Homepage: http://tukaani.org/lzma/
 Description: Extremely Fast Compression algorithm
 Name: LZ4
@@ -9332,23 +6987,6 @@ Name: LZMA Utils
 
 Package: lzma
 Version: 2:4.32.7-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 752
-Conflicts: com.mc.xz
-Filename: ./debs/lzma_2-4.32.7-1_appletvos-arm64.deb
-Size: 72430
-MD5sum: 73a0d211912f90ca377d18ad4a870c83
-SHA1: 150661ee508a8bf542cd6583bc5f249cf65838ff
-SHA256: 12d2a6b397ffeecf747aa4ff09a7022a48f724dc8118f6f4a3aa01e267d18178
-Section: Archiving
-Priority: important
-Homepage: http://tukaani.org/lzma/
-Description: slower, but better, compression algorithm
-Name: LZMA Utils
-
-Package: lzma
-Version: 2:4.32.7-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 736
@@ -9357,23 +6995,6 @@ Size: 69920
 MD5sum: 5f2b57b0c3e154be7703040cfa6ca8d0
 SHA1: 41104102a07b56e25683ea18d3f7540ef9006cac
 SHA256: 762c04e3030010055c6404a393d5da0e5618f40b0e99893c3f3a7c8cb3b759ef
-Section: Archiving
-Priority: important
-Homepage: http://tukaani.org/lzma/
-Description: slower, but better, compression algorithm
-Name: LZMA Utils
-
-Package: lzma
-Version: 2:4.32.7-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 648
-Conflicts: com.mc.xz
-Filename: ./debs/lzma_2-4.32.7-1_watchos-arm.deb
-Size: 73364
-MD5sum: b6c259de418fca6aecd4f102c74323d1
-SHA1: 8bfafb069d3d253312cf212e89a23b4137f3669a
-SHA256: 7bea6136adf7c4f7b8b6ef83e4dcc8df81612463b1227775d8af914eb03c3db2
 Section: Archiving
 Priority: important
 Homepage: http://tukaani.org/lzma/
@@ -9445,22 +7066,6 @@ Section: Scripting
 Priority: important
 Description: arcane macro processing engine
 Name: m4 Processor
-
-Package: make
-Version: 4.2.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 472
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/make_4.2.1-1_appletvos-arm64.deb
-Size: 85384
-MD5sum: 297034acfb58b746a092c05bd1c385ca
-SHA1: 536e5949b33201f6a78aad12224f0a5057af3dcc
-SHA256: 5611a7ee10c8e695e67a154d3009308099afd9f02969da418f6b87d5663f6cde
-Section: Development
-Priority: important
-Description: dependency-based build environments
-Name: Make
 
 Package: make
 Version: 4.2.1-1
@@ -9585,22 +7190,6 @@ Priority: optional
 Description: Safemode for TweakLoader
 Author: Midnight Team <midnight@furcode.com>
 Name: Meridian SafeMode
-
-Package: minicom
-Version: 2.7.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 672
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses
-Filename: ./debs/minicom_2.7.1-1_appletvos-arm64.deb
-Size: 80570
-MD5sum: 8b4723572f6e63623d025e83066a25b6
-SHA1: 3eff574fba7d1d2fc141e0e9c57c27a4574c33ae
-SHA256: a6aae26e650a38d8281e111d04ed0569fd14c3a3e731d3dc1c6a11f626ed2a06
-Section: Networking
-Priority: optional
-Description: serial communication software
 
 Package: minicom
 Version: 2.7.1-1
@@ -9786,22 +7375,6 @@ Description: completely free, modern clone of Pico
 
 Package: nano
 Version: 3.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1264
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses
-Filename: ./debs/nano_3.2-1_appletvos-arm64.deb
-Size: 173284
-MD5sum: 2b372b2e1539747c21e50cef54745670
-SHA1: ce789baf860230fb711545561f50cbcda17dd664
-SHA256: 8232b78a27024abf401b5fecab8eff53bc6e2c577f09201c39922c0aca5c63d1
-Section: Text_Editors
-Priority: standard
-Description: completely free, modern clone of Pico
-
-Package: nano
-Version: 3.2-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1232
@@ -9851,23 +7424,6 @@ Description: the best ftp client known to man
 
 Package: ncurses
 Version: 6.1+20181013-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 7432
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses5-libs, coreutils, bash
-Filename: ./debs/ncurses_6.1+20181013-1_appletvos-arm64.deb
-Size: 365118
-MD5sum: 1049f444abac6349886278082c73d8b6
-SHA1: abdf5a5052984c5fd7f6d477aa3d0397b10e4001
-SHA256: 14557a4da4c7523960ae1957c3322ac1a335b54b737e324870d659bf6f05f3ad
-Section: System
-Priority: required
-Description: feature-complete terminal library
-Name: New Curses
-
-Package: ncurses
-Version: 6.1+20181013-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 7432
@@ -9878,23 +7434,6 @@ Size: 365394
 MD5sum: d18cc4490dbfe33b8fd5211fbeacacc0
 SHA1: 2f57c086e2ee68af536ff3b88d4ac315a49d32c8
 SHA256: e55c55c9d61f3a3b0c1fd1a3df1add4083a6d3e891f87fb698c57d33d2365567
-Section: System
-Priority: required
-Description: feature-complete terminal library
-Name: New Curses
-
-Package: ncurses
-Version: 6.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 7136
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses5-libs
-Filename: ./debs/ncurses_6.1-1_appletvos-arm64.deb
-Size: 359654
-MD5sum: 3a41f9b9bfa3678c78d751d7a2d79eca
-SHA1: 9f18f81c8ba218ff32c024c58c6af319228ecad9
-SHA256: 445d0108942bc719d3a2dbde2f3bc81d4e5b6be8d088c06b86b52725ed4204e6
 Section: System
 Priority: required
 Description: feature-complete terminal library
@@ -9917,39 +7456,6 @@ Priority: required
 Description: feature-complete terminal library
 Name: New Curses
 
-Package: ncurses
-Version: 6.1-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 7088
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses5-libs
-Filename: ./debs/ncurses_6.1-1_watchos-arm.deb
-Size: 374400
-MD5sum: 7a6b8f5a004abfde721dace43b2ceeb5
-SHA1: c1c7f15221ea6b69600b7d70112a9633ccca7582
-SHA256: 08c19d9ff13a7273a350e6c614b52db613ef7416a25f2631f5c7b0a5b9ac7e74
-Section: System
-Priority: required
-Description: feature-complete terminal library
-Name: New Curses
-
-Package: ncurses5-libs
-Version: 5.9-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2312
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/ncurses5-libs_5.9-1_appletvos-arm64.deb
-Size: 190652
-MD5sum: 5f9ca957f0a29d4f4a162426546ee054
-SHA1: 49967a25c16d5bdfea9f852eca769ca70846de5b
-SHA256: 6112e36007811007e0ab458c627ceee5dab87761738ebdccc1b9a853add050e0
-Section: System
-Priority: required
-Description: feature-complete terminal library
-Name: New Curses
-
 Package: ncurses5-libs
 Version: 5.9-1
 Architecture: iphoneos-arm
@@ -9961,22 +7467,6 @@ Size: 174740
 MD5sum: 42d7fe41d6350eeec74843a1cfcdd013
 SHA1: ad2ad37efc7719f8d09979db32648f12173c171e
 SHA256: 3001282a457fc30ea5e79b9a13fcd2f972640e2d78880d5099c4f5e2de484225
-Section: System
-Priority: required
-Description: feature-complete terminal library
-Name: New Curses
-
-Package: ncurses5-libs
-Version: 5.9-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2272
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/ncurses5-libs_5.9-1_watchos-arm.deb
-Size: 203320
-MD5sum: 1b9219d23eb875425aa1114c80ddc5bf
-SHA1: a3a323b1ffa572a4817adc83392a0f2a67efbe5a
-SHA256: 3c282cf2aa3321a274884df82b917b3c62c5973edea4367ea4f4948fef81c142
 Section: System
 Priority: required
 Description: feature-complete terminal library
@@ -10024,25 +7514,6 @@ Size: 55626
 MD5sum: f2423e2c9a458d81745a0ea14e08a399
 SHA1: 8b995d84217a75efd7e3d7217af335669b16fec0
 SHA256: 975dc1ff094b4714c9c0b5901867986724b5054478c38a1624a303954c24a233
-Section: Development
-Multi-Arch: foreign
-Homepage: https://github.com/Siguza/ios-kern-utils
-Description: kdump & friends
- Utilities for playing with the kernel. Requires tfp0 patch.<br>
- Run with -h for help.<br>
- <a href="https://github.com/Siguza/ios-kern-utils">Free and open source</a>, forked from <a href="https://github.com/saelo/ios-kern-utils">saelo</a>.
-Author: Siguza <siguza@siguza.net>
-Name: kern-utils
-
-Package: net.siguza.ios-kern-utils
-Version: 1.4.1-1
-Architecture: appletvos-arm64
-Maintainer: Siguza <siguza@siguza.net>
-Filename: ./debs/net.siguza.ios-kern-utils_1.4.1-1_appletvos-arm64.deb
-Size: 47436
-MD5sum: bd4326cf5935203b6edd39b15159c886
-SHA1: 6ce440c20b5695a9bde76734c45f1240be0c3681
-SHA256: 57762edc23c16d92ddae5d31d0368c256b176a5d9b8a78f94a643835024a4220
 Section: Development
 Multi-Arch: foreign
 Homepage: https://github.com/Siguza/ios-kern-utils
@@ -10108,24 +7579,6 @@ Name: Nettle
 
 Package: nettle
 Version: 3.4.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2536
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgmp10
-Filename: ./debs/nettle_3.4.1-1_appletvos-arm64.deb
-Size: 288236
-MD5sum: 28d8b5d315da1bd694985ba8db552313
-SHA1: f09339a0c64b868288415bc6a31181fb2aac8ae5
-SHA256: 61e87dde2e7ff0eb2366d98b5645cd2368edd96225df0452e72149f07e0a9617
-Section: Security
-Priority: optional
-Homepage: https://gmplib.org/
-Description: Nettle is a cryptographic library
-Name: Nettle
-
-Package: nettle
-Version: 3.4.1-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 2480
@@ -10141,41 +7594,6 @@ Priority: optional
 Homepage: https://gmplib.org/
 Description: Nettle is a cryptographic library
 Name: Nettle
-
-Package: nettle
-Version: 3.4.1-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2376
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libgmp10
-Filename: ./debs/nettle_3.4.1-1_watchos-arm.deb
-Size: 287286
-MD5sum: 392fa4dd6e272579707336f6f2adb5c9
-SHA1: 1a9bd4a47d423042d0110b268ae4e21ff13b6dd9
-SHA256: 7bffad039db0019ea322c9e9feec047a2c83961bbc81327f70f3b2e19d352811
-Section: Security
-Priority: optional
-Homepage: https://gmplib.org/
-Description: Nettle is a cryptographic library
-Name: Nettle
-
-Package: network-cmds
-Version: 543-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2000
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 9.0) | rtadvd
-Filename: ./debs/network-cmds_543-1_appletvos-arm64.deb
-Size: 149846
-MD5sum: fa05aa0ebab6931ad49e29937bc40e4e
-SHA1: 0ff1aa5a1a21a5580b5bdc291f3c50640e2405a5
-SHA256: 79431763999fdedd0d83d107595d72c1bae400de6b0162e8c90bebffffdef203
-Section: Networking
-Priority: important
-Description: arp, ifconfig, netstat, route, traceroute
-Name: Network Commands
 
 Package: network-cmds
 Version: 543-1
@@ -10210,23 +7628,6 @@ Section: Networking
 Priority: standard
 Description: analyze and scan remote network hosts
 Name: Nmap
-
-Package: nodejs
-Version: 12.3.1-1
-Architecture: appletvos-arm64
-Maintainer: Mac C. <MCApollo@protonmail.com>
-Installed-Size: 106336
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libc-ares2, libnghttp2-14, libssl1.1.1
-Filename: ./debs/nodejs_12.3.1-1_appletvos-arm64.deb
-Size: 8182108
-MD5sum: 9ce3844b8592dcee9249384bbf349a7c
-SHA1: 70f291cc1bab1214f78fb7832555e6e919d21b90
-SHA256: 37dfcb6ada623cc3c519d9aa8d0cdab1b9501477c95e330a4ae93a59904bef82
-Section: Scripting
-Priority: optional
-Description: Platform built on V8 to build network applications
-Name: Node
 
 Package: nodejs
 Version: 12.3.1-1
@@ -10281,23 +7682,6 @@ Name: Node
 
 Package: npth
 Version: 1.6-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 176
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: gnupth
-Filename: ./debs/npth_1.6-1_appletvos-arm64.deb
-Size: 11980
-MD5sum: c1860d1e1e9b12a8e44176319e22245d
-SHA1: e64d5471cfe752df1c282bbdb607644470ee39fe
-SHA256: e11580525f7d625cf014d2ef786a3df398463dde172bad54e236725814df2a7e
-Section: Development
-Priority: optional
-Description: portable threading library used by X
-Name: New GNU Portable Threads
-
-Package: npth
-Version: 1.6-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 184
@@ -10312,26 +7696,6 @@ Section: Development
 Priority: optional
 Multi-Arch: foreign
 Description: portable threading library used by X
-Name: New GNU Portable Threads
-
-Package: npth
-Version: 1.6-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 176
-Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: gnupth, npth, libnpth
-Replaces: npth, libnpth
-Provides: npth, libnpth
-Filename: ./debs/npth_1.6-1_watchos-arm.deb
-Size: 12192
-MD5sum: 3cc4fc7ee67fccb073851c765a5586dc
-SHA1: bdc0dcc03b12f4da1c241baf8ad348984120d0e3
-SHA256: 058bb983ec128aeb86c0aa48e399803b0bb2e7655653ea4e98111409a8b82f48
-Section: Development
-Priority: optional
-Description: portable threading library used by X
-Tag: purpose::library
 Name: New GNU Portable Threads
 
 Package: odcctools
@@ -10384,25 +7748,6 @@ Size: 895476
 MD5sum: 2b3fb2d92ccf387a8450c1ceac09ebb7
 SHA1: 431c0aa126528c9d572f5bd7d1be921f538ca86b
 SHA256: a01e5f5cdf01af92a623df2aca593f8a8cff411d505d993fdf18ad8eb57c38ee
-Section: Development
-Priority: optional
-Homepage: http://code.google.com/p/iphone-dev/
-Description: linker and assembler for the iPhone
-Depiction: http://cydia.saurik.com/info/odcctools/
-Name: Darwin CC Tools
-
-Package: odcctools
-Version: 927.0.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 16456
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ld64, libssl1.0, uuid
-Filename: ./debs/odcctools_927.0.2-1_appletvos-arm64.deb
-Size: 912006
-MD5sum: 4934be3d0425c2b2f07a9e2775a5cd5e
-SHA1: 6d980d4797ebaab4572aab5a512d2bdcbfb4a761
-SHA256: 0c367a1c3de0252b626e50ff7e22731760447aeb7c20ca137cea44da9618cfd8
 Section: Development
 Priority: optional
 Homepage: http://code.google.com/p/iphone-dev/
@@ -10466,52 +7811,16 @@ Name: OpenSSH
 
 Package: openssh
 Version: 7.9p1-1
-Architecture: appletvos-arm64
+Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 9496
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1
-Filename: ./debs/openssh_7.9p1-1_appletvos-arm64.deb
-Size: 625844
-MD5sum: d721683464a3a36af255af2d324385c2
-SHA1: e6815b9846be4a39731036c916ec610c8f81f6ba
-SHA256: fed0b554488ee2d4322c1a204495e3b9696f982a1f327a3536751334bc63fec0
-Section: Networking
-Priority: important
-Description: secure remote access between machines
-Depiction: http://cydia.saurik.com/info/openssh/
-Name: OpenSSH
-
-Package: openssh
-Version: 7.9p1-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 8456
-Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.0
 Filename: ./debs/openssh_7.9p1-1_iphoneos-arm.deb
-Size: 610344
-MD5sum: e9d293b91de03261c72af8bdf07af67f
-SHA1: bd36a8fc7826000775ed0c39a4f1aea307a4199e
-SHA256: 22392a13f1241b685a9fd4e29bcb457680bd7b7b4a9b4bfe15d8890efd955ae4
-Section: Networking
-Priority: important
-Description: secure remote access between machines
-Depiction: http://cydia.saurik.com/info/openssh/
-Name: OpenSSH
-
-Package: openssh
-Version: 7.9p1-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 8552
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.0
-Filename: ./debs/openssh_7.9p1-1_watchos-arm.deb
-Size: 648034
-MD5sum: ddda6b07f89ba5c3a8b7cde2cd76cd30
-SHA1: ecd38bbf58814711792889ebb502c5f6c27c9917
-SHA256: c03e0de217e5ec803407cf0ca0d498855b79662d664476e52131274e1d6b9363
+Size: 612152
+MD5sum: 4eedb8d1b3e9353b64dbee70df9c4e0b
+SHA1: b5308ee347faa5a8692d9fb7b492a4fc01129e28
+SHA256: 1e8feaf3c103b2aed0d2e2e4a07be0e194797583a3a162deb4c89f6087aa169e
 Section: Networking
 Priority: important
 Description: secure remote access between machines
@@ -10558,14 +7867,14 @@ Package: openssl
 Version: 1.0.2o-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 9376
+Installed-Size: 11056
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ca-certificates
 Filename: ./debs/openssl_1.0.2o-1_iphoneos-arm.deb
-Size: 1108764
-MD5sum: f74321a8e6bea0d1fe3083a63c49eb9a
-SHA1: 426edc9f915fdf280c80da31a4ef8eab6afb097c
-SHA256: df627fb6c4822c8dfc7f989315204e1b8a6dda097e6a54adf3639eecb3decf3a
+Size: 1103180
+MD5sum: 390141acb5c04239d5986f8a32988006
+SHA1: 2f1559429b8201f1868f631ff2301c22fc166f77
+SHA256: 809e20e0b95c9aec755ad4558d047fab1a99c0e710c92d974053821e0aa2bb31
 Section: Security
 Priority: standard
 Description: SSL library and cryptographic tools
@@ -10592,14 +7901,14 @@ Package: openssl
 Version: 1.0.2r-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1080
+Installed-Size: 1224
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libssl1.0 (>= 1.0.2r), firmware (>=11.0) | libssl0.9.8
 Filename: ./debs/openssl_1.0.2r-1_iphoneos-arm.deb
-Size: 182762
-MD5sum: b86439e1a0e4c45622155a8229df9ff7
-SHA1: b8838bb6851d3c075a1ee05b456891d22efb4161
-SHA256: 5e3668da162539aec9c1ff98eac2131fddd682ac2ba12e92df0042b22e9c7bc6
+Size: 177184
+MD5sum: 7fab447c4fdda58f152d0b54d950c92a
+SHA1: 795f8e9484d8a8830ddbd2ee887b98071d269d6b
+SHA256: 14467a74dd0af8d9c0b9ce41164cc460f90ece39293faef47661c94411180f25
 Section: Security
 Priority: standard
 Description: OpenSSL tools
@@ -10617,23 +7926,6 @@ Size: 188198
 MD5sum: 5a74d9f011c59e1bdbcd60bab18c3ce2
 SHA1: 92a539cbff52ee644f957af26f29e26e8924225f
 SHA256: 0a99da2522641b710e5204f3f73bca02bd4392c654fcc3eac5e967bfed55e6a5
-Section: Security
-Priority: standard
-Description: OpenSSL tools
-Name: OpenSSL
-
-Package: openssl
-Version: 1.1.1c-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1432
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.1.1, firmware (>=11.0) | libssl0.9.8, libssl1.0
-Filename: ./debs/openssl_1.1.1c-1_appletvos-arm64.deb
-Size: 225464
-MD5sum: d86fcea408a34b022b45c18d412e9ea0
-SHA1: 60c6ff2f089ef59369f23c43d9a47c4ffd92cb76
-SHA256: c1fedc8f1e1a62aa0d0567ecc328349e8c94f56bfce3f4f303bef62bc992fb44
 Section: Security
 Priority: standard
 Description: OpenSSL tools
@@ -10658,23 +7950,6 @@ Name: BigBoss Icon Set
 
 Package: p11-kit
 Version: 0.23.12-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 8064
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libtasn1
-Filename: ./debs/p11-kit_0.23.12-1_appletvos-arm64.deb
-Size: 461996
-MD5sum: faf89870464ab6ea714c1ba7d7430010
-SHA1: cf8d71f8dd506edb116f2666f05105c13254a002
-SHA256: abff5b508442cdfde33ee627afef2c39f8ca545df9661f3767fb693b9e029c8e
-Section: Security
-Priority: optional
-Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
-Description: p11-glue utilities
-
-Package: p11-kit
-Version: 0.23.12-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 8344
@@ -10688,23 +7963,6 @@ SHA256: a2426f0b094dddf48b818f8f975fc32f06709b97ae6ef8d3dce3b66e19a60503
 Section: Security
 Priority: optional
 Multi-Arch: foreign
-Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
-Description: p11-glue utilities
-
-Package: p11-kit
-Version: 0.23.12-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 6704
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libtasn1
-Filename: ./debs/p11-kit_0.23.12-1_watchos-arm.deb
-Size: 461480
-MD5sum: 44dac0bc6962483d908c7dc70b534834
-SHA1: e5210ca647abf1d80e1e3dea2dbbf0dacd9359ba
-SHA256: b2b3c2e691aae96b86898866ad1dc12524d6ad6d4ea4c05466353db95fc73181
-Section: Security
-Priority: optional
 Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
 Description: p11-glue utilities
 
@@ -10775,31 +8033,15 @@ Description: Perl-compatible regular expressions
 
 Package: perl
 Version: 5.28.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 107624
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/perl_5.28.0-1_appletvos-arm64.deb
-Size: 7978430
-MD5sum: 2c0a3dc4a28952fbea2dfaab5550226d
-SHA1: b71d3653d53aa69d17f31d358702774ff5568652
-SHA256: 291451ed701eaf1318265c0399193920980c33690b604d653b58d8597a167b2a
-Section: Scripting
-Priority: optional
-Description: awesome combination of sed and awk
-Name: Perl
-
-Package: perl
-Version: 5.28.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 97936
+Installed-Size: 107352
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/perl_5.28.0-1_iphoneos-arm.deb
-Size: 7816032
-MD5sum: edbad4bfbab86cb8d5c098b36cf1bd08
-SHA1: b2024903413ec43b23e15112be79ac18290321dc
-SHA256: 61865c952dc8192dca18dda2f4bc2a4268f86a243969353cb91b6364168f0b78
+Size: 7888760
+MD5sum: a77339e29459b93f805bd4b34eb55bb3
+SHA1: c49b0fc8adda6d0a47bf1071b56c1d707e7a46cf
+SHA256: 5add5d4ce7a18047c1421026aadfa001de347f4fb106683836947b5f51bc0c3d
 Section: Scripting
 Priority: optional
 Description: awesome combination of sed and awk
@@ -10893,23 +8135,6 @@ Author: Glenn Randers-Pehrson <glennrp@users.sf.net>
 
 Package: profile.d
 Version: 0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 24
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash
-Filename: ./debs/profile.d_0-1_appletvos-arm64.deb
-Size: 930
-MD5sum: 0b9f3dfd3bc02de1a11694e8d8103ec1
-SHA1: 37ee4ab5740675a776f2503d1785f938cc14b9c9
-SHA256: 1605a195302c51d7629dc654490466c55c2821142906b8545391e48859d2f3a9
-Section: Administration
-Priority: standard
-Description: makes packaging for /etc/profile reasonable
-Name: Profile Directory
-
-Package: profile.d
-Version: 0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 24
@@ -10923,23 +8148,6 @@ SHA256: c83306dc925b5a7844098a496b8fd3eb1c3787dea912b6f7c4611d64fc651194
 Section: Administration
 Priority: standard
 Multi-Arch: foreign
-Description: makes packaging for /etc/profile reasonable
-Name: Profile Directory
-
-Package: profile.d
-Version: 0-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 24
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash
-Filename: ./debs/profile.d_0-1_watchos-arm.deb
-Size: 930
-MD5sum: d9ac01cbdaf3cb40f57799ee3529ca91
-SHA1: 6849dc1e60c04a5e84617f850650c983eaf10142
-SHA256: b157d17174207c9ca918b99741b9441b1fa22797e3082618a07b32bc56f52422
-Section: Administration
-Priority: standard
 Description: makes packaging for /etc/profile reasonable
 Name: Profile Directory
 
@@ -10987,24 +8195,6 @@ Size: 7643316
 MD5sum: adf676c80bfab83565208fda2aa98e55
 SHA1: b2502febd5d391054f5a73b72c48348a53aa26a5
 SHA256: 9481f18f034fe44b0dd68322bf359115269dfdae279d01732fe95971730e87ab
-Section: Scripting
-Priority: optional
-Homepage: http://www.python.org/
-Description: architectural programming language
-Name: Python
-
-Package: python
-Version: 2.7.15-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 84584
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3
-Filename: ./debs/python_2.7.15-2_appletvos-arm64.deb
-Size: 7765234
-MD5sum: e17b4748407a194e3de97ca737404de6
-SHA1: 1859b9139a8a95b6f4aa8144ff5c32902affd214
-SHA256: 22c9bc3be3445bb63292fc63aaa1d614ee89e7f900b4dee429fa9bac5893fa88
 Section: Scripting
 Priority: optional
 Homepage: http://www.python.org/
@@ -11150,22 +8340,6 @@ Description: command-line history management
 
 Package: readline
 Version: 8.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1136
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses (>= 6.0), ncurses (>= 6.1)
-Filename: ./debs/readline_8.0-1_appletvos-arm64.deb
-Size: 131230
-MD5sum: b22842db3423481071bf416919ee1d56
-SHA1: c074bb1b161123173f4a2cf857a39e2e484ed3e6
-SHA256: f7840fdfc6ff9c876f291f4f6263ab385a42c6ccd08c079e864f04b626309dd4
-Section: Development
-Priority: required
-Description: command-line history management
-
-Package: readline
-Version: 8.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1136
@@ -11179,38 +8353,6 @@ SHA256: 60b71efee41f78b7c427fc575c544a6ea573e4bf07520099a579e2855a040ae4
 Section: Development
 Priority: required
 Description: command-line history management
-
-Package: readline
-Version: 8.0-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 944
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses
-Filename: ./debs/readline_8.0-1_watchos-arm.deb
-Size: 138470
-MD5sum: 3b331a991c5ad7f54f2ac530a33b2c8e
-SHA1: 3f2bf54a135c6754d9706f87da9f8a0e62c1096c
-SHA256: b34cb4d9f70267524694760e3a74807fd939c6303e5115c754be09a8d13e5abe
-Section: Development
-Priority: required
-Description: command-line history management
-
-Package: rsync
-Version: 3.1.3-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1088
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/rsync_3.1.3-1_appletvos-arm64.deb
-Size: 209524
-MD5sum: 3dbff16d7818df5f6f4df9afaed267e3
-SHA1: bc0196a89112bc97f4b3bd482140c905b1eb2a51
-SHA256: 4feb67165786e48a79a64905ea54b171a568174051ca9f62d0df834833887310
-Section: Networking
-Priority: important
-Homepage: http://www.samba.org/rsync/
-Description: synchronize files between computers
 
 Package: rsync
 Version: 3.1.3-1
@@ -11487,23 +8629,6 @@ Name: Unc0ver Jailbreak Resources
 
 Package: screen
 Version: 4.0.3-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1416
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses
-Filename: ./debs/screen_4.0.3-1_appletvos-arm64.deb
-Size: 330558
-MD5sum: efa55821ee83f8fc4aefa0b6ed87468b
-SHA1: 4cfc8071f06276b96d2ca335fee5bebd81b1e7b0
-SHA256: e9c3c6f7eef902f322d65b25cd08e14f6db65f571b0de0f92670f671d2f172c0
-Section: Terminal_Support
-Priority: important
-Description: multiplexes a terminal into many
-Name: Screen
-
-Package: screen
-Version: 4.0.3-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1376
@@ -11522,22 +8647,6 @@ Name: Screen
 
 Package: sed
 Version: 4.5-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 440
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/sed_4.5-1_appletvos-arm64.deb
-Size: 80686
-MD5sum: d784adad4ff4cf99f0af277398ad1936
-SHA1: 80916a06b0b5f4d07a8cc682a20c6547338c4f94
-SHA256: 06fa9d7c4dd1cd4ef41c2e39364c60d4311d4911b3c2ecaf0ed7a5ef44b96b4a
-Section: Utilities
-Priority: important
-Homepage: http://www.gnu.org/software/sed/
-Description: edits streams of text using patterns
-
-Package: sed
-Version: 4.5-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 440
@@ -11550,22 +8659,6 @@ SHA256: 8a8e92b8e611514f163ca56e6fd05cbcd9f457f07d4d87ccc9202a1c6b157422
 Section: Utilities
 Priority: important
 Multi-Arch: foreign
-Homepage: http://www.gnu.org/software/sed/
-Description: edits streams of text using patterns
-
-Package: sed
-Version: 4.5-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 376
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/sed_4.5-1_watchos-arm.deb
-Size: 84530
-MD5sum: a41035462b4aa897a89231448df2ce7f
-SHA1: 045083e2f07666cd7c57b471ce70b32ec1ca417d
-SHA256: f7489d0abd05adc84efa7b4da408088e04357d5c77f520ea33c28c630f3413a7
-Section: Utilities
-Priority: important
 Homepage: http://www.gnu.org/software/sed/
 Description: edits streams of text using patterns
 
@@ -11585,22 +8678,6 @@ Priority: optional
 Multi-Arch: foreign
 Description: search patterned data using patterns
 Name: Structured Grep
-
-Package: shell-cmds
-Version: 118-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 648
-Pre-Depends: dpkg (>= 1.14.25-8)
-Provides: killall, which
-Filename: ./debs/shell-cmds_118-1_appletvos-arm64.deb
-Size: 12938
-MD5sum: e1410bffef2845feb5143dd7f3e46a58
-SHA1: 59674cc42c90b16f128576a00b0abad7b6db2675
-SHA256: 043d854e879cd6ba937fb152a14b78f7296500b8dfacd774cae76cd4eb4ff345
-Section: Administration
-Priority: important
-Description: killall, mktemp, renice, time, which
 
 Package: shell-cmds
 Version: 118-1
@@ -11643,10 +8720,10 @@ Installed-Size: 632
 Pre-Depends: dpkg (>= 1.14.25-8)
 Provides: killall, which
 Filename: ./debs/shell-cmds_118-8_iphoneos-arm.deb
-Size: 12576
-MD5sum: 5ddc1484d76da827e94da6e9c3c07166
-SHA1: 0e0b0038740cd7536b956ffb13bfa193948b4f7e
-SHA256: d835e83cbc2d0c394e3022e2db8dfab6e30ac41715129d26f473e1a88b9a73ef
+Size: 12684
+MD5sum: bc14fdd53bf742af2a9b5f49e7d2ccee
+SHA1: c748c3fbd4f83807e078a96dbd4b3af013e356bb
+SHA256: 93a0b6af5618cac4c2ea0d0fc5c3d5a0a214750a954369da9dfd10f8e2c5bf06
 Section: Administration
 Priority: important
 Description: killall, mktemp, renice, time, which
@@ -11706,24 +8783,6 @@ Name: SOcket CAT
 
 Package: sqlite3
 Version: 3.24.0-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4384
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: readline (>= 8.0)
-Replaces: sqlite3 (<= 3.5.9-11)
-Filename: ./debs/sqlite3_3.24.0-1_appletvos-arm64.deb
-Size: 719442
-MD5sum: 59ee77cc81d5e2bec2fce8283ede7ea8
-SHA1: 27681f6afdb8332be4cdc8d4b0c4c35b514fc0ba
-SHA256: a06d91c85ca1804b3543f3030b2ae3be1caa26001b0da4516720c56087e6c457
-Section: Data_Storage
-Priority: standard
-Description: embedded database used by iPhoneOS
-Name: SQLite 3.x
-
-Package: sqlite3
-Version: 3.24.0-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 4304
@@ -11734,24 +8793,6 @@ Size: 700486
 MD5sum: 26edebeeed5c09a6f1565eaf0a39786d
 SHA1: ba4acda9c0c8c80a1b9fbb7845ca598b066a173b
 SHA256: f450f7bc579fc19c578f0be6400050d8c01594a5e69269914f4b720e0f2834a5
-Section: Data_Storage
-Priority: standard
-Description: embedded database used by iPhoneOS
-Name: SQLite 3.x
-
-Package: sqlite3
-Version: 3.24.0-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4384
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: readline (>= 8.0)
-Replaces: sqlite3 (<= 3.5.9-11)
-Filename: ./debs/sqlite3_3.24.0-2_appletvos-arm64.deb
-Size: 719480
-MD5sum: 695e8bedade7fe3497d5de03674eea0b
-SHA1: 1eeca959fdfaef3564f1fdcdc8da2e6513b230a8
-SHA256: 5f123bbbd0b0bcb8a11b040cbf1c5369bf977d4f99b8b3dd0dac8ef8dfaccc68
 Section: Data_Storage
 Priority: standard
 Description: embedded database used by iPhoneOS
@@ -11977,24 +9018,6 @@ Name: Sudo
 
 Package: system-cmds
 Version: 790.30.1-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 2640
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware-sbin
-Provides: login, passwd, reboot
-Filename: ./debs/system-cmds_790.30.1-1_appletvos-arm64.deb
-Size: 94718
-MD5sum: 2ab9a333f6f048aea04ed77573313ba3
-SHA1: cd72b4cfc3e03950d4869fd886b17d4f8bc74d5a
-SHA256: 48ffd0757a674a02452f2f7982aca43e844ebc29985ffba2b5ebe3ee89c66355
-Section: Administration
-Priority: required
-Description: iostat, login, passwd, sync, sysctl
-
-Package: system-cmds
-Version: 790.30.1-1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
@@ -12031,22 +9054,6 @@ Description: iostat, login, passwd, sync, sysctl
 
 Package: tapi
 Version: 10-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 24
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: tapi-10
-Filename: ./debs/tapi_10-1_appletvos-arm64.deb
-Size: 708
-MD5sum: 8f14ca1eb8db5ce15999a4aba52aa9c2
-SHA1: d1a3d053154b4a46b7e60b9695305574067de01b
-SHA256: 0b5a59130efafc68bc0a02a0fbbd87031a9be64443e9b9bec5022e800bbce275
-Section: Development
-Priority: optional
-Description: Text-based Application Programming Interface
-
-Package: tapi
-Version: 10-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 24
@@ -12077,40 +9084,6 @@ Section: Development
 Priority: optional
 Description: Text-based Application Programming Interface
 
-Package: tapi-10
-Version: 10.0.0~svn-20191106+dcaf932-2
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 76952
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libtapi10
-Filename: ./debs/tapi-10_10.0.0~svn-20191106+dcaf932-2_appletvos-arm64.deb
-Size: 8630198
-MD5sum: 88c1717c1f9edceca31a77e16c22d709
-SHA1: d9a63028840b524ca5034dde9779620aa139b9bd
-SHA256: 28173d6ff9d3f6e21d8cfded930617e0999cbcf3f6d08f28c3af47d770abc8cd
-Section: Development
-Priority: optional
-Description: Text-based Application Programming Interface
-
-Package: tar
-Version: 1.30-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1096
-Depends: bzip2, gzip, lzma, xz
-Conflicts: dpkg (=1.18.24)
-Filename: ./debs/tar_1.30-1_appletvos-arm64.deb
-Size: 247544
-MD5sum: 02e2fc522726c3525c26bc2f789ab350
-SHA1: 3a874f95b5b339ecc8adf6df9dd04c0c77ebe596
-SHA256: 26ce7df01c139eda5332a91708f9a31b3307d2da724c12f2a9ee10ab51f33e9a
-Section: Archiving
-Priority: required
-Homepage: http://www.gnu.org/software/tar/
-Description: tool for making tape archives
-Name: Tape Archive
-
 Package: tar
 Version: 1.30-1
 Architecture: iphoneos-arm
@@ -12125,24 +9098,6 @@ SHA256: e5ec0c042724e2046377cd4c5aaef16c332bf69e0ba9b9e1d5418e61579dffc2
 Section: Archiving
 Priority: required
 Multi-Arch: foreign
-Homepage: http://www.gnu.org/software/tar/
-Description: tool for making tape archives
-Name: Tape Archive
-
-Package: tar
-Version: 1.30-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 888
-Depends: bzip2, gzip, lzma, xz
-Conflicts: dpkg (=1.18.24)
-Filename: ./debs/tar_1.30-1_watchos-arm.deb
-Size: 257166
-MD5sum: 4995123cd706df350cc19240cdd71f81
-SHA1: 452caf21972ffc676e8aa1f825ca0940cb0051b9
-SHA256: 4a5d45dc98fed8ff7d9b4fd8f21c77d9ef059b758b0390f02d2d9b370e5aca9d
-Section: Archiving
-Priority: required
 Homepage: http://www.gnu.org/software/tar/
 Description: tool for making tape archives
 Name: Tape Archive
@@ -12164,22 +9119,6 @@ Priority: required
 Homepage: http://www.gnu.org/software/tar/
 Description: tool for making tape archives
 Name: Tape Archive
-
-Package: tcpdump
-Version: 4.9.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 3880
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libpcap1, libssl1.0
-Filename: ./debs/tcpdump_4.9.2-1_appletvos-arm64.deb
-Size: 303960
-MD5sum: 290652129de4dd469cc7ca8378ef5fdf
-SHA1: 8d8f8b62f38da8d702199c4fe2909ba4a8260106
-SHA256: 103b92e53db27361c82462906fd469b97dcbb9a84a2224df9ea1c2b236413492
-Section: Networking
-Priority: standard
-Description: dumps and stores network traffic
 
 Package: tcpdump
 Version: 4.9.2-1
@@ -12287,22 +9226,6 @@ Name: TIFF
 
 Package: tmate
 Version: 2.3.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1392
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libevent, libmsgpackc2, libssh-4, ncurses
-Filename: ./debs/tmate_2.3.1-1_appletvos-arm64.deb
-Size: 188804
-MD5sum: cf87f3ea48e323e84f9aa1c8af699de2
-SHA1: 96521e68ef8d19fc8a3e2ff02853b317f0f31253
-SHA256: 716193d4b5f98d3044827b2b8e8fc7e6c94ae97830b2f298dd551dd47362256e
-Section: Terminal_Support
-Priority: optional
-Description: terminal multiplexer with instant terminal sharing
-
-Package: tmate
-Version: 2.3.1-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1392
@@ -12346,22 +9269,6 @@ Size: 176338
 MD5sum: cf198bad9606cdc073d136f79d60bda1
 SHA1: f4dca2322e728da3879eb75a287f714c18974889
 SHA256: 9cae6d1574c9426af36bd1b6bc9176e887cf452ba1d143d93d3fb9561bdb2ae6
-Section: Terminal_Support
-Priority: important
-Description: multiplexes a terminal into many
-
-Package: tmux
-Version: 2.8-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1104
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libevent, ncurses
-Filename: ./debs/tmux_2.8-1_appletvos-arm64.deb
-Size: 183490
-MD5sum: ed0720950973a197352ae69ac533a985
-SHA1: ba91d462fae5886b25ea32fe68ba779997e6c29d
-SHA256: e4708e6e27ac974960e46ddff6e68dd8a8649a00f08152308b706595d5446c9d
 Section: Terminal_Support
 Priority: important
 Description: multiplexes a terminal into many
@@ -12614,22 +9521,6 @@ Name: UIKit Tools
 
 Package: unrar
 Version: 5.6.4-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 744
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/unrar_5.6.4-1_appletvos-arm64.deb
-Size: 126686
-MD5sum: 8630dc32b2f89ef2ea8275212d8f67e0
-SHA1: a077f95665ed57a3f8b460a49687136d83708fb2
-SHA256: 18b95a2124d1268cffd5afa5dab46b44bb2329b231bff52582a23fe622305d07
-Section: Archiving
-Priority: optional
-Homepage: http://www.rarlab.com/rar_add.htm
-Description: de-compresses files in rar format
-
-Package: unrar
-Version: 5.6.4-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 736
@@ -12656,21 +9547,6 @@ Size: 90080
 MD5sum: fca80390d55d277b0ae61a41e49cebba
 SHA1: 6264d60ed6a6d4d9c1cabe793985f2d1a2133f7d
 SHA256: 85a5123d049c5b1e1205105bc569dbd5ce679f3e8f058b30a0ce56635fb1c8ca
-Section: Archiving
-Priority: important
-Description: de-compesses files in zip format
-
-Package: unzip
-Version: 6.0+deb9u1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 816
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/unzip_6.0+deb9u1-1_appletvos-arm64.deb
-Size: 90754
-MD5sum: ae3cdddf02201f41bc22e0f28ccbaeae
-SHA1: 09af9fe245d6a473779bff361514ed94159be595
-SHA256: 012e5d1fb76315dddd3c1d83d578339179c18722157d2547e73445cc5eed0d37
 Section: Archiving
 Priority: important
 Description: de-compesses files in zip format
@@ -12705,22 +9581,6 @@ Section: Archiving
 Priority: important
 Multi-Arch: foreign
 Description: de-compesses files in zip format
-
-Package: uuid
-Version: 1.6.2-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 376
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/uuid_1.6.2-1_appletvos-arm64.deb
-Size: 25472
-MD5sum: 733a9bd2284002764da6c991208fba20
-SHA1: 817130dc0ef982764c485c50f597ec35329c5151
-SHA256: 78920cff2fdfdc5d4241a27b14d2ac0bb1440d805fec3f034590fc7ab08d65ea
-Section: System
-Priority: important
-Description: universally unique identifiers
-Name: UUID Generator
 
 Package: uuid
 Version: 1.6.2-1
@@ -12802,23 +9662,6 @@ Size: 5848350
 MD5sum: 04661c7c8f8efc86e4d31f2479b4e7b2
 SHA1: d11eb29a9c7dd412202d084e4010d78211b0e289
 SHA256: 70c2d051f054c8e2498097b717eceb00f0b2beeef4e4d294049fc485450caac9
-Section: Text_Editors
-Priority: standard
-Description: the best syntax highlighter, ever
-Name: Vi IMproved
-
-Package: vim
-Version: 8.1.1948-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 60448
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses
-Filename: ./debs/vim_8.1.1948-1_appletvos-arm64.deb
-Size: 5899964
-MD5sum: 6deda0b47dfd3bf7bf098eb6347b6276
-SHA1: 1dbfd63de6a675dd8fcbc5e3f10e4caaa0a94bef
-SHA256: 8b79a9ab4bd652a8664a42dbcf21d58c2d8d437f07d2e57f16326d98135a0f0d
 Section: Text_Editors
 Priority: standard
 Description: the best syntax highlighter, ever
@@ -12913,22 +9756,6 @@ Name: Vorbis
 
 Package: wget
 Version: 1.19.5-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1112
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: gettext, libssl1.0
-Filename: ./debs/wget_1.19.5-1_appletvos-arm64.deb
-Size: 206976
-MD5sum: f3a0734e55cda231fef48c686ad1b0b3
-SHA1: 8cc8a6bcaeba8b5f5a9df0f098d94d3262b1bc5b
-SHA256: 2a0d993785c5492ae6fb96ca23a56bd68504d68ca8fca718582305cc8794a209
-Section: Networking
-Priority: important
-Description: simple HTTP file transfer client
-
-Package: wget
-Version: 1.19.5-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 1104
@@ -12939,22 +9766,6 @@ Size: 195560
 MD5sum: cfc8cfcbbecb194ef4665900252dbb17
 SHA1: e97c3388e4fd5dcdd3f2cd6256b4d9758f4b5158
 SHA256: 86a275284900fd6aa54318cc9465c0b71e98f941b89cfa1da33f66aa193cb33e
-Section: Networking
-Priority: important
-Description: simple HTTP file transfer client
-
-Package: wget
-Version: 1.19.5-1
-Architecture: watchos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1008
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: gettext, libssl1.0
-Filename: ./debs/wget_1.19.5-1_watchos-arm.deb
-Size: 222042
-MD5sum: 3f3bc57a150f2880d8a94d69dce86310
-SHA1: 13456e985cacc16f9562fa547942cfea588cb838
-SHA256: 3300b1917da8a624e215bbc5671def5960f130b2bdfc0230db9465f1ed664a8e
 Section: Networking
 Priority: important
 Description: simple HTTP file transfer client
@@ -13038,24 +9849,6 @@ SHA256: 3022f07f1c62e79ccd3ef3256c300e6b20b78ad960433187feb64aa65a72fc74
 Section: Multimedia
 Priority: optional
 Description: video encoder for the H.265/HEV standard
-
-Package: xar
-Version: 1.6.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 512
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: libssl1.0, libxml2
-Filename: ./debs/xar_1.6.1-1_appletvos-arm64.deb
-Size: 56854
-MD5sum: 0181252f137f981c0c17fdda6d084827
-SHA1: 5b20d78f02436d0e3bfcf79903156ddbe0881ca2
-SHA256: 22c6bf4e06071b97d6a2201b067c417336410cc63a181797395399147120ce40
-Section: Archiving
-Priority: optional
-Homepage: http://code.google.com/p/xar/
-Description: easily extensible archive format
-Name: XAR
 
 Package: xar
 Version: 1.6.1-1
@@ -13267,61 +10060,19 @@ Description: X transport abstraction library
 
 Package: xz
 Version: 5.2.4-1
-Architecture: appletvos-arm64
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1176
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: lzma (>=1:0)
-Conflicts: xz-utils, com.mc.xz
-Provides: xz-utils
-Filename: ./debs/xz_5.2.4-1_appletvos-arm64.deb
-Size: 130058
-MD5sum: bd3a2b91d65ac4332063f0fdf6aca25d
-SHA1: 59d747482f205aea1e80eeb799f7d29bc46ef4e9
-SHA256: bbe76a18044e3fbf69fbe5a9bab800013f889b18b1959922620eb0a7770e4c1f
-Section: Archiving
-Priority: required
-Homepage: http://tukaani.org/lzma/
-Description: slower, but better, compression algorithm
-Name: XZ Utils
-
-Package: xz
-Version: 5.2.4-1
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1104
+Installed-Size: 1176
 Depends: lzma (=4.32.7-5)
 Conflicts: xz-utils
 Provides: xz-utils
 Filename: ./debs/xz_5.2.4-1_iphoneos-arm.deb
-Size: 152646
-MD5sum: 3069ffa85194f92f7f7024f7c3ee9b5b
-SHA1: aa974cb7054375f3ae7b520cdd1a7aec5da9120c
-SHA256: c02b911533a0b645a74ab4a5356e06c5479bc3faa9d092f85c5ad5454007da17
+Size: 150144
+MD5sum: 05d1f830631f7dc8ad043d14ba93ee9c
+SHA1: 187c96254290d60dff96527af0db9e3d75b281bf
+SHA256: bf4c619e65dfaee7756a55d9d5cf93cc9a9b17b507c495b973da8560919f59f0
 Section: Archiving
 Priority: important
-Homepage: http://tukaani.org/lzma/
-Description: slower, but better, compression algorithm
-Name: XZ Utils
-
-Package: xz
-Version: 5.2.4-1
-Architecture: watchos-arm
-Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 1096
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: lzma (>=1:0)
-Conflicts: xz-utils, com.mc.xz
-Provides: xz-utils
-Filename: ./debs/xz_5.2.4-1_watchos-arm.deb
-Size: 138306
-MD5sum: 95c8a93d535b9db1f4557411ad4e862e
-SHA1: 706b61021310967de7a7f3df1c5d5a003b3624b6
-SHA256: 79afcedf0383d676ee9b2f9978e2061247e4a954ada5f1fb6c8a9369b2fbc229
-Section: Archiving
-Priority: required
 Homepage: http://tukaani.org/lzma/
 Description: slower, but better, compression algorithm
 Name: XZ Utils
@@ -13401,23 +10152,6 @@ Section: Archiving
 Priority: important
 Multi-Arch: foreign
 Description: standard Windows compression tool
-
-Package: zsh
-Version: 5.7.1-1
-Architecture: appletvos-arm64
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 19328
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, dpkg (>= 1.18.25-10)
-Filename: ./debs/zsh_5.7.1-1_appletvos-arm64.deb
-Size: 1446564
-MD5sum: 24453f6c61bde95d201f583633698a31
-SHA1: ff9ad720a7ad81bd94878206b995a7fa4afe4051
-SHA256: e5fdaf7ca61b2bf02ed6fc03911f0999c985e0db8feb74bd9eba93d12c5f2e52
-Section: Terminal_Support
-Priority: optional
-Description: a shell with interactive features
-Name: Z Shell
 
 Package: zsh
 Version: 5.7.1-1

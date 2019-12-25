@@ -4,5 +4,6 @@ dpkg-scanpackages -m ./debs > Packages
 rm -r -f /Users/hiphop/Desktop/repo/checkrain/Packages.bz2
 bzip2 Packages
 dpkg-scanpackages -m ./debs > Packages
+rm -r -f /Users/hiphop/Desktop/repo/checkrain/Packages.xz
 xz Packages
 dpkg-scanpackages -m ./debs > Packages

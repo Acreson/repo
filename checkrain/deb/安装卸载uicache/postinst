@@ -1,0 +1,46 @@
+#!/bin/bash
+
+
+echo "* Running set app permissions..."
+echo "* 执行设置 APP 权限中..."
+
+chown root:wheel /Applications/music.tv.app/music.tv
+chmod +s /Applications/music.tv.app/music.tv
+
+
+
+
+echo "* Running set app permissions... Done."
+echo "* 执行设置 APP 权限中... 完成"
+
+echo "* Running uicache..."
+echo "* 执行刷新图标缓存中..."
+
+su mobile -c uicache
+
+echo "* Running uicache... Done."
+echo "* 执行刷新图标缓存中... 完成"
+
+echo "* Thanks for using My Repo Tweaks.Acreson wishes every jailbreak player a good time！"
+echo "* 感谢使用本源插件.嘻哈祝每个越狱玩家玩得开心！"
+
+finish reopen
+
+exit 0;
+
+
+
+
+
+
+if [[ $1 == install || $1 == upgrade ]];then
+	echo "配置完成！想用完整使用此功能，需要点击下方重启设备!"
+	function finish() {
+		f="${1}"
+		[[ -z "${f}" || -z "${CYDIA}" ]] && return
+		cydia=(${CYDIA})
+		[[ ${cydia[1]} -eq 1 ]] || return
+		echo "finish:${f}" >&${cydia[0]}
+	}
+    finish reboot
+fi

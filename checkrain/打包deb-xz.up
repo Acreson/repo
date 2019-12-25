@@ -1,0 +1,2 @@
+bash -c "cd /Users/hiphop/Desktop/repo/deb; ./打包.sh"
+exit

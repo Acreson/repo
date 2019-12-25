@@ -1,0 +1,86 @@
+
+
+
+
+Section: Acreson-工具(Utilities)
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+
+
+
+
+Section: Acreson-增强(Enhance)
+Icon: file:///Applications/Cydia.app/Sections/Wallpaper.png
+
+
+
+
+
+Section: Acreson-插件(Tweaks)
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+
+
+
+
+Section: Acreson-美化(Beautify)
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+
+
+
+
+
+Section: Acreson-定位(Localization)
+Icon: file:///Applications/Cydia.app/Sections/Localization.png
+
+
+
+
+
+Section: Acreson-安装包(Packages)
+Icon: file:///Applications/Cydia.app/Sections/Packaging.png
+
+
+Section: Acreson-网络(Networking)
+Icon: file:///Applications/Cydia.app/Sections/Networking.png
+
+
+Section: Acreson-存档(Archiving)
+Icon: file:///Applications/Cydia.app/Sections/Archiving.png
+
+
+Section: Acreson-主题(Themes)
+Icon: file:///Applications/Cydia.app/Sections/Themes.png
+
+
+Section: Acreson-开发(Development)
+Icon: file:///Applications/Cydia.app/Sections/Development.png
+
+
+Section: Acreson-系统(System)
+Icon: file:///Applications/Cydia.app/Sections/System.png
+
+
+Section: Acreson-游戏(Games)
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+
+
+Section: Acreson-模拟器(Simulators)
+Icon: file:///Applications/Cydia.app/Sections/Games.png
+
+
+Section: Acreson-玩具(Toys)
+Icon: file:///Applications/Cydia.app/Sections/Toys.png
+
+
+Section: Acreson-修改器(Modifiers)
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+
+
+Section: Acreson-依赖(Depends)
+Icon: file:///Applications/Cydia.app/Sections/Addons.png
+
+Section: Acreson-键盘(Keyboards)
+Icon: file:///Applications/Cydia.app/Sections/Keyboards.png
+
+Section: Acreson-软件(Applications)
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png

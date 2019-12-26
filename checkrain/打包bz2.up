@@ -1,2 +1,0 @@
-bash -c "cd /Users/hiphop/Desktop/repo; bzip2 -k filename ./packages"
-exit

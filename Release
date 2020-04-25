@@ -1,8 +1,8 @@
-Origin: Acreson's Repo - International
-Label:Acreson's Repo - International
+Origin: Acreson's Repo(Standby)
+Label:Acreson's Repo(Standby)
 Suite: stable
-Version: 1.2
+Version: 1.0
 Codename: Acreson
 Architecture: iphoneos-arm
 Components: main
-Description: 个人源。只存放一些必要的插件，佛系更新。佛系承接udid定制签名更新。Personal source. Only store some necessary plugins, Buddha update. Buddha is to undertake udid custom signature update.
+Description: 备用源

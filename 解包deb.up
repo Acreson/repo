@@ -1,3 +1,5 @@
+
 bash -c "cd /Users/hiphop/Desktop/repo/deb; ./解包.sh"
+bash -c "chmod -R 0755 ./deb"
 exit
 

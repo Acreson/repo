@@ -1,0 +1,162 @@
+Package: acreson.cj.GameLogin
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: Mao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/acreson.cj.gamelogin_0.1-1_iphoneos-arm.deb
+Size: 30448
+MD5sum: 4463d89dc15367c91ac84ddf17ede6ff
+SHA1: d947619fa56088ca100cd97764f5b39bf6638639
+SHA256: 5d5938788e3b7e6a0bd0c21ccbfb98c639498a5953cbe655c252848c02522f43
+Section: Acreson-插件(Tweaks)
+Priority: optional
+Description: 微信扫码游戏登录
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Acreson-插件(Tweaks).png
+Name: WeChat GameLogin「腾讯游戏扫码登录」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: acreson.cj.realcc
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Installed-Size: 102
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/acreson.cj.realcc_1.0.2_iphoneos-arm.deb
+Size: 6642
+MD5sum: 45ff3aa74480f911084ed3b25adbec47
+SHA1: 50b9ab81bae24cac8a8dbdea5b50eb58f955305f
+SHA256: c2383fcf03fc4f3d67bdeab3a5f5b89e3d6a749847421a763f103f29ee8a195c
+Section: Acreson-插件(Tweaks)
+Description: 在ios11+ 控制中心中禁用Wi-Fi/蓝牙
+Author: Jake James <jakeashacks@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: RealCC「真实关闭蓝牙/WIF等」
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: acreson.cj.sugarcane11
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/acreson.cj.sugarcane11_1.0.0_iphoneos-arm.deb
+Size: 7562
+MD5sum: 189cb5b61b67d8cdba254f115f500f5e
+SHA1: 93c9262ddc41627a9184ec8aec2f1b24ac7c2093
+SHA256: 5324cc9a012fb90a68e552c5f9a0b1eb377da7e4ca7c93a0bd757c0c2512ee65
+Section: Acreson-插件(Tweaks)
+Description: 在iOS 11的控制中心获取音量/亮度的百分比
+Author: iOS Creatix
+Icon: file:///Applications/Cydia.app/Sections/Acreson-插件(Tweaks).png
+Name: SugarCane11「音量亮度百分比」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: acreson.game.chaojishiju4
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Smoking & Acreson
+Depends: mobilesubstrate
+Filename: ./debs/acreson.game.chaojishiju4_1.4_iphoneos-arm.deb
+Size: 442570
+MD5sum: cce351c6facff9c1363de48e9a422f77
+SHA1: 5bc9a076d2c323a0c782ca4c887359e0e59dc49a
+SHA256: 30d3f81fa7fb0a81a7c36d9a413f3d5ae2086c568c0c683031abbfb04c9f8e4b
+Section: Acreson-游戏(Games)
+Description: 使用前确保做好游戏的屏蔽越狱！解锁功能：①4倍视距
+Author: Smoking & Acreson
+Icon: file:///Applications/Cydia.app/Sections/Acreson-游戏(Games).png
+Name: Honor of Kings Stadia 4X(Official + Best)「外挂」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: acreson.tool.ithemer
+Version: 2.0.0-2
+Architecture: iphoneos-arm
+Maintainer: DODGraphics <dodgraphics.1010@gmail.com>
+Installed-Size: 1852
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Filename: ./debs/acreson.tool.ithemer_2.0.0-2_iphoneos-arm.deb
+Size: 331084
+MD5sum: 4535dc0003f7f876eacefac96a852e4d
+SHA1: 4c573e7c0bd54f5beb42202b5515bc416e50ce73
+SHA256: d29d1eef7d61d94fb04a8a521edc96e13443fc61ae35896df4e466894f19be18
+Section: Acreson-工具(Utilities)
+Description: 主题工具，设置中调整
+Author: DODGraphics <dodgraphics.1010@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-工具(Unilities).png
+Name: iThemer「主题工具」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: acreson.zt.MOGUmelodySe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zt.mogumelodyse_1.0_iphoneos-arm.deb
+Size: 16049168
+MD5sum: eff744bc03aa1ead4eaf69997260aaf6
+SHA1: ab86e81bc1ae750fffe6bc009049c9e6f502630f
+SHA256: a7ebd172ec83910c4b3ee8f6c6def8d503a6e4d9a5ff7b1e0d47c3ac881eca5d
+Section: Acreson-主题(Themes)
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: file:///Applications/Cydia.app/Sections/Acreson-主题(Themes).png
+Name: 小蘑菇的melody「微信主题」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: acreson.zt.VenomChat1Se
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zt.venomchat1se_1.0_iphoneos-arm.deb
+Size: 4028762
+MD5sum: 2b2c10786c9e927946be44b154400c67
+SHA1: 892d639868a7ef12654f3da43a90ab7d55761626
+SHA256: c7f4d12b00cac7eb3eb6f198bca064a152258b2f0c368e58ae9138d3fd41300f
+Section: Acreson-主题(Themes)
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」。 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: file:///Applications/Cydia.app/Sections/Acreson-主题(Themes).png
+Name: Venom-气泡1「微信主题」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: acreson.zt.vinylVxThemeSe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 苏兔
+Installed-Size: 352
+Depends: mobilesubstrate
+Filename: ./debs/acreson.zt.vinylvxthemese_1.0_iphoneos-arm.deb
+Size: 1088458
+MD5sum: 7e36d48c5989310f7f71b0d5071a5d22
+SHA1: 18e3d279a2198d6a861b152291d804c064077b91
+SHA256: 57d7226244d3ef0eba1d892ce484498bbef9a0960de49fa6085b3e0e1b82a5a2
+Section: Acreson-主题(Themes)
+Description: 该直装包需配合sutuplus最新版本使用「当前脚本主题放置在/Library/CarbyTheme/里」 主题兼容微信6.x至最新版本。完成主题deb的安装后，需进入微信-设置-苏兔PLUS-我的主题，选择应用此主题即可。Tips：更多免费资源请关注我的微信公众号：苏兔(或搜索Bysutu)
+Author: 公众号：苏兔（bysutu）
+Icon: file:///Applications/Cydia.app/Sections/Acreson-主题(Themes).png
+Name: Vinyl「微信主题」
+Sponsor: Acreson <342080124@qq.com>
+
+Package: acreson.zt.viola
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: Acreson <342080124@qq.com>
+Filename: ./debs/acreson.zt.viola_1.8.2_iphoneos-arm.deb
+Size: 35611012
+MD5sum: e56c5637d3f02f31fa5da41e42d52b43
+SHA1: 99b5a249c24d7c95c4de1af6068c3cfd8d875269
+SHA256: 3e4e59dfe3c2f9746a7be9f6e4a9aa8bbc4d0c411ae8b32891700e0d93807d45
+Section: Acreson-主题(Themes)
+Description: Viola 主题 ，个人正在使用
+Author: Acreson <342080124@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Acreson-增强(Enhance).png
+Name: Viola「主题」
+Sponsor: Acreson <http://crazyc.top>
+
